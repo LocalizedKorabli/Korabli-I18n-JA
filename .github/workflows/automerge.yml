@@ -15,11 +15,13 @@ jobs:
       actions: write
 
     steps:
-      - name: Search and Merge PRs with Label
+      - name: Search and Merge PRs with Label and Permissions
         uses: actions/github-script@v7
         with:
           script: |
-            const LABEL_NAME = 'auto-merge'; // The label you will use on your PRs
+            const LABEL_NAME = 'auto-merge';
+            // Define allowed roles (e.g., 'OWNER', 'COLLABORATOR', 'MEMBER')
+            const ALLOWED_ROLES = ['OWNER', 'COLLABORATOR']; 
 
             try {
               // 1. Fetch all open pull requests
@@ -28,43 +30,47 @@ jobs:
                 repo: context.repo.repo,
                 state: 'open',
                 sort: 'created',
-                direction: 'asc' // Process from oldest to newest
+                direction: 'asc'
               });
 
-              // Filter PRs that have the 'auto-merge' label
-              const targetPRs = pullRequests.filter(pr => 
-                pr.labels.some(label => label.name === LABEL_NAME)
-              );
+              // Filter PRs by label AND author's permission level
+              const targetPRs = pullRequests.filter(pr => {
+                const hasLabel = pr.labels.some(label => label.name === LABEL_NAME);
+                const hasPermission = ALLOWED_ROLES.includes(pr.author_association);
+                
+                if (hasLabel && !hasPermission) {
+                  console.log(`Skipping PR #${pr.number}: Author "${pr.user.login}" (${pr.author_association}) does not have required permissions.`);
+                }
+                
+                return hasLabel && hasPermission;
+              });
 
               if (targetPRs.length === 0) {
-                console.log(`No PRs found with label: "${LABEL_NAME}".`);
+                console.log(`No authorized PRs found with label: "${LABEL_NAME}".`);
               } else {
                 for (const pr of targetPRs) {
-                  console.log(`Merging PR #${pr.number}: ${pr.title}`);
+                  console.log(`Merging authorized PR #${pr.number} from ${pr.user.login}...`);
                   
                   // 2. Execute the merge
                   await github.rest.pulls.merge({
                     owner: context.repo.owner,
                     repo: context.repo.repo,
                     pull_number: pr.number,
-                    merge_method: 'merge' // Options: 'merge', 'squash', or 'rebase'
+                    merge_method: 'merge'
                   });
                   
                   console.log(`Successfully merged PR #${pr.number}.`);
                 }
               }
 
-              // 3. Self-Disable: Deactivate this workflow to save Actions quota
-              // Ensure the workflow_id matches this filename exactly
+              // 3. Self-Disable to save Actions quota
               await github.rest.actions.disableWorkflow({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 workflow_id: 'label-auto-merge.yml'
               });
-              console.log("Workflow has been automatically disabled to save minutes.");
+              console.log("Workflow has been automatically disabled.");
 
             } catch (error) {
-              console.error(`An error occurred during execution: ${error.message}`);
-              // Note: Workflow is not disabled here if an error occurs, 
-              // allowing it to retry tomorrow or after manual fix.
+              console.error(`An error occurred: ${error.message}`);
             }
