@@ -1,0 +1,70 @@
+name: Label-Based Auto Merge & Self-Disable
+
+on:
+  schedule:
+    # Trigger at 01:50 UTC (04:50 MSK) daily
+    - cron: '50 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  merge-by-label:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+      actions: write
+
+    steps:
+      - name: Search and Merge PRs with Label
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const LABEL_NAME = 'auto-merge'; // The label you will use on your PRs
+
+            try {
+              // 1. Fetch all open pull requests
+              const { data: pullRequests } = await github.rest.pulls.list({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                sort: 'created',
+                direction: 'asc' // Process from oldest to newest
+              });
+
+              // Filter PRs that have the 'auto-merge' label
+              const targetPRs = pullRequests.filter(pr => 
+                pr.labels.some(label => label.name === LABEL_NAME)
+              );
+
+              if (targetPRs.length === 0) {
+                console.log(`No PRs found with label: "${LABEL_NAME}".`);
+              } else {
+                for (const pr of targetPRs) {
+                  console.log(`Merging PR #${pr.number}: ${pr.title}`);
+                  
+                  // 2. Execute the merge
+                  await github.rest.pulls.merge({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    pull_number: pr.number,
+                    merge_method: 'merge' // Options: 'merge', 'squash', or 'rebase'
+                  });
+                  
+                  console.log(`Successfully merged PR #${pr.number}.`);
+                }
+              }
+
+              // 3. Self-Disable: Deactivate this workflow to save Actions quota
+              // Ensure the workflow_id matches this filename exactly
+              await github.rest.actions.disableWorkflow({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                workflow_id: 'label-auto-merge.yml'
+              });
+              console.log("Workflow has been automatically disabled to save minutes.");
+
+            } catch (error) {
+              console.error(`An error occurred during execution: ${error.message}`);
+              // Note: Workflow is not disabled here if an error occurs, 
+              // allowing it to retry tomorrow or after manual fix.
+            }
