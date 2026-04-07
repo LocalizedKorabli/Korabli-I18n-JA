@@ -1,4 +1,4 @@
-name: Label-Based Auto Merge & Self-Disable
+name: Auto Merge
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
           script: |
             const LABEL_NAME = 'auto-merge';
             // Define allowed roles (e.g., 'OWNER', 'COLLABORATOR', 'MEMBER')
-            const ALLOWED_ROLES = ['OWNER', 'COLLABORATOR']; 
+            const ALLOWED_ROLES = ['OWNER', 'COLLABORATOR', 'MEMBER']; 
 
             try {
               // 1. Fetch all open pull requests
