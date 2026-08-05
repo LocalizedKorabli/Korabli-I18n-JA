@@ -1014,6 +1014,12 @@ msgstr "主砲命中率"
 msgid "IDS_ACCURACY_MAIN_TOOLTIP"
 msgstr "主砲弾命中率"
 
+msgid "IDS_ACCURACY_SECONDARY"
+msgstr "中口径砲命中率"
+
+msgid "IDS_ACCURACY_SECONDARY_TOOLTIP"
+msgstr "中口径砲弾命中率"
+
 msgid "IDS_ACCURACY_TORPEDO"
 msgstr "魚雷の命中率"
 
@@ -2250,6 +2256,9 @@ msgstr "オンラインイベント「EAT PLAY TALK」に積極的に参加す�
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EPT_2022"
 msgstr "オンラインイベント「EAT PLAY TALK」に積極的に参加する。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ETERIA"
+msgstr "「エーテリアの守護者・氷と蒸気」のすべてのストーリー章をクリアする。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_ALLROUNDER"
 msgstr "銀河間ゲームズでの勝利に対して。"
 
@@ -3240,6 +3249,9 @@ msgstr "EAT PLAY TALK 2021"
 
 msgid "IDS_ACHIEVEMENT_EPT_2022"
 msgstr "EAT PLAY TALK 2022"
+
+msgid "IDS_ACHIEVEMENT_ETERIA"
+msgstr "エーテリアの守護者"
 
 msgid "IDS_ACHIEVEMENT_EV1APR19_ALLROUNDER"
 msgstr "星に祭られしオリンピア人"
@@ -5537,11 +5549,29 @@ msgstr " "
 msgid "IDS_AMMUNITION"
 msgstr "弾薬"
 
+msgid "IDS_AMMUNITION_AIR_SUPPORT"
+msgstr "空襲"
+
 msgid "IDS_AMMUNITION_AND_CONSUMABLES"
 msgstr "弾薬 & 消耗品"
 
+msgid "IDS_AMMUNITION_ARTILLERY"
+msgstr "主砲"
+
+msgid "IDS_AMMUNITION_MANUALAIRDEFENSE"
+msgstr "対空兵装"
+
+msgid "IDS_AMMUNITION_OF_SQUADRON"
+msgstr "飛行中隊の弾薬"
+
 msgid "IDS_AMMUNITION_RECHARGE"
 msgstr "弾薬の補給:"
+
+msgid "IDS_AMMUNITION_SECONDARYARTILLERY"
+msgstr "中口径砲"
+
+msgid "IDS_AMMUNITION_TORPEDO"
+msgstr "雷装"
 
 msgid "IDS_AND"
 msgstr "および"
@@ -6273,6 +6303,12 @@ msgstr "艦長を配属または採用"
 msgid "IDS_ASSIGN_PRIMARY"
 msgstr "メイン艦艇に設定"
 
+msgid "IDS_ASSISTANT_HINT"
+msgstr "あなたが撃沈に貢献した艦艇の数"
+
+msgid "IDS_ASSISTANT_RESULT_SCREEN"
+msgstr "あなたの貢献により撃沈された艦艇"
+
 msgid "IDS_ASSISTED_DAMAGE_BY_SCOUT_HINT"
 msgstr "あなたの着弾観測機を使って"
 
@@ -6300,6 +6336,12 @@ msgstr "チームダメージ"
 msgid "IDS_ASSIST_DAMAGE_AVERAGE_TOOLTIP"
 msgstr "あなたがアシストした平均ダメージ量"
 
+msgid "IDS_ASSIST_DAMAGE_KILLS"
+msgstr "ダメージ貢献数"
+
+msgid "IDS_ASSIST_DAMAGE_KILLS_TOOLTIP"
+msgstr "ダメージを与えることで撃沈に貢献した敵艦艇の総数"
+
 msgid "IDS_ASSIST_DAMAGE_MAX"
 msgstr "チームダメージ"
 
@@ -6308,6 +6350,30 @@ msgstr "あなたが与えたダメージの最大量"
 
 msgid "IDS_ASSIST_DAMAGE_TOOLTIP"
 msgstr "あなたが与えた総ダメージ量"
+
+msgid "IDS_ASSIST_KILLS"
+msgstr "あなたの貢献で撃沈された艦艇"
+
+msgid "IDS_ASSIST_KILLS_AVERAGE"
+msgstr "あなたの貢献により撃沈された艦艇"
+
+msgid "IDS_ASSIST_KILLS_AVERAGE_TOOLTIP"
+msgstr "敵艦撃沈に貢献した平均隻数"
+
+msgid "IDS_ASSIST_KILLS_MAX"
+msgstr "あなたの貢献により撃沈された艦艇"
+
+msgid "IDS_ASSIST_KILLS_MAX_TOOLTIP"
+msgstr "敵艦の撃沈に貢献した最大数"
+
+msgid "IDS_ASSIST_KILLS_TOOLTIP"
+msgstr "撃沈に貢献した敵艦艇の総数"
+
+msgid "IDS_ASSIST_SPOT_KILLS"
+msgstr "観測貢献数"
+
+msgid "IDS_ASSIST_SPOT_KILLS_TOOLTIP"
+msgstr "観測により撃沈に貢献した敵艦艇の総数"
 
 msgid "IDS_ASTRA_DOG"
 msgstr "Astra"
@@ -6352,6 +6418,9 @@ msgstr "注意!"
 
 msgid "IDS_AUBOYNEAU"
 msgstr "Philippe Auboyneau"
+
+msgid "IDS_AUBOYNEAU_DESC"
+msgstr "<p>フィリップ・オブアノ (1899–1961) はフランスの海軍軍人で、1957 年より海軍大将である。</p><p class=\"p_spacing\"></p><p>1917 年から海軍に勤務し、第二次世界大戦の開戦まで極東におけるフランス海軍の指揮官および参謀の職を歴任した。1940 年のフランス敗北後、ド・ゴール将軍の「自由フランス」運動に加わり、駆逐艦ル・トリオンファンの艦長に任命され、太平洋で日本艦隊との戦闘に参加した。1942 年からオブアノは「自由フランス」の全海軍部隊を指揮し、海軍少将に昇進した。1944 年、南フランスにおける連合軍上陸の際に、自ら巡洋艦戦隊を指揮した。1945 年には極東のフランス海軍を統括し、海軍中将の階級を授与された。戦後は海軍総監の職に就き、1952 年から 1960 年にかけてインドシナおよびアルジェリアの戦域で艦隊を指揮した。その後、いくつかの高官職を歴任した。</p>"
 
 msgid "IDS_AUC1"
 msgstr "Theodor \"Trouble\" Murphy"
@@ -7597,7 +7666,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_REWARDS_MULTIPLE_ALL"
 msgstr "すべての褒賞を獲得できます:"
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_REWARDS_MULTIPLE_CHOICE"
-msgstr "提供された褒賞の中から、報酬を選ぶことができます："
+msgstr "提供された褒賞の中から、報酬を選ぶことができます:"
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_REWARDS_SINGLE"
 msgstr "すべてのシングル褒賞を獲得します。"
@@ -8208,6 +8277,21 @@ msgstr "味方による煙幕カバー下でのダメージ"
 msgid "IDS_BATTLE_STATS_ASSIST_DAMAGE_HINT"
 msgstr "あなたが与えた総ダメージ量"
 
+msgid "IDS_BATTLE_STATS_ASSIST_HINT"
+msgstr "あなたはこの艦艇の撃沈に貢献した"
+
+msgid "IDS_BATTLE_STATS_ASSIST_KILL_BY_DAMAGE"
+msgstr "ダメージ貢献数"
+
+msgid "IDS_BATTLE_STATS_ASSIST_KILL_BY_DAMAGE_HINT"
+msgstr "ダメージを与えることで撃沈に貢献した艦艇の数"
+
+msgid "IDS_BATTLE_STATS_ASSIST_KILL_BY_SPOT"
+msgstr "観測貢献数"
+
+msgid "IDS_BATTLE_STATS_ASSIST_KILL_BY_SPOT_HINT"
+msgstr "観測により撃沈に貢献した艦艇の数"
+
 msgid "IDS_BATTLE_STATS_ATBA_AMMO0"
 msgstr "第 1 砲弾タイプ"
 
@@ -8372,6 +8456,9 @@ msgstr "ミサイルによって撃沈された"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_3"
 msgstr "魚雷によって撃沈された"
+
+msgid "IDS_BATTLE_STATS_DAMAGED_BY_30"
+msgstr "中口径砲によって破壊された"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_4"
 msgstr "爆弾によって撃沈された"
@@ -9019,7 +9106,7 @@ msgid "IDS_BATTLE_TASK_TEXT_OP_01_02_CONTAINMENT"
 msgstr "敵の援軍による港への進入を阻止せよ"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_02_KILL_ALL_AIRCARRIERS"
-msgstr "戦艦 Fury、Dono を撃沈せよ"
+msgstr "戦艦 Karl、Friedrich を撃沈せよ"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_02_KILL_ALL_VESSELS"
 msgstr "敵の支援船を殲滅せよ"
@@ -9560,6 +9647,12 @@ msgstr "飛行甲板"
 msgid "IDS_BOW_INCLIN"
 msgstr "装甲甲板スロープ"
 
+msgid "IDS_BOW_SGBARBETTE"
+msgstr "副砲塔バーベット装甲"
+
+msgid "IDS_BOW_SGTOP"
+msgstr "副砲塔バーベット装甲"
+
 msgid "IDS_BOW_TRANS"
 msgstr "艦首横隔壁"
 
@@ -9767,6 +9860,9 @@ msgstr "TPS を除く"
 msgid "IDS_BUYOUT_AVAILABLE"
 msgstr "「艦艇」購入可能"
 
+msgid "IDS_BUY_AND_SAVE_DOGTAG"
+msgstr "購入して保存する"
+
 msgid "IDS_BUY_COLLECTION_FOR_DUPLICATE"
 msgstr "重複アイテムの交換"
 
@@ -9805,6 +9901,9 @@ msgstr "購入"
 
 msgid "IDS_BYVALYJ"
 msgstr "経験者"
+
+msgid "IDS_BY_ASSISTS"
+msgstr "あなたの貢献により撃沈された艦艇"
 
 msgid "IDS_BY_DESTOYED_PLANES"
 msgstr "敵機撃墜数"
@@ -14797,6 +14896,9 @@ msgstr "銀を使用して艦艇、艦艇モジュール、その他のゲーム
 
 msgid "IDS_CREW"
 msgstr "艦長"
+
+msgid "IDS_CREW_ADDITIONAL_INFO_BUTTON_LABEL"
+msgstr "艦長について"
 
 msgid "IDS_CREW_ALL_SKILLS_BUTTON_UPPER"
 msgstr "全てのスキル"
@@ -20955,6 +21057,9 @@ msgstr "潜水艦の深度を浅くします。"
 msgid "IDS_CUNNINGHAM"
 msgstr "Andrew Cunningham"
 
+msgid "IDS_CUNNINGHAM_DESC"
+msgstr "<p>アンドルー・カニンガム (1883–1963) は、イギリスの海軍軍人で、1943 年から海軍元帥である。</p><p class=\"p_spacing\"> </p><p>1897 年に海軍に入隊した。第一次世界大戦中は駆逐艦の艦長として功績を挙げた。1929 年には戦艦ロドニーの艦長に任命された。1932 年からは提督職を歴任し、第二次世界大戦を海軍中将の階級と地中海艦隊司令長官の地位で迎えた。彼の指揮下で、1940 年のタラント攻撃、1941 年のマタパン岬沖海戦、マルタへのコンボイの護衛、さらに 1942 年の北アフリカ、1943 年のシチリアとイタリアへの連合軍の上陸作戦などが実施された。1943 年 9 月、カニンガムはイタリア海軍の降伏を受諾した。その後、英国海軍本部の第一海務卿に任命され、終戦まで英国海軍の戦略的指揮を執った。1946 年からは退役していた。</p>"
+
 msgid "IDS_CURRENCIES_OPERATION_AFTER"
 msgstr "取引後"
 
@@ -21076,7 +21181,7 @@ msgid "IDS_CURRENCY_EVENTUM_1"
 msgstr "神秘の欠片"
 
 msgid "IDS_CURRENCY_EVENTUM_10"
-msgstr "サマートークン"
+msgstr "夏のトークン"
 
 msgid "IDS_CURRENCY_EVENTUM_10_GET_DESCRIPTION"
 msgstr "アップデート 13.7 期間中に限られた時間内でのイベント戦闘任務を達成すること、および BATTLE PASS のレベルに到達することにより、「毎日褒賞」セクションと武器庫のパックから、アップデート 13.7 終了まで入手できます。"
@@ -21121,16 +21226,16 @@ msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
 msgstr "イベント「アメリカ戦艦」の暫定リソース。アップデート 26.9 のリリース後、トークンは補償なしで消去されます。"
 
 msgid "IDS_CURRENCY_EVENTUM_4"
-msgstr "カラフル・トークン"
+msgstr "均衡トークン"
 
 msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
-msgstr "アップデート 26.5 期間中の戦闘任務達成、または武器庫パック購入により入手可能 (アップデート 26.5 終了まで)。"
+msgstr "アップデート26.8の期間限定イベント進行度レベルクリア報酬、およびアップデート26.8終了まで武器庫のセットから入手可能。"
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "報酬カードの開封に使用可能。対象には、永久迷彩「ネオンインパルス」装備の Tier X 駆逐艦「Lynch CLR」、プレミアムコンテナ「カラフルレガッタ」、並びにその他のアイテムが含まれます (アップデート 26.5 終了まで)。"
+msgstr "アドミラルティ「エーテリア 氷と蒸気」のカテゴリの褒賞には、希少および特別艦長、精鋭および希少艦長アイテム、永久迷彩「蒸気と鋼」と旗を装備したTier IX巡洋艦Danzig、Tier X巡洋艦蔵王用の永久迷彩「セプテットの槍」、その他のアイテムがアプデート26.8の終了まで含まれています。"
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr "イベント「カラフル・レガッタ」の一時リソースです。バージョン 26.6 のアップデート公開後、トークンは補償なく消去されます。"
+msgstr "暫定リソースイベント「エーテリアの守護者 氷と蒸気」。アップデート26.9のリリースに伴い、トークンは補償なしで消却されます。"
 
 msgid "IDS_CURRENCY_EVENTUM_5"
 msgstr "ユトランドトークン"
@@ -21145,16 +21250,16 @@ msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
 msgstr "一時的なリソースです。アップデート 26.7 のリリース後、トークンは補償なしで消去されます。"
 
 msgid "IDS_CURRENCY_EVENTUM_6"
-msgstr "レイダートークン"
+msgstr "夏のトークン"
 
 msgid "IDS_CURRENCY_EVENTUM_6_GET_DESCRIPTION"
-msgstr " "
+msgstr "アップデート26.8の期間中、戦闘任務の達成およびプレミアムショップのセット、アップグレードBATTLE PASSのポスト進行レベル達成、さらにアップデート26.8終了までの武器庫のセットから入手できます。"
 
 msgid "IDS_CURRENCY_EVENTUM_6_SPEND_DESCRIPTION"
-msgstr " "
+msgstr "ランダムセットには、Tier X 巡洋艦海門の永久迷彩「順風滿帆」、Tier IX 戦艦 Bernadotte、プレミアムコンテナ「Tier VIII プレミアム艦艇・コレクターの珍蔵品」および「Lesta Games」、プレミアムコンテナ「ブラックボックス」、さらにアップデート 26.8 終了までのその他のアイテムが含まれます。"
 
 msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
-msgstr " "
+msgstr "イベント「夏のほとりにて」の暫定リソース。アップデート26.9のリリースに伴い、トークンは補償なしで失効します。"
 
 msgid "IDS_CURRENCY_EVENTUM_7"
 msgstr "ドイツ・トークン"
@@ -21249,9 +21354,6 @@ msgstr "入手方法"
 msgid "IDS_CURRENCY_IN_STOCK_COLON"
 msgstr "使用可能:"
 
-msgid "IDS_CURRENCY_LOOTBOXXP"
-msgstr "EXP"
-
 msgid "IDS_CURRENCY_LOOTED"
 msgstr "ゲーム内で取得:"
 
@@ -21322,7 +21424,7 @@ msgid "IDS_CURRENCY_SHIPCOIN10_GET_DESCRIPTION"
 msgstr "イベント参加で入手可能。"
 
 msgid "IDS_CURRENCY_SHIPCOIN10_SPEND_DESCRIPTION"
-msgstr "「技術ツリー」で任意の Tier X 艦艇の研究と購入に使用可能。"
+msgstr "任意の研究可能な Tier X 艦艇を「技術ツリー」で入手するために使用できます。"
 
 msgid "IDS_CURRENCY_SHIPCOIN7"
 msgstr "艦艇発注書 — VII"
@@ -21331,7 +21433,7 @@ msgid "IDS_CURRENCY_SHIPCOIN7_GET_DESCRIPTION"
 msgstr "イベント参加で入手可能。"
 
 msgid "IDS_CURRENCY_SHIPCOIN7_SPEND_DESCRIPTION"
-msgstr "「技術ツリー」で任意の Tier VII 艦艇の研究と購入に使用可能。"
+msgstr "任意の研究可能な Tier VII 艦艇を「技術ツリー」で入手するために使用できます。"
 
 msgid "IDS_CURRENCY_SHIPCOIN8"
 msgstr "艦艇発注書 — VIII"
@@ -21340,7 +21442,7 @@ msgid "IDS_CURRENCY_SHIPCOIN8_GET_DESCRIPTION"
 msgstr "イベント参加で入手可能。"
 
 msgid "IDS_CURRENCY_SHIPCOIN8_SPEND_DESCRIPTION"
-msgstr "「技術ツリー」で任意の Tier VIII 艦艇の研究と購入に使用可能。"
+msgstr "任意の研究可能な Tier VIII 艦艇を「技術ツリー」で入手するために使用できます。"
 
 msgid "IDS_CURRENCY_SHIPCOIN9"
 msgstr "艦艇発注書 — IX"
@@ -21349,7 +21451,7 @@ msgid "IDS_CURRENCY_SHIPCOIN9_GET_DESCRIPTION"
 msgstr "イベント参加で入手可能。"
 
 msgid "IDS_CURRENCY_SHIPCOIN9_SPEND_DESCRIPTION"
-msgstr "「技術ツリー」で任意の Tier IX 艦艇の研究と購入に使用可能。"
+msgstr "任意の研究可能な Tier IX 艦艇を「技術ツリー」で入手するために使用できます。"
 
 msgid "IDS_CURRENCY_SHIPCOIN_GET_DESCRIPTION"
 msgstr "イベント参加で入手可能。"
@@ -21361,7 +21463,7 @@ msgid "IDS_CURRENCY_SHIPCOIN_MOUSE_INSTRUCTION"
 msgstr "艦艇発注書を購入"
 
 msgid "IDS_CURRENCY_SHIPCOIN_SPEND_DESCRIPTION"
-msgstr "「技術ツリー」で対応する Tier の任意の Tier X 艦艇の研究と購入に使用可能。"
+msgstr "任意の研究可能な対応する Tier の艦艇を「技術ツリー」で入手するために使用できます。"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
 msgstr "設計図∣%(_shipName)s"
@@ -21508,7 +21610,7 @@ msgid "IDS_DAILY"
 msgstr "毎日"
 
 msgid "IDS_DAILY_EXTRA_REWARD_WINDOW_DESCRIPTION"
-msgstr "今月の全褒賞を入手済みであり、追加褒賞を入手できます!"
+msgstr "全ての褒賞を獲得しました。毎日更新される追加の褒賞が利用可能になりました！"
 
 msgid "IDS_DAILY_LOOTBOXES"
 msgstr "毎日コンテナ"
@@ -21538,7 +21640,7 @@ msgid "IDS_DAILY_REWARD_TOOLTIP_HEADER"
 msgstr "毎日褒賞"
 
 msgid "IDS_DAILY_REWARD_WINDOW_DESCRIPTION"
-msgstr "ゲームに毎日ログインして褒賞をゲットしましょう!"
+msgstr "「Mir Korabley」に毎日ログインして褒賞を受け取りましょう！"
 
 msgid "IDS_DAILY_TITLE_110"
 msgstr "勝者"
@@ -21924,6 +22026,21 @@ msgstr "アルファテスター"
 msgid "IDS_DECAL_PCED036_NAME"
 msgstr "ベータテスター"
 
+msgid "IDS_DECAL_PCED038_NAME"
+msgstr "アストリリアのために！"
+
+msgid "IDS_DECAL_PCED050_NAME"
+msgstr "ザー・ハーン！"
+
+msgid "IDS_DECAL_PCED051_NAME"
+msgstr "ウィンターガードのために！"
+
+msgid "IDS_DECAL_PCED052_NAME"
+msgstr "暑い夏"
+
+msgid "IDS_DECAL_PCED053_NAME"
+msgstr "レッサーパンダ"
+
 msgid "IDS_DECK"
 msgstr "甲板"
 
@@ -22229,7 +22346,7 @@ msgid "IDS_DESC_PCM027_CONCEALMENTMEASURES_MOD_I"
 msgstr " "
 
 msgid "IDS_DESC_PCM028_FIRECONTROL_MOD_I_US"
-msgstr "主砲と副砲の射程を向上"
+msgstr " "
 
 msgid "IDS_DESC_PCM029_FIRECONTROL_MOD_II_US"
 msgstr " "
@@ -22588,6 +22705,12 @@ msgstr "体当たり"
 msgid "IDS_DESTROYED_BY_RAM_TOOLTIP"
 msgstr "体当たりにより撃沈した敵艦艇の総数"
 
+msgid "IDS_DESTROYED_BY_SG"
+msgstr "中口径砲"
+
+msgid "IDS_DESTROYED_BY_SG_TOOLTIP"
+msgstr "中口径砲により撃破された敵艦艇の総数"
+
 msgid "IDS_DESTROYED_BY_TORPEDOS"
 msgstr "魚雷"
 
@@ -22722,6 +22845,9 @@ msgstr "Klaas Janssen"
 
 msgid "IDS_DE_RUYTER"
 msgstr "Michiel de Ruyter"
+
+msgid "IDS_DE_RUYTER_DESC"
+msgstr "<p>ミヒール・デ・ロイテル (1607–1676) — オランダの海軍司令官であり、国民的英雄である。</p><p class=\"p_spacing\"> </p><p>彼は 11 歳から海に出て、見習い水兵から艦長へと昇進した。第一次英蘭戦争 (1652–1654) の戦闘で功績を挙げ、提督となった。第二次英蘭戦争 (1665–1667) の間、オランダ艦隊の司令官を務め、1666 年には英仏海峡の四日海戦で勝利し、1667 年にはテムズ川河口のチャタムへの襲撃を成功させ、イギリスの造船所と艦隊を破壊した。第三次英蘭戦争（1672–1674）の間、デ・ロイテルは 1672 年のソールベイ海戦 — 帆船時代最大の海戦の一つ — で英仏連合艦隊を撃破し、さらに 1673 年のスホーネフェルト海戦とテセル海戦でも勝利した。1676 年、デ・ロイテルはストロンボリとアゴスタで優勢なフランス戦隊と二度の海戦を事実上引き分けに持ち込んだが、最後の戦いで砲弾を受け致命傷を負った。</p>"
 
 msgid "IDS_DE_SEREBRENNIKOV"
 msgstr "Pyotr Serebrennikov"
@@ -23015,7 +23141,7 @@ msgstr "分艦隊は準備中"
 msgid "IDS_DIVISION_NOT_READY_COMMANDER_INFO"
 msgstr ""
 "準備ができていないプレイヤーは、この戦闘に参加するかどうかを 15 秒以内に決定する必要があります。\n"
-"準備ができていないプレイヤーは戦闘には参加しませんが、分隊には残留します。"
+"準備ができていないプレイヤーは戦闘には参加しませんが、分艦隊には残留します。"
 
 msgid "IDS_DIVISION_READY"
 msgstr "分艦隊の準備完了"
@@ -23039,7 +23165,7 @@ msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_HE"
 msgstr "<p>マークされたエリアに対し HE 爆弾による空爆を実施します。</p><p class=\"p_spacing\"></p><p>HE 爆弾は火災を発生させ、モジュールを機能停止させることができます。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_SCOUT_SCOUT"
-msgstr "選択した味方艦の主砲の射程と命中精度を向上させます。"
+msgstr "選択した味方艦の主砲と中口径砲の射程と命中精度を向上させます。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_SCOUT_SMOKE"
 msgstr "選択したエリアに煙幕を展開します。煙幕は敵による発見の可能性を低減します。"
@@ -23276,13 +23402,13 @@ msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUPERSHIP"
 msgstr "大型装甲目標に対して最も効果的です。機動性の高い艦艇に対して使用した場合、魚雷を回避される可能性が高くなります。"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_DEPTHCHARGE"
-msgstr "爆雷空襲"
+msgstr "爆雷 (DC)"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_FIGHTER_FIGHTER"
 msgstr "迎撃機"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_HE"
-msgstr "HE 爆弾空襲"
+msgstr "通常爆弾 (HE)"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_SCOUT_SCOUT"
 msgstr "随伴着弾観測機"
@@ -23612,7 +23738,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY004_FIGHTER"
 msgstr "艦に追従し、敵機を自動的に迎撃します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY005_SPOTTER"
-msgstr "主砲の射程を延伸します。"
+msgstr "主砲と中口径砲の射程を延伸します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY006_SMOKEGENERATOR"
 msgstr "敵の視界を遮る煙幕を展開します。"
@@ -23651,13 +23777,13 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY012_FIGHTERPREMIUM"
 msgstr "艦に追従し、敵機を自動的に迎撃します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERACCURACY"
-msgstr "<p>主砲の射程を延伸し、射撃精度を高めます。</p><p class=\"p_spacing\"> </p><p>動作時間は短いです。</p>"
+msgstr "<p>主砲と中口径砲の射程を延伸し、射撃精度を高めます。</p><p class=\"p_spacing\"> </p><p>動作時間は短いです。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERPREMIUM"
-msgstr "主砲の射程を延伸します。"
+msgstr "主砲と中口径砲の射程を延伸します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTER_CIRCLE_PREMIUM"
-msgstr "<p>主砲の射程を延伸します。</p><p class=\"p_spacing\"> </p><p>動作時間が短めですが、準備時間も短めです。</p>"
+msgstr "<p>主砲と中口径砲の射程を延伸します。</p><p class=\"p_spacing\"> </p><p>動作時間が短めですが、準備時間も短めです。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY014_SMOKEGENERATORCRAWLER_PREMIUM"
 msgstr "<p>敵の視界を遮る煙幕を展開します。</p><p class=\"p_spacing\"> </p><p>この消耗品の動作時間中、低速で移動しながら姿を隠し続けることができます。</p>"
@@ -23720,7 +23846,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY026_FIGHTERSUPER"
 msgstr "艦に追従し、敵機を自動的に迎撃します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY027_SPOTTERSUPER"
-msgstr "主砲の射程を延伸します。"
+msgstr "主砲と中口径砲の射程を延伸します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY028_SMOKEGENERATORSUPER"
 msgstr "敵の視界を遮る煙幕を展開します。"
@@ -23918,7 +24044,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY301_IMMORTAL_PVP"
 msgstr "<p>被発見距離を半減し、自艦が敵に発見されていない限り、HP を毎秒 100 回復します。</p><p class=\"p_spacing\"> </p><p>味方の残存艦艇数が敵より少ない場合は、HP 回復効率が倍になります。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY302_HEALSHELL_PVP"
-msgstr "<p>自艦が味方に 1 発命中させる毎に、その味方の HP が 1,000 回復し、自艦の HP が 500 回復します。<br>主砲の装填時間が 1/4 に減少します。</p><p class=\"p_spacing\"> </p><p>味方の残存艦艇数が敵より少ない場合は、HP 回復効率が倍になります。</p>"
+msgstr "<p>自艦が味方に 1 発命中させる毎に、その味方の HP が 1,000 回復し、自艦の HP が 500 回復します。<br/>主砲の装填時間が 1/4 に減少します。</p><p class=\"p_spacing\"> </p><p>味方の残存艦艇数が敵より少ない場合は、HP 回復効率が倍になります。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY303_ADDCONSUMABLE_PVP"
 msgstr "半径 5 km 以内の全ての味方艦艇について、各消耗品の使用可能回数が 1 回増加します。"
@@ -24831,17 +24957,35 @@ msgstr "量子攻撃"
 msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
 msgstr "HP 回復"
 
+msgid "IDS_DOCK_FIRE_MODE"
+msgstr "バースト射撃"
+
+msgid "IDS_DOCK_FIRE_MODE_CHARGEABLE"
+msgstr "逐次装填"
+
 msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM"
 msgstr "主砲から複数の斉射を、再装填せずに短い最小間隔で行うことができます。一連の斉射を行う後には長い再装填時間が必要です。"
 
+msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM_CHARGEABLE"
+msgstr "<p>再装填せずに、最小限の間隔で複数の斉射を即座に行うことができます。</p><p class=\"p_spacing\"> </p><p>各斉射の再装填時間は異なる場合があります。各斉射は発射後すぐに再装填を開始します。再装填が完了する前に次の斉射を行うと、再装填はリセットされます。</p>"
+
 msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_SEC"
 msgstr "標準型砲弾とは異なる特性を備えています。"
+
+msgid "IDS_DOCK_FIRE_MODE_SECONDARY_DESCRIPTION_DRUM"
+msgstr "中口径砲から複数の斉射を、再装填せずに短い最小間隔で行うことができます。一連の斉射を行う後には長い再装填時間が必要です。"
+
+msgid "IDS_DOCK_FIRE_MODE_SECONDARY_DESCRIPTION_DRUM_CHARGEABLE"
+msgstr "<p>再装填せずに、最小限の間隔で複数の斉射を即座に行うことができます。</p><p class=\"p_spacing\"> </p><p>各斉射の再装填時間は異なる場合があります。各斉射は発射後すぐに再装填を開始します。再装填が完了する前に次の斉射を行うと、再装填はリセットされます。</p>"
+
+msgid "IDS_DOCK_FIRE_MODE_SECONDARY_TITLE_DRUM"
+msgstr "中口径砲バースト射撃"
 
 msgid "IDS_DOCK_FIRE_MODE_SUBHEADER"
 msgstr "代替射撃モード"
 
 msgid "IDS_DOCK_FIRE_MODE_TITLE_DRUM"
-msgstr "バースト射撃"
+msgstr "主砲バースト射撃"
 
 msgid "IDS_DOCK_FIRE_MODE_TITLE_SEC"
 msgstr "改良型砲弾"
@@ -24966,17 +25110,23 @@ msgstr "港の被写界深度 (DoF)"
 msgid "IDS_DOF_DESCRIPTION"
 msgstr "焦点の外にあるオブジェクトは、映画のような効果を生み出すためにぼやけて表示されます。これは、ポストプロセスが「超高」に設定されている場合にのみ機能します。"
 
+msgid "IDS_DOGTAGS_BGBORDERCOLOR_GROUP_ADDITIONAL"
+msgstr "追加"
+
 msgid "IDS_DOGTAGS_BGBORDERCOLOR_GROUP_BASIC"
-msgstr "基本"
+msgstr "標準"
+
+msgid "IDS_DOGTAGS_BGCOLOR_GROUP_ADDITIONAL"
+msgstr "追加"
 
 msgid "IDS_DOGTAGS_BGCOLOR_GROUP_BASIC"
-msgstr "基本"
+msgstr "標準"
 
 msgid "IDS_DOGTAGS_BGMATERIAL_GROUP_BASIC"
-msgstr "基本"
+msgstr "標準"
 
 msgid "IDS_DOGTAGS_BGSHAPE_GROUP_BASIC_COLORIZABLE"
-msgstr "色変更可能な基本"
+msgstr "色変更可能な標準"
 
 msgid "IDS_DOGTAGS_BGSHAPE_GROUP_UNIQUE"
 msgstr "特別"
@@ -25164,14 +25314,11 @@ msgstr "パッチデザイナー"
 msgid "IDS_DOGTAGS_TAB_EMBLEM"
 msgstr "エンブレム"
 
-msgid "IDS_DOGTAGS_TAB_PATCH"
+msgid "IDS_DOGTAGS_TAB_SYMBOL_PATCH"
 msgstr "パッチ"
 
 msgid "IDS_DOGTAG_COMPONENT_AVAILABLE"
 msgstr "取得済み"
-
-msgid "IDS_DOGTAG_COMPONENT_NOT_AVAILABLE"
-msgstr "未取得"
 
 msgid "IDS_DOGTAG_COMPONENT_NOT_AVAILABLE_TEXT"
 msgstr "選択中の要素はご利用になれません"
@@ -25187,6 +25334,12 @@ msgstr "エンブレム"
 
 msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_3"
 msgstr "パーソナルマークのフォーム"
+
+msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_4"
+msgstr "基底"
+
+msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_5"
+msgstr "縁取り"
 
 msgid "IDS_DOGTAG_COMPONENT_SET"
 msgstr "搭載中"
@@ -25345,7 +25498,7 @@ msgid "IDS_DOGTAG_PCNA051_NAME"
 msgstr "ブラックフライデー: スペイン風シールド"
 
 msgid "IDS_DOGTAG_PCNA052_NAME"
-msgstr "Steam 周年記念日"
+msgstr "青いシェブロン"
 
 msgid "IDS_DOGTAG_PCNA999_DESCRIPTION"
 msgstr "この背景は開発中です。"
@@ -26109,7 +26262,7 @@ msgid "IDS_DOGTAG_PCNB127_DESCRIPTION"
 msgstr "勝者に栄光あれ!"
 
 msgid "IDS_DOGTAG_PCNB127_NAME"
-msgstr "コンテスト勝者"
+msgstr "アドミラルティの花輪"
 
 msgid "IDS_DOGTAG_PCNB128_DESCRIPTION"
 msgstr "ベスト・オブ・ザ・ベスト!"
@@ -27456,10 +27609,10 @@ msgid "IDS_DOGTAG_PCNB354_NAME"
 msgstr "CLAW マルチ・チャンピオン"
 
 msgid "IDS_DOGTAG_PCNB355_DESCRIPTION"
-msgstr "第 14 回「プレイヤー対抗戦」トーナメントを記念して。"
+msgstr "守り抜けない防衛線など存在しない。"
 
 msgid "IDS_DOGTAG_PCNB355_NAME"
-msgstr "プレイヤー対抗戦 XIV"
+msgstr "突撃隊"
 
 msgid "IDS_DOGTAG_PCNB356_DESCRIPTION"
 msgstr "駆逐艦ブラック (USS Black、DD-666) の艦名は、1942 年に乗艦がドイツの潜水艦によって撃沈された際に戦死を遂げたヒュー・ブラック少佐に因みます。本艦のバッジには、黒い騎士修行者のイメージが描かれています。"
@@ -27756,7 +27909,7 @@ msgid "IDS_DOGTAG_PCNB406_NAME"
 msgstr "突破"
 
 msgid "IDS_DOGTAG_PCNB407_DESCRIPTION"
-msgstr "<p>その守護者ほど頼もしいものはなく、<br>より勇敢で、より忠実な者もいない。</p><p class=\"p_spacing\"></p><p>「海の皇帝」トーナメントを称えて。</p>"
+msgstr "<p>その守護者ほど頼もしいものはなく、<br/>より勇敢で、より忠実な者もいない。</p><p class=\"p_spacing\"></p><p>「海の皇帝」トーナメントを称えて。</p>"
 
 msgid "IDS_DOGTAG_PCNB407_NAME"
 msgstr "Chernomor"
@@ -27972,7 +28125,7 @@ msgid "IDS_DOGTAG_PCNB447_NAME"
 msgstr "Russian Alaska"
 
 msgid "IDS_DOGTAG_PCNB448_DESCRIPTION"
-msgstr "<p>三度、彼は網を投げた —<br>網は一匹の魚と共に戻ってきた、<br>ただの魚ではない — 金の魚だ。</p><p class=\"p_spacing\"> </p><p>このシンボルの所有者は「海の皇帝」トーナメントの賞金基金の形成に貢献しました。</p>"
+msgstr "<p>三度、彼は網を投げた —<br/>網は一匹の魚と共に戻ってきた、<br/>ただの魚ではない — 金の魚だ。</p><p class=\"p_spacing\"> </p><p>このシンボルの所有者は「海の皇帝」トーナメントの賞金基金の形成に貢献しました。</p>"
 
 msgid "IDS_DOGTAG_PCNB448_NAME"
 msgstr "金魚"
@@ -28151,6 +28304,12 @@ msgstr "<p>1981 年、ソビエトのテレビ画面に、名探偵シャーロ�
 msgid "IDS_DOGTAG_PCNB479_NAME"
 msgstr "バスカヴィルの犬"
 
+msgid "IDS_DOGTAG_PCNB480_DESCRIPTION"
+msgstr "<p>進歩のためにどのような犠牲を払うことができるのか? アストリリアが世界を前進させる一方で、他の者はその代償として高い代価を支払わなければならない。</p><p class=\"p_spacing\"></p><p>イベント「エーテリアの守護者　氷と蒸気」に因んで。</p>"
+
+msgid "IDS_DOGTAG_PCNB480_NAME"
+msgstr "進歩の代償"
+
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "このパッチは開発中です。"
 
@@ -28199,6 +28358,39 @@ msgstr "深紅"
 msgid "IDS_DOGTAG_PCNK014_NAME"
 msgstr "紫"
 
+msgid "IDS_DOGTAG_PCNK015_NAME"
+msgstr "コーヒーブラウン"
+
+msgid "IDS_DOGTAG_PCNK016_NAME"
+msgstr "紫色"
+
+msgid "IDS_DOGTAG_PCNK017_NAME"
+msgstr "鮮やかな青色"
+
+msgid "IDS_DOGTAG_PCNK018_NAME"
+msgstr "鮮やかな緑色"
+
+msgid "IDS_DOGTAG_PCNK019_NAME"
+msgstr "モスグリーン"
+
+msgid "IDS_DOGTAG_PCNK020_NAME"
+msgstr "グレー"
+
+msgid "IDS_DOGTAG_PCNK021_NAME"
+msgstr "コーラル"
+
+msgid "IDS_DOGTAG_PCNK022_NAME"
+msgstr "バイオレット"
+
+msgid "IDS_DOGTAG_PCNK023_NAME"
+msgstr "ターコイズ"
+
+msgid "IDS_DOGTAG_PCNK024_NAME"
+msgstr "ミント"
+
+msgid "IDS_DOGTAG_PCNK025_NAME"
+msgstr "ベージュイエロー"
+
 msgid "IDS_DOGTAG_PCNR001_NAME"
 msgstr "黒"
 
@@ -28243,6 +28435,39 @@ msgstr "深紅"
 
 msgid "IDS_DOGTAG_PCNR015_NAME"
 msgstr "紫"
+
+msgid "IDS_DOGTAG_PCNR016_NAME"
+msgstr "コーヒーブラウン"
+
+msgid "IDS_DOGTAG_PCNR017_NAME"
+msgstr "紫色"
+
+msgid "IDS_DOGTAG_PCNR018_NAME"
+msgstr "鮮やかな青色"
+
+msgid "IDS_DOGTAG_PCNR019_NAME"
+msgstr "鮮やかな緑色"
+
+msgid "IDS_DOGTAG_PCNR020_NAME"
+msgstr "モスグリーン"
+
+msgid "IDS_DOGTAG_PCNR021_NAME"
+msgstr "グレー"
+
+msgid "IDS_DOGTAG_PCNR022_NAME"
+msgstr "コーラル"
+
+msgid "IDS_DOGTAG_PCNR023_NAME"
+msgstr "バイオレット"
+
+msgid "IDS_DOGTAG_PCNR024_NAME"
+msgstr "ターコイズ"
+
+msgid "IDS_DOGTAG_PCNR025_NAME"
+msgstr "ミント"
+
+msgid "IDS_DOGTAG_PCNR026_NAME"
+msgstr "ベージュイエロー"
 
 msgid "IDS_DOGTAG_PCNT001_NAME"
 msgstr "波状縞"
@@ -29650,6 +29875,9 @@ msgstr "『トランスフォーマー』印象的な瞬間"
 msgid "IDS_EIGHTH_SOVIETBBARC_NAME"
 msgstr "ロシアの造船技師 II"
 
+msgid "IDS_ELIONOR_ANIME"
+msgstr "エリノア・シレンダル"
+
 msgid "IDS_ELITETOURNAMENT22"
 msgstr "Da Lan"
 
@@ -30159,6 +30387,723 @@ msgstr "ポータルからの脱出に成功"
 
 msgid "IDS_ESCORTING_SHIP"
 msgstr "護衛対象船"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_1_DESCRIPTION"
+msgstr "エーテリア皇帝は娘と共に、中立海域での緊急サミットに参加するため到着した外国の使節団を迎える。"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_1_TITLE"
+msgstr "第 1 章 会談を待つ"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_2_DESCRIPTION"
+msgstr "サミットの最中、長年くすぶっていた二国間——アストリリアとヴィンターガルドの紛争が激化する。"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_2_TITLE"
+msgstr "第 2 章 進歩の代償"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_3_DESCRIPTION"
+msgstr "突然の襲撃により、既に緊迫していた状況は限界に達する。エーテリアの人々は、盗まれた錬金術の巻物が誰の手にあるかを知る。"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_3_TITLE"
+msgstr "第 3 章 新たな手がかり"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_4_DESCRIPTION"
+msgstr "各国は、紛争の解決と共通の脅威に立ち向かうための力を結集すべく、投票を実施する。"
+
+msgid "IDS_ETERIA_ARCHIVE_CHAPTER_4_TITLE"
+msgstr "第 4 章 最終評決"
+
+msgid "IDS_ETERIA_CHARACTER_AYLA"
+msgstr "Ayla"
+
+msgid "IDS_ETERIA_CHARACTER_ELF_STRANGER"
+msgstr "エルフの見知らぬ女性"
+
+msgid "IDS_ETERIA_CHARACTER_ELINOR"
+msgstr "Elinor"
+
+msgid "IDS_ETERIA_CHARACTER_FORMIDABLE_GIRL"
+msgstr "恐ろしい少女"
+
+msgid "IDS_ETERIA_CHARACTER_HILDA"
+msgstr "Hilda"
+
+msgid "IDS_ETERIA_CHARACTER_KEIRA"
+msgstr "Keira"
+
+msgid "IDS_ETERIA_CHARACTER_KING_ASTRILIA"
+msgstr "アストリリア王"
+
+msgid "IDS_ETERIA_CHARACTER_KING_WINTERGARD"
+msgstr "ヴィンターガルド王"
+
+msgid "IDS_ETERIA_CHARACTER_KING_ZAR_KHAN"
+msgstr "ザールハン支配者"
+
+msgid "IDS_ETERIA_CHARACTER_LANA"
+msgstr "Lana"
+
+msgid "IDS_ETERIA_CHARACTER_MARO"
+msgstr "Maro"
+
+msgid "IDS_ETERIA_CHARACTER_NARRATOR"
+msgstr "語り手"
+
+msgid "IDS_ETERIA_CHARACTER_NERET"
+msgstr "Neret"
+
+msgid "IDS_ETERIA_CHARACTER_NIKEA"
+msgstr "Nikea"
+
+msgid "IDS_ETERIA_CHARACTER_TINA"
+msgstr "Tina"
+
+msgid "IDS_ETERIA_FINAL_REWARD_CREW_UNKNOWN"
+msgstr "エーテリアの王女"
+
+msgid "IDS_ETERIA_NAME_EPISODE_1"
+msgstr "皇帝の船室"
+
+msgid "IDS_ETERIA_NAME_EPISODE_10"
+msgstr "アストリリアの船"
+
+msgid "IDS_ETERIA_NAME_EPISODE_11"
+msgstr "ENDING・アストリリア"
+
+msgid "IDS_ETERIA_NAME_EPISODE_12"
+msgstr "ENDING・ザールハン"
+
+msgid "IDS_ETERIA_NAME_EPISODE_2"
+msgstr "ヴィンターガルドの船"
+
+msgid "IDS_ETERIA_NAME_EPISODE_3"
+msgstr "首脳会議"
+
+msgid "IDS_ETERIA_NAME_EPISODE_4"
+msgstr "ノクマール巡洋艦"
+
+msgid "IDS_ETERIA_NAME_EPISODE_5"
+msgstr "ウィンターガードを支持する"
+
+msgid "IDS_ETERIA_NAME_EPISODE_6"
+msgstr "ウィンターガードの要求なんか、めちゃくちゃだぜ。"
+
+msgid "IDS_ETERIA_NAME_EPISODE_7"
+msgstr "襲撃後の会議"
+
+msgid "IDS_ETERIA_NAME_EPISODE_8"
+msgstr "最終投票"
+
+msgid "IDS_ETERIA_NAME_EPISODE_9"
+msgstr "ENDING・ヴィンターガルド"
+
+msgid "IDS_ETERIA_NAME_FORK_1"
+msgstr "皇帝の船室"
+
+msgid "IDS_ETERIA_NAME_FORK_2"
+msgstr "ノクマール巡洋艦"
+
+msgid "IDS_ETERIA_NAME_FORK_3"
+msgstr "首脳会議"
+
+msgid "IDS_ETERIA_NAME_FORK_4"
+msgstr "最終投票"
+
+msgid "IDS_ETERIA_NAME_TASK_SECTION_1"
+msgstr "ノクマールの匪賊襲撃"
+
+msgid "IDS_ETERIA_NAME_TASK_SECTION_2"
+msgstr "ノクマールの匪賊襲撃"
+
+msgid "IDS_ETERIA_NAME_TASK_SECTION_3"
+msgstr "会議への襲撃"
+
+msgid "IDS_ETERIA_NAME_TASK_SECTION_4"
+msgstr "追跡"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_1"
+msgstr "エーテリア人がヴィンターガルドの戦艦に乗り込む。氷の巨人からは心地よい冷気が漂っている……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_10"
+msgstr "誰だ、老いたカラスみたいにぶつぶつ言ってるのは?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_11"
+msgstr "エリノア、我が友よ! コンヌンがシレンダルの老女王を会議に連れて行くって承諾したのか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_12"
+msgstr "チッ! 相変わらずレディへの言葉遣いがなってないな。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_13"
+msgstr "ハハハ、まあまあ。ラナ、エリノアを覚えてるか? 幼い頃、よく彼女に頼んでケロケロガエルが何を鳴いてるか、翼ギツネが何を吠えてるか訳してもらったもんだ……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_14"
+msgstr "陛下、手前の者の前では……!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_15"
+msgstr "マロ、お前の子供時代の話を思い出そうじゃないか。最初の一歩をよく覚えているぞ、お前の両親がどんな話をしてくれたか!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_16"
+msgstr "いつかゆっくりお聞かせいただきます。失礼します、陛下。ノクマールの使節団を迎えに行かねばなりませんので。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_17"
+msgstr "また後でな、おばあちゃん！"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_18"
+msgstr "ノクマール巡洋艦がエーテリアの船に接舷する。指揮官ケイラとアイラ王女が甲板に上がる。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_2"
+msgstr "何だ、サボるつもりか? 伏せ——腕立て伏せ! 五セット、各三十回。急げ!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_3"
+msgstr "はい?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_4"
+msgstr "おっと、衛兵に言ったんです、あなたじゃなくて! 失礼しました。ヴィンターガルドの船へようこそ、陛下! 娘さんをご連れですか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_5"
+msgstr "その通り。最近ラナが艦隊提督に就任したので、紹介したくてな。ラナ、こちらはヴィンターガルド衛兵隊指揮官であり、スカディの槍の守護者——ヒルダ・スカディスドッティルだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_6"
+msgstr "お会いできて光栄です、ヒルダ。素晴らしい戦艦ですね!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_7"
+msgstr "ありがとうございます。お会いできて光栄です、殿下。あなたも戦いがお好きだとお見受けしました。いつか一緒に訓練されませんか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_8"
+msgstr "喜んで。あなたの槍をお目にかけていただけますか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_9"
+msgstr "ほどほどにな、娘たち。前回ヒルダがヴィンターガルド衛兵隊の技を披露した時は、壁のひび割れを修理する羽目になったんだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_1"
+msgstr "皇帝と娘がアストリリアの巡洋艦に乗り込む。長旅の後、蒸気機関はまだ熱を発している……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_10"
+msgstr "今日の海は穏やかでいいですね。でも、もう砂漠の暑さが恋しくなってきました……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_11"
+msgstr "*眠そうなため息*"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_12"
+msgstr "ニケア? ……また寝てるの?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_13"
+msgstr "おお、失礼……あなた方の生活リズムに必死に慣れようとしている間に、ルミナリア人はもう十番目の夢を見ている頃ですから。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_14"
+msgstr "ティナが甲板を案内しながら、蒸気の心臓の仕組みを熱心に説明している。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_15"
+msgstr "しばらくして、ノクマールから船が到着する。指揮官ケイラとアイラ王女がエーテリアの甲板に上がる。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_2"
+msgstr "やあ、エーテリアの方々! 私はティナ、国家主席整備士です。陛下とお話しになりますか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_3"
+msgstr "ご挨拶します。ああ、サミットが始まる前に陛下とお話ししたい。ついでに我が艦隊の新たな提督も紹介しよう。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_4"
+msgstr "もちろん、どうぞお入りください! ただ、王はただ今お忙しくて、少々お待ちいただくことになりますが。船内をご案内しましょうか!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_5"
+msgstr "結構ですね。アストリリアの機械はいわゆる蒸気の心臓で動いていると聞きました……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_6"
+msgstr "その通りです! 装飾品から軍艦まで——アストリリアのすべては蒸気の心臓で動いています。私たちの技術にご興味を持っていただけて嬉しいです!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_7"
+msgstr "ぜひその仕組みをお聞きしたいものです。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_8"
+msgstr "よろしければ、ご一緒させていただきます。ルミナリアのルチェザール王の顧問、ニケアと申します。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_9"
+msgstr "ネレト、ザールハンの巫女です。アストリリアが親切にも私たちをサミットに運んでくれました。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_1"
+msgstr "やあ、エーテリアの方々! 私はティナ、国家主席整備士です。陛下とお話しになりますか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_10"
+msgstr "*眠そうなため息*"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_11"
+msgstr "ニケア? ……また寝てるの?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_12"
+msgstr "おお、失礼……あなた方の生活リズムに必死に慣れようとしている間に、ルミナリア人はもう十番目の夢を見ている頃ですから。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_13"
+msgstr "ティナが甲板を案内しながら、蒸気の心臓の仕組みを熱心に説明している。温かい歓迎に感謝を述べた後、マロとラナはヴィンターガルドの使節団を迎えに行く。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_2"
+msgstr "ご挨拶します。ああ、サミットが始まる前に陛下とお話ししたい。ついでに我が艦隊の新たな提督も紹介しよう。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_3"
+msgstr "もちろん、どうぞお入りください! ただ、王はただ今お忙しくて、少々お待ちいただくことになりますが。船内をご案内しましょうか!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_4"
+msgstr "結構ですね。アストリリアの機械はいわゆる蒸気の心臓で動いていると聞きました……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_5"
+msgstr "その通りです! 装飾品から軍艦まで——アストリリアのすべては蒸気の心臓で動いています。私たちの技術にご興味を持っていただけて嬉しいです!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_6"
+msgstr "ぜひその仕組みをお聞きしたいものです。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_7"
+msgstr "よろしければ、ご一緒させていただきます。ルミナリアのルチェザール王の顧問、ニケアと申します。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_8"
+msgstr "ネレト、ザールハンの巫女です。アストリリアが親切にも私たちをサミットに運んでくれました。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_9"
+msgstr "今日の海は穏やかでいいですね。でも、もう砂漠の暑さが恋しくなってきました……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_13_SCENE_1"
+msgstr "決議された。アストリリアはザールハンへの供給を維持するため、生産方式を変更しない。代わりに、我々の錬金術師がヴィンターガルドの氷を強化する試みを行う。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_13_SCENE_2"
+msgstr "しばらく後、廊下の片隅で……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_13_SCENE_3"
+msgstr "供給線は守られた、良い。だがエーテリアの介入でアストリリアとヴィンターガルドの戦争を誘発できなかった。ニケアとの計画は失敗だ。ルチェザールに連絡しろ、新しい戦略が必要だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_13_SCENE_4"
+msgstr "仰せのままに、我が主よ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_14_SCENE_1"
+msgstr "決議された。アストリリアはより環境に優しい生産方式に転換する。財政負担のためザールハンを支援できなくなり、人道支援はエーテリアが引き継ぐ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_14_SCENE_2"
+msgstr "軍縮については……アストリリアの軍事企業の一部は民生品の生産に転換する。ヴィンターガルドはアストリリア国境の軍事基地を撤去する。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_14_SCENE_3"
+msgstr "しばらく後、廊下の片隅で……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_14_SCENE_4"
+msgstr "よくやった、巧妙な一手だ。戦争を誘発できなかったが、お前の軍縮提案で両国は弱体化した。今なら容易に打撃を与えられる。ルチェザールに我々の小さな勝利を伝えろ! それからドラグモールへ向かい、来たる戦争での支援を取り付けるんだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_14_SCENE_5"
+msgstr "仰せのままに、父上。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_15_SCENE_1"
+msgstr "アイラとケイラが皇帝に匪賊との戦いについて語り始めた。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_1"
+msgstr "正義は必ずしも平和をもたらさない……時には、時にそぐわぬ真実は嘘よりも破壊的だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_10"
+msgstr "その通りだ。この外交ゲームにはもううんざりだ……交渉のテーブルクロスの下にも、戦争のナイフが隠されているかもしれん。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_11"
+msgstr "おや、噂をすれば影だ! 我らが敬愛する客たちが接舷している。行こう、サミットが始まる前に使節団を紹介するぞ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_2"
+msgstr "父上、全ての哨戒を確認しました。船は使節団の受け入れ準備が整っています。闇の同盟がサミット参加者を襲おうものなら、後悔させてみせます。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_3"
+msgstr "よろしい。中に入れ、客が到着する前に話しておきたいことがある。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_4"
+msgstr "そうだ、裏切者の尋問は何か成果を上げたか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_5"
+msgstr "元大臣は多くを語りましたが、無駄話ばかりでした。闇の同盟が我々の錬金術の巻物を盗んだ目的も、隠し場所も知りません。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_6"
+msgstr "なるほど、彼らは極めて慎重に行動している。あの襲撃は我々を弱体化させたが、盗まれた知識こそがより大きな脅威だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_7"
+msgstr "アストリリアとヴィンターガルドの国境での小競り合いの知らせは怪しい。彼らの誰かが闇の同盟の指図で動いているのかもしれん。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_8"
+msgstr "父上、中立海域で緊急サミットを開くという決断は賢明でした。陸上では容易に標的にされますから。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_9"
+msgstr "何か手がかりが見つかれば良いのだが。ただし覚えておけ、使節団の中にも闇の同盟の者がいるかもしれない。慎重に行動しろ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_1"
+msgstr "エーテリア人がヴィンターガルドの戦艦に乗り込む。氷の巨人からは心地よい冷気が漂っている……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_10"
+msgstr "誰だ、老いたカラスみたいにぶつぶつ言ってるのは?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_11"
+msgstr "エリノア、我が友よ! コンヌンがシレンダルの老女王をサミットに連れて行くって承諾したのか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_12"
+msgstr "チッ! 相変わらずレディへの言葉遣いがなってないな。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_13"
+msgstr "ハハハ、まあまあ。ラナ、エリノアを覚えてるか? 幼い頃、よく彼女に頼んでケロケロガエルが何を鳴いてるか、翼ギツネが何を吠えてるか訳してもらったもんだ……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_14"
+msgstr "陛下、手前の者の前で……!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_15"
+msgstr "マロ、お前の子供時代の話を思い出そうじゃないか。最初の一歩をよく覚えているぞ、お前の両親がどんな話をしてくれたか!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_16"
+msgstr "いつかゆっくりお聞かせいただきます。失礼します、陛下。アストリリアの使節団を迎えに行かねばなりませんので。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_17"
+msgstr "また後でな、婆さん!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_2"
+msgstr "何だ、サボるつもりか? 伏せ——腕立て伏せ! 五セット、各三十回。急げ!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_3"
+msgstr "はい?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_4"
+msgstr "おっと、衛兵に言ったんです、あなたじゃなくて! 失礼しました。ヴィンターガルドの船へようこそ、陛下! 娘さんをご連れですか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_5"
+msgstr "その通り。最近ラナが艦隊提督に就任したので、紹介したくてな。ラナ、こちらはヴィンターガルド衛兵隊指揮官であり、スカディの槍の守護者——ヒルダ・スカディスドッティルだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_6"
+msgstr "お会いできて光栄です、ヒルダ。素晴らしい戦艦ですね!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_7"
+msgstr "ありがとうございます。お会いできて光栄です、殿下。あなたも戦いがお好きだとお見受けしました。いつか一緒に訓練されませんか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_8"
+msgstr "喜んで。あなたの槍をお目にかけていただけますか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_9"
+msgstr "ほどほどにな、娘たち。前回ヒルダがヴィンターガルド衛兵隊の技を披露した時は、壁のひび割れを修理する羽目になったんだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_1"
+msgstr "撃退したが、かなり苦戦した。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_10"
+msgstr "後刻、船内のラウンジ。首脳会議が始まる。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_11"
+msgstr "諸君、なぜここに集まったかは分かっているだろう。数日前、我々の飛行船隊がヴィンターガルド国境付近で一連の襲撃を受けた。負傷者が出た。積み荷も失われた。手がかりは少ないが、ヴィンターガルド人が関与していると考えるに足る理由がある。彼らは以前から我々の工場が生態系を破壊していると不満を述べていた。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_12"
+msgstr "馬鹿げている! よくもそんな非難を我が族にできるな? ! 確かに国境近くでの生産停止を要求した——氷が溶けているからだ——だが我々は武力ではなく平和的に解決したかったのだ。それとも、ヴィンターガルドを支配しているのは視野の狭い武人ばかりだとでも?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_13"
+msgstr "ヒルダ、その怒りを抑えて最後まで聞かせろ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_14"
+msgstr "失礼! 付け加えさせてください。我々の工場が貴国の気候を悪化させているという証拠はありません。たとえその推測が正しくとも……それは進歩の代償です。我々は世界を前進させている。小さな悪で大きな善を成すのです。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_15"
+msgstr "面白い立場だ——自らを世界の中心に据え、誰が生き誰がゆっくり滅びるかを決めるとは!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_16"
+msgstr "お嬢さん方、議論は終わったかな? 続けさせてもらう。さらに、我々は懸念している——最近ヴィンターガルドが我が国境のすぐそばに軍事基地を増設しているのだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_17"
+msgstr "あなた方の工場が蒸気の心臓だけでなく軍需品も生産していることは承知している。国境の軍事化を始めたのは我々ではない——あなた方の行動への対抗措置に過ぎない。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_18"
+msgstr "議論はなおもしばらく続き、サミット参加者は翌朝まで休会し、それぞれの立場を検討することで合意した。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_19"
+msgstr "ラウンジに夕食の用意が整えられている……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_2"
+msgstr "ああ、物騒な時代だ……ともあれ、無事で何よりだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_20"
+msgstr "工場を閉鎖しろ! 彼らは自分たちのことしか考えていない。この利己的な連中とは違い、我々はアストリリアの繁栄だけを心配しているわけではない。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_21"
+msgstr "アストリリアの飛行船はザールハンに人道支援物資を運んでいた。ヴィンターガルドの攻撃で我が国民は苦しんでいる。老人も子供も飢えているのだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_22"
+msgstr "なるほど、状況をさらに複雑にしているな。次の補給が届くまで耐えられるよう願っている。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_23"
+msgstr "第三国が関わっているとは知りませんでした……ネレト、心からお悔やみ申し上げます。父に話してみます——次の補給が届く前に何か支援できるかもしれません。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_24"
+msgstr "ありがとう、アイラ……で、ヴィンターガルド人についてだが。我々は彼らの訴えに耳を貸さないわけではない。しかし、生態系回復のぼんやりした希望のために自国経済を破壊してしまえば、弱みを見せたことになり、彼らはさらなる要求を突きつけてくる。圧力のかけ方にかけては、あの武人たちに敵う者はいない。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_25"
+msgstr "一方、ラウンジの反対側では……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_26"
+msgstr "我が民は何十年も氷の融解に苦しめられてきた! だがアストリリアは国境工場の閉鎖要請を無視している。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_27"
+msgstr "コンヌンの忍耐も限界だ——奴らは生態系を破壊するだけでなく、我々が飛行船を襲撃したと逆非難している。我々の限界を試すな! 戦場ならば、ヴィンターガルドは必ず勝つ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_28"
+msgstr "同意する、工場は確かに気候に脅威を与えている。つまり我々シレンダルの森林も被害を受ける可能性がある。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_29"
+msgstr "アストリリアの工場閉鎖による短期的な影響よりも、生態系の破滅の方がはるかに深刻だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_3"
+msgstr "ケイラ、ちょっとアイラを借りてもいいか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_30"
+msgstr "失礼する。コンヌンが呼んでいる。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_31"
+msgstr "マロ、お前はどう思う? 最も賢明な皇帝はどちら側につく?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_4"
+msgstr "ご自由にどうぞ、陛下! あなたの素晴らしい船を見学させていただきます。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_5"
+msgstr "ありがとう。ジャスミン茶でもどうぞ、ゆっくりしていってくれ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_6"
+msgstr "手紙で、ヴィンターガルドが闇の同盟に加わったことを示す間接的な証拠を見つけたと書いていたな。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_7"
+msgstr "はい、父上。なんとかノクマールで彼らの痕跡を掴みました。しかし、結論を出すには情報が足りません……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_8"
+msgstr "襲撃は偶然ではないと思う。敵はおそらく匪賊を雇ってノクマールの船を、証拠ごと破壊させたのだ。ヴィンターガルドの動きを注視すべきだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_3_SCENE_9"
+msgstr "必ず慎重に行動します。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_4_SCENE_1"
+msgstr "父上! お会いしたかった!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_4_SCENE_2"
+msgstr "我がジャスミンの花よ! お帰り。間違いなければ、一緒にいるのは有名なケイラ——去年の「海の王」優勝者だな?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_4_SCENE_3"
+msgstr "光栄です、陛下! 我々の全国大会の戦況を御覧いただいているとは、恐れ入ります。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_4_SCENE_4"
+msgstr "子供の頃から競技が好きでな。ところで、道中は順調だったか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_4_SCENE_5"
+msgstr "ああ、父上……ここへ来る途中、我々の船が匪賊に襲われました。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_5_SCENE_1"
+msgstr "ヴィンターガルドを支持する。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_5_SCENE_2"
+msgstr "そう来なくては。無駄に親友だと思っていたわけではなかった。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_5_SCENE_3"
+msgstr "船体が激しく震動する。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_5_SCENE_4"
+msgstr "くそっ! 誰だ? !"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_6_SCENE_1"
+msgstr "ヴィンターガルドの要求は不当だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_6_SCENE_2"
+msgstr "頑固親父がこの歳で考えを変えたのか? 面白い……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_6_SCENE_3"
+msgstr "船体が激しく震動する。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_6_SCENE_4"
+msgstr "くそっ! 誰だ? !"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_1"
+msgstr "襲撃者の船にヴィンターガルド風の装飾を見た。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_10"
+msgstr "巻物の話を聞いて、アイラは凍りついた……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_11"
+msgstr "まさか、襲撃はこの巻物が原因なの? 手元に置いておくのは危険かもしれない。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_12"
+msgstr "壁に耳あり。船室で話そう。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_13"
+msgstr "エーテリアが自らの古の知識をヴィンターガルドと共有すると決めたのか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_14"
+msgstr "そういうことか! 巻物は最初から彼らの手にあったんだ!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_15"
+msgstr "ごめん、ニケア、後で話す。今すぐ父を探さなきゃ!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_16"
+msgstr "どこへ急いでいるんだ、我がジャスミンの花よ?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_17"
+msgstr "父上、巻物はヴィンターガルドの手にあります! 彼らの会話を直接聞きました。皆に伝えなければ——彼らがすべての襲撃に関わっています!"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_18"
+msgstr "落ち着け、深呼吸しろ。たとえそれが真実だとしても……時にそぐわぬ真実は嘘よりも破壊的だ。巻物がヴィンターガルドの手にあることと、彼らが襲撃の黒幕であることは別だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_19"
+msgstr "後刻、マロ皇帝の書斎にて……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_2"
+msgstr "我々の中に裏切り者がいるとでも言うのか? !"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_20"
+msgstr "ラナ、艦隊を率いて敵が撤退した場所へ向かってくれ。どうも気にかかる……運命がくれる手がかりがあまりにも露骨すぎる。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_21"
+msgstr "はい、父上。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_3"
+msgstr "ただ重要だと思う情報を共有しているだけだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_4"
+msgstr "船上の雰囲気はますます緊迫していく。各使節団の面々は重い心のまま自室に戻り、翌日を待つ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_5"
+msgstr "アイラ、今いい? 見せたいものがあるんだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_6"
+msgstr "ごめん、明日まで待ってくれる? 最近のことで頭が痛くて……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_7"
+msgstr "分かった。長くは取らないと約束する。ついてきて。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_8"
+msgstr "少女たちはニケアの船室へ向かう。ふと、会話の断片が耳に入る——明らかに傍受されるべきではない会話が……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_9"
+msgstr "ヒルダ、今はエーテリアの巻物のことを彼らに話す時じゃない。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_1"
+msgstr "ラナの艦隊が深夜に帰還する。朝、サミット参加者たちは再びラウンジに集まる。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_10"
+msgstr "最近の出来事を鑑みて……私からも声明を発表し、我々の立場の理由を説明したい。おそらく我々の立場は残酷で過激に見えるかもしれない。しかし……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_11"
+msgstr "つまり、環境に優しい生産への転換には莫大な資金が必要なのです。そのため、苦境にあるザールハンへの人道支援を継続できなくなります。それを許すわけにはいきませんでした……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_12"
+msgstr "ティナの意見に同意する、二つの悪のうち小さい方を選ぶのは難しい。だがもちろん、ヴィンターガルドの問題を無視するわけにもいかない。我々ノクマール人はそういった魔法の類は信じていないが、アイラが氷の回復を錬金術師に託す覚悟なら、まずはその選択肢を試してみたらどうだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_13"
+msgstr "たとえ生態系の問題が解決しても、かつての敵が完全武装のままであることを忘れてはならない。中途半端な対策では不十分だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_14"
+msgstr "アストリリアの軍事企業の一部は民生品の生産に転換すべきだ。ヴィンターガルドはアストリリア国境の軍事基地を撤去すべきだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_15"
+msgstr "ルミナリア全体を代表して、ザールハンの立場を支持する。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_16"
+msgstr "ネレトの共同軍縮提案を支持する……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_17"
+msgstr "ティナの側に立ち、工場の操業に干渉せず、錬金術で氷を強化するのを試す……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_18"
+msgstr "あるいはヒルダを支持し、アストリリアに環境に優しい生産への転換を義務付けるか?"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_19"
+msgstr "票は真っ二つに分かれた: ノクマールはアストリリアを支持、シレンダルはヴィンターガルドに味方した。決め手はエーテリアが握る。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_2"
+msgstr "ヴィンターガルドは嵌められたのだ。昨夜、我々は襲撃者を捕まえ、我々の真実薬で尋問した。氷の国はあの山賊どもとは一切関係ない。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_3"
+msgstr "最初からそう感じていた。すべてがあまりに稚拙に仕組まれていた。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_4"
+msgstr "スカディ女神に感謝を! 疑いが晴れた以上、声明を発表させていただきます。数週間前、エーテリアの錬金術の巻物が我が城に届けられました。使者は名乗りませんでしたが、明らかにこの地の者ではありませんでした。荷物はコンヌンに直接渡すよう依頼されました。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_5"
+msgstr "中にはいくつかの公式——魔法の氷の弾丸に関するものでした。しかし我々は悪意なく使用したことを誓います! ただ氷を取り戻そうとしただけです。無駄でしたが……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_6"
+msgstr "飛行船襲撃への関与を否定する証拠がなかったため、不必要な疑いを招かないよう、やむなく巻物の存在を一時的に隠しました。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_7"
+msgstr "率直なご説明に感謝する。そう、数週間前に確かに貴重な錬金術の巻物が盗まれた。見つかって何よりだ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_8"
+msgstr "どうやら、誰かが偽の手がかりで我々全員を互いに争わせようとしている。小さな諍いを捨て、共通の敵に対して団結して行動しなければならない。よって、アストリリアとヴィンターガルドの長年の生態学的紛争を解決するため、投票を行うことを提案する。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_9"
+msgstr "我々の錬金術師が皆さんの氷を回復できるかもしれません! しかし、何も約束はできません……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_1"
+msgstr "決議された。アストリリアはより環境に優しい生産方式に転換する。アストリリアの転換コストを削減し、ザールハンへの支援を継続するため、エーテリアの錬金術師が皆さんの工場向けに無毒燃料を開発する用意がある。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_2"
+msgstr "しばらく後、廊下の片隅で……"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_3"
+msgstr "供給線は守られた、良い。だがエーテリアの介入でアストリリアとヴィンターガルドの戦争を誘発できなかった。ニケアとの計画は失敗だ。ルチェザールに連絡しろ、新しい戦略が必要だ。"
+
+msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_4"
+msgstr "仰せのままに、我が主よ。"
+
+msgid "IDS_ETERIA_TEXT_FINAL"
+msgstr "物語アーカイブでクリア済みの章を閲覧できます。"
+
+msgid "IDS_ETERIA_TEXT_FORK_1"
+msgstr "どの使節団を先に出迎える?"
+
+msgid "IDS_ETERIA_TEXT_FORK_1_CHOICE_1"
+msgstr "ヴィンターガルド"
+
+msgid "IDS_ETERIA_TEXT_FORK_1_CHOICE_2"
+msgstr "アストリリア"
+
+msgid "IDS_ETERIA_TEXT_FORK_2"
+msgstr "ああ、父上……ここへ来る途中、我々の船が匪賊に襲われました。"
+
+msgid "IDS_ETERIA_TEXT_FORK_2_CHOICE_1"
+msgstr "壊滅的な打撃を与えた"
+
+msgid "IDS_ETERIA_TEXT_FORK_2_CHOICE_1_CONFIRMATION"
+msgstr "この選択により、ダメージを与えるタスクを含む戦闘任務グループが解放されます。"
+
+msgid "IDS_ETERIA_TEXT_FORK_2_CHOICE_2"
+msgstr "多数の敵艦を撃沈した"
+
+msgid "IDS_ETERIA_TEXT_FORK_2_CHOICE_2_CONFIRMATION"
+msgstr "この選択により、「撃沈」リボンを獲得するタスクを含む戦闘任務グループが解放されます。"
+
+msgid "IDS_ETERIA_TEXT_FORK_3"
+msgstr "マロ、お前はどう思う? 最も賢明な皇帝はどちら側につく?"
+
+msgid "IDS_ETERIA_TEXT_FORK_3_CHOICE_1"
+msgstr "ヴィンターガルドを支持する"
+
+msgid "IDS_ETERIA_TEXT_FORK_3_CHOICE_2"
+msgstr "ヴィンターガルドの要求は不当だ"
+
+msgid "IDS_ETERIA_TEXT_FORK_4"
+msgstr "誰を支持する?"
+
+msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_1"
+msgstr "ヒルダ"
+
+msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_1_CONFIRMATION"
+msgstr "イベント「エーテリアの守護者・氷と蒸気」の最終報酬はレア指揮官ヒルダ・スカディスドッティルです。"
+
+msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_2"
+msgstr "ティナ"
+
+msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_2_CONFIRMATION"
+msgstr "イベント「エーテリアの守護者・氷と蒸気」の最終報酬はレア指揮官ティナ・ハルトマンです。"
+
+msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_3"
+msgstr "ネレト"
+
+msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_3_CONFIRMATION"
+msgstr "イベント「エーテリアの守護者・氷と蒸気」の最終報酬はレア指揮官ネレトです。"
+
+msgid "IDS_ETERIA_TEXT_JOURNEY_1"
+msgstr "海の怪物や海賊の群れとの戦いは、ノクマール人にとって日常茶飯事だ。しかし地元の匪賊がこんなに島の近くに近づいてきたことは一度もなかった……敵はまるで港の出口で待ち伏せしていたかのように、我々を不意打ちした。"
+
+msgid "IDS_ETERIA_TEXT_JOURNEY_2"
+msgstr "海の怪物や海賊の群れとの戦いは、ノクマール人にとって日常茶飯事だ。しかし地元の匪賊がこんなに島の近くに近づいてきたことは一度もなかった……敵はまるで港の出口で待ち伏せしていたかのように、我々を不意打ちした。"
+
+msgid "IDS_ETERIA_TEXT_JOURNEY_3"
+msgstr "世界最強国家の船に正面から攻撃を仕掛けるとは? よほど追い詰められたと見える。"
+
+msgid "IDS_ETERIA_TEXT_JOURNEY_4"
+msgstr "外交ゲームでは解決しないと分かっていた。一方では、戦闘任務で気を紛らわせられて嬉しいが、他方では、理由が喜ばしいものではない。しかし必ず真実に辿り着く。"
 
 msgid "IDS_EU"
 msgstr "ヨーロッパ"
@@ -32490,7 +33435,7 @@ msgid "IDS_FIRST_BATTLE_CARD_BRIEFING_GOAL"
 msgstr "敵艦、残らず海底へ沈めよ。"
 
 msgid "IDS_FIRST_BATTLE_CARD_BRIEFING_GOAL_TITLE"
-msgstr "任務："
+msgstr "任務:"
 
 msgid "IDS_FIRST_BATTLE_CARD_LEAD"
 msgstr "先行照準"
@@ -33128,6 +34073,9 @@ msgstr "金曜日"
 msgid "IDS_FRIEDRICHBONTE"
 msgstr "Friedrich Bonte"
 
+msgid "IDS_FRIEDRICHBONTE_DESC"
+msgstr "<p>フリードリヒ・ボンテ (1896–1940) — ドイツ海軍士官、1940 年よりコモドール。</p><p class=\"p_spacing\"> </p><p>1914 年に海軍での勤務を開始した。第一次世界大戦中はドイツ帝国海軍の巡洋戦艦の乗組員として戦闘に参加した。1919 年には、イギリスに投降してスカパ・フローに抑留されていた大洋艦隊の艦艇のドイツ人乗組員による自沈に関与した。その後もドイツ海軍に勤務し、第二次世界大戦開戦時にはカピテン・ツーア・ゼー (1 等海佐) の階級で第 2 駆逐艦戦隊を指揮していた。1939 年 10 月、クリークスマリーネの駆逐艦司令官に任命された。1940 年のノルウェー・オペレーション中、ボンテは 10 隻の駆逐艦からなる戦闘群を指揮し、4 月 9 日にナルヴィク港への上陸を実施した。翌日、この戦闘群はイギリス駆逐艦の攻撃を受け、旗艦 Z-21 ヴィルヘルム・ハイトカンプが魚雷攻撃を受け、ボンテは艦と共に戦死した。</p>"
+
 msgid "IDS_FROM_COMMANDERS"
 msgstr "艦長から"
 
@@ -33538,11 +34486,26 @@ msgstr "主砲の射程が延伸された"
 msgid "IDS_GMROTATION_SPEED_CHANGED"
 msgstr "主砲の旋回速度が向上しました"
 
+msgid "IDS_GMSAPDAMAGE_COEFF_CHANGED"
+msgstr "中口径砲 AP 弾のダメージが向上した"
+
 msgid "IDS_GMSHOT_DELAY_CHANGED"
 msgstr "主砲の装填時間が短縮された"
 
+msgid "IDS_GMSIDEAL_RADIUS_CHANGED"
+msgstr "中口径砲弾の最大散布界が減少しました"
+
 msgid "IDS_GMSIGMACOUNT"
 msgstr ": 主砲弾の最大散布界"
+
+msgid "IDS_GMSMAX_DIST_CHANGED"
+msgstr "中口径砲の射程が延伸された"
+
+msgid "IDS_GMSROTATION_SPEED_CHANGED"
+msgstr "中口径砲の旋回速度が向上しました"
+
+msgid "IDS_GMSSHOT_DELAY_CHANGED"
+msgstr "中口径砲の装填時間が短縮された"
 
 msgid "IDS_GNIDOVSKY"
 msgstr "Rupert G."
@@ -36476,7 +37439,7 @@ msgid "IDS_HINT_LEFT_DESELECT_ALL_SHIPS"
 msgstr "全艦艇を選択解除"
 
 msgid "IDS_HINT_LEFT_DESELECT_SHIPS"
-msgstr "この艦を選択解除"
+msgstr "選択をキャンセル"
 
 msgid "IDS_HINT_LEFT_SELECT_ALL_SHIPS"
 msgstr "全艦艇を選択"
@@ -36486,6 +37449,9 @@ msgstr "フリー EXP への変換元の艦を選択"
 
 msgid "IDS_HINT_LEFT_SELECT_SHIP_FOR_MOD_UNMOUNT"
 msgstr "アップグレードを撤去する艦艇を選択"
+
+msgid "IDS_HINT_LEFT_SELECT_SHIP_TO_RESTORE"
+msgstr "復旧する艦艇を選択してください"
 
 msgid "IDS_HINT_LINKED_TASKS"
 msgstr "この任務を達成して現在の任務へのアクセス権を得ましょう"
@@ -36580,10 +37546,10 @@ msgstr "艦艇の表示順を選択してください"
 msgid "IDS_HINT_SHIP_CLASS"
 msgstr "艦種"
 
-msgid "IDS_HINT_SHIP_EXP_FILTERING_SORT"
+msgid "IDS_HINT_SHIP_FILTERING_SORT"
 msgstr "艦艇の表示順を選択してください"
 
-msgid "IDS_HINT_SHIP_EXP_FILTERING_SORT_SET_REVERSE"
+msgid "IDS_HINT_SHIP_FILTERING_SORT_SET_REVERSE"
 msgstr "艦艇を逆順で表示"
 
 msgid "IDS_HINT_SHIP_LEVEL"
@@ -36687,6 +37653,9 @@ msgstr "Vladimir Kholstinin"
 
 msgid "IDS_HORACEHOOD"
 msgstr "Horace Hood"
+
+msgid "IDS_HORACEHOOD_DESC"
+msgstr "<p>ホレス・フッド (1870–1916) — 子爵、イギリス海軍士官、1913 年より少将。</p><p class=\"p_spacing\"> </p><p>18 世紀の帆船時代におけるイギリスの偉大な海軍提督の家系に生まれた。12 歳で海軍に入隊。1898 年、ナイル川で砲艦を指揮し、スーダンの反乱軍との戦闘で功績を挙げた。1904 年には海兵隊と歩兵からなる部隊を率い、ソマリアの反乱軍との戦闘で個人的な勇気を示した。第一次世界大戦の初期には、ドーバー海峡で連合軍の沿岸側面を首尾よく支援したモニター艦部隊を指揮した。1915 年 5 月より、グランドフリートの第 3 巡洋戦艦戦隊を指揮。1916 年 5 月 30 日のユトランド沖海戦において、フッドの戦隊は主力部隊の前衛を構成していた。その旗艦である巡洋戦艦インヴィンシブルは、主砲弾薬庫に被弾し沈没した。ホレス・フッドはその艦と運命を共にした。</p>"
 
 msgid "IDS_HORSE_POWER"
 msgstr "馬力"
@@ -36859,6 +37828,9 @@ msgstr "あらゆる戦闘と港でこのプレイヤーからのメッセージ
 
 msgid "IDS_IJUINMATSUJI"
 msgstr "伊集院松治"
+
+msgid "IDS_IJUINMATSUJI_DESC"
+msgstr "<p>伊集院松治（1893–1944）— 日本海軍軍人。没後、海軍中将に昇進した。</p><p class=\"p_spacing\"></p><p>元帥海軍大将伊集院五郎の息子で、1915 年に海軍兵学校を卒業。1941 年 12 月までに大佐となり重巡洋艦「愛宕」艦長を務めた。1942 年 6 月のミッドウェー海戦に参加し、同年 12 月から戦艦「金剛」艦長。1943 年 7 月、第 3 駆逐隊司令に任命され、ソロモン諸島ベララベラ島沖でアメリカ艦隊に対し夜戦で勝利を収めた。1943 年 11 月 1 日、少将に昇進。その翌日、旗艦の軽巡洋艦「川内」がブーゲンビル島沖海戦で沈没し、自身は潜水艦に救助された。その後参謀職を経て、1944 年 4 月から第一護衛船団司令官。1944 年 5 月 2 日、潜水艦の雷撃を受けた護衛艦「壱岐」で戦死した。</p>"
 
 msgid "IDS_IKEDAMAMORU"
 msgstr "池田守"
@@ -37713,8 +38685,14 @@ msgstr "里見智和"
 msgid "IDS_JASON_TUMANOFF"
 msgstr "Jason Tumanoff"
 
+msgid "IDS_JASON_TUMANOFF_DESC"
+msgstr "<p>ヤゾン・コンスタンティノヴィチ・トゥマノフ (1883–1955) は公爵であり、ロシアおよびパラグアイの海軍将校、一等海佐である。</p><p class=\"p_spacing\"> </p><p>日露戦争中は戦艦「オリョール」に乗艦し、日本海海戦で重傷を負った。第一次世界大戦中は駆逐艦「ジヴーチイ」を指揮し、黒海艦隊司令部作戦部長を務め、四つの戦闘勲章を授与された。ロシア内戦では白軍側で参加し、亡命を経て 1924 年に南米へ移住した。1932 年から 1935 年にかけてパラグアイとボリビアの間で行われたチャコ戦争に参加し、パラグアイの河川戦闘部隊の組織者として功績を挙げた。ヤゾン・コンスタンティノヴィチはパラグアイの首都アスンシオンに居住し、現地ロシア人社会の発展を支援し、ロシアおよびパラグアイ海軍での勤務に関する回想録を残した。</p>"
+
 msgid "IDS_JENKINS"
 msgstr "Leroy Jenkins"
+
+msgid "IDS_JENKINS_DESC"
+msgstr "<p>ルロイ・ジェンキンス (1934–2025) は、その人生が駆逐艦 USS キッドと深く関わったアメリカ人船員である。</p><p class=\"p_spacing\"> </p><p>1955 年、彼はアメリカ陸軍に徴兵され、サンディエゴのアメリカ海軍訓練センターを卒業し、1957 年には USS キッドに勤務した。兵役終了後、ジェンキンスはアメリカ海軍を離れ、民間人としての生活に戻った。長い年月を経て、彼は再びその艦の艦上に立つこととなった。今度は博物館の職員としてである。</p>"
 
 msgid "IDS_JG_MEPHISTEUFEL_H18"
 msgstr "J.G. Mephisteufel"
@@ -38101,6 +39079,9 @@ msgstr "Ksanka Shchus"
 msgid "IDS_KUZNETSOV"
 msgstr "Nikolay Kuznetsov"
 
+msgid "IDS_KUZNETSOV_DESC"
+msgstr "<p>ニコライ・ゲラシモヴィチ・クズネツォフ (1904–1974) — ソ連の海軍軍人で、1955 年よりソ連邦海軍元帥。</p><p class=\"p_spacing\"></p><p>1919 年に海軍での勤務を開始。1926 年にレニングラードのフルンゼ名称海軍兵学校を卒業。1933 年から黒海艦隊の巡洋艦「クラースヌイ・カフカース」を指揮し、1936 年から 1937 年にかけてスペイン内戦に参加した。1938 年に太平洋艦隊司令官に任命され、1939 年にはソ連海軍人民委員となった。クズネツォフは大祖国戦争開始前のソ連海軍強化に大きな貢献をし、戦時中は海軍の建設と運用を成功裏に指導した。1944 年に海軍元帥に昇進し、1945 年にはソ連邦英雄の称号を授与された。1946 年から 1948 年まで、および 1953 年から 1955 年まで海軍総司令官を務め、1951 年から 1953 年まではソ連の海軍大臣を務めた。1956 年より退役。</p>"
+
 msgid "IDS_K_TYPE_SUBTEST"
 msgstr "Semyon Rybakov"
 
@@ -38261,6 +39242,9 @@ msgstr "冬のレナ"
 
 msgid "IDS_LEO_GRADWELL"
 msgstr "Leo Gradwell"
+
+msgid "IDS_LEO_GRADWELL_DESC"
+msgstr "<p>レオ・グレードウェル (1899–1969) はイギリスの海軍将校で、民間の職業は弁護士であった。</p><p class=\"p_spacing\"> </p><p>オックスフォード大学を卒業し、6 か国語を操った。第一次世界大戦中は海軍の士官候補生として勤務し、その後復員した。民間生活に戻り、弁護士として働き、ヨット競技に熱中した。第二次世界大戦が始まると再び軍務に就き、英国海軍予備員として大尉に任官した。1942 年に現役に転じ、哨戒艇に改造されたトロール船エアシャーの艦長に任命された。北極輸送船団 PQ-17 の護衛艦隊に加わり、グレードウェルは散り散りになった船団から輸送船 3 隻を救い、7 月 4 日から 25 日にかけて北極海の氷縁に沿ってノヴァヤゼムリャへ、さらにアルハンゲリスクまで導き、敵機や潜水艦の攻撃を回避することに成功した。この功績により殊勲十字章を授与された。戦後は弁護士業に戻った。</p>"
 
 msgid "IDS_LEPRECHAUN"
 msgstr "Seán McMurphy"
@@ -40182,9 +41166,6 @@ msgstr "新コンテナ 利用可能"
 msgid "IDS_LOOTBOX_DESCRIPTION"
 msgstr "コンテナからはそのタイプに応じて様々なゲーム内アイテムがドロップされます。"
 
-msgid "IDS_LOOTBOX_EXP_HINT"
-msgstr "今日取得した EXP。コンテナを入手するには EXP が必要です。"
-
 msgid "IDS_LOOTBOX_FOR"
 msgstr "コンテナ:"
 
@@ -40250,6 +41231,9 @@ msgstr "SHIFT"
 
 msgid "IDS_LUTJENS"
 msgstr "Günther Lütjens"
+
+msgid "IDS_LUTJENS_DESC"
+msgstr "<p>ギュンター・リュッチェンス (1889–1941) はドイツ海軍将校で、1940 年から提督。</p><p class=\"p_spacing\"> </p><p>1907 年に海軍での勤務を開始した。第一次世界大戦中、駆逐艦の艦長として功績を挙げた。戦後も勤務を続け、1937 年からは少将として、駆逐艦と巡洋艦からなる偵察部隊を指揮した。第二次世界大戦の初期、リュッチェンスはポーランド、イギリス、ノルウェー沿岸でのドイツ艦艇の行動を指揮し、その功績により中将に昇進し、後に水上艦隊司令長官に任命された。1941 年 1 月、彼の指揮下、戦艦シャルンホルストとグナイゼナウが大西洋で敵の海上交通路を攻撃する作戦を成功させた。同年 5 月、リュッチェンスは戦艦ビスマルク、巡洋艦プリンツ・オイゲンと共に北大西洋へ出撃した。5 月 24 日、デンマーク海峡の戦いでビスマルクはイギリスの巡洋戦艦フッドを撃沈し、5 月 27 日、リュッチェンスはビスマルクの最後の戦いと共に戦死した。</p>"
 
 msgid "IDS_L_O_C_A_L_I_Z_E_D_K_O_R_A_B_L_I"
 msgstr "Copyright © 2024–2026 LocalizedKorabli"
@@ -40809,6 +41793,9 @@ msgstr "装甲が脆弱"
 msgid "IDS_MAKAROV"
 msgstr "Stepan Makarov"
 
+msgid "IDS_MAKAROV_DESC"
+msgstr "<p>ステパン・オシポヴィチ・マカロフ (1849–1904) — ロシアの海軍指揮官、海軍理論家、科学者。1896 年から — 海軍中将。</p><p class=\"p_spacing\"> </p><p>1865 年に航海士学校を卒業。露土戦争 (1877–1878) 中、機雷艇母艦である蒸気船「ヴェリーキー・クニャージ・コンスタンチン」を指揮し、史上初めて魚雷攻撃を成功させた。艦艇の不沈理論を開発した。1890 年代にはバルト海、地中海、極東で戦隊を指揮した。1899 年から 1901 年にかけて、彼の提案で建造された世界初の砕氷船「エルマーク」で 3 回の北極探検を行った。日露戦争が始まると、旅順の太平洋艦隊第 1 戦隊司令官に任命され、その作戦を巧みに指揮した。1904 年 4 月 13 日、ステパン・オシポヴィチは、機雷に触れて爆発した戦艦「ペトロパヴロフスク」と運命を共にした。</p>"
+
 msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
 msgstr "プライベートトレーニングルーム"
 
@@ -40883,6 +41870,9 @@ msgstr "褒賞を受け取る"
 
 msgid "IDS_MARON_YANAGIWARA"
 msgstr "柳原麻侖"
+
+msgid "IDS_MARO_ANIME"
+msgstr "Maro"
 
 msgid "IDS_MASTER_VOLUME"
 msgstr "音量"
@@ -41765,6 +42755,30 @@ msgstr "デカールの購入"
 msgid "IDS_MODAL_WINDOW_BUY_DECAL_INFO"
 msgstr "別の艦艇にこのデカールを装着するには、もう 1 コピー入手する必要があります。"
 
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG"
+msgstr "購入しますか? 費用:"
+
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG_AND_SAVE"
+msgstr "購入して保存する? 費用:"
+
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG_BGBORDERCOLOR_HEADER"
+msgstr "縁取りの購入"
+
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG_BGCOLOR_HEADER"
+msgstr "基底の購入"
+
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG_BGMATERIAL_HEADER"
+msgstr "テクスチャの購入"
+
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG_BGSHAPE_HEADER"
+msgstr "形状の購入"
+
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG_PATCH_HEADER"
+msgstr "パッチの購入"
+
+msgid "IDS_MODAL_WINDOW_BUY_DOGTAG_SYMBOL_HEADER"
+msgstr "シンボルの購入"
+
 msgid "IDS_MODAL_WINDOW_CLANBATTLE_RULES_HEADER"
 msgstr "クラン戦"
 
@@ -41782,6 +42796,9 @@ msgstr "褒賞"
 
 msgid "IDS_MODAL_WINDOW_CLANBATTLE_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "所属クランが達成したリーグと各自の個人貢献に応じて様々な褒賞を獲得できます。"
+
+msgid "IDS_MODAL_WINDOW_CONSTRUCTOR_BUY_DOGTAG_HEADER"
+msgstr "コンストラクター要素の購入と保存"
 
 msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_HEADER"
 msgstr "Co-op 戦"
@@ -41806,6 +42823,9 @@ msgstr "• Tier IV: 6 対 6 または 9 対 9;"
 
 msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_4"
 msgstr "• Tier V–X: 9 対 9。"
+
+msgid "IDS_MODAL_WINDOW_CREW_ADDITIONAL_INFO"
+msgstr "艦長について"
 
 msgid "IDS_MODAL_WINDOW_CREW_INFO_HEADER"
 msgstr "スキルの詳細"
@@ -43246,9 +44266,6 @@ msgstr "損傷した敵の兵装"
 msgid "IDS_MODULES_DESTROYED"
 msgstr "モジュール大破"
 
-msgid "IDS_MODULES_SHIP_CROSS_RESEARCH"
-msgstr "艦艇研究に必要です"
-
 msgid "IDS_MODULES_UNAVAILABLE"
 msgstr "この艦艇ではモジュール/アップグレードをカスタマイズ不能"
 
@@ -43275,6 +44292,9 @@ msgstr "主砲"
 
 msgid "IDS_MODULE_PINGER"
 msgstr "ソナー"
+
+msgid "IDS_MODULE_SECONDARY_GUN"
+msgstr "中口径砲"
 
 msgid "IDS_MODULE_STATE_AVAILABLE"
 msgstr "モジュールを搭載可能です"
@@ -43667,7 +44687,7 @@ msgid "IDS_MSAA_MODE_DESCRIPTION"
 msgstr "3D オブジェクトの輪郭部でより多くの画素を処理するタイプの映像アンチエイリアスの設定です。オブジェクトの輪郭の映像品質が高まります。"
 
 msgid "IDS_MSKIN_NOT_LINKED"
-msgstr ""
+msgstr "未リンク。迷彩をリンクすると、別の艦艇に搭載できなくなります。"
 
 msgid "IDS_MT_KATUKOV"
 msgstr "Mikhail Katukov"
@@ -44484,7 +45504,7 @@ msgid "IDS_NEED_SERVICE"
 msgstr "修理・補給が必要"
 
 msgid "IDS_NERET_ANIME"
-msgstr "Nere"
+msgstr "Neret"
 
 msgid "IDS_NETHERLANDS"
 msgstr "オランダ"
@@ -45766,6 +46786,9 @@ msgstr "次のレベル"
 msgid "IDS_NEXT_REPLENISHMENT"
 msgstr "次の補給"
 
+msgid "IDS_NIKEA_ANIME"
+msgstr "Nikea Limneida"
+
 msgid "IDS_NO"
 msgstr "いいえ"
 
@@ -46119,6 +47142,9 @@ msgstr "制限なし"
 
 msgid "IDS_NO_SHIPS"
 msgstr "艦艇なし"
+
+msgid "IDS_NO_SHIPS_TO_RESTORE_HINT"
+msgstr "あなたは売却済みの特別艦艇またはプレミアム艦艇を持っていません"
 
 msgid "IDS_NO_SIGNALS_ON_STORAGE_HINT"
 msgstr "信号旗を所有していません"
@@ -47054,19 +48080,19 @@ msgstr ""
 "全艦艇のうち半数以上が到達する必要がある。"
 
 msgid "IDS_OP_01_02_MOB_AIR_CARRIER_1"
-msgstr "Fury"
+msgstr "Karl"
 
 msgid "IDS_OP_01_02_MOB_AIR_CARRIER_1_SUPPORT_1"
 msgstr "Gimu"
 
 msgid "IDS_OP_01_02_MOB_AIR_CARRIER_1_SUPPORT_2"
-msgstr "Goku"
+msgstr "Teodor"
 
 msgid "IDS_OP_01_02_MOB_AIR_CARRIER_2"
-msgstr "Dono"
+msgstr "Friedrich"
 
 msgid "IDS_OP_01_02_MOB_AIR_CARRIER_2_SUPPORT_1"
-msgstr "Deky"
+msgstr "Victor"
 
 msgid "IDS_OP_01_02_MOB_AIR_CARRIER_2_SUPPORT_2"
 msgstr "Goto"
@@ -47081,7 +48107,7 @@ msgid "IDS_OP_01_02_MOB_REINFORCEMENT_1_1"
 msgstr "Richard"
 
 msgid "IDS_OP_01_02_MOB_REINFORCEMENT_1_2"
-msgstr "Siegfried"
+msgstr "Conrad"
 
 msgid "IDS_OP_01_02_MOB_REINFORCEMENT_2_1"
 msgstr "Ulrich"
@@ -47102,13 +48128,13 @@ msgid "IDS_OP_01_02_MOB_REINFORCEMENT_4_1"
 msgstr "Heinrich"
 
 msgid "IDS_OP_01_02_MOB_REINFORCEMENT_4_2"
-msgstr "Karl"
+msgstr "Heintz"
 
 msgid "IDS_OP_01_02_MOB_REINFORCEMENT_4_3"
 msgstr "Gustav"
 
 msgid "IDS_OP_01_02_MOB_REINFORCEMENT_5_1"
-msgstr "Heintz"
+msgstr "Bruno"
 
 msgid "IDS_OP_01_02_MOB_REINFORCEMENT_5_2"
 msgstr "Jacob"
@@ -47147,10 +48173,10 @@ msgid "IDS_OP_01_02_MOB_WARSHIP_03"
 msgstr "Emil"
 
 msgid "IDS_OP_01_02_MOB_WARSHIP_04"
-msgstr "Friedrich"
+msgstr "Siegfried"
 
 msgid "IDS_OP_01_02_MOB_WARSHIP_05"
-msgstr "Futa"
+msgstr "Anton"
 
 msgid "IDS_OP_01_02_MOB_WARSHIP_06"
 msgstr "Ludwig"
@@ -52319,14 +53345,11 @@ msgstr "消耗品の準備時間"
 msgid "IDS_PARAMS_MODIFIER_ARTILLERYBOOSTERSRELOADCOEFF_SKILL"
 msgstr "消耗品「主砲装填ブースター」の準備時間"
 
-msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUSMAIN"
-msgstr "主砲 HE 弾による火災発生率"
-
-msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUSSEC"
-msgstr "副砲 HE 弾による火災発生率"
-
 msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUS_AIRCARRIER"
 msgstr "HE 弾による火災発生率"
+
+msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUS_ATBA"
+msgstr "副砲 HE 弾による火災発生率"
 
 msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUS_AUXILIARY"
 msgstr "HE 弾による火災発生率"
@@ -52340,6 +53363,12 @@ msgstr "HE 弾による火災発生率"
 msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUS_DESTROYER"
 msgstr "HE 弾による火災発生率"
 
+msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUS_MAIN"
+msgstr "主砲 HE 弾による火災発生率"
+
+msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUS_SECONDARY"
+msgstr "中口径砲 HE 弾による火災発生率"
+
 msgid "IDS_PARAMS_MODIFIER_ARTILLERYBURNCHANCEBONUS_SUBMARINE"
 msgstr "HE 弾による火災発生率"
 
@@ -52347,7 +53376,7 @@ msgid "IDS_PARAMS_MODIFIER_ARTILLERYDAMAGECOEF"
 msgstr "砲によるダメージ"
 
 msgid "IDS_PARAMS_MODIFIER_ARTILLERYDISTCOEFF"
-msgstr "主砲の射程"
+msgstr "主砲と中口径砲の射程"
 
 msgid "IDS_PARAMS_MODIFIER_ARTILLERYKRUPPMULTIPLIER"
 msgstr "AP 弾の装甲貫通力"
@@ -52938,8 +53967,23 @@ msgstr "主砲の旋回速度"
 msgid "IDS_PARAMS_MODIFIER_GMROTATIONSPEED_SUBMARINE"
 msgstr "主砲の旋回速度"
 
+msgid "IDS_PARAMS_MODIFIER_GMSAPDAMAGECOEFF"
+msgstr "中口径砲 AP 弾のダメージ"
+
+msgid "IDS_PARAMS_MODIFIER_GMSCRITPROB"
+msgstr "中口径砲が機能停止する確率"
+
+msgid "IDS_PARAMS_MODIFIER_GMSCSDAMAGECOEFF_SKILL"
+msgstr "中口径砲 SAP 弾のダメージ"
+
 msgid "IDS_PARAMS_MODIFIER_GMSDAMAGECOEFF"
 msgstr "中口径砲弾のダメージ"
+
+msgid "IDS_PARAMS_MODIFIER_GMSHECSDAMAGECOEFF"
+msgstr "中口径砲 HE 弾および SAP 弾のダメージ"
+
+msgid "IDS_PARAMS_MODIFIER_GMSHEDAMAGECOEFF_SKILL"
+msgstr "中口径砲 HE 弾のダメージ"
 
 msgid "IDS_PARAMS_MODIFIER_GMSHOTDELAY"
 msgstr "主砲の装填時間"
@@ -52959,8 +54003,35 @@ msgstr "中口径砲 SAP 弾の装甲貫通力"
 msgid "IDS_PARAMS_MODIFIER_GMSPENETRATIONCOEFFHE"
 msgstr "中口径砲 HE 弾の装甲貫通力"
 
+msgid "IDS_PARAMS_MODIFIER_GMSREPAIRTIME"
+msgstr "中口径砲の修理時間"
+
+msgid "IDS_PARAMS_MODIFIER_GMSROTATIONSPEEDBONUS"
+msgstr "中口径砲の旋回速度"
+
+msgid "IDS_PARAMS_MODIFIER_GMSROTATIONSPEED_AIRCARRIER"
+msgstr "中口径砲の旋回速度"
+
+msgid "IDS_PARAMS_MODIFIER_GMSROTATIONSPEED_BATTLESHIP"
+msgstr "中口径砲の旋回速度"
+
+msgid "IDS_PARAMS_MODIFIER_GMSROTATIONSPEED_CRUISER"
+msgstr "中口径砲の旋回速度"
+
+msgid "IDS_PARAMS_MODIFIER_GMSROTATIONSPEED_DESTROYER"
+msgstr "中口径砲の旋回速度"
+
+msgid "IDS_PARAMS_MODIFIER_GMSROTATIONSPEED_SUBMARINE"
+msgstr "中口径砲の旋回速度"
+
 msgid "IDS_PARAMS_MODIFIER_GMSSHOTDELAY"
 msgstr "中口径砲の装填時間"
+
+msgid "IDS_PARAMS_MODIFIER_GMSSWITCHAMMORELOADCOEF"
+msgstr "中口径砲の弾種切り替え時間"
+
+msgid "IDS_PARAMS_MODIFIER_GMSWITCHAMMORELOADCOEF"
+msgstr "主砲の弾種切り替え時間"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR"
 msgstr "副砲弾ダメージ"
@@ -53151,6 +54222,9 @@ msgstr "対空継続ダメージ"
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_AIRSUPPORT"
 msgstr "飛行機隊の準備時間"
 
+msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_ATBA"
+msgstr "副砲の装填時間"
+
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_DEPTHCHARGES"
 msgstr "爆雷の装填時間"
 
@@ -53160,8 +54234,8 @@ msgstr "主砲の装填時間"
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_PINGER"
 msgstr "ソナーの準備時間"
 
-msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_SEC"
-msgstr "副砲の装填時間"
+msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_SECONDARY"
+msgstr "中口径砲の装填時間"
 
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_TORP"
 msgstr "魚雷発射管の装填時間"
@@ -53171,6 +54245,9 @@ msgstr "中隊の速力向上 (HP 喪失 1% 毎に)"
 
 msgid "IDS_PARAMS_MODIFIER_LIFETIME"
 msgstr "煙幕の持続時間"
+
+msgid "IDS_PARAMS_MODIFIER_MAINARTILLERYDISTCOEFF"
+msgstr "主砲の射程"
 
 msgid "IDS_PARAMS_MODIFIER_MAINGAUGEBURNPROBABILITYFORCAPTURE"
 msgstr "HE 弾による火災発生率"
@@ -53559,6 +54636,9 @@ msgstr "消耗品「着弾観測機」の準備時間"
 msgid "IDS_PARAMS_MODIFIER_SCOUTWORKTIMECOEFF"
 msgstr "消耗品「着弾観測機」の動作時間"
 
+msgid "IDS_PARAMS_MODIFIER_SECONDARYARTILLERYDISTCOEFF"
+msgstr "中口径砲の射程"
+
 msgid "IDS_PARAMS_MODIFIER_SECTORSWITCHDELAYCOEFFICIENT"
 msgstr "対空セクター強化時間"
 
@@ -53714,9 +54794,6 @@ msgstr "操舵不能"
 
 msgid "IDS_PARAMS_MODIFIER_SUBMARINELOWDAMAGE"
 msgstr "潜水艦はダメージが軽減されます"
-
-msgid "IDS_PARAMS_MODIFIER_SWITCHAMMORELOADCOEF"
-msgstr "主砲弾種切り替え時間"
 
 msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
 msgstr ""
@@ -60718,6 +61795,12 @@ msgstr "40 mm/56 OQF Mk.X (STAAG Mk.2 砲座)"
 msgid "IDS_PBGA194_40MM_BOFORS_5_RP50"
 msgstr "40 mm/56 OQF Mk.XI (RP50 砲座)"
 
+msgid "IDS_PBGA3000_40MM_BOFORS_MARK_VII_SINGLE"
+msgstr "40 mm/56 OQF Mk.III (Mk.VII 砲座)"
+
+msgid "IDS_PBGA3003_40MM_56_MK_X_STAAG_MK_II"
+msgstr "40 mm/56 OQF Mk.X (STAAG Mk.2 砲座)"
+
 msgid "IDS_PBGM001_6IN50_MK_XXIII"
 msgstr "152 mm/50 BL Mk.XXIII (Mk.XXIII 砲座)"
 
@@ -60925,6 +62008,9 @@ msgstr "343 mm/45 Mk.V (Mk.II* 砲座)"
 msgid "IDS_PBGM264_13_5IN_45_MARK_V_TIG_DUKE"
 msgstr "343 mm/45 Mk.V (Mk.II** 砲座)"
 
+msgid "IDS_PBGM3002_127MM_5IN_QF_MN2"
+msgstr "127 mm/56 QF (Mk.N2 連装砲座)"
+
 msgid "IDS_PBGM8826_5_MLE_1887_93"
 msgstr "164.7 mm/45 Mle 1887/93"
 
@@ -61107,6 +62193,9 @@ msgstr "533 mm PR Mk II"
 
 msgid "IDS_PBGT162_622MM_INVISIBLE_7M"
 msgstr "622 mm PR Mk II"
+
+msgid "IDS_PBGT3004_21IN_5TUBE_TORPEDO_TUBE"
+msgstr "533 mm PR Mk II"
 
 msgid "IDS_PBGT902_4TUBES_R"
 msgstr "622 mm PR Mk IV"
@@ -61373,10 +62462,10 @@ msgid "IDS_PBPA088_203MM_HE_LONDON"
 msgstr "203 mm HE 256 lb"
 
 msgid "IDS_PBPA089_190MM_HE_200LBS"
-msgstr "190 mm HE 200 fn."
+msgstr "190 mm HE 200 lb"
 
 msgid "IDS_PBPA090_190MM_AP_200LBS"
-msgstr "190 mm AP 200 fn."
+msgstr "190 mm AP 200 lb"
 
 msgid "IDS_PBPA091_234MM_HE_CHESHIRE"
 msgstr "234 mm HE 6 CRH"
@@ -70749,7 +71838,7 @@ msgid "IDS_PCEE759_DANZIG_FLAG"
 msgstr "Danzig"
 
 msgid "IDS_PCEE759_DANZIG_FLAG_DESCRIPTION"
-msgstr "歴史的旗章：18～19 世紀にかけて使用されたダンツィヒの旗。都市の歴史の中でその意匠は幾度も変遷を重ねてきたが、ほぼ全てのデザインに二つの白十字と金の王冠が描かれている。"
+msgstr "歴史的旗章: 18～19 世紀にかけて使用されたダンツィヒの旗。都市の歴史の中でその意匠は幾度も変遷を重ねてきたが、ほぼ全てのデザインに二つの白十字と金の王冠が描かれている。"
 
 msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG"
 msgstr "イタリア巡洋艦"
@@ -71167,6 +72256,12 @@ msgstr "USS Shenandoah"
 msgid "IDS_PCEE821_SHENANDOAH_FLAG_DESCRIPTION"
 msgstr "シェナンドーは、ヴァージニア州の同名の谷間を流れる川である。南北戦争の時代、この谷間からはアイリッシュ系の志願兵が集い、南軍第 33 歩兵連隊に属する「エメラルド衛兵」中隊として結成された。"
 
+msgid "IDS_PCEE822_SAN_GIORGIO_FLAG"
+msgstr "RN San Giorgio"
+
+msgid "IDS_PCEE822_SAN_GIORGIO_FLAG_DESCRIPTION"
+msgstr "1947 年以降、イタリア海軍の艦艇の艦首旗 (ジョイス) には、ヴェネツィア、ジェノヴァ、ピサ、アマルフィの 4 つの歴史的海上共和国の紋章が描かれています。これらの都市国家は、かつて航海、海上貿易、造船の有名な中心地でした。"
+
 msgid "IDS_PCEE823_NORTHAMPTON_FLAG"
 msgstr "USS Northampton"
 
@@ -71184,6 +72279,15 @@ msgstr "GDR"
 
 msgid "IDS_PCEE825_DDR_FLAG_DESCRIPTION"
 msgstr "ドイツが東ドイツと西ドイツに分割されてから 10 年間、両国の国旗は同じ見た目でした。1959 年に初めて、ドイツ民主共和国の三色旗に、ハンマー、コンパス、小麦の穂の輪が描かれた紋章が追加されました。これらは労働者、技術者、農民の団結を象徴しています。"
+
+msgid "IDS_PCEE826_ETERIA_STORY_FLAG"
+msgstr "アストリリア"
+
+msgid "IDS_PCEE826_ETERIA_STORY_FLAG_DESCRIPTION"
+msgstr "蒸気技術の発祥の地。アストリリア人は自らの発明を合理性の勝利と信じていますが、「蒸気の心臓」には単なる歯車以上のものが宿っています。時計から巨大な飛行船に至るまで、すべての機械はこの秘められた力によって動いているのです。"
+
+msgid "IDS_PCEE826_ETERIA_STORY_FLAG_EXTRA_DESCRIPTION"
+msgstr "イベント「エーテリアの守護者. 氷と蒸気」を記念して"
 
 msgid "IDS_PCEE827_BUDAPEST_FLAG"
 msgstr "SMS Budapest"
@@ -71214,6 +72318,39 @@ msgstr "Hakusan"
 
 msgid "IDS_PCEE834_HAKUSAN_FLAG_DESCRIPTION"
 msgstr "白山は本州の火山で、富士山、立山と並ぶ日本三霊山の一つです。標高は 2700 メートルで、山頂は一年中雪に覆われています。その名は日本語で「白い山」を意味することに由来します。"
+
+msgid "IDS_PCEE842_ISONZO_FLAG"
+msgstr "RN Isonzo"
+
+msgid "IDS_PCEE842_ISONZO_FLAG_DESCRIPTION"
+msgstr "1915 年から 1917 年にかけて、イゾンツォ川の谷はイタリア軍とオーストリア＝ハンガリー軍の間で 12 回に及ぶ血みどろの戦いの舞台となりました。イタリア陸軍の突撃部隊「アルディーティ」は、第一次世界大戦中、古代ローマの剣「グラディウス」を月桂樹と樫の枝で囲んだ刺繍入りのエンブレムを腕に付けていました。"
+
+msgid "IDS_PCEE843_25_DE_MAYO_FLAG"
+msgstr "ARA 25 de Mayo"
+
+msgid "IDS_PCEE843_25_DE_MAYO_FLAG_DESCRIPTION"
+msgstr "1810 年 5 月 25 日に終結した五月革命は、アルゼンチンおよび他の南米植民地の独立闘争の幕開けとなりました。この旗は、1817 年にアンデス山脈を 3 週間かけて越え、チャカブコの戦いで勝利し、チリからスペイン軍を追い払ったアンデス軍の旗に触発されたものです。"
+
+msgid "IDS_PCEE844_SCHWABEN_FLAG"
+msgstr "Schwaben"
+
+msgid "IDS_PCEE844_SCHWABEN_FLAG_DESCRIPTION"
+msgstr "シュヴァーベンは、現代のバーデン＝ヴュルテンベルク州とバイエルン州西部を含む、ドイツ南西部の歴史的地域です。この旗は、13 世紀以来シュヴァーベンを統治した有力な諸侯家門、フュルステンベルク家の紋章に触発されたものです。"
+
+msgid "IDS_PCEE845_SKADY_SPEAR_FLAG"
+msgstr "ヴィンターガルド"
+
+msgid "IDS_PCEE845_SKADY_SPEAR_FLAG_DESCRIPTION"
+msgstr "過酷な氷の荒野の果て。ヴィンターガルド人の建造物や武器は、まるで何世紀にもわたる氷から鍛え上げられたかのようです。一見透明で脆そうに見えますが、自然の猛威に屈せず、最も暑い夏の日でも溶けることはありません。まるで冬そのものが彼らと揺るぎない同盟を結んでいるかのようです。"
+
+msgid "IDS_PCEE845_SKADY_SPEAR_FLAG_EXTRA_DESCRIPTION"
+msgstr "イベント「エーテリアの守護者. 氷と蒸気」を記念して"
+
+msgid "IDS_PCEE846_IVAN_GROZNY_FLAG"
+msgstr "Ivan Grozny"
+
+msgid "IDS_PCEE846_IVAN_GROZNY_FLAG_DESCRIPTION"
+msgstr "イヴァン雷帝の治世において、ユニコーンは皇帝権力の象徴の一つとなった。この神話上の生き物の姿は、1561 年に作成された大国璽や、68 ポンド砲「イノログ」を含むいくつかの大型火砲を飾った。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "サンタ求む 2016"
@@ -74325,7 +75462,7 @@ msgid "IDS_PCZC224_HB18_CLAN_BASE"
 msgstr "もっとオイルを!"
 
 msgid "IDS_PCZC224_HB18_CLAN_BASE_DESCRIPTION"
-msgstr "<p>バージョン: 0.6.11.</p><p class=\"p_spacing\"> </p><p>我らが港は、我らが城なり。クラン基地が実装されました。<br>「素晴しいよね?」と誰かが言いました。「ついに自分たちの基地を建造できるんだよ... 潜水艦も欲しいし、研究所も欲しい!」</p>"
+msgstr "<p>バージョン: 0.6.11.</p><p class=\"p_spacing\"> </p><p>私の港は私の要塞。今日、我々にクランベースができました。<br/>「素晴らしい、素晴らしい」と、ある者たちは手をこすりながら言った。「ついに自分の基地を建設できる...潜水艦と研究所を備えた基地を！」</p>"
 
 msgid "IDS_PCZC225_HB18_HALLOWEEN"
 msgstr "汚れ仕事"
@@ -74343,7 +75480,7 @@ msgid "IDS_PCZC227_HB18_PA_DESTROYERS"
 msgstr "身をかがめる駆逐艦、隠された戦艦"
 
 msgid "IDS_PCZC227_HB18_PA_DESTROYERS_DESCRIPTION"
-msgstr "<p>バージョン: 0.6.14.</p><p class=\"p_spacing\"> </p><p>新たな駆逐艦ブランチが加わりました。<br>パンアジアからやって来たゲスト達は、一見は馴染み深いですが、その装備には風変わりな特徴があり、深度魚雷と特殊仕様の発煙装置を搭載しています。Yueyang (岳陽、ユエヤン) は Tier X 駆逐艦として最高の隠蔽性を誇りますが、いつまでその座に留まり続けられるかは分かりません...</p>"
+msgstr "<p>バージョン: 0.6.14.</p><p class=\"p_spacing\"> </p><p>我々の戦隊に新しい駆逐艦が加わりました。<br/>汎アジアからのゲストは見慣れた外観ですが、武装は非常にエキゾチックです。深度魚雷と標準的でない発煙装置の特性。Yueyang は今や Tier X で最も発見されにくい駆逐艦です。これがどれだけ続くかはわかりませんが...</p>"
 
 msgid "IDS_PCZC228_HB18_DUKE_OF_YORK"
 msgstr "空母の年は終わった"
@@ -74903,7 +76040,7 @@ msgid "IDS_PCZC314_AZURLANE_GRAFZEPPELIN"
 msgstr "グラーフ・ツェッペリン"
 
 msgid "IDS_PCZC314_AZURLANE_GRAFZEPPELIN_DESCRIPTION"
-msgstr "<p>我はツェッペリン…この名は捨てても構わぬが、呼びやすいようなら我をこう呼びたまえ。</p><p class=\"p_spacing\"> </p><p>——願望、か。世界を滅ぼすことだ…だが今は、卿の呼びかけには応えよう。<br>卿はもう我が総軍の一部になっているからな</p>"
+msgstr "<p>私はツェッペリン...この名を覚える必要はありませんが、私を呼び寄せるために使っていただいて構いません。</p><p class=\"p_spacing\"> </p><p>...私の望みか。全世界の破壊...しかし今は、あなたの召喚に応じましょう。<br/>あなたはすでに私の軍団の一部となったのですから。</p>"
 
 msgid "IDS_PCZC315_AZURLANE_Z46"
 msgstr "Z46"
@@ -75539,31 +76676,31 @@ msgid "IDS_PCZC420_TM_WINNER"
 msgstr "勝者"
 
 msgid "IDS_PCZC420_TM_WINNER_DESCRIPTION"
-msgstr "<p>王者よ永遠なれ!</p><p class=\"p_spacing\"> </p><p>勝利に値するプレイヤーはただ一人。そして彼こそが最強の称号にふさわしい。<br>名誉、敬意、そして割れんばかりの喝采が待ち受けているのです (そしてもちろん多量の鋼鉄も)!<br>しかし、これらすべては、最強のプレイヤーたちとの対決で再び自らの地位を守らなければならない時まで続くだけなのである。</p>"
+msgstr "<p>最強の中の最強!</p><p class=\"p_spacing\"> </p><p>ただ一人のプレイヤーが勝利に値する。そして、彼は当然のように最強の称号を冠する。<br/>彼が見るものは、降り注ぐ栄光の海。彼が聞くものは、群衆の歓声。彼が感じるものは、新たな勝利の甘美な味わい!<br/>しかし、これらすべては、彼が再び最強のプレイヤーたちとの戦いでその称号を守らねばならなくなるまで続くのだ。</p>"
 
 msgid "IDS_PCZC421_TM_WAITING"
 msgstr "遅刻魔"
 
 msgid "IDS_PCZC421_TM_WAITING_DESCRIPTION"
-msgstr "<p>「もうすぐロード完了するから、ランチを終わらせるだけだよ!」</p><p class=\"p_spacing\"></p><p>この人物抜きに競技会は成り立たない。誰に聞いても喜んで教えてくれるだろう、チームの半数以上が全メッセンジャーで連絡を取る相手が誰で、ストリーマーと審判が待ちわびる人物が誰かを。<br>こうした人物にはチーム全員が電話をかける — まずはクランリーダーが直接、次に対戦相手、そして審判 (必ずこの順番で)。その間、永遠に遅刻しがちな彼は、出撃しようとしている艦艇について読みながら、チキンを準備している。</p>"
+msgstr "<p>「もうすぐ読み込みが終わるよ、昼食を食べ終えたらな!」</p><p class=\"p_spacing\"> </p><p>どの大会にもこの人物は欠かせない。誰に聞いても、喜んで教えてくれるだろう。チームの半数以上が全メッセンジャーにメッセージを送っている相手を、ストリーマーや審判が待っている相手を。<br/>そういう人物にはチーム全員が電話をかける。最初にクランリーダー、次に相手チーム、そして審判 (この順番でしかない)。その間、いつも遅刻する当人は、出撃する艦艇について調べ、チキンを準備しているのだ。</p>"
 
 msgid "IDS_PCZC422_TM_DRAGMAN"
 msgstr "MVP"
 
 msgid "IDS_PCZC422_TM_DRAGMAN_DESCRIPTION"
-msgstr "<p>空母の使い手ではないが、チームの救世母である。</p><p class=\"p_spacing\"> </p><p>戦略家、戦術家、ブレイン、ユニカム…。彼のことをどう呼ぶかは自由だが、彼はチームを勝利へと導く存在だ。</p>"
+msgstr "<p>最もタフなチームメンバーであり、一人で全ての敵を仕留めることができる。</p><p class=\"p_spacing\"> </p><p>タッシャーはチームの「支える構造物」である。彼は戦術家としても戦略家としても非常に優れており、一人で一つの戦線全体、全ての敵、指揮官の脳みそ (最善の戦術を議論している最中に)、さらには膝の上で 6 時間寝ている猫までも「運び出せる」。<br/>つまり、絶対的なチャンピオンでありプロフェッショナルなのだ!</p>"
 
 msgid "IDS_PCZC423_TM_BUGMAN"
 msgstr "Mr. 技術的問題"
 
 msgid "IDS_PCZC423_TM_BUGMAN_DESCRIPTION"
-msgstr "<p>「でもさ、俺が昨日試した時は全く問題なかったんだ! 本当だよ!」</p><p class=\"p_spacing\"> </p><p>彼は最新版のクライアントアップデートをインストールすることを忘れ、彼の PC はディスク制御プログラムによるクールダウン中に燃え上がり…、そして何ということでしょう…、彼はうっかりインターネットを削除してしまったのでした。<br>技術的問題に悩まされる人は、後を絶ちません。</p>"
+msgstr "<p>「でも、昨日確認したときは、全部正常に動いてたんだよ!」</p><p class=\"p_spacing\"> </p><p>昨日まで動いていたのに、今日は? 最新アップデートが適用されておらず、PC は火を噴いている (そんな時のための「応急工作班」は用意されていない)。しかも、彼はうっかりインターネットを消してしまった。<br/>技術的な問題にノックアウトされる奴は、いつもどこかにいるものだ。</p>"
 
 msgid "IDS_PCZC424_TM_ORGBOSS"
 msgstr "主催者"
 
 msgid "IDS_PCZC424_TM_ORGBOSS_DESCRIPTION"
-msgstr "<p>責任を背負い、毎日全力で働いています。</p><p class=\"p_spacing\"> </p><p>多くの場合、特に熱心なプレイヤーのグループが大会を主催します。<br>主催者は、すべてが計画通りに進むように何をすべきでしょうか? 競技の日時を設定し、調整し、トーナメント表を作成し、配信者の作業と競技そのものの進行の両方を調整します。<br>主催者は仕事に全身全霊を捧げ、真の情熱家であり、その多大な努力は画面の外に留まります。結局、すべての栄光はプレイヤーに与えられるのですから!</p>"
+msgstr "<p>責任を背負い、毎日限界まで頑張って働いている。</p><p class=\"p_spacing\"> </p><p>大会は、特にイニシアチブのあるプレイヤーたちのグループによって組織されることが多い。<br/>主催者が全てを円滑に進めるためにすべきことは? 対戦日時を決定・調整し、トーナメント表を作成し、ストリーマーの仕事と大会自体の進行を調整すること。<br/>主催者は全てを仕事に捧げており、真の熱意を持つ者であり、その巨大な労力は画面の外に隠れている。なぜなら、結局全ての栄光はプレイヤーに渡るからだ!</p>"
 
 msgid "IDS_PCZC425_TM_REFEREE1"
 msgstr "うるさい審判"
@@ -75575,61 +76712,61 @@ msgid "IDS_PCZC426_TM_REFEREE2"
 msgstr "寛大な審判"
 
 msgid "IDS_PCZC426_TM_REFEREE2_DESCRIPTION"
-msgstr "<p>「トレーニングルームの作成ですか? 私が代わりにやっておきますよ!」</p><p class=\"p_spacing\"> </p><p>審判団とボランティア陣が「プレイヤー対抗戦」の運営を支援しており、彼らは各チームに対戦相手、試合会場、試合日時をしっかりと連絡します。それだけではなく、チーム間でのちょっとしたいさかいの解決にもあたりますし、中には担当チームに対してかなり過保護な人もいます。<br>寛大な審判は、開始時間を 10 分ずらしてと頼まれれば怒ることもせず応じてくれるでしょう。そしてさらにずるずると開始時間が遅れていくなんてことも……</p>"
+msgstr "<p>「もちろん、トレーニングルームの開け方を説明しますよ。いや、あなたのために開けてあげますよ!」</p><p class=\"p_spacing\"> </p><p>ボランティア審判団が大会運営を支援することがよくあります。彼らはプレイヤーがいつ、誰と戦うのかを把握できるように監督します。また、参加者間の小さな衝突も解決します。<br/>審判はプレイヤーのためのガイドであり、あらゆる質問への答えを提供する存在です。<br/>一部の審判は担当チームを気にかけすぎて、あらゆる譲歩をします。例えば、遅刻者のために、試合開始をまず10分、次に20分、さらに30分と延期する優しい審判もいます。</p>"
 
 msgid "IDS_PCZC427_TM_STREAMER"
 msgstr "配信者"
 
 msgid "IDS_PCZC427_TM_STREAMER_DESCRIPTION"
-msgstr "<p>「砲弾が宙を飛んでいきます! 何という試合でしょう!」</p><p class=\"p_spacing\"> </p><p>トーナメントが始まって依頼、配信者達のおかげで「プレイヤー対抗戦」は瞬く間に大人気のコンペティションとなりました。彼らは試合の模様を達者な実況で楽しく配信してくれます。<br>配信中に喉を痛めた人、マイクのスイッチを入れ忘れた人、仲間のキャスターに体当たりした際に沈み損ねた人、全てのチームを公平に (お気に入りチームには少し肩入れしつつ) 応援した人…… シーン切り替えを忘れて、チャットで指摘されてようやく気付いた人もいます。<br>皆さまのおかげで本ゲームの配信技術が進歩を続けてこられたことに感謝いたします。</p>"
+msgstr "<p>「砲弾はもう空中にあったんだ!」</p><p class=\"p_spacing\"> </p><p>オンライン配信のおかげで、プレイヤー同士の競争はますます人気になっています。<br/>この間に、配信者の中には声を失った者もいれば、戦闘中の手に汗握る瞬間に心臓発作 (まあ、ほとんど) を起こした者もいました。<br/>感情的に戦闘を実況していたものの、8 分目でマイクを付け忘れていたことに気づいた者。<br/>戦闘開始早々に同僚への体当たりを失敗した者、すべてのチームを同時に応援していた者 (特にあのクランを)、そして戦闘終了間際に「砲弾はもう空中にあったんだ!」と叫べなかった者。<br/>しかし、彼ら全員が最終的には「Mir Korabley」の配信を質的に新しいレベルに引き上げました。</p>"
 
 msgid "IDS_PCZC428_TM_RAM"
 msgstr "全速で体当たり!"
 
 msgid "IDS_PCZC428_TM_RAM_DESCRIPTION"
-msgstr "<p>最高の試合の初め方とは、昔ながらのトリプル体当たりでゲームを開始することです。</p><p class=\"p_spacing\"> </p><p>なぜ配信者達は試合開始とともに体当たりをする必要があったのでしょうか。<br>戦闘に参加したかったのでしょうか? W キーが引っかかって止まれなくなったのでしょうか? それとも前の試合で体当たりされたことへの復讐を企んでいたからでしょうか?<br>どれも違います! その昔はオブザーバー専用のモードがなかったため、配信者として試合に加わるためには、両チームに Tier I 艦艇で加わり、競技者達に撃沈してもらうしかありませんでした。<br>その後は、敵味方の配信者用艦艇同士がマップの隅で向かい合う形で出現するようになり、速やかに体当たりしてフリーカメラモードに切り替えることができるようになりました。<br>空母での自爆に関しては触れないでください…</p>"
+msgstr "<p>体当たりで戦闘を始めるに越したことはありません！</p><p class=\"p_spacing\"> </p><p>以前、配信者は戦闘を体当たりで始めていたという説があります。それは彼らも戦いたかったからか、あるいは W キー以外にも便利なキーがあることを知らなかったからかもしれません。<br/>観戦モードが存在しなかった頃、配信者は Tier I の艦艇でチームと一緒に戦闘にロードされ、味方に撃沈してもらう必要がありました。<br/>その後、観戦者の艦艇はマップの隅に互いに向かい合って出現し、体当たりをしてからフリーカメラに切り替えてゲームを観戦できるようになりました。</p>"
 
 msgid "IDS_PCZC429_TM_SMOKE"
 msgstr "破滅のカタツムリ"
 
 msgid "IDS_PCZC429_TM_SMOKE_DESCRIPTION"
-msgstr "<p>「なんであの雲は俺たちを撃っているんだ? 接近して来る! 逃げろ!」</p><p class=\"p_spacing\"> </p><p>煙幕内にはあらゆるものを隠せます。巡洋艦も、戦艦も、島々も…<br>煙幕内で射撃した際のペナルティが実装される前には、煙幕に隠れながら全艦で前進するという戦術が頻繁に見られました。<br>悪名高いこの戦術は、ゆっくり前進し、煙幕内から計り知れない火力を発揮することができたことから「破滅のカタツムリ (doomsnail)」と渾名されました。</p>"
+msgstr "<p>「煙が近づいてくる。奴が撃ってきてる！退却だ！」</p><p class=\"p_spacing\"> </p><p>煙の中にはどんなものでも隠せます。艦隊全体、戦艦だって！<br/>煙幕内からの射撃による被発見距離ペナルティが導入される前、チームは煙幕に隠れながらマップ上で艦艇を移動させることを好んでいました。そして、大抵そこから射撃していました。<br/>戦艦の低速移動とその火力が組み合わさり、この戦略は「這い寄る煙幕」と呼ばれるようになりました。</p>"
 
 msgid "IDS_PCZC430_TM_ISLAND"
 msgstr "陸地だ!"
 
 msgid "IDS_PCZC430_TM_ISLAND_DESCRIPTION"
-msgstr "<p>「俺の前にこの島を置いたのは誰なんだ!??」</p><p class=\"p_spacing\"> </p><p>何故俺の艦はこの島に乗り上げたんだ? 敵の謀略か?<br>あまりにも多くの戦闘が、どこからともなく突然現れる島のせいで決してきました。誰のせいなのでしょうか? 全くわかりません…</p>"
+msgstr "<p>「誰だ、こんな島を俺の目の前に置いたのは?!」</p><p class=\"p_spacing\"> </p><p>双眼鏡モードに見入ってしまい、目の前の島に気づかずに決闘に夢中になることはよくありますか? 双眼鏡モードでの効率的な射撃は、敵に勝利をプレゼントすることになります！<br/>さて、この島は一体どこから来たのでしょう? もしかすると、敵があなたのためにわざわざ移動させたのでしょうか? それとも、艦長がわざわざ岸にチームを上陸させるために向かっていたのでしょうか? おそらく、ただ単にモミの木やカラマツを眺めたかっただけなのでしょう。</p>"
 
 msgid "IDS_PCZC431_TM_DETONATION"
 msgstr "ラッキーショット"
 
 msgid "IDS_PCZC431_TM_DETONATION_DESCRIPTION"
-msgstr "<p>「俺は旗を持ってたんだ! 間違いない! 多分…」</p><p class=\"p_spacing\"> </p><p>信号旗の自動補給の有効化を忘れていましたか? それとも間違った信号旗を搭載してしまいましたか? あるいはランダム戦で信号旗を使い果たしてしまいましたか?<br>正直なところ、誰もが最終戦に備えて信号旗を温存しようとします。特に、トレーニングルームでは信号旗が消費されませんから。</p>"
+msgstr "<p>「でも、信号旗はあったんだ！ 確かだ！ 多分...」</p><p class=\"p_spacing\"> </p><p>信号旗の自動補充を忘れていませんか? それとも、信号旗を一隻の艦艇に設定したのに、艦長が別の艦艇を選んだのでしょうか? あるいは、ランダム戦で爆発防止用の信号旗を全て使い果たしてしまったのでしょうか?<br/>ご心配なく！ これは大会のプレイヤーにも起こることです！</p>"
 
 msgid "IDS_PCZC432_TM_TORPEDOES"
 msgstr "魚雷磁石"
 
 msgid "IDS_PCZC432_TM_TORPEDOES_DESCRIPTION"
-msgstr "<p> - 「お前が聴音を使ったと思ってたんだ!」<br>- 「いや、俺は君が使ったと思ってたよ。」</p><p class=\"p_spacing\"> </p><p>煙幕は魚雷を吸い寄せる磁石です!<br>複数の艦艇が煙幕内にいても、誰も聴音を使わない。そんなことがよくあります。<br>さりげなく魚雷を流し、「ハカイチ連続攻撃」をお楽しみください! でもそういえば、トレーニングルームでは実績を得られないのでした…</p>"
+msgstr "<p>— お前、水中聴音を入れたと思ってたぞ！<br/>— いや。お前がやったと思ってたんだ！</p><p class=\"p_spacing\"> </p><p>煙幕は魚雷にとってまさに磁石のようなものです！<br/>だって、煙幕の中にいる艦艇のうち、少なくとも一隻が水中聴音を入れているとは思えませんからね。<br/>訓練ルームで「連撃」や「粉砕」の名誉達成が手に入らないのが残念です！</p>"
 
 msgid "IDS_PCZC433_TM_BASE"
 msgstr "安全第一!"
 
 msgid "IDS_PCZC433_TM_BASE_DESCRIPTION"
-msgstr "<p>「心配すんな、この占領はいける! あとちょっと… ぎゃー!!! レーダーだ!!! 逃げろ!!!」</p><p class=\"p_spacing\"> </p><p>占領を試みる際、駆逐艦はまず策士のダンスを披露する必要があります。くるりと回って、後進でサークル内に入るのです。<br>そうすれば、例え危険が迫っても、キーを 1 個タップするだけで速やかにその場を離脱することができるのです。<br>ですので、ランダム戦でそのような奇妙な機動を目撃したとしても、その人は賭けに負けたために 10 戦連続でそうすることを強いられているわけではないのです。きっとその人は熟練のトーナメントプレイヤーだと思いますよ!</p>"
+msgstr "<p>「心配するな、俺がこの拠点を取る。ゆっくりとな。おっと、レーダー! 退... ブクッ!...」</p><p class=\"p_spacing\"> </p><p>後進で前進するのは、敵への侮辱ではなく、戦術的な策略です！<br/>拠点に進入し、危険が生じた場合に素早く離脱できるようにするため、駆逐艦はある小技を使います。艦尾を向けて「ムーンウォーク」で進入するのです。<br/>こうすることで、敵のレーダーに捕捉された場合でも、常に逃走する手段を確保できるのです。</p>"
 
 msgid "IDS_PCZC434_TM_HINDEN"
 msgstr "ドイツのタンク"
 
 msgid "IDS_PCZC434_TM_HINDEN_DESCRIPTION"
-msgstr "<p>2017 年のことを思い出してみましょう。</p><p class=\"p_spacing\"> </p><p>最も万能なタンク役の巡洋艦のひとつだった Hindenburg (ヒンデンブルク) は、「プレイヤー対抗戦」とクラン戦における最初の Tier X シーズンで最も人気があった艦艇でした。多くのチームに 3 ～ 4 隻は Hindenburg がいたものです。<br>優秀な斉射火力、高い火災発生率、堅牢な装甲、ドイツ式の聴音が、多くのプレイヤーたちに好まれていました。そのため、本艦はプレイヤーたちにとって 1 番の選択肢だったのです (断じて、当時のプレイヤーの大半が Tier X 艦艇を 1 隻しか所有していなかったからというわけではありません)。<br>しかし、最人気艦艇の座は後に Henri IV (アンリ 4 世) に奪われてしまいました。</p>"
+msgstr "<p>「まだ 2017 年なのか?」</p><p class=\"p_spacing\"> </p><p>かつて Hindenburg は、最も汎用性が高く強力な巡洋艦の一隻と見なされていました。<br/>この艦は競技参加者に人気がありました (とはいえ、プレイヤーがドイツ艦艇ツリーしか育成していなかったからというわけではありません)。<br/>プレイヤーはこの艦にすっかり熱中し、チーム内に 3 隻、時に 4 隻もの「ドイツの浮き戦車」を見かけることもありました。<br/>後に、その人気の座は Henri IV に取って代わられました。</p>"
 
 msgid "IDS_PCZC435_TM_HENRI"
 msgstr "フランス風味"
 
 msgid "IDS_PCZC435_TM_HENRI_DESCRIPTION"
-msgstr "<p>WWWW SSSS WWWW SSSS</p><p class=\"p_spacing\"> </p><p>初期の頃、Hindenburg (ヒンデンブルク) は最も多用途な艦艇の 1 隻であると考えられ、トーナメント参加者の間で非常に人気がありました。<br>しかし時が経つにつれ、最人気艦艇の座はフランス巡洋艦 Henri IV (アンリ 4 世) に奪われました。<br>Henri IV はトーナメントでもランダム戦と同様に大胆にも戦艦に向かって舷側を晒しながら航行し、絶えず加速したりブレーキを踏んだりしているのがよく見られました。<br>しかし、ゲームは常に進化しており、立ち止まっている時間や、自分の栄光に安住している時間はありません。次のトーナメントで最人気艦艇の座を獲得するのはどの艦艇だと思いますか?</p>"
+msgstr "<p>WWWW SSSS WWWW SSSS</p><p class=\"p_spacing\"> </p><p>当初、Hindenburg は最も汎用性が高く強力な巡洋艦の一隻と見なされ、競技参加者の間で人気を誇っていました。<br/>しかし、その後を継いだフランスの巡洋艦 Henri IV が、最も汎用性の高い艦艇としての栄光を奪いました。<br/>ランダム戦でも、常に加速と減速を繰り返しながら艦側を向けて航行する Henri IV をよく見かけました。<br/>ゲームは進化し、決して止まることはありません。現在、最も人気のある艦艇はどれだと思いますか?</p>"
 
 msgid "IDS_PCZC436_CAPT_1_1_CHILD"
 msgstr "多感な幼少期"
@@ -77607,7 +78744,7 @@ msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2"
 msgstr "対空防衛システム「ザカート」"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2_DESCRIPTION"
-msgstr "<p>「アーリー・サンダー」のために、最新のロボット式対空システム「ザカート」が特別に開発されました。このロマンチックな名称が選ばれたのには理由があります。それは、仮想敵に対して、この「ザカート（日没）」が彼らにとって最後のものになるかもしれない、という暗示となっているのです。</p><p class=\"p_spacing\"> </p><p>自動目標追尾システムと、弾薬としてプラズマチャージを使用することで、この戦艦は大半の敵に対処することができます。</p>"
+msgstr "<p>「アーリー・サンダー」のために、最新のロボット式対空システム「ザカート」が特別に開発されました。このロマンチックな名称が選ばれたのには理由があります。それは、仮想敵に対して、この「ザカート (日没)」が彼らにとって最後のものになるかもしれない、という暗示となっているのです。</p><p class=\"p_spacing\"> </p><p>自動目標追尾システムと、弾薬としてプラズマチャージを使用することで、この戦艦は大半の敵に対処することができます。</p>"
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3"
 msgstr "V.A.N.S.H.O.T."
@@ -78135,7 +79272,7 @@ msgid "IDS_PCZC936_TSAR_MOREY_4_2"
 msgstr "適応し、勝利せよ"
 
 msgid "IDS_PCZC936_TSAR_MOREY_4_2_DESCRIPTION"
-msgstr "<p>「軽巡、重巡、超甲巡? 煙幕、レーダー、水中聴音？ 魚雷、主砲、副砲はどうだ? 答えはイエスだ!」</p><p class=\"p_spacing\"> </p><p>巡洋艦は最も万能な艦種であり、それはあらゆるトーナメントで明らかだ! 巡洋艦に不可能なポジションなど存在しない。</p>"
+msgstr "<p>「軽巡、重巡、超甲巡? 煙幕、レーダー、水中聴音? 魚雷、主砲、副砲はどうだ? 答えはイエスだ!」</p><p class=\"p_spacing\"> </p><p>巡洋艦は最も万能な艦種であり、それはあらゆるトーナメントで明らかだ! 巡洋艦に不可能なポジションなど存在しない。</p>"
 
 msgid "IDS_PCZC937_TSAR_MOREY_4_3"
 msgstr "心理戦"
@@ -78219,19 +79356,19 @@ msgid "IDS_PCZC950_UTOPIA_3_4"
 msgstr "わさび"
 
 msgid "IDS_PCZC950_UTOPIA_3_4_DESCRIPTION"
-msgstr "<p>ワサビは、アブラナ科に属する植物で、日本、ロシア極東、朝鮮半島に特徴的です。</p><p class=\"p_spacing\"> </p><p>ワサビの辛味は、近縁の植物であるホースラディッシュやマスタードを連想させます。ワサビの根はペースト状にすりおろされ、特徴的な緑色と刺激的な香りを持ちます。得られた調味料は寿司やその他の料理とともに提供されます。</p><p class=\"p_spacing\"> </p><p>ワサビの独特な風味は、植物の細胞が破壊されたときに生じる複雑な物質の組み合わせの結果です（この特徴は進化の過程で防御機構として発達したと考えられています）。ワサビの辛味は味蕾よりも嗅覚をより刺激し、この植物の香りはアンモニアと同様の効果を持ちます。研究者はこのワサビの特性を、聴覚障害者のための火災警報器の開発に利用しました。実験参加者の一人は、部屋にワサビの香りが広がり始めてから 10 秒後に目を覚ましました。</p>"
+msgstr "<p>ワサビは、アブラナ科に属する植物で、日本、ロシア極東、朝鮮半島に特徴的です。</p><p class=\"p_spacing\"> </p><p>ワサビの辛味は、近縁の植物であるホースラディッシュやマスタードを連想させます。ワサビの根はペースト状にすりおろされ、特徴的な緑色と刺激的な香りを持ちます。得られた調味料は寿司やその他の料理とともに提供されます。</p><p class=\"p_spacing\"> </p><p>ワサビの独特な風味は、植物の細胞が破壊されたときに生じる複雑な物質の組み合わせの結果です (この特徴は進化の過程で防御機構として発達したと考えられています)。ワサビの辛味は味蕾よりも嗅覚をより刺激し、この植物の香りはアンモニアと同様の効果を持ちます。研究者はこのワサビの特性を、聴覚障害者のための火災警報器の開発に利用しました。実験参加者の一人は、部屋にワサビの香りが広がり始めてから 10 秒後に目を覚ましました。</p>"
 
 msgid "IDS_PCZC951_SPACE_MUSEUM_1_1"
 msgstr "世界初の人工衛星"
 
 msgid "IDS_PCZC951_SPACE_MUSEUM_1_1_DESCRIPTION"
-msgstr "<p>人類の歴史に宇宙時代の幕を開けた。</p><p class=\"p_spacing\"> </p><p>1957 年 10 月 4 日、モスクワ時間 22 時 28 分にバイコヌール宇宙基地から打ち上げられ、以下の軌道パラメータで軌道投入された:<br>• 近地点高度 — 228 km;<br>• 遠地点高度 — 947 km。</p><p class=\"p_spacing\"> </p><p>R-7 大陸間弾道ミサイルをベースに開発された二段式ロケット「スプートニク」によって軌道に投入された。世界で初めて第一宇宙速度に達し、人工物体が地球周回軌道に投入された。衛星は地球周回軌道から、世界中のアマチュア無線家が受信した無線信号を送信した。</p><p class=\"p_spacing\"> </p><p>技術諸元:<br>• 衛星質量 — 83.6 kg;<br>• 機体 — 直径 58 cm の球体で、長さ 2.4 m と 2.9 m の 4 本のアンテナが設置されている。</p><p class=\"p_spacing\"> </p><p>密閉された機体内には以下の機器が搭載されていた:<br>• 電気化学的電源ユニット;<br>• 無線送信装置;<br>• ファン;<br>• 温度調節システムのサーモリレーとエアダクト;<br>• 機上電子自動機器のスイッチング装置;<br>• 温度・圧力センサー;<br>• 機上ケーブルネットワーク。</p><p class=\"p_spacing\"> </p><p>初の人工衛星は 92 日間存在し、地球を 1440 周した。1958 年 1 月 4 日、大気圏の高密度層に突入し燃え尽きた。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発された。</p><p class=\"p_spacing\"> </p><p>S. P. コロリョフと M. K. チホンラーボフ — 初の地球人工衛星打ち上げの構想者。</p>"
+msgstr "<p>人類の歴史において宇宙時代を切り開いた。</p><p class=\"p_spacing\"> </p><p>1957年10月4日、モスクワ時間22時28分にバイコヌール宇宙基地から打ち上げられ、以下の軌道投入された:<br/>・近地点高度 — 228 km；<br/>・遠地点高度 — 947 km。</p><p class=\"p_spacing\"> </p><p>R-7大陸間弾道ミサイルを基に開発された2段式ロケット「スプートニク」により軌道投入された。世界で初めて第一宇宙速度に達し、人工物が地球周回軌道に投入された。衛星は地球周回軌道から、世界中のアマチュア無線家によって受信された電波信号を送信した。</p><p class=\"p_spacing\"> </p><p>技術的特性:<br/>・衛星質量 — 83.6 kg；<br/>・本体 — 直径58 cmの球体で、長さ2.4 mと2.9 mの4本のアンテナが取り付けられている。</p><p class=\"p_spacing\"> </p><p>密閉された本体内部には以下の機器が搭載されていた:<br/>・電気化学的電源ユニット；<br/>・無線送信装置；<br/>・ファン；<br/>・温度調節システム用のサーモリレーとダクト；<br/>・機上電子自動スイッチング装置；<br/>・温度・圧力センサー；<br/>・機上ケーブル網。</p><p class=\"p_spacing\"> </p><p>初の人工衛星は92日間存在し、地球を1440周回した。1958年1月4日、大気の濃密層に突入し燃え尽きた。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1で開発された。</p><p class=\"p_spacing\"> </p><p>S. P. コロリョフと M. K. チホンラーフォフ — 初の人工地球衛星打ち上げの立役者。</p>"
 
 msgid "IDS_PCZC952_SPACE_MUSEUM_1_2"
 msgstr "第二号地球人工衛星"
 
 msgid "IDS_PCZC952_SPACE_MUSEUM_1_2_DESCRIPTION"
-msgstr "<p>世界初の生物衛星であり、軌道宇宙飛行を行った最初の生物 — 犬のライカ。</p><p class=\"p_spacing\"> </p><p>1957 年 11 月 3 日、バイコヌール宇宙基地からロケット「スプートニク」によって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>衛星に搭載された科学機器により、宇宙での初の直接的な科学計測が行われ、地球の外部放射線帯の存在に関する初の情報が得られた。</p><p class=\"p_spacing\"> </p><p>科学機器に加え、別の密閉されたキャビンには犬のライカが搭載されていた（地球への帰還は想定されていなかった）。</p><p class=\"p_spacing\"> </p><p>この飛行では、無重力と宇宙放射線が生体に与える影響が初めて研究された。宇宙放射線計数器は宇宙に打ち上げられた初の科学機器となり、平均的な放射線レベルを示した。飛行中に得られたデータにより、人間の宇宙滞在の安全性について結論を導くことが可能となった。</p><p class=\"p_spacing\"> </p><p>衛星質量 — 508.3 kg。</p><p class=\"p_spacing\"> </p><p>160 日間存在し、地球を約 2370 周し、1958 年 4 月 14 日にその存在を終えた。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発された。</p>"
+msgstr "<p>世界初の生物衛星であり、軌道宇宙飛行を行った最初の生物 — 犬のライカ。</p><p class=\"p_spacing\"> </p><p>1957 年 11 月 3 日、バイコヌール宇宙基地からロケット「スプートニク」によって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>衛星に搭載された科学機器により、宇宙での初の直接的な科学計測が行われ、地球の外部放射線帯の存在に関する初の情報が得られた。</p><p class=\"p_spacing\"> </p><p>科学機器に加え、別の密閉されたキャビンには犬のライカが搭載されていた (地球への帰還は想定されていなかった)。</p><p class=\"p_spacing\"> </p><p>この飛行では、無重力と宇宙放射線が生体に与える影響が初めて研究された。宇宙放射線計数器は宇宙に打ち上げられた初の科学機器となり、平均的な放射線レベルを示した。飛行中に得られたデータにより、人間の宇宙滞在の安全性について結論を導くことが可能となった。</p><p class=\"p_spacing\"> </p><p>衛星質量 — 508.3 kg。</p><p class=\"p_spacing\"> </p><p>160 日間存在し、地球を約 2370 周し、1958 年 4 月 14 日にその存在を終えた。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発された。</p>"
 
 msgid "IDS_PCZC953_SPACE_MUSEUM_1_3"
 msgstr "第三号地球人工衛星"
@@ -78243,103 +79380,103 @@ msgid "IDS_PCZC954_SPACE_MUSEUM_1_4"
 msgstr "自動探査機「ルナ 1 号」"
 
 msgid "IDS_PCZC954_SPACE_MUSEUM_1_4_DESCRIPTION"
-msgstr "<p>世界で初めて第二宇宙速度に到達した。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 2 日、バイコヌール宇宙基地からロケット「ボストーク-L」によって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>探査機の科学機器:<br>• 地球と月の磁場測定用磁力計;<br>• 無線送信機用 4 本のロッドアンテナ;<br>• 太陽粒子線検出用イオントラップとプロトントラップ;<br>• 隕石粒子衝突検出用検出器;<br>• 科学情報を地球に送信する無線送信機アンテナ。</p><p class=\"p_spacing\"> </p><p>探査機内部には、月へ届けるために、鋼製五角形要素からなる球状のペナントと、液体で満たされたカプセル（内部にアルミニウム片が配置されていた）が搭載されていた。ペナントとアルミニウム片には、国章、「ソ連」の文字、打ち上げ日が描かれていた。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 4 日、探査機は月から 5000–6000 km の距離を通過したが、飛行サイクログラムの誤差により月面には到達しなかった。</p><p class=\"p_spacing\"> </p><p>月の近傍を通過し、地球重力の影響圏を脱出した「ルナ 1 号」は、太陽を周回する周期 450 日の初の人工衛星となった。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発された。</p>"
+msgstr "<p>世界で初めて第二宇宙速度に到達した。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 2 日、バイコヌール宇宙基地からロケット「ボストーク-L」によって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>観測所の科学機器:<br/>・地球と月の磁場を測定するための磁力計；<br/>・無線送信機の 4 本のロッドアンテナ；<br/>・太陽の粒子線を記録するためのイオントラップとプロトントラップ；<br/>・隕石粒子の衝突を記録するための検出器；<br/>・科学情報を地球に送信する無線送信機のアンテナ。</p><p class=\"p_spacing\"> </p><p>月への輸送のため、観測所内部には鋼製五角形要素からなる球形のペナントと、液体で満たされたカプセル (内部にアルミニウム片が配置されていた) が搭載されていた。ペナントとアルミ片には、国章、「СССР」の文字、打ち上げ日が描かれていた。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 4 日、観測所は月から 5000～6000 kmの距離を飛行したが、飛行サイクログラムの誤差のため月面には到達しなかった。</p><p class=\"p_spacing\"> </p><p>月近傍を通過し地球重力圏を離脱した「ルナ 1 号」は、太陽を約 450 日周期で周回する初の人工衛星となった。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発された。</p>"
 
 msgid "IDS_PCZC955_SPACE_MUSEUM_1_5"
 msgstr "自動探査機「ルナ 3 号」"
 
 msgid "IDS_PCZC955_SPACE_MUSEUM_1_5_DESCRIPTION"
-msgstr "<p>史上初めて月を周回し、1959 年 10 月 7 日に地球からは見えない月の裏側のテレビ画像を地球に送信した。</p><p class=\"p_spacing\"> </p><p>実際に重力アシストを実現した世界初の宇宙探査機となった。</p><p class=\"p_spacing\"> </p><p>1959 年 10 月 4 日、バイコヌール宇宙基地からロケット「ボストーク-L」によって自動探査機「ルナ 3 号」が打ち上げられた。探査機には以下のシステムが搭載されていた: 無線技術、テレメトリー、写真テレメトリー姿勢制御（太陽および月に対して）、電源（太陽電池付き）、温度調節、および写真実験室を含む科学機器群。</p><p class=\"p_spacing\"> </p><p>探査機の姿勢制御システム「チャイカ」は、宇宙空間における探査機の制御問題を初めて解決した学者 B. V. ラウシェンバッハの指導の下で開発された。</p><p class=\"p_spacing\"> </p><p>10 月 7 日、宇宙探査機は約 65,000 km の距離から月の裏側を撮影した（地球までは約 470,000 km）。その後 10 日間にわたり、「ルナ 3 号」は一連の画像を地球に送信した。月面のほぼ半分を撮影することに成功し、その範囲は可視側の 30% と、それまで地球からは決して見えなかった側の 70% をカバーした。これらの画像は「世紀の写真」と称された! これらに基づき、1960 年と 1967 年に『月の裏側地図帳』全 2 巻と月の地球儀が発行された。探査機は地球を 11 周し、1960 年 4 月 20 日に大気圏の高密度層に突入し、その存在を終えた。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発された。</p>"
+msgstr "<p>史上初めて月を周回し、1959 年 10 月 7 日に地球からは見えない月の裏側のテレビ画像を地球に送信した。</p><p class=\"p_spacing\"> </p><p>実際に重力アシストを実現した世界初の宇宙探査機となった。</p><p class=\"p_spacing\"> </p><p>1959 年 10 月 4 日、バイコヌール宇宙基地からロケット「ボストーク-L」によって自動探査機「ルナ 3 号」が打ち上げられた。探査機には以下のシステムが搭載されていた: 無線技術、テレメトリー、写真テレメトリー姿勢制御 (太陽および月に対して)、電源 (太陽電池付き)、温度調節、および写真実験室を含む科学機器群。</p><p class=\"p_spacing\"> </p><p>探査機の姿勢制御システム「チャイカ」は、宇宙空間における探査機の制御問題を初めて解決した学者 B. V. ラウシェンバッハの指導の下で開発された。</p><p class=\"p_spacing\"> </p><p>10 月 7 日、宇宙探査機は約 65,000 km の距離から月の裏側を撮影した (地球までは約 470,000 km)。その後 10 日間にわたり、「ルナ 3 号」は一連の画像を地球に送信した。月面のほぼ半分を撮影することに成功し、その範囲は可視側の 30% と、それまで地球からは決して見えなかった側の 70% をカバーした。これらの画像は「世紀の写真」と称された! これらに基づき、1960 年と 1967 年に『月の裏側地図帳』全 2 巻と月の地球儀が発行された。探査機は地球を 11 周し、1960 年 4 月 20 日に大気圏の高密度層に突入し、その存在を終えた。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発された。</p>"
 
 msgid "IDS_PCZC956_SPACE_MUSEUM_2_1"
 msgstr "自動惑星間探査機「ベネラ 1 号」"
 
 msgid "IDS_PCZC956_SPACE_MUSEUM_2_1_DESCRIPTION"
-msgstr "<p>世界初の金星に向けて打ち上げられた宇宙機。</p><p class=\"p_spacing\"> </p><p>本探査機は 1961 年 2 月 12 日にバイコヌール宇宙基地からモルニヤロケットによって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>探査機には以下の科学機器が搭載されていた:<br>• 磁力計;<br>• 太陽風のパラメータを測定するための 2 基のイオントラップ;<br>• 微隕石検出器;<br>• 宇宙放射線を測定するためのガイガーカウンターおよびシンチレーション検出器。</p><p class=\"p_spacing\"> </p><p>宇宙機の下部には、軌道修正用の推進装置 KDU-414 が搭載されていた。探査機の質量は 643.5 kg。飛行開始から 7 日後、地球から約 200 万 km の距離で探査機との交信が途絶えた。科学者らの計算によると、探査機は 1961 年 5 月 19 日から 20 日にかけて金星表面から約 10 万 km の距離を通過し、太陽の人工衛星軌道に乗った。</p><p class=\"p_spacing\"> </p><p>本機は、主任設計者 S. P. コロリョフの指揮の下、特別設計局 OKB-1 で開発された。</p>"
+msgstr "<p>世界初の金星方面へ向けて打ち上げられた宇宙機。</p><p class=\"p_spacing\"> </p><p>1961年2月12日、バイコヌール宇宙基地からロケット「モルニア」によって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>観測所には以下の科学機器が搭載されていた:<br/>・磁力計；<br/>・太陽風のパラメータを測定するための2基のイオントラップ；<br/>・微小隕石検出器；<br/>・宇宙放射線測定用のガイガーカウンターとシンチレーション検出器。</p><p class=\"p_spacing\"> </p><p>宇宙機下部には、軌道修正用の推進装置 KDU-414 が搭載されていた。観測所の質量は 643.5 kg。飛行7日後、地球から約200万 kmの距離で観測所との交信が途絶えた。科学者の計算によると、1961年5月19日～20日に金星表面から約10万 kmの距離を通過し、太陽の人工衛星軌道に乗った。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1で開発された。</p>"
 
 msgid "IDS_PCZC957_SPACE_MUSEUM_2_2"
 msgstr "自動惑星探査機「マルス-1」"
 
 msgid "IDS_PCZC957_SPACE_MUSEUM_2_2_DESCRIPTION"
-msgstr "<p>世界初の火星に向けて送られた宇宙機。宇宙開発史上初めて、地球-火星間の惑星間軌道が開拓された。</p><p class=\"p_spacing\"> </p><p>1962 年 11 月 1 日にバイコヌール宇宙基地からモルニヤロケットによって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>探査機は、軌道モジュールと惑星モジュールの 2 つの密閉区画から構成されていた。軌道モジュールには火星への飛行中に探査機の運用を支える機器が搭載され、惑星モジュールには惑星近傍で作動するはずだった写真テレビシステムと科学機器が搭載されていた。軌道モジュールには、軌道修正用推進装置、太陽電池パネル、温度制御システム、無線アンテナが設置されていた。軌道測定データに基づく探査機の運動計算の結果、探査機は火星から 19 万 3000 km の距離を通過することが示された。これは、探査機が目標軌道に高い精度で投入されたことを示している。探査機との間では 61 回の無線通信セッションが行われ、大量のテレメトリ情報が取得された。探査機には 3000 以上のコマンドが送信された。</p><p class=\"p_spacing\"> </p><p>「マルス-1」の飛行の結果、地球と火星の軌道間の宇宙空間の物理的性質に関するデータが得られ、太陽風と流星塵の流れが記録され（探査機は 2 つの流星群を横切った）、宇宙の惑星間空間における磁場の強度が測定された。</p><p class=\"p_spacing\"> </p><p>1963 年 3 月 21 日、地球から 1 億 600 万 km の距離で探査機との最後の通信セッションが行われた。その後通信は途絶えたが、当時としては宇宙通信の距離記録であった。</p>"
+msgstr "<p>世界初の火星に向けて送られた宇宙機。宇宙開発史上初めて、地球-火星間の惑星間軌道が開拓された。</p><p class=\"p_spacing\"> </p><p>1962 年 11 月 1 日にバイコヌール宇宙基地からモルニヤロケットによって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>探査機は、軌道モジュールと惑星モジュールの 2 つの密閉区画から構成されていた。軌道モジュールには火星への飛行中に探査機の運用を支える機器が搭載され、惑星モジュールには惑星近傍で作動するはずだった写真テレビシステムと科学機器が搭載されていた。軌道モジュールには、軌道修正用推進装置、太陽電池パネル、温度制御システム、無線アンテナが設置されていた。軌道測定データに基づく探査機の運動計算の結果、探査機は火星から 19 万 3000 km の距離を通過することが示された。これは、探査機が目標軌道に高い精度で投入されたことを示している。探査機との間では 61 回の無線通信セッションが行われ、大量のテレメトリ情報が取得された。探査機には 3000 以上のコマンドが送信された。</p><p class=\"p_spacing\"> </p><p>「マルス-1」の飛行の結果、地球と火星の軌道間の宇宙空間の物理的性質に関するデータが得られ、太陽風と流星塵の流れが記録され (探査機は 2 つの流星群を横切った)、宇宙の惑星間空間における磁場の強度が測定された。</p><p class=\"p_spacing\"> </p><p>1963 年 3 月 21 日、地球から 1 億 600 万 km の距離で探査機との最後の通信セッションが行われた。その後通信は途絶えたが、当時としては宇宙通信の距離記録であった。</p>"
 
 msgid "IDS_PCZC958_SPACE_MUSEUM_2_3"
 msgstr "自動探査機「ルナ-9」"
 
 msgid "IDS_PCZC958_SPACE_MUSEUM_2_3_DESCRIPTION"
-msgstr "<p>世界で初めて、このステーションの降下モジュールが月面に軟着陸し、月面の最初の写真とテレビパノラマ画像を地球に送信しました。</p><p class=\"p_spacing\"> </p><p>1966年1月31日にバイコヌール宇宙基地からモルニヤロケットで打ち上げられました。</p><p class=\"p_spacing\"> </p><p>構造的には、「ルナ9号」は制動エンジンを備えた計器・機器区画と降下モジュールで構成されていました。</p><p class=\"p_spacing\"> </p><p>1966年2月3日、ステーションは制動をかけ、地球からの指令により、降下モジュールを収めたコンテナが分離し、月面に軟着陸しました。</p><p class=\"p_spacing\"> </p><p>ステーションの技術仕様:<br>• 降下モジュールの質量 — 100 kg。<br>• ステーションの長さ — 2.7 m。<br>• ステーションの質量 — 1583 kg。</p><p class=\"p_spacing\"> </p><p>主任設計者G. N. ババキンの指導の下、S. A. ラヴォチキン機械製造工場で開発されました。</p>"
+msgstr "<p>世界で初めて観測所の帰還機が月面に軟着陸し、月面の最初の写真およびテレビパノラマ画像を地球に送信した。</p><p class=\"p_spacing\"> </p><p>1966年1月31日、バイコヌール宇宙基地からロケット「モルニア」によって打ち上げられた。</p><p class=\"p_spacing\"> </p><p>「ルナ9号」は構造上、制動推進装置を備えた機器・装置区画と帰還機から構成されていた。</p><p class=\"p_spacing\"> </p><p>1966年2月3日、観測所は減速を行い、地上からの指令により帰還機を収めたコンテナが分離、月面に軟着陸した。</p><p class=\"p_spacing\"> </p><p>観測所の技術的特性:<br/>・帰還機質量 — 100 kg。<br/>・観測所全長 — 2.7 m；<br/>・観測所質量 — 1583 kg。</p><p class=\"p_spacing\"> </p><p>S. A. ラヴォーチキン記念機械製造工場にて、主任設計者 G. N. ババキンの指導の下で開発された。</p>"
 
 msgid "IDS_PCZC959_SPACE_MUSEUM_2_4"
 msgstr "軌道ステーション「ミール」"
 
 msgid "IDS_PCZC959_SPACE_MUSEUM_2_4_DESCRIPTION"
-msgstr "<p>第3世代ステーションであり、20世紀末の傑出した科学技術の成果です。世界で初めて、軌道上での宇宙構造物のモジュール式建設原理が実現されました。</p><p class=\"p_spacing\"> </p><p>軌道ステーション「ミール」の最初の要素である基本ブロックは、1986年2月20日に軌道に投入されました。その後、基本ブロックには順次、モジュール「クヴァント」（1987年）、「クヴァント-2」（1989年）、「クリスタル」（1990年）、「スペクトル」（1995年）、およびドッキング区画（1995年）が結合されました。</p><p class=\"p_spacing\"> </p><p>ステーションは、最後のモジュール「プリローダ」とともに、1996年に完全な設計構成を獲得しました。モジュール式の構造により、科学研究プログラムの拡大と、ステーションの居住容積の大幅な増加が可能になりました。</p><p class=\"p_spacing\"> </p><p>ステーション「ミール」の15年間の運用期間中:<br>• 78回の船外活動が行われ、総時間は359時間。<br>• 12か国から104名がステーションで作業。<br>• 有人宇宙船「ソユーズ」31機、貨物船「プログレス」64機、アメリカの再利用可能な宇宙船「スペースシャトル」9機が使用された。<br>• 23,000件以上の科学実験と研究が実施された。<br>• 連続滞在期間の世界記録が3つ、宇宙飛行条件下での人間の総滞在時間の記録が5つ樹立された。<br>• 前例のない飛行期間の長さにより、軌道ステーション「ミール」は20世紀の主要な宇宙記録保持者となった。</p><p class=\"p_spacing\"> </p><p>宇宙船「ソユーズT-15」の最初の乗組員（L. D. キジムとV. A. ソロヴィヨフ）は1986年にステーションに到着し、最後の乗組員である「ソユーズTM-30」（S. V. ザリョーチンとA. Y. カレリ）は2000年に到着しました。</p><p class=\"p_spacing\"> </p><p>2001年2月23日、軌道ステーション「ミール」は軌道を離脱し、その存在を終えました。大気圏で燃え尽きなかったステーションの破片は、南太平洋に落下しました。</p><p class=\"p_spacing\"> </p><p>主開発者: 科学製造合同「エネルギア」。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 完全構成時の総質量 — 137 t超。<br>• 科学機器の質量 — 11.5 t。</p>"
+msgstr "<p>3 世代目の観測所であり、20 世紀末の傑出した科学技術的成果。世界で初めて、軌道上での宇宙施設建設におけるモジュール方式が実現された。</p><p class=\"p_spacing\"> </p><p>軌道観測所「ミール」の最初の要素である基本ブロックは、1986 年 2 月 20 日に軌道に投入された。その後、基本ブロックにはモジュール「クバント」(1987 年)、「クバント 2 号」(1989 年)、「クリスタル」(1990 年)、「スペクトル」(1995 年) およびドッキング区画 (1995 年) が順次結合された。</p><p class=\"p_spacing\"> </p><p>観測所は 1996 年、最後のモジュール「プリローダ」により完全な設計構成となった。モジュール式建造により、科学研究プログラムの拡大と、観測所の居住空間の大幅な増加が可能となった。</p><p class=\"p_spacing\"> </p><p>「ミール」観測所の 15 年にわたる運用実績:<br/>・船外活動 78 回、総時間 359 時間；<br/>・12 か国から 104 名が観測所で活動；<br/>・使用機数:有人宇宙船「ソユーズ」31 機、貨物宇宙船「プログレス」64 機、米国の再利用型宇宙船「スペースシャトル」9 機；<br/>・2 万 3 千件以上の科学実験・研究を実施；<br/>・連続滞在期間で 3 つ、宇宙飛行条件下での総滞在時間で 5 つの世界記録を樹立；<br/>・前例のない飛行期間の長さにより、軌道観測所「ミール」は 20 世紀の主要な宇宙記録保持者となった。</p><p class=\"p_spacing\"> </p><p>宇宙船「ソユーズ T-15」の最初の乗組員 (L. D. キジム、V. A. ソロヴィヨフ) は 1986 年に観測所に到着し、最後の乗組員「ソユーズ TM-30」(S. V. ザリョーチン、A. Yu. カレリ) は 2000 年に到着した。</p><p class=\"p_spacing\"> </p><p>2001 年 2 月 23 日、軌道観測所「ミール」は軌道を離脱し、その存在を終えた。大気圏で燃え尽きなかった破片は南太平洋に落下した。</p><p class=\"p_spacing\"> </p><p>開発統括: 科学製造合同「エネルギア」。</p><p class=\"p_spacing\"> </p><p>技術的特性:<br/>・完全構成時の総質量 — 137 t 超；<br/>・科学機器質量 — 11.5 t。</p>"
 
 msgid "IDS_PCZC960_SPACE_MUSEUM_2_5"
 msgstr "長期軌道ステーション「サリュート6号」"
 
 msgid "IDS_PCZC960_SPACE_MUSEUM_2_5_DESCRIPTION"
-msgstr "<p>「サリュート6号」は第2世代の軌道ステーションであり、1977年9月29日にバイコヌール宇宙基地からプロトンロケットで打ち上げられました。このステーションの特徴は、2つ目のドッキングポートと、飛行中に燃料補給が可能な推進システムです。これにより、その運用期間を大幅に延長することができました。</p><p class=\"p_spacing\"> </p><p>1978年1月、貨物船「プログレス1号」が「サリュート6号」に向けて打ち上げられました。これは、軌道ステーションへの自動貨物船の世界初の飛行であり、必要な貨物を届け、その推進システムに燃料を補給しました。このステーションには、有人宇宙船「ソユーズ」および「ソユーズT」シリーズ17機、無人宇宙船2機、貨物船「プログレス」12機、そして「アルマース」ステーションの要素の1つでありモジュールとしても使用された自動貨物補給船「コスモス1267号」がドッキングしました。運用期間中、「サリュート6号」では5つの主要乗組員と10の訪問ミッション（うち8つは国際乗組員）が活動しました。1978年から1980年にかけて、初めて訪問ミッションに他国の市民が含まれました。チェコスロバキア、ポーランド、東ドイツ、ハンガリー、ベトナム、キューバ、モンゴル、ルーマニアの初の宇宙飛行士です。「サリュート6号」での長期ミッションの滞在期間は、96日、139日、175日、184日でした。「サリュート6号」からは、合計4時間56分の3回の船外活動が実施されました。</p><p class=\"p_spacing\"> </p><p>ステーションの飛行は1765日間（うち683日間は有人）続き、1982年7月29日に終了しました。</p><p class=\"p_spacing\"> </p><p>ソ連の民間有人ステーションプログラムに基づき、中央実験機械設計局で開発されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 質量 — 19.8 t。<br>• 長さ — 13.5 m。<br>• 最大直径 — 4.15 m。<br>• 太陽電池パネルの幅 — 17 m。<br>• 内部有効容積 — 90.0 m³。</p>"
+msgstr "<p>「サリュート 6 号」 — 2 世代目の軌道観測所、1977 年 9 月 29 日にバイコヌール宇宙基地からロケット「プロトン」によって打ち上げられた。観測所の特徴は、2 つ目のドッキングユニットと、飛行中の燃料補給が可能な推進装置である。これにより、運用期間を大幅に延長することができた。</p><p class=\"p_spacing\"> </p><p>1978 年 1 月、観測所「サリュート 6 号」に向けて貨物宇宙船「プログレス 1 号」が打ち上げられた。これは世界初の自動貨物船の軌道観測所への飛行であり、必要な貨物を運搬し、観測所の推進装置に燃料を補給した。観測所には、「ソユーズ」、「ソユーズT」シリーズの有人宇宙船 17 機と無人宇宙船 2 機、貨物宇宙船「プログレス」12 機、さらに観測所「アルマース」の要素の一つでモジュールとしても使用された自動貨物補給輸送船「コスモス 1267 号」がドッキングした。運用期間中、「サリュート 6 号」では5つの基本乗組員と 10 の訪問宇宙飛行 (うち 8 つは国際乗組員) が活動した。1978～1980 年に初めて、訪問宇宙飛行の構成員として他国の市民が参加した — チェコスロバキア、ポーランド、東ドイツ、ハンガリー、ベトナム、キューバ、モンゴル、ルーマニアの初の宇宙飛行士である。長期滞在ミッションの観測所「サリュート 6 号」での滞在期間: 96 日、139 日、175 日、184 日。観測所「サリュート 6 号」からは 3 回の船外活動 (総時間 4 時間 56 分) が実施された。</p><p class=\"p_spacing\"> </p><p>観測所の飛行は 1765 日間 (うち 683 日間は有人) 続き、1982 年 7 月 29 日に終了した。</p><p class=\"p_spacing\"> </p><p>ソ連の民間有人観測所計画に基づき、実験機械製造中央設計局で開発された。</p><p class=\"p_spacing\"> </p><p>技術的特性:<br/>・質量 — 19.8 t；<br/>・全長 — 13.5 m；<br/>・最大直径 — 4.15 m；<br/>・太陽電池パネルの幅 — 17 m；<br/>・内部有効容積 — 90.0 m³。</p>"
 
 msgid "IDS_PCZC961_SPACE_MUSEUM_3_1"
 msgstr "3段式ロケット「ボストーク」"
 
 msgid "IDS_PCZC961_SPACE_MUSEUM_3_1_DESCRIPTION"
-msgstr "<p>主任設計者S. P. コロリョフの指導の下、特別設計局第1で、大陸間弾道ミサイルR-7を基に開発・製造されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• ロケットの長さ — 38.36 m。<br>• 直径（空力舵を含む寸法） — 10.3 m。<br>• 打ち上げ重量 — 287 t。<br>• 軌道に投入可能なペイロード質量 — 最大5 t。</p><p class=\"p_spacing\"> </p><p>世界初の有人宇宙船「ボストーク」を、地球初の宇宙飛行士Y. A. ガガーリンを乗せて打ち上げました。</p><p class=\"p_spacing\"> </p><p>ロケット「ボストーク」を使用して、衛星宇宙船、「ボストーク」シリーズの宇宙船、自動ステーション「ルナ1号」、「ルナ2号」、「ルナ3号」、「コスモス」および「メテオール」シリーズのいくつかの人工地球衛星が宇宙に打ち上げられました。</p><p class=\"p_spacing\"> </p><p>ロケット「ボストーク」は、2段式ロケットR-7の改良型であり、地球周回軌道に投入する宇宙機の質量を増加させるために第3段が追加されました。最初の2段はパッケージ方式、すなわち並列に結合されており、飛行の初期段階で大きな推力を生み出すために、第1段の4つのサイドブロックと第2段の中央ブロックが同時に作動します。第2段と第3段はタンデム方式、すなわち直列に結合されています。宇宙機は頭部フェアリングで保護されています。4つのブロックからなる第1段にはRD-107エンジンが、第2段にはRD-108エンジンが搭載されています。</p><p class=\"p_spacing\"> </p><p>打ち上げはバイコヌール宇宙基地（1959年1月以降）とプレセツク宇宙基地（1966年3月以降）から行われました。</p>"
+msgstr "<p>R-7 大陸間弾道ミサイルを基に、主任設計者 S. P. コロリョフの指導の下、特別設計局第 1 号で開発・製造された。</p><p class=\"p_spacing\"> </p><p>技術的特性:<br/>・ロケット全長 — 38.36 m；<br/>・直径 (空力舵を含む寸法) — 10.3 m；<br/>・打ち上げ質量 — 287 t；<br/>・軌道投入可能なペイロード質量 — 最大 5 t。</p><p class=\"p_spacing\"> </p><p>世界初の宇宙船「ボストーク」に地球初の宇宙飛行士 Yu. A. ガガーリンを乗せて打ち上げた。</p><p class=\"p_spacing\"> </p><p>ロケット「ボストーク」を用いて、衛星宇宙船、「ボストーク」シリーズ宇宙船、自動観測所「ルナ 1 号」「ルナ 2 号」「ルナ 3 号」、「コスモス」および「メテオール」シリーズの一部の人工地球衛星が宇宙に打ち上げられた。</p><p class=\"p_spacing\"> </p><p>ロケット「ボストーク」は、2 段式ロケット R-7 に、地球周回軌道に投入する宇宙機の質量を増大させるため第 3 段を追加した改良型である。最初の 2 段はパッケージ方式 (すなわち並列) で結合されており、これにより飛行初期に大きな推力を生み出すため、第 1 段の 4 基のサイドブロックと第 2 段の中央ブロックが同時に作動する。第 2 段と第 3 段はタンデム方式 (すなわち直列に、次々と) で結合されている。宇宙機は頭部フェアリングで保護されている。第 1 段 (4 ブロック) には RD-107 エンジン、第 2 段には RD-108 エンジンが搭載されている。</p><p class=\"p_spacing\"> </p><p>打ち上げはバイコヌール宇宙基地 (1959 年 1 月以降) およびプレセツク宇宙基地 (1966 年 3 月以降) で実施された。</p>"
 
 msgid "IDS_PCZC962_SPACE_MUSEUM_3_2"
 msgstr "ロケット「プロトン」"
 
 msgid "IDS_PCZC962_SPACE_MUSEUM_3_2_DESCRIPTION"
-msgstr "<p>ロケットの改良型は、総合設計者V. N. チェロメイの指導の下、中央機械製造設計局で開発され、M. V. フルニチェフ国立宇宙科学製造センターで製造されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 長さ — 44 m。<br>• 直径 — 7.4 m。<br>• 質量 — 54 t。<br>• 打ち上げ質量 — 702 t。<br>• ペイロード質量 — 20 t。</p><p class=\"p_spacing\"> </p><p>1965年から使用されている大型ロケットであり、様々な目的の宇宙機を低軌道に投入するために使用されています。</p><p class=\"p_spacing\"> </p><p>宇宙機「プロトン」、「ラドゥガ」、「エクラン」、「ゴリゾント」、軌道ステーション「サリュート」、「ミール」、国際宇宙ステーション、他国の人工地球衛星を地球周回軌道に投入しました。</p><p class=\"p_spacing\"> </p><p>基本型として、大陸間弾道ミサイルUR-500が使用されました。</p><p class=\"p_spacing\"> </p><p>ロケット「プロトン」の最初の型は2段式でした。その後の改良型である「プロトンK」および「プロトンM」は、3段構成（基準軌道用）または4段構成（キックステージ付き）で打ち上げられました。</p>"
+msgstr "<p>ロケットの改良型は、総合設計者 V. N. チェロメイの指導の下、機械製造中央設計局で開発され、M. V. フルニチェフ記念国家宇宙科学製造センターで製造された。</p><p class=\"p_spacing\"> </p><p>技術的特性:<br/>・全長 — 44 m；<br/>・直径 — 7.4 m；<br/>・質量 — 54 t；<br/>・打ち上げ質量 — 702 t；<br/>・ペイロード質量 — 20 t。</p><p class=\"p_spacing\"> </p><p>重量級ロケットであり、1965 年以降、様々な目的の宇宙機を低軌道に投入するために使用されている。</p><p class=\"p_spacing\"> </p><p>地球周回軌道に宇宙機「プロトン」「ラドゥガ」「エクラン」「ゴリゾント」、軌道観測所「サリュート」「ミール」、国際宇宙ステーション、その他諸国の人工地球衛星を投入した。</p><p class=\"p_spacing\"> </p><p>基本型として、大陸間弾道ミサイル UR-500 が使用された。</p><p class=\"p_spacing\"> </p><p>ロケット「プロトン」の初期型は 2 段式であった。その後の改良型「プロトン K」および「プロトン M」は、3 段 (基準軌道用) または 4 段 (上段ブースター付き) のいずれかの構成で打ち上げられた。</p>"
 
 msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
 msgstr "3段式ロケット「ソユーズ」"
 
 msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
-msgstr "<p>「ソユーズ」は、R-7 ファミリーに属する 3 段式ロケットであり、第 1 特別設計局 (OKB-1) で開発されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 全長 — 39.3 m;<br>• 直径 — 10.3 m;<br>• 打上げ質量 — 310 t;<br>• 軌道投入可能なペイロード質量 — 最大 7.5 t。</p><p class=\"p_spacing\"> </p><p>有人および無人の様々な目的の宇宙機を軌道に投入するために設計されました。</p><p class=\"p_spacing\"> </p><p>「ソユーズ」ロケットは、総合設計者 D. A. コズロフの指揮の下、OKB-1 の第 3 クイビシェフ支所で製造されました。このロケットは、「ソユーズ」シリーズの有人宇宙船 (1966 年から 1976 年にかけて 32 機打上げ) を円軌道に投入するために設計されました。その後、このタイプのロケットは、「プログレス」貨物船や「コスモス」、「プログノーズ」、「リソース-F」、「フォトン」、「ビオン」シリーズの衛星、およびいくつかの外国の宇宙機の打上げに成功裏に使用されました。</p><p class=\"p_spacing\"> </p><p>「ソユーズ」の最初の 2 段は、R-7 ファミリーの他のロケットの段と同様ですが、質量 25.5 t の近代化された第 3 段は、ロケットのより高いエネルギー特性を提供します。</p><p class=\"p_spacing\"> </p><p>「ソユーズ」ロケットは、第 1 段の 4 つの円錐形の側面ブースターによって容易に識別できます。これは、すべての「ソユーズ」を他のロケットと区別する特徴であり、また、4 つの格子状安定板を備えた特徴的なフェアリングと、頂部にある緊急脱出システム (SAS) の特徴的な「タワー」によっても識別できます。</p><p class=\"p_spacing\"> </p><p>新型の緊急脱出システムは、「ソユーズ」ロケットを、有人飛行用の以前の R-7 タイプのロケットと最も大きく異なる点となりました。SAS はロケット打上げの 15 分前に「作動準備」され、発射台および飛行のどの区間でも、ロケット事故の場合に乗組員の脱出を保証します。</p><p class=\"p_spacing\"> </p><p>「ソユーズ」ロケットの運用は 1966 年に開始されました。設計のさらなる改良により、より近代的な一連のロケットが開発されました。使用期間を通じて、これらのロケットは世界で最も信頼性の高いものの一つとしての地位を確立しました — 打上げの 97% 以上が成功しました。様々な改良型の「ソユーズ」ロケットは、バイコヌール宇宙基地とプレセツク宇宙基地から 800 回以上打ち上げられ、「ソユーズ-2」ロケットは 60 回以上打ち上げられました。</p>"
+msgstr "<p>「ソユーズ」 — R-7 ファミリーに属する 3 段式ロケットで、特別設計局第 1 号で開発された。</p><p class=\"p_spacing\"> </p><p>技術的特性:<br/>・全長 — 39.3 m；<br/>・直径 — 10.3 m；<br/>・打ち上げ質量 — 310 t；<br/>・軌道投入可能なペイロード質量 — 最大 7.5 t。</p><p class=\"p_spacing\"> </p><p>様々な目的の有人・無人宇宙機を軌道に投入するために設計されている。</p><p class=\"p_spacing\"> </p><p>ロケット「ソユーズ」は、総合設計者 D. A. コズロフの指導の下、OKB-1 の第 3 クイビシェフ支所で製造された。このロケットは「ソユーズ」シリーズの有人宇宙船を円軌道に投入するために設計された (1966 年から 1976 年までに 32 機の宇宙船を打ち上げ)。その後、このタイプのロケットは貨物宇宙船「プログレス」や、「コスモス」「プログノス」「リソルスF」「フォトン」「ビオン」シリーズの衛星、および数機の外国製宇宙機の打ち上げに成功裏に使用された。</p><p class=\"p_spacing\"> </p><p>「ソユーズ」の最初の 2 段はR-7ファミリーの他のロケットと同様であるが、質量 25.5 t の改良型第 3 段により、より高いエネルギー性能が提供される。</p><p class=\"p_spacing\"> </p><p>ロケット「ソユーズ」は、第 1 段の 4 基の円錐形サイドブロック (これにより全ての「ソユーズ」が他のロケットと区別される) 、および特徴的な頭部フェアリング (4 つの格子状安定板の長方形と、頂部にある緊急脱出システムの特異な「タワー」) により容易に識別できる。</p><p class=\"p_spacing\"> </p><p>新型の緊急脱出システムは、有人飛行用に設計された従来の R-7 タイプのロケットとの最も顕著な違いである。SAS (緊急脱出システム) はロケット打ち上げの 15 分前に「コック」され、打ち上げ台でも飛行のどの区間でもロケット事故発生時に乗組員の脱出を保証する。</p><p class=\"p_spacing\"> </p><p>ロケット「ソユーズ」の運用は 1966 年に開始された。その後の設計改良により、より近代的な一連のロケットが開発された。使用期間を通じて、これらのロケットは世界で最も信頼性の高いものの一つであることを証明した — 打ち上げ成功率 97% 超。様々な改良型のロケット「ソユーズ」はバイコヌール宇宙基地とプレセツク宇宙基地から 800 回以上、ロケット「ソユーズ 2」は 60 回以上打ち上げられた。</p>"
 
 msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
 msgstr "ロケット"
 
 msgid "IDS_PCZC964_SPACE_MUSEUM_3_4_DESCRIPTION"
-msgstr "<p>世界で最も信頼性の高い大型ロケットの一つ。様々な目的の宇宙機を軌道に投入するために使用されます。</p><p class=\"p_spacing\"> </p><p>1965 年 7 月 16 日、大型科学宇宙ステーション「プロトン」が低軌道に投入され、その名称は後にロケットにも使用されるようになりました。第 1 段には、推力 1 メガニュートンの 6 基の RD-253 エンジン (「プロトン-M」では RD-276) が搭載され、第 2 段には 4 基の RD-0210 エンジン、第 3 段には推力 583 キロニュートンの RD-0213 エンジンが搭載されています。すべてのエンジンは非対称ジメチルヒドラジンと四酸化二窒素を使用します。</p><p class=\"p_spacing\"> </p><p>ロケットの開発には、大陸間弾道ミサイル UR-500 が使用されました。</p><p class=\"p_spacing\"> </p><p>1967 年からは、現代的な 3 段構成の「プロトン-K」の打上げが開始され、2012 年からはより強力な「プロトン-M」の打上げが開始されました。ペイロードは 12 t から 22 t に増加しました。</p><p class=\"p_spacing\"> </p><p>これらの打上げにより、「プロトン」ロケットは、地球近傍宇宙空間、月、火星、金星の探査計画で使用されるようになりました。</p><p class=\"p_spacing\"> </p><p>「プロトン」ロケットを使用して、「プロトン」、「コスモス」、「エクラン」、「ラドゥガ」、「ゴリゾント」宇宙機、「GLONASS」軌道群用衛星、月、火星、金星、ハレー彗星探査機、「サリュート」および「アルマース」軌道ステーション、「ミール」軌道複合体および国際宇宙ステーションのモジュールが宇宙に打ち上げられました。</p><p class=\"p_spacing\"> </p><p>ロケットの改良型 — 「プロトン」、「プロトン-K」、「プロトン-M」 — は、総合設計者 V. N. チェロメイ (NPO 機械製造) の指揮の下、中央機械製造設計局および M. V. フルニチェフ国立宇宙研究生産センターで開発されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 打上げ質量 — 最大 705 t;<br>• 全長 — 45–60 m;<br>• 3 段の全長 — 44 m;<br>• 最大直径 — 7.4 m;<br>• ペイロード質量 — 22 t。</p>"
+msgstr "<p>世界で最も信頼性の高い重量級ロケットの一つ。様々な目的の宇宙機の打ち上げに使用される。</p><p class=\"p_spacing\"> </p><p>1965 年 7 月 16 日、低軌道に重量級科学宇宙観測所「プロトン」が投入され、その後その名称はロケット (LV) にも冠されることとなった。第 1 段には推力 1 メガニュートンの 6 基の RD-253 エンジン (「プロトン M」では RD-276)、第 2 段には 4 基の RD-0210 エンジン、第 3 段には推力 583 キロニュートンの RD-0213 エンジンが搭載されている。全エンジンは非対称ジメチルヒドラジンと四酸化二窒素を使用する。</p><p class=\"p_spacing\"> </p><p>ロケットの開発には大陸間弾道ミサイル UR-500 が使用された。</p><p class=\"p_spacing\"> </p><p>1967 年以降、現代的な 3 段構成の「プロトン K」の打ち上げが開始され、2012 年以降はより強力な「プロトン M」が登場した。ペイロードは 12 t から 22 t に増加した。</p><p class=\"p_spacing\"> </p><p>これらの打ち上げにより、ロケット「プロトン」は地球周辺宇宙空間、月、火星、金星の探査計画で使用され始めた。</p><p class=\"p_spacing\"> </p><p>ロケット「プロトン」を用いて、宇宙機「プロトン」「コスモス」「エクラン」「ラドゥガ」「ゴリゾント」、軌道衛星群「GLONASS」用衛星、月・火星・金星・ハレー彗星探査機、軌道観測所「サリュート」および「アルマース」、軌道複合体「ミール」と国際宇宙ステーションのモジュールが宇宙に打ち上げられた。</p><p class=\"p_spacing\"> </p><p>ロケットの改良型 — 「プロトン」「プロトン K」「プロトン M」 — は、総合設計者 V. N. チェロメイ (機械製造 NPO) の指導の下、機械製造中央設計局および M. V. フルニチェフ記念国家宇宙科学製造センターで開発された。</p><p class=\"p_spacing\"> </p><p>技術的特性:<br/>・打ち上げ質量 — 最大 705 t；<br/>・全長 — 45～60 m；<br/>・3 段部分の全長 — 44 m；<br/>・最大直径 — 7.4 m；<br/>・ペイロード質量 — 22 t。</p>"
 
 msgid "IDS_PCZC965_SPACE_MUSEUM_3_5"
 msgstr "ロケット・宇宙複合体"
 
 msgid "IDS_PCZC965_SPACE_MUSEUM_3_5_DESCRIPTION"
-msgstr "<p>有人月面着陸と帰還のための超大型ロケット N-1。</p><p class=\"p_spacing\"> </p><p>当初は、大型 (75 t) 軌道ステーションを地球周回軌道に投入するために設計されましたが、後に有人月面着陸と地球帰還を確保する計画に方向転換されました。1969 年から 1972 年にかけて、合計 4 回の試験打上げが行われましたが、すべて失敗しました (第 1 段の不具合による)。N-1 ロケットの打上げはすべて、バイコヌール宇宙基地の第 113 射点 (2 基の発射台を備える) から行われました。有人月面着陸計画は、1974 年にソ連で中止されました。「N」ファミリーのロケットの構造・配置方式は、現在でも宇宙用ロケットとしては独特のものです。</p><p class=\"p_spacing\"> </p><p>1964 年から、主任設計者 S. P. コロリョフの指揮の下、クイビシェフの OKB-1 で開発されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 第 1 段の最大直径 — 17 m;<br>• 全長 — 105.3 m;<br>• 打上げ質量 — 2820 t;<br>• 地球軌道に投入可能なペイロード質量 — 90 t;<br>• 燃料質量 — 1410 t;<br>• 第 1 段のエンジン数 — 30 基;<br>• 地上におけるエンジンの総推力 — 4615 tf;<br>• 燃料 — ケロシン、酸化剤として酸素。</p>"
+msgstr "<p>超重量級打ち上げロケット N-1 は、月への飛行と人類の月面着陸を実現するために開発されました。</p><p class=\"p_spacing\"> </p><p>当初は、大型 (75 t) 軌道ステーションを地球周回軌道に投入するために設計されましたが、後にプログラムは有人月面着陸と地球帰還の実現へと目標が変更されました。1969 年から 1972 年にかけて計 4 回の試験打ち上げが行われましたが、すべて第 1 段の不具合により失敗に終わりました。N-1 ロケットの打ち上げはすべて、バイコヌール宇宙基地の第 113 射点 (2 基の発射台を有する) から行われました。有人月面着陸を伴う月飛行計画は、1974 年にソ連で中止されました。「N」シリーズロケットの構造レイアウトは、今なお宇宙ロケットとしてユニークなものです。</p><p class=\"p_spacing\"> </p><p>1964 年より、主任設計者 S. P. コロリョフの指導の下、クイビシェフの OKB-1 にて開発が開始されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• 第 1 段最大直径 — 17 m;<br/>• 全長 — 105.3 m;<br/>• 打ち上げ質量 — 2820 t;<br/>• 地球軌道への最大ペイロード質量 — 90 t;<br/>• 燃料質量 — 1410 t;<br/>• 第 1 段エンジン数 — 30 基;<br/>• 地上におけるエンジン総推力 — 4615 tf;<br/>• 燃料 — ケロシン、酸化剤として酸素。</p>"
 
 msgid "IDS_PCZC966_SPACE_MUSEUM_3_6"
 msgstr "ロケット「エネルギア」"
 
 msgid "IDS_PCZC966_SPACE_MUSEUM_3_6_DESCRIPTION"
-msgstr "<p>ソ連のロケットの中で最も強力であり、世界で最も強力なロケットの一つ。液体水素を燃料として使用した最初のソ連のロケット。NPO「エネルギア」によって開発されました。「エネルギア-ブラン」計画は、NPO「エネルギア」の総合設計者 V. P. グルシュコが主導しました。</p><p class=\"p_spacing\"> </p><p>この汎用将来型ロケットは、再利用可能な軌道船「ブラン」の打上げ、有人および自動の月・火星探査の実施、次世代軌道ステーションの打上げ、超大型静止衛星プラットフォームの打上げ、大型軍事貨物の打上げを目的としていました。「エネルギア」ロケットは、約 100 t のペイロードを軌道に投入することができます。作業は 1976 年に開始されました。ロケットは 2 段式パッケージ方式で構成されています。第 1 段は、パラシュートで地球に帰還する、酸素・ケロシンを燃料とする 4 基の 4 チャンバーエンジン RD-170 を搭載した 4 つの側面ブースターで構成されています。第 1 段モジュールの寿命は最大 10 回の打上げを可能にします。第 2 段は、4 基の酸素・水素エンジン RD-0120 を搭載し、貨物取付装置が設置される支持構造となっています。</p><p class=\"p_spacing\"> </p><p>「エネルギア」ロケットは 2 回打ち上げられました:<br>• 1987 年 5 月 15 日、実験用ペイロード — 宇宙機「ポリュース」を搭載。宇宙機自身の姿勢制御システムの故障により、ペイロードは軌道に投入されませんでした。<br>• 1988 年 11 月 15 日、軌道船「ブラン」を搭載。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 打上げ質量 (MTKS) — 2375–2419 t;<br>• ロケット質量 — 2270 t;<br>• 全長 — 58.76 m;<br>• 幅 — 17.65 m。</p>"
+msgstr "<p>ソビエトのロケットの中で最も強力であり、世界でも最も強力なロケットの 1 つ。液体水素を燃料として使用した最初のソビエト製ロケット。科学生産合同「エネルギア」によって開発されました。「エネルギア-ブラン」計画は、NPO「エネルギア」の総設計者 V. P. グルシュコが主導しました。</p><p class=\"p_spacing\"> </p><p>この多目的先進ロケットは、再利用可能な軌道船「ブラン」の打ち上げ、有人および自動の月・火星探査、次世代軌道ステーションの打ち上げ、超重量級静止衛星プラットフォームの打ち上げ、大型軍事貨物の打ち上げを目的としていました。RNG「エネルギア」は、約 100 t のペイロードを軌道に投入することが可能です。開発は 1976 年に開始されました。ロケットは 2 段式パッケージ方式で構成されています。第 1 段は 4 基のサイドブースターで構成され、酸素ケロシンを燃料とする 4 室エンジン RD-170 を搭載し、パラシュートで地球に帰還します。第 1 段モジュールの再利用可能回数は最大 10 回です。第 2 段は 4 基の酸素水素エンジン RD-0120 を搭載し、貨物取付装置が設置される支持構造体です。</p><p class=\"p_spacing\"> </p><p>「エネルギア」ロケットは 2 回打ち上げられました:<br/>• 1987 年 5 月 15 日、実験用ペイロードとして宇宙機「ポリウス」を搭載。宇宙機自体の姿勢制御系の故障により、軌道投入は失敗。<br/>• 1988 年 11 月 15 日、軌道船「ブラン」を搭載。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• 多用途宇宙ロケットシステムの打ち上げ質量 — 2375 ～ 2419 t;<br/>• ロケット質量 — 2270 t;<br/>• 全長 — 58.76 m;<br/>• 幅 — 17.65 m。</p>"
 
 msgid "IDS_PCZC967_SPACE_MUSEUM_4_1"
 msgstr "高空脱出用宇宙服 SK-1"
 
 msgid "IDS_PCZC967_SPACE_MUSEUM_4_1_DESCRIPTION"
-msgstr "<p>初の使用は、1961 年 4 月 12 日、世界初の宇宙飛行士 Y. A. ガガーリンの地球周回飛行中でした。</p><p class=\"p_spacing\"> </p><p>「ボストーク」宇宙船の宇宙飛行士用に設計され、1963 年まで使用されました。SK-1 宇宙服を着用して、Y. A. ガガーリン、G. S. チトフ、A. G. ニコラエフ、P. R. ポポーヴィチ、V. F. ブィコフスキーが飛行しました。V. V. テレシコワは改良型 — SK-2 宇宙服を使用しました。</p><p class=\"p_spacing\"> </p><p>開放型換気システムを備えたソフト構造の宇宙服。宇宙服の外皮は 2 層構造で、外側の強力層はラヴサン生地、内側の気密層はシートゴム製です。外皮の上に保護用の上着を着用します。外皮の下には、換気システムのチューブとパネルを備えた防熱服を着用します。ヘルメットは固定式で取り外し不可能、二重ガラスと非常用閉鎖システムを備えています。</p><p class=\"p_spacing\"> </p><p>機内換気システム、機内およびパラシュート酸素供給システムと組み合わせて、SK-1 宇宙服は宇宙飛行士に以下を提供しました:<br>• 与圧された機内での最大 12 日間の正常な衛生状態;<br>• 非与圧状態の機内での 4～5 時間の安全な滞在;<br>• 高度 8 km までの機内からの射出時の保護;<br>• パラシュート降下中の酸素供給;<br>• 冷水中での 12 時間の生命維持。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 宇宙服内の作動過剰圧力 — 270–300 hPa;<br>• ファンからのガス流量 — 150 L/min;<br>• 機内ボンベからのガス供給 (空気 + 酸素) — 50 nL/min;<br>• 宇宙服質量 — 20 kg。</p><p class=\"p_spacing\"> </p><p>1960 年から 1961 年にかけて、総合設計者 S. M. アレクセーエフの指揮の下、「ズヴェズダ」工場で開発されました。宇宙服の外皮は、A. Y. ストクリツキーが率いるグループによって、A. I. ボイコ、A. L. ゼルビンスキーの協力を得て開発されました。生命維持システムは、I. P. アブラモフが率いるグループによって、A. M. ゲルシコーヴィチ、M. N. ドゥドニクの協力を得て開発されました。宇宙服の試験は、V. I. スヴェルシチェクが率いるグループによって実施されました。電子無線機器の準備は、I. I. スコモロフスキーが率いるグループによって実施されました。宇宙服の準備と点検は、F. A. ヴォストコフが率いるグループによって実施されました。</p>"
+msgstr "<p>初飛行は 1961 年 4 月 12 日、世界初の宇宙飛行士 Y. A. ガガーリンの地球周回飛行時に行われました。</p><p class=\"p_spacing\"> </p><p>「ボストーク」宇宙船の宇宙飛行士用に設計され、1963 年まで使用されました。SK-1 宇宙服を着用して飛行したのは、Y. A. ガガーリン、G. S. チトフ、A. G. ニコラエフ、P. R. ポポビッチ、V. F. ブイコフスキーです。V. V. テレシコワは改良型の SK-2 宇宙服を使用しました。</p><p class=\"p_spacing\"> </p><p>開放型換気システムを備えた軟構造の宇宙服。宇宙服の外皮は 2 層構造で、外側の強力層はラヴサン生地、内側の気密層はシートゴム製です。外皮の上には保護用の上着を着用します。外皮の下には、換気システムのチューブとパネルを備えた防熱服を着用します。ヘルメットは硬質で取り外し不可、二重窓と非常用ハッチ閉鎖システムを備えています。</p><p class=\"p_spacing\"> </p><p>SK-1 宇宙服は、船内換気システム、船内およびパラシュート用酸素供給システムと併せて、宇宙飛行士に以下を提供しました:<br/>• 与圧された宇宙船内での最大 12 日間の通常の衛生状態;<br/>• 与圧喪失時における 4 ～ 5 時間の安全な滞在;<br/>• 高度 8 km 以下でのキャビンからの射出時の保護;<br/>• パラシュート降下中の酸素供給;<br/>• 寒冷水中における 12 時間の生命維持。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• 宇宙服内の使用過剰圧力 — 270 ～ 300 hPa;<br/>• ファンによるガス流量 — 150 L/分;<br/>• 船内ボンベからのガス供給量 (空気 + 酸素) — 50 nL/分;<br/>• 宇宙服質量 — 20 kg。</p><p class=\"p_spacing\"> </p><p>1960 ～ 1961 年に、ゼムリャ工場にて、総設計者 S. M. アレクセーエフの指導の下で開発されました。宇宙服の外皮は、A. Yu. ストクリツキー指導の下、A. I. ボイコ、A. L. ゼルビンスキーの参加を得て開発されました。生命維持システムは、I. P. アブラモフ指導の下、A. M. ゲルシコビッチ、M. N. ドゥドニクの参加を得て開発されました。宇宙服の試験は V. I. スヴェルシュチェクのグループによって実施されました。電気無線機器の準備は I. I. スコロモロフスキーのグループによって行われました。宇宙服の準備と点検は F. A. ヴォストコフのグループによって行われました。</p>"
 
 msgid "IDS_PCZC968_SPACE_MUSEUM_4_2"
 msgstr "短期間の船外活動用宇宙服「ベルクート」"
 
 msgid "IDS_PCZC968_SPACE_MUSEUM_4_2_DESCRIPTION"
-msgstr "<p>宇宙服「ベルクート」は、1965 年 3 月に宇宙船「ボスホート 2」の乗組員である P. I. ベリャーエフと A. A. レオーノフによって使用されました。</p><p class=\"p_spacing\"> </p><p>船外活動を可能にするために設計されると同時に、宇宙船「ボスホート 2」の乗組員がキャビンの緊急減圧時に使用するための救命用としても機能しました。</p><p class=\"p_spacing\"> </p><p>1965 年 3 月 18 日、A. A. レオーノフは世界で初めて、宇宙服「ベルクート」を着用し、エアロックを通じて宇宙船から宇宙空間へと船外活動を行いました。宇宙空間での滞在時間は 12 分 9 秒でした。</p><p class=\"p_spacing\"> </p><p>宇宙服「ベルクート」は、取り外し可能な硬質ヘルメットと開放型換気システムを備えた軟構造の宇宙服です。宇宙服の外皮は 3 層構造で、外側の強力層はカプロン生地、内側の 2 層は気密層で、主層はシートゴム、予備層（内側）は多孔質ゴムで構成されています。外皮の上には、スクリーン真空断熱材を備えた防護服が着用されます。宇宙服は、取り外し可能なバックパック（酸素装置 KP-55）に収納された独立型生命維持システムと併用されました。このバックパックは、酸素呼吸装置および機器設計専門設計局で開発されました。</p><p class=\"p_spacing\"> </p><p>船内換気および酸素供給システムと併用することで、宇宙服は宇宙飛行士に、減圧されたキャビン内での 4 時間の安全な滞在を保証しました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• バックパック生命維持装置による宇宙服の自律動作時間 — 45 分;<br>• 宇宙服内の作動圧力 — メインモードで 400 hPa、補助モードで 270 hPa;<br>• 船内システムからの宇宙服「ベルクート」内の換気ガス流量 — 150 L/分;<br>• 宇宙服の質量 — 20 kg;<br>• バックパックの質量 — 21.5 kg。</p><p class=\"p_spacing\"> </p><p>この宇宙服は、1964 年から 1965 年にかけて、ゼムリャ工場にて、総設計者 G. I. セヴェリンの指揮の下で開発されました。</p>"
+msgstr "<p>「ベルクト」宇宙服は、1965 年 3 月に「ボスホート 2 号」宇宙船の乗組員である P. I. ベリャーエフと A. A. レオノフによって使用されました。</p><p class=\"p_spacing\"> </p><p>船外活動を可能にすると同時に、「ボスホート 2 号」宇宙船の乗組員がキャビンの与圧を緊急喪失した場合の緊急脱出用宇宙服としても機能するように設計されました。</p><p class=\"p_spacing\"> </p><p>1965 年 3 月 18 日、A. A. レオノフは、世界で初めて「ベルクト」宇宙服を着用し、エアロックを通って宇宙船から宇宙空間へ出ました。宇宙飛行士は 12 分 9 秒間、宇宙空間に滞在しました。</p><p class=\"p_spacing\"> </p><p>「ベルクト」宇宙服は、取り外し可能な硬質ヘルメットと開放型換気システムを備えた軟構造です。宇宙服の外皮は 3 層構造で、外側の強力層はカプロン生地、2 層の気密層は、主層がシートゴム製、予備層 (内側) が多孔質ゴム製です。外皮の上には、スクリーン真空断熱材を備えた保護服を着用します。宇宙服は、取り外し可能なバックパック (酸素供給器 KP-55) に収納された自律型生命維持システムと共に運用されました。バックパックは、酸素呼吸器および機器設計専門設計局で開発されました。</p><p class=\"p_spacing\"> </p><p>宇宙服は、船内換気システムおよび酸素供給システムと併せて、宇宙飛行士に以下を提供しました: 与圧喪失時における 4 時間の安全なキャビン内滞在。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• バックパック式生命維持システムによる宇宙服の自律動作時間 — 45 分;<br/>• 宇宙服内の使用圧力 — メインモードで 400 hPa、補助モードで 270 hPa;<br/>• 「ベルクト」宇宙服における船内システムからの換気ガス流量 — 150 L/分;<br/>• 宇宙服質量 — 20 kg;<br/>• バックパック質量 — 21.5 kg。</p><p class=\"p_spacing\"> </p><p>宇宙服は 1964 ～ 1965 年に、ゼムリャ工場にて、総設計者 G. I. セヴェリンの指導の下で開発されました。</p>"
 
 msgid "IDS_PCZC969_SPACE_MUSEUM_4_3"
 msgstr "宇宙服「オルラン-D」"
 
 msgid "IDS_PCZC969_SPACE_MUSEUM_4_3_DESCRIPTION"
-msgstr "<p>半硬質タイプの船外活動用宇宙服。1977 年から 1984 年にかけて、軌道ステーション「サリュート 6」および「サリュート 7」の飛行中に使用されました。</p><p class=\"p_spacing\"> </p><p>宇宙服「オルラン-D」を着用した初の船外活動は、1977 年 12 月 20 日に、宇宙飛行士 Y. V. ロマネンコと G. M. グレチコによって軌道ステーション「サリュート 6」から実施されました。</p><p class=\"p_spacing\"> </p><p>従来の「ベルクート」や「ヤストレブ」タイプの宇宙服とは異なり、宇宙服「オルラン-D」は各宇宙飛行士に合わせて調整可能であり、宇宙ステーションでの交代乗組員の作業に便利でした。</p><p class=\"p_spacing\"> </p><p>この宇宙服は、交換可能な消耗品要素を備えた再生（閉鎖）型の生命維持システムを備えています。</p><p class=\"p_spacing\"> </p><p>温度調節システムでは、船外活動中の宇宙飛行士の身体から過剰な熱を取り除くために水冷式スーツが使用されています。</p><p class=\"p_spacing\"> </p><p>電源、無線通信、テレメトリーは、長さ 20 m の電気ケーブルを介して行われ、このケーブルは安全索としても機能します。宇宙服には、カラビナ付きの安全索が追加で装備されています。</p><p class=\"p_spacing\"> </p><p>宇宙服のいくつかの改良型が開発されています: 「オルラン-DM」、「オルラン-DMA」、「オルラン-M」、「オルラン-MK」、「オルラン-MKS」。</p><p class=\"p_spacing\"> </p><p>科学生産企業「ゼムリャ」にて開発・製造されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 質量 — 73.5 kg から 114 kg（改良型による）;<br>• 宇宙飛行士の胸囲 — 96 cm から 108 cm;<br>• 宇宙飛行士の身長 — 164 cm から 180 cm;<br>• 船外活動における自律動作時間 — 5 時間から 8 時間（改良型による）。</p>"
+msgstr "<p>船外活動用の半硬質宇宙服。1977 年から 1984 年にかけて軌道ステーション「サリュート 6 号」および「サリュート 7 号」の飛行中に使用されました。</p><p class=\"p_spacing\"> </p><p>「オルラン-D」宇宙服による初の船外活動は、1977 年 12 月 20 日に宇宙飛行士 Y. V. ロマネンコと G. M. グレチコによって軌道ステーション「サリュート 6 号」から実施されました。</p><p class=\"p_spacing\"> </p><p>従来の「ベルクト」や「ヤストレブ」タイプの宇宙服とは異なり、「オルラン-D」宇宙服は各宇宙飛行士の体格に合わせて調整することができ、宇宙ステーションでの交代乗組員の作業に便利でした。</p><p class=\"p_spacing\"> </p><p>この宇宙服は、交換可能な消耗品要素を備えた再生 (閉鎖) タイプの生命維持システムを備えています。</p><p class=\"p_spacing\"> </p><p>温度調節システムでは、船外活動中の宇宙飛行士の身体からの過剰な熱を取り除くために水冷式スーツが使用されています。</p><p class=\"p_spacing\"> </p><p>電源、無線通信、テレメトリーは、長さ 20 m の電気ケーブル兼安全索を通じて行われます。宇宙服には、カラビナ付きの安全索も別途装備されています。</p><p class=\"p_spacing\"> </p><p>宇宙服のいくつかの改良型が開発されました: 「オルラン-DM」、「オルラン-DMA」、「オルラン-M」、「オルラン-MK」、「オルラン-MKS」。</p><p class=\"p_spacing\"> </p><p>科学生産企業「ゼムリャ」で開発・製造されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• 質量 — 73.5 ～ 114 kg (改良型による);<br/>• 宇宙飛行士の胸囲 — 96 ～ 108 cm;<br/>• 宇宙飛行士の身長 — 164 ～ 180 cm;<br/>• 船外活動における自律動作時間 — 5 ～ 8 時間 (改良型による)。</p>"
 
 msgid "IDS_PCZC970_SPACE_MUSEUM_4_4"
 msgstr "宇宙服「クレチェト-94」"
 
 msgid "IDS_PCZC970_SPACE_MUSEUM_4_4_DESCRIPTION"
-msgstr "<p>内蔵型生命維持システムを備えた、船外活動および月面での研究宇宙飛行士の作業のためのソビエト製半硬質宇宙服。</p><p class=\"p_spacing\"> </p><p>有人月面着陸を伴う月飛行計画は、1974 年にソ連で中止されました。しかし、月探査用に設計された宇宙服「クレチェト」は既に開発されていました。これは、後に宇宙飛行士が船外活動で使用することになる宇宙服「オルラン」の原型となりました。</p><p class=\"p_spacing\"> </p><p>宇宙服の胴体はヘルメットの兜と共に、アルミニウム合金板で作られています。腕と脚部の外皮は軟構造です。</p><p class=\"p_spacing\"> </p><p>入口用のハッチは宇宙服の背面にあり、ハッチの蓋はバックパック「カスピー」であり、その中に生命維持システムのユニットが配置されています。</p><p class=\"p_spacing\"> </p><p>自律型生命維持システムは、再生（閉鎖）タイプです。温度調節システムでは、水冷式スーツと熱交換器（昇華器）が使用されています。生命維持システムの制御装置は、胴体の胸部部分に配置されています。宇宙服内での自律動作時間は約 10 時間。宇宙服の質量は 106 kg（月面条件下では約 17.5 kg）。</p><p class=\"p_spacing\"> </p><p>宇宙服の外皮は 3 層構造で、外側（強力層）はカプロン生地、内側の 2 層はゴムで構成されています。腕部には肩と手首のベアリングが装備されており、宇宙飛行士が様々な手の動きを行うことを可能にします。外皮の上には、スクリーン真空断熱材を備えた防熱服が着用されます。この服にはアンテナ給電装置が組み込まれています。</p><p class=\"p_spacing\"> </p><p>1960 年代後半に、ゼムリャ工場にて、1 名の宇宙飛行士の月面着陸を想定したソ連の有人月計画 N-1–L-3 のために開発・製造されました。</p>"
+msgstr "<p>内蔵型生命維持システムを備えた、船外活動および月面での研究宇宙飛行士の作業のためのソビエト製半硬質宇宙服。</p><p class=\"p_spacing\"> </p><p>有人月面着陸を伴う月飛行計画は、1974 年にソ連で中止されました。しかし、月探査用に設計された宇宙服「クレチェト」は既に開発されていました。これは、後に宇宙飛行士が船外活動で使用することになる宇宙服「オルラン」の原型となりました。</p><p class=\"p_spacing\"> </p><p>宇宙服の胴体はヘルメットの兜と共に、アルミニウム合金板で作られています。腕と脚部の外皮は軟構造です。</p><p class=\"p_spacing\"> </p><p>入口用のハッチは宇宙服の背面にあり、ハッチの蓋はバックパック「カスピー」であり、その中に生命維持システムのユニットが配置されています。</p><p class=\"p_spacing\"> </p><p>自律型生命維持システムは、再生 (閉鎖) タイプです。温度調節システムでは、水冷式スーツと熱交換器 (昇華器) が使用されています。生命維持システムの制御装置は、胴体の胸部部分に配置されています。宇宙服内での自律動作時間は約 10 時間。宇宙服の質量は 106 kg (月面条件下では約 17.5 kg)。</p><p class=\"p_spacing\"> </p><p>宇宙服の外皮は 3 層構造で、外側 (強力層) はカプロン生地、内側の 2 層はゴムで構成されています。腕部には肩と手首のベアリングが装備されており、宇宙飛行士が様々な手の動きを行うことを可能にします。外皮の上には、スクリーン真空断熱材を備えた防熱服が着用されます。この服にはアンテナ給電装置が組み込まれています。</p><p class=\"p_spacing\"> </p><p>1960 年代後半に、ゼムリャ工場にて、1 名の宇宙飛行士の月面着陸を想定したソ連の有人月計画 N-1–L-3 のために開発・製造されました。</p>"
 
 msgid "IDS_PCZC971_SPACE_MUSEUM_5_1"
 msgstr "ベルカ、ストレルカ、そして射出コンテナ"
@@ -78351,7 +79488,7 @@ msgid "IDS_PCZC972_SPACE_MUSEUM_5_2"
 msgstr "宇宙船シリーズ「ボストーク」の一人乗り降下モジュール"
 
 msgid "IDS_PCZC972_SPACE_MUSEUM_5_2_DESCRIPTION"
-msgstr "<p>1961 年から 1963 年にかけて、宇宙飛行士 Y. A. ガガーリン、G. S. チトフ、A. G. ニコラエフ、P. R. ポポーヴィチ、V. F. ブィコフスキー、V. V. テレシコワが参加した最初の有人宇宙飛行の際に、「ボストーク」計画で使用されました。</p><p class=\"p_spacing\"> </p><p>宇宙船「ボストーク」は、降下モジュールと機器・装置モジュールの 2 つの区画で構成されていました。各区画は、金属製の帯と火工ロックによって機械的に接続されていました。</p><p class=\"p_spacing\"> </p><p>降下モジュールは、打ち上げ時、軌道飛行時、および高度 7 km までの降下時に宇宙飛行士を収容するために設計されています。その後、宇宙飛行士は座席と非常用脱出装備と共に射出されました。宇宙飛行士は、座席から分離後、高度 4 km で開傘するパラシュートで着地しました。</p><p class=\"p_spacing\"> </p><p>アルミニウム合金製の降下モジュールの気密胴体は球形です。外面は厚さ 30 ～ 180 mm の耐熱被覆で覆われています。降下モジュールには直径 1 m のハッチが 3 つあります。宇宙飛行士の足元にある 1 つは点検用、頭上にある 2 つ目は宇宙飛行士の搭乗および射出用、3 つ目はパラシュートコンテナ用のハッチです。降下モジュールには 3 つの舷窓と射出座席があります。</p><p class=\"p_spacing\"> </p><p>宇宙飛行士は特殊な宇宙服を着用しており、必要に応じて、減圧された宇宙船キャビン内での 4 時間の滞在を可能にし、高度 10 km までの気密キャビンからの射出時の保護を提供しました。</p><p class=\"p_spacing\"> </p><p>降下モジュール内には、水、食料の備蓄、および廃棄物収集容器がありました。宇宙飛行士は、「ザリャ」システムの 1 つの VHF 無線回線と 2 つの HF 無線回線を介して、地球との双方向無線通信を維持することができました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 質量 — 2.4 t;<br>• 直径 — 2.3 m;<br>• 容積 — 5.2 m³;<br>• 自由容積 — 1.6 m³。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指揮の下、特別設計局 OKB-1 で開発されました。</p>"
+msgstr "<p>1961 ～ 1963 年に、宇宙飛行士 Y. A. ガガーリン、G. S. チトフ、A. G. ニコラエフ、P. R. ポポビッチ、V. F. ブイコフスキー、V. V. テレシコワが参加した最初の有人宇宙飛行計画「ボストーク」に従って使用されました。</p><p class=\"p_spacing\"> </p><p>宇宙船「ボストーク」は、降下モジュールと機器・アセンブリコンパートメントの 2 つの区画で構成されていました。各区画は、金属製ベルトと火工品ロックによって機械的に接続されていました。</p><p class=\"p_spacing\"> </p><p>降下モジュールは、打ち上げ時、軌道飛行時、および高度 7 km までの降下時に宇宙飛行士を収容するために設計されました。その後、宇宙飛行士は座席と非常用装備と共に射出されました。宇宙飛行士は、座席から分離された後、高度 4 km で開傘するパラシュートで着陸しました。</p><p class=\"p_spacing\"> </p><p>アルミニウム合金製の与圧された降下モジュールの船体は球形です。外側は厚さ 30 ～ 180 mm の耐熱コーティングで覆われています。降下モジュールには、直径 1 m のハッチが 3 つあります。1 つは宇宙飛行士の足元にある点検用ハッチ、2 つ目は頭上にある宇宙飛行士の搭乗および射出用ハッチ、3 つ目はパラシュートコンテナ用ハッチです。降下モジュールには 3 つの舷窓と射出座席があります。</p><p class=\"p_spacing\"> </p><p>宇宙飛行士は特別な宇宙服を着用しており、必要に応じて、与圧喪失した宇宙船内での 4 時間の滞在と、最大 10 km の高度からの与圧キャビンからの射出時の保護を提供しました。</p><p class=\"p_spacing\"> </p><p>降下モジュールには、水、食料、廃棄物収集容器が保管されていました。宇宙飛行士は、「ザリャ」システムの 1 つの VHF 無線回線と 2 つの HF 無線回線を介して地球との双方向無線通信を維持することができました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• 質量 — 2.4 t;<br/>• 直径 — 2.3 m;<br/>• 容積 — 5.2 m³;<br/>• 自由容積 — 1.6 m³。</p><p class=\"p_spacing\"> </p><p>主任設計者 S. P. コロリョフの指導の下、特別設計局 OKB-1 で開発されました。</p>"
 
 msgid "IDS_PCZC973_SPACE_MUSEUM_5_3"
 msgstr "宇宙船「ボストーク」"
@@ -78363,19 +79500,19 @@ msgid "IDS_PCZC974_SPACE_MUSEUM_5_4"
 msgstr "宇宙船「ヴォスホート-2」のエアロック"
 
 msgid "IDS_PCZC974_SPACE_MUSEUM_5_4_DESCRIPTION"
-msgstr "<p>宇宙船の気密性を確保し、宇宙飛行士が船外活動を行うために設計されています。</p><p class=\"p_spacing\"> </p><p>1965 年 3 月 18 日、A. A. レオーノフは世界宇宙飛行史において初めて、エアロックを介して宇宙船から宇宙空間へと船外活動を行いました。</p><p class=\"p_spacing\"> </p><p>円筒形で半軟構造のエアロックには、2 つのハッチがありました。1 つは帰還船との連絡用、もう 1 つは船外活動用です。エアロックシステムを備えていました。エアロックは、折り畳まれた状態でフレームを介して船外に取り付けられました。船が軌道に投入された後、エアロックは膨張し、船長 P. I. ベリャーエフの座席の前に設置されたコンソールからの指令によって作動状態に設定されました。このコンソールから、すべてのエアロック操作が制御されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• エアロックの質量 — 250 kg;<br>• 折り畳み時の直径 — 70 cm;<br>• 折り畳み時の高さ — 77 cm;<br>• 展開時の高さ — 2.5 m;<br>• 内径 — 最大 1 m;<br>• 外径 — 最大 1.2 m;<br>• ハッチの直径 — 70 cm.</p><p class=\"p_spacing\"> </p><p>1964 年から 1965 年にかけて、ゼヴェズダ工場にて、総設計者 G. I. セヴェリンの指導の下で開発されました。</p>"
+msgstr "<p>宇宙船の気密性を確保し、宇宙飛行士の船外活動を可能にするために設計されました。</p><p class=\"p_spacing\"> </p><p>1965 年 3 月 18 日、A. A. レオノフは世界宇宙飛行史において初めて、エアロックを通って宇宙船から宇宙空間へ出ました。</p><p class=\"p_spacing\"> </p><p>円筒形で半軟構造のエアロックには、2 つのハッチがありました。1 つは降下モジュールとの連絡用、もう 1 つは船外活動用です。エアロックシステムを備えていました。エアロックは、フレームを介して折り畳まれた状態で船外に取り付けられました。宇宙船が軌道に投入された後、船長 P. I. ベリャーエフの座席の前に設置された制御盤からの指令により、エアロックは膨張して使用可能状態になりました。この制御盤から、すべてのエアロック操作が制御されました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• エアロック質量 — 250 kg;<br/>• 折り畳み時の直径 — 70 cm;<br/>• 折り畳み時の高さ — 77 cm;<br/>• 展開時の高さ — 2.5 m;<br/>• 内径 — 最大 1 m;<br/>• 外径 — 最大 1.2 m;<br/>• ハッチ直径 — 70 cm。</p><p class=\"p_spacing\"> </p><p>1964 ～ 1965 年に、ゼムリャ工場にて、総設計者 G. I. セヴェリンの指導の下で開発されました。</p>"
 
 msgid "IDS_PCZC975_SPACE_MUSEUM_5_5"
 msgstr "ルノホート-1"
 
 msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
-msgstr "<p>他の天体の表面で活動した世界初の自動自走式探査車。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 質量 — 756 kg;<br>• 太陽電池パネル展開時の全長 — 4.42 m;<br>• 全幅 — 2.15 m;<br>• 全高 — 1.92 m;<br>• 車輪直径 — 0.51 m;<br>• トレッド幅 — 1.6 m.</p><p class=\"p_spacing\"> </p><p>自走式探査車「ルノホート-1」を搭載した自動ステーション「ルナ-17」は、1970 年 11 月 10 日にプロトンロケットによって打ち上げられました。1970 年 11 月 17 日、「ルノホート-1」は月の「雨の海」地域に着陸しました。</p><p class=\"p_spacing\"> </p><p>ルノホートの運用は 318 日間成功裏に続けられました。116 回の走行セッションで「ルノホート-1」は 10,540 m の距離を走行し、80,000 km² の月面を詳細に調査することができました。最高速度は 2 km/h でした。</p><p class=\"p_spacing\"> </p><p>この間に、210 枚のテレフォトメトリックパノラマと約 2 万枚の低フレームレートテレビ画像が地球に送信されました。撮影により、地形の最も興味深い特徴の立体画像が得られ、その構造の詳細な研究が可能になりました。</p><p class=\"p_spacing\"> </p><p>「ルノホート-1」との通信セッションは 171 回行われ、その間に 24,829 のコマンドが送信されました。</p><p class=\"p_spacing\"> </p><p>フランスで製造されたレーザー光反射鏡を使用し、ソビエト・フランス共同宇宙探査プログラムに従って、月のレーザー測距が実施されました。地球上の装置と「ルノホート」との距離は、数メートルの精度で測定されました。</p><p class=\"p_spacing\"> </p><p>「ルノホート-1」との最後の通信セッションは、1971 年 9 月 14 日に行われました。</p><p class=\"p_spacing\"> </p><p>「ルノホート-1」は、S. A. ラヴォーチキン名称 NPO にて、総設計者 G. N. ババキンの指導の下で開発されました。</p><p class=\"p_spacing\"> </p><p>自走シャーシは、全連邦輸送機械工学科学研究所 (VNII Transmash) にて、総設計者 A. L. ケムルジアンの指導の下で開発されました。</p>"
+msgstr "<p>他の天体の表面で活動した世界初の自動自走探査機。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• 質量 — 756 kg;<br/>• 太陽電池パネル展開時の全長 — 4.42 m;<br/>• 全幅 — 2.15 m;<br/>• 全高 — 1.92 m;<br/>• 車輪直径 — 0.51 m;<br/>• 軌間 — 1.6 m。</p><p class=\"p_spacing\"> </p><p>自走探査機「ルノホート 1 号」を搭載した自動ステーション「ルナ 17 号」は、1970 年 11 月 10 日にロケット「プロトン」によって打ち上げられました。1970 年 11 月 17 日、「ルノホート 1 号」は月の雨の海地域に運ばれました。</p><p class=\"p_spacing\"> </p><p>ルノホートの運用は 318 日間成功裏に継続されました。116 回の走行セッションで、「ルノホート 1 号」は 10,540 m の距離を走行し、80,000 km² の月面を詳細に調査することができました。最高速度は 2 km/h でした。</p><p class=\"p_spacing\"> </p><p>この間に、210 枚のテレフォトメトリーパノラマと約 20,000 枚の低フレームレートテレビ画像が地球に送信されました。撮影中には、地形の最も興味深い特徴の立体画像が取得され、その構造を詳細に研究することが可能になりました。</p><p class=\"p_spacing\"> </p><p>「ルノホート 1 号」との間で 171 回の通信セッションが行われ、その間に 24,829 のコマンドが送信されました。</p><p class=\"p_spacing\"> </p><p>ソ連・フランス共同宇宙研究計画に従い、フランス製のレーザー光反射鏡を使用して、月のレーザー測距が行われました。地球上の装置と「ルノホート 1 号」との間の距離は、数メートルの精度で測定されました。</p><p class=\"p_spacing\"> </p><p>「ルノホート 1 号」との最後の通信セッションは 1971 年 9 月 14 日に行われました。</p><p class=\"p_spacing\"> </p><p>「ルノホート 1 号」は、主任設計者 G. N. ババキンの指導の下、S. A. ラヴォーチキン記念 NPO で開発されました。</p><p class=\"p_spacing\"> </p><p>自走シャーシは、主任設計者 A. L. ケムルジャンの指導の下、全連邦輸送機械工学科学研究所 (VNII Transmash) で開発されました。</p>"
 
 msgid "IDS_PCZC976_SPACE_MUSEUM_5_6"
 msgstr "自動ステーション「ルナ-16」"
 
 msgid "IDS_PCZC976_SPACE_MUSEUM_5_6_DESCRIPTION"
-msgstr "<p>1970 年 9 月に地球-月-地球間の飛行を完了し、世界で初めて自動モードで 105 グラムの月の土壌を地球に持ち帰りました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br>• 質量 — 5,727 kg;<br>• 月面着陸時の質量 — 1,880 kg;<br>• 帰還機の質量 — 34 kg.</p><p class=\"p_spacing\"> </p><p>ステーションは 1970 年 9 月 12 日にプロトン-K ロケットによって打ち上げられました。飛行開始から 8 日後の 9 月 20 日、自動ステーション「ルナ-16」は月の「豊かの海」地域に軟着陸しました。</p><p class=\"p_spacing\"> </p><p>自動複合体は、2 つの主要部分から構成されていました。統一された着陸段と、月-地球間の軌道を飛行した帰還機を搭載した計器区画です。</p><p class=\"p_spacing\"> </p><p>着陸段には、垂直面と水平面に移動可能なロッドに取り付けられた土壌採取装置が設置されていました。掘削場所を選択するために、2 台のテレフォトメーターが設置されていました。土壌採取装置は、掘削と採取した土壌の帰還機コンテナへの移送を保証しました。</p><p class=\"p_spacing\"> </p><p>土壌入りカプセルの調査により、掘削機は粒状の月の土壌、すなわちレゴリスで満たされていることが示されました。レゴリスは、粒径の異なる濃い灰色の粉末であり、容易に成形され、個々の緩い塊に凝集します。月の土壌は、湿った砂または地球の土壌の塊状構造に似ており、化学組成は玄武岩タイプの粉砕された岩石です。</p><p class=\"p_spacing\"> </p><p>月からの帰還機の打ち上げは、1970 年 9 月 21 日に地球からの指令によって行われました。9 月 24 日、帰還機はロケットの計器区画から分離し、ジェズカズガン市の南東 80 km の地点に軟着陸しました。</p><p class=\"p_spacing\"> </p><p>宇宙機は、S. A. ラヴォーチキン名称 NPO にて、総設計者 G. N. ババキンの指導の下で開発されました。</p>"
+msgstr "<p>1970 年 9 月、地球 — 月 — 地球間の飛行を行い、世界で初めて自動モードで 105 グラムの月の土壌を地球に持ち帰りました。</p><p class=\"p_spacing\"> </p><p>技術仕様:<br/>• 質量 — 5727 kg;<br/>• 月着陸時の質量 — 1880 kg;<br/>• 帰還機の質量 — 34 kg。</p><p class=\"p_spacing\"> </p><p>ステーションは 1970 年 9 月 12 日にロケット「プロトン-K」によって打ち上げられました。飛行 8 日後の 9 月 20 日、自動ステーション「ルナ 16 号」は月の豊かの海地域に軟着陸しました。</p><p class=\"p_spacing\"> </p><p>自動複合体は、統一された着陸段と、月 — 地球間の飛行を行った帰還機を備えた計器区画の 2 つの主要部分で構成されていました。</p><p class=\"p_spacing\"> </p><p>着陸段には、垂直および水平面内で移動可能なロッドに取り付けられた土壌採取装置が設置されていました。掘削場所を選択するために、2 台のテレフォトメーターが設置されていました。土壌採取装置は、掘削と、選択された土壌の帰還機コンテナへの移送を保証しました。</p><p class=\"p_spacing\"> </p><p>土壌入りカプセルの調査により、掘削機は粒状の月の土壌 — レゴリスで満たされていることが示されました。レゴリスは、粒度分布が不均一な暗灰色の粉末で、容易に成形され、個々の緩い塊に凝集します。月の土壌は湿った砂や地球の土壌の塊状構造に似ており、化学組成は玄武岩タイプの粉砕された岩石です。</p><p class=\"p_spacing\"> </p><p>月からの帰還機の打ち上げは、1970 年 9 月 21 日に地球からの指令によって行われました。9 月 24 日、帰還機はロケットの計器区画から分離し、ジェズカズガン市の南東 80 km の地点に軟着陸しました。</p><p class=\"p_spacing\"> </p><p>宇宙機は、主任設計者 G. N. ババキンの指導の下、S. A. ラヴォーチキン記念 NPO で開発されました。</p>"
 
 msgid "IDS_PCZC977_BD25_PUZZLE_1"
 msgstr "パズルのピース"
@@ -82601,6 +83738,9 @@ msgstr "科学の巨人"
 msgid "IDS_PGES428_HIPPER_GLADIATOR"
 msgstr "海の皇帝 — グラディエーター"
 
+msgid "IDS_PGES429_DANZIG_ETERIA"
+msgstr "蒸気と鋼鉄"
+
 msgid "IDS_PGES438_BLACK_MAINZ"
 msgstr "特別"
 
@@ -82747,6 +83887,12 @@ msgstr "55 mm/77 Gerät 58 (連装砲座)"
 
 msgid "IDS_PGGA145_37MM57_FLAK_M43"
 msgstr "37 mm/69 Flak M43 (単装砲座)"
+
+msgid "IDS_PGGA151_30MM_TOWER_FLAK_38_TWIN"
+msgstr "30 mm/45 Flak 103/38 (連装砲座)"
+
+msgid "IDS_PGGA152_30MM_TOWER_FLAK_38_QUAD"
+msgstr "30 mm/45 Flak 103/38 (四連装砲座)"
 
 msgid "IDS_PGGA159_25MM_TYPE96_SINGLE"
 msgstr "25 mm/60 Type 96 (単装砲座)"
@@ -83000,6 +84146,9 @@ msgstr "305 mm/50 SK C/08 (Drh LC/1911 砲座)"
 msgid "IDS_PGGM150_45CM_50_DRH_LC_1922"
 msgstr "450 mm/50 SK L/50 (Drh LC/1922 砲座)"
 
+msgid "IDS_PGGM153_533_50_DRH_LC_36G"
+msgstr "533 mm/52 Gerät 36 (Drh LC/36g 砲座)"
+
 msgid "IDS_PGGM155_203MM50_TYPE_E_RF"
 msgstr "203 mm/50 3rd Year Type No.2 (Model E 砲塔)"
 
@@ -83095,6 +84244,9 @@ msgstr "128 mm L/61 SK C/42"
 
 msgid "IDS_PGGS157_120MM45_TYPE_HAGUN_10"
 msgstr "120 mm/45 10th Year Type (Model B 砲塔)"
+
+msgid "IDS_PGGS161_150MM_LDRH_LC_44_TWIN"
+msgstr "150 mm/61 Gerät 60 (LDrh LC/44 砲座)"
 
 msgid "IDS_PGGS306_150MM_SKC28_RF_SPACE"
 msgstr "150 mm/55 SK C/28 (Dop. L. C/34 砲座)"
@@ -83693,6 +84845,12 @@ msgstr "203 mm HE Type0"
 msgid "IDS_PGPA173_203MM_AP_NIBELUNG"
 msgstr "203 mm AP Type91"
 
+msgid "IDS_PGPA174_533MM_HE_SCHWABEN"
+msgstr "533 mm Spr.Gr."
+
+msgid "IDS_PGPA175_533MM_AP_SCHWABEN"
+msgstr "533 mm P.Spr.Gr."
+
 msgid "IDS_PGPA200_88MM_SG_CS_SUB"
 msgstr "88 mm CS Spr.Gr."
 
@@ -84103,6 +85261,9 @@ msgstr "G7 Steinwal"
 
 msgid "IDS_PGPT072_NIBELUNG"
 msgstr "Type93"
+
+msgid "IDS_PGPT073_SCHWABEN"
+msgstr "G7 Schildbutt"
 
 msgid "IDS_PGPT101_450_G03"
 msgstr "G/03"
@@ -84627,7 +85788,7 @@ msgid "IDS_PGSB208"
 msgstr "Zieten"
 
 msgid "IDS_PGSB208_DESCR"
-msgstr "<p>1918 年、ドイツ海軍造船局の設計部は一連の研究を実施し、その結果、いわゆる「Grosskampfschiff」（高速戦艦）の数十に及ぶ予備設計案が生み出されました。</p><p class=\"p_spacing\"> </p><p>これらの設計案は 1916 年 7 月起工の巡洋戦艦を基礎としていましたが、排水量と兵装構成が異なっていました。これらの案はすべて、ドイツ国内のドックの規模を大幅に超えるものでした。ある設計案では、排水量 45,000 t、3 基の主砲塔を搭載した艦が想定されていました。</p>"
+msgstr "<p>1918 年、ドイツ海軍造船局の設計部は一連の研究を実施し、その結果、いわゆる「Grosskampfschiff」(高速戦艦) の数十に及ぶ予備設計案が生み出されました。</p><p class=\"p_spacing\"> </p><p>これらの設計案は 1916 年 7 月起工の巡洋戦艦を基礎としていましたが、排水量と兵装構成が異なっていました。これらの案はすべて、ドイツ国内のドックの規模を大幅に超えるものでした。ある設計案では、排水量 45,000 t、3 基の主砲塔を搭載した艦が想定されていました。</p>"
 
 msgid "IDS_PGSB208_FULL"
 msgstr "Zieten"
@@ -84732,7 +85893,7 @@ msgid "IDS_PGSB507"
 msgstr "Scharnhorst"
 
 msgid "IDS_PGSB507_DESCR"
-msgstr "<p>Scharnhorst は、同型艦のネームシップとしてヴィルヘルムスハーフェンの造船所で建造されました。就役後すぐに本艦は造船所に戻り、直線型艦首が「大西洋型」艦首に交換されました。</p><p class=\"p_spacing\"> </p><p>第二次世界大戦の勃発と共に、本艦は同型艦 Gneisenau と共に積極的に通商破壊作戦に参加しました。1940 年 2 月にはシェトランド諸島を襲撃し、4 月にはデンマークおよびノルウェー侵攻を掩護しました。6 月のユーノー作戦では、両戦艦はイギリスの航空母艦 Glorious を撃沈しました。1941 年初頭、Scharnhorst はベルリン作戦（大西洋への通商破壊作戦）に参加し、複数のイギリス商船を撃沈しました。</p><p class=\"p_spacing\"> </p><p>修理後、本艦はノルウェーに移動し、ソ連への補給物資を運ぶ北極コンボイを攻撃しました。1943 年 12 月 26 日のコンボイ襲撃中、Scharnhorst はイギリス戦艦 Duke of York から深刻な損傷を受け、その後巡洋艦 Jamaica および Belfast の魚雷によって撃沈されました。</p>"
+msgstr "<p>Scharnhorst は、同型艦のネームシップとしてヴィルヘルムスハーフェンの造船所で建造されました。就役後すぐに本艦は造船所に戻り、直線型艦首が「大西洋型」艦首に交換されました。</p><p class=\"p_spacing\"> </p><p>第二次世界大戦の勃発と共に、本艦は同型艦 Gneisenau と共に積極的に通商破壊作戦に参加しました。1940 年 2 月にはシェトランド諸島を襲撃し、4 月にはデンマークおよびノルウェー侵攻を掩護しました。6 月のユーノー作戦では、両戦艦はイギリスの航空母艦 Glorious を撃沈しました。1941 年初頭、Scharnhorst はベルリン作戦 (大西洋への通商破壊作戦) に参加し、複数のイギリス商船を撃沈しました。</p><p class=\"p_spacing\"> </p><p>修理後、本艦はノルウェーに移動し、ソ連への補給物資を運ぶ北極コンボイを攻撃しました。1943 年 12 月 26 日のコンボイ襲撃中、Scharnhorst はイギリス戦艦 Duke of York から深刻な損傷を受け、その後巡洋艦 Jamaica および Belfast の魚雷によって撃沈されました。</p>"
 
 msgid "IDS_PGSB507_FULL"
 msgstr "Scharnhorst"
@@ -84762,7 +85923,7 @@ msgid "IDS_PGSB509"
 msgstr "Pommern"
 
 msgid "IDS_PGSB509_DESCR"
-msgstr "<p>H 型戦艦の設計における主要要件は、世界のあらゆる同種艦を凌駕する火力であった。指導部は 420 mm 口径を主張し、これは他国のいかなる戦艦の主砲をも凌駕するものであった（ヤマトの真の砲口径が世界に知られたのは第二次世界大戦終結後である）。しかし、この口径の砲を搭載すれば、ドイツは遵守を義務付けられていたワシントン海軍条約に違反することになる。</p><p class=\"p_spacing\"> </p><p>可能な解決策として 406 mm 口径への変更があったが、ドイツにはそのような砲はなく、その開発には長期間を要した。別の案としては、380 mm 砲の数を 12 門に増やし、4 基の三連装砲塔に搭載するというものもあった。最終的に海軍指導部は 406 mm 砲を採用し、380 mm 砲 12 門搭載案は実現しなかった。</p>"
+msgstr "<p>H 型戦艦の設計における主要要件は、世界のあらゆる同種艦を凌駕する火力であった。指導部は 420 mm 口径を主張し、これは他国のいかなる戦艦の主砲をも凌駕するものであった (ヤマトの真の砲口径が世界に知られたのは第二次世界大戦終結後である)。しかし、この口径の砲を搭載すれば、ドイツは遵守を義務付けられていたワシントン海軍条約に違反することになる。</p><p class=\"p_spacing\"> </p><p>可能な解決策として 406 mm 口径への変更があったが、ドイツにはそのような砲はなく、その開発には長期間を要した。別の案としては、380 mm 砲の数を 12 門に増やし、4 基の三連装砲塔に搭載するというものもあった。最終的に海軍指導部は 406 mm 砲を採用し、380 mm 砲 12 門搭載案は実現しなかった。</p>"
 
 msgid "IDS_PGSB509_FULL"
 msgstr "Pommern"
@@ -84786,6 +85947,21 @@ msgid "IDS_PGSB510_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSB510_YEAR"
+msgstr "1942"
+
+msgid "IDS_PGSB511"
+msgstr "Schwaben"
+
+msgid "IDS_PGSB511_DESCR"
+msgstr "<p>1935 年にイギリスと締結した海軍協定により、ドイツは艦隊建造の自由を手に入れました。1938 ～ 1939 年、ドイツのエーリヒ・レーダー提督は艦隊強化計画を策定し、その中核は 6 隻の大型戦艦とすることとしました。新型艦の設計はビスマルク級を基盤としており、ディーゼル機関と増大した主砲口径が想定されていました。1939 年には最初の事前設計案が提示されました。この計画は H 計画と命名されました。</p><p class=\"p_spacing\"> </p><p>もしこの計画が進展していたならば、設計者たちは主砲火力の増強、ならびに主要寸法と排水量の拡大の方向に進んだ可能性があります。1938 年には、533 mm 砲 Gerät 36 の試作機が製造され、1930 年代末から 1940 年代初頭にかけて試験が実施されました。</p>"
+
+msgid "IDS_PGSB511_FULL"
+msgstr "Schwaben"
+
+msgid "IDS_PGSB511_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB511_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSB517"
@@ -84912,7 +86088,7 @@ msgid "IDS_PGSB599"
 msgstr "Pommern B"
 
 msgid "IDS_PGSB599_DESCR"
-msgstr "<p>戦艦 H の設計における主要要件は、世界のあらゆる類似艦を凌駕する火力でした。指導部は 420 mm 口径を主張し、これは他国の戦艦の主砲口径を上回るものでした（Yamato の真の砲口径が世界に知られるのは第二次世界大戦終結後でした）。しかし、この口径の砲を搭載すれば、ドイツは遵守を約束したワシントン海軍軍縮条約に違反することになります。</p><p class=\"p_spacing\"> </p><p>可能な解決策として 406 mm 口径への移行がありましたが、ドイツにはそのような砲はなく、その開発には長い時間を要しました。別の案では、380 mm 砲の数を 12 門に増やし、4 基の三連装砲塔に搭載することが検討されました。最終的に海軍指導部は 406 mm 砲を採用し、380 mm 砲 12 門の案は実現しませんでした。</p>"
+msgstr "<p>H 型戦艦の設計における主要要件は、世界のあらゆる同種艦を凌駕する火力であった。指導部は 420 mm 口径を主張し、これは他国のいかなる戦艦の主砲をも凌駕するものであった (ヤマトの真の砲口径が世界に知られたのは第二次世界大戦終結後である)。しかし、この口径の砲を搭載すれば、ドイツは遵守を義務付けられていたワシントン海軍条約に違反することになる。</p><p class=\"p_spacing\"> </p><p>可能な解決策として 406 mm 口径への変更があったが、ドイツにはそのような砲はなく、その開発には長期間を要した。別の案としては、380 mm 砲の数を 12 門に増やし、4 基の三連装砲塔に搭載するというものもあった。最終的に海軍指導部は 406 mm 砲を採用し、380 mm 砲 12 門搭載案は実現しなかった。</p>"
 
 msgid "IDS_PGSB599_FULL"
 msgstr "Pommern B"
@@ -85392,7 +86568,7 @@ msgid "IDS_PGSC528"
 msgstr "Schill"
 
 msgid "IDS_PGSC528_DESCR"
-msgstr "<p>1930 年代末、ドイツ海軍司令部は通商破壊部隊による英国の海上封鎖計画を策定した。この計画の主力打撃力は、ドイッチュラント級装甲艦の発展型に基づいて建造される 12 隻の P 級艦となる予定であった。</p><p class=\"p_spacing\"> </p><p>1939 年、これらの艦の建造契約が各造船所と結ばれたが、後に O 級巡洋戦艦を優先するため発注は取り消された。オリジナルの文書では、本艦種は Handelszerstörer（通商破壊艦）と記されている。</p>"
+msgstr "<p>1930 年代末、ドイツ海軍司令部は通商破壊部隊による英国の海上封鎖計画を策定した。この計画の主力打撃力は、ドイッチュラント級装甲艦の発展型に基づいて建造される 12 隻の P 級艦となる予定であった。</p><p class=\"p_spacing\"> </p><p>1939 年、これらの艦の建造契約が各造船所と結ばれたが、後に O 級巡洋戦艦を優先するため発注は取り消された。オリジナルの文書では、本艦種は Handelszerstörer (通商破壊艦) と記されている。</p>"
 
 msgid "IDS_PGSC528_FULL"
 msgstr "Schill"
@@ -86428,6 +87604,9 @@ msgstr "420 mm/50 SK L/50 (Drh LC/1918 砲座)"
 msgid "IDS_PGUA919_ART_WOTAN"
 msgstr "380 mm/52 SK C/34 (砲塔)"
 
+msgid "IDS_PGUA920_ART_SCHWABEN"
+msgstr "533 mm/52 Gerät 36 (Drh LC/36g 砲座)"
+
 msgid "IDS_PGUA930_ART_HANNOVER"
 msgstr "483 mm/50 SK C42"
 
@@ -86934,6 +88113,9 @@ msgstr "推力: 200,000 馬力"
 
 msgid "IDS_PGUE925_ENG_WOTAN"
 msgstr "推力: 195,000 馬力"
+
+msgid "IDS_PGUE926_ENG_SCHWABEN"
+msgstr "推力: 265,800 馬力"
 
 msgid "IDS_PGUE930_ENG_HANNOVER"
 msgstr "推力: 250,000 馬力"
@@ -87468,6 +88650,9 @@ msgstr "Schlieffen (EM)"
 msgid "IDS_PGUH925_WOTAN"
 msgstr "Wotan"
 
+msgid "IDS_PGUH926_HULL_SCHWABEN"
+msgstr "Schwaben"
+
 msgid "IDS_PGUH930_HANNOVER"
 msgstr "Hannover"
 
@@ -87987,6 +89172,9 @@ msgstr "FKS Typ 10"
 msgid "IDS_PGUS918_SUO_WOTAN"
 msgstr "FKS Typ 10"
 
+msgid "IDS_PGUS919_SUO_SCHWABEN"
+msgstr "FKS Typ 11"
+
 msgid "IDS_PGUS930_SUO_HANNOVER"
 msgstr "FKS Typ 11 Mod. 1"
 
@@ -88298,6 +89486,9 @@ msgstr "G7a T1"
 
 msgid "IDS_PGUT919_TORP_WOTAN"
 msgstr "G7 Steinwal"
+
+msgid "IDS_PGUT920_TORP_SCHWABEN"
+msgstr "G7a T1"
 
 msgid "IDS_PGUT921_S10_TORP_STOCK"
 msgstr "G7e T4 と G7e T4 MZ"
@@ -89195,6 +90386,9 @@ msgstr "Fiat G.55S"
 msgid "IDS_PIAD510_LAZIO_STOCK"
 msgstr "Savoia-Marchetti SM.93"
 
+msgid "IDS_PIAD801_GRUMMAN_F8F_2_BEARCAT_FLOAT"
+msgstr "F8F Bearcat float"
+
 msgid "IDS_PIAD907_ASW_T5"
 msgstr "CANT Z.508"
 
@@ -89600,8 +90794,17 @@ msgstr "120 mm/50 OTO Model 1950 (Mk.10 砲座)"
 msgid "IDS_PIGM123_203MM_55_ANSALDO_QUADRUPLE"
 msgstr "203 mm/55 Model 1934 (四連装砲座)"
 
+msgid "IDS_PIGM125_356MM45_TYPE41"
+msgstr "356 mm/45 Vickers Mk.A (連装砲塔)"
+
+msgid "IDS_PIGM126_356MM45_TYPE41"
+msgstr "356 mm/45 Vickers Mk.A (連装砲塔)"
+
 msgid "IDS_PIGM127_5IN38_MK38_MOD0"
 msgstr "127 mm/38 Mk.12 (Mk.38 砲座)"
+
+msgid "IDS_PIGM132_152MM55_BARRELS_3_M1936_L"
+msgstr "152 mm/55 Model 1936 (Model 1936 砲座)"
 
 msgid "IDS_PIGS003_100MM_50_MOD_OTO"
 msgstr "100 mm/47 Model 1924/27/28 (Eugenio Minisini 砲座)"
@@ -90035,6 +91238,24 @@ msgstr "127 mm CS Mk38"
 msgid "IDS_PIPA104_127MM_AP_A_VESPUCCI"
 msgstr "127 mm AP Mk38"
 
+msgid "IDS_PIPA105_152MM_CS_SAN_GIORGIO"
+msgstr "152 mm proiettili CS 1926"
+
+msgid "IDS_PIPA106_152MM_AP_SAN_GIORGIO"
+msgstr "152 mm proiettili AP"
+
+msgid "IDS_PIPA107_381MM_AP_SAN_GIORGIO"
+msgstr "381 mm proiettili AP"
+
+msgid "IDS_PIPA108_381MM_HE_SAN_GIORGIO"
+msgstr "381 mm proiettili HE"
+
+msgid "IDS_PIPA109_356MM_CS_ISONZO"
+msgstr "356 mm proiettili CS"
+
+msgid "IDS_PIPA110_356MM_AP_ISONZO"
+msgstr "356 mm proiettili AP"
+
 msgid "IDS_PIPA301_305MM_46_1909_AP_SAND"
 msgstr "305 mm proiettili AP 1909 mod.1"
 
@@ -90045,6 +91266,9 @@ msgid "IDS_PIPB001_AQUILA_STOCK"
 msgstr "SC-500"
 
 msgid "IDS_PIPB002_LAZIO_STOCK"
+msgstr "SC-250"
+
+msgid "IDS_PIPB003_ISONZO_STOCK"
 msgstr "SC-250"
 
 msgid "IDS_PIPD100_DEPTH_G_50KG"
@@ -90175,6 +91399,9 @@ msgstr "533 mm Si 270"
 
 msgid "IDS_PIPT030_A_VESPUCCI"
 msgstr "Mark 17*"
+
+msgid "IDS_PIPT031_533_ISONZO"
+msgstr "533 mm Si 270 N"
 
 msgid "IDS_PIPT990_TORP_TEST"
 msgstr "533 mm Si 270 N2"
@@ -90435,6 +91662,21 @@ msgstr "2"
 
 msgid "IDS_PISB539_YEAR"
 msgstr "1934"
+
+msgid "IDS_PISB549"
+msgstr "San Giorgio"
+
+msgid "IDS_PISB549_DESCR"
+msgstr "<p>1930 年代初頭、ソ連とイタリアの海軍協力が開始され、1936 年には Ansaldo 社がソ連の依頼に基づいて数枚の設計図を提出しました。その中には、406 mm 砲を装備した 3 連装砲塔 3 基を搭載する戦艦の設計案が含まれていました。</p><p class=\"p_spacing\"> </p><p>このような艦艇がイタリアで建造された場合、就役は 1940 年代初頭となり、イタリア製の兵装を搭載することになったでしょう。イタリア海軍には 406 mm 砲が存在しなかったため、砲数を増やすことで火力を向上させる可能性がありました。イタリアでは 1910 年代末から 1920 年代初頭にかけて、381 mm 四連装砲塔の戦艦向け開発がすでに行われていました。</p>"
+
+msgid "IDS_PISB549_FULL"
+msgstr "San Giorgio"
+
+msgid "IDS_PISB549_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISB549_YEAR"
+msgstr "1943"
 
 msgid "IDS_PISB708"
 msgstr "AL Littorio"
@@ -90782,6 +92024,21 @@ msgstr "2"
 
 msgid "IDS_PISC507_YEAR"
 msgstr "1937"
+
+msgid "IDS_PISC509"
+msgstr "Isonzo"
+
+msgid "IDS_PISC509_DESCR"
+msgstr "<p>1930 年代初頭、ロンドン海軍軍縮条約の締結後、イタリアで新型戦艦の開発が始まりました。海軍参謀総長のジーノ・ドゥッチ提督は、造船工兵隊将官のルイージ・バルベリスに設計案の策定を命じました。</p><p class=\"p_spacing\"> </p><p>バルベリスとその部下は、排水量に応じて 3 つのグループに分類されるいくつかの予備設計案を作成しました。第 3 グループ (排水量 26,000 トン超) には、N1 から S4 までのインデックスが付けられ、305 mm、356 mm、または 406 mm 砲を搭載する艦艇の設計案が含まれていました。</p><p class=\"p_spacing\"> </p><p>S3 設計案は、排水量 30,000 トン、356 mm 連装砲塔 4 基に 8 門の砲を搭載し、クラス標準として高い速力を備えていました。</p>"
+
+msgid "IDS_PISC509_FULL"
+msgstr "Isonzo"
+
+msgid "IDS_PISC509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISC509_YEAR"
+msgstr "1932"
 
 msgid "IDS_PISC510"
 msgstr "Napoli"
@@ -91233,6 +92490,9 @@ msgstr "381 mm/50 Model 1934 (Model 1934 砲座)"
 msgid "IDS_PIUA810_C9_ART_STOCK"
 msgstr "120 mm/50 OTO Model 1950 (Mk.10 砲座)"
 
+msgid "IDS_PIUA811_ART_SAN_GIORGIO"
+msgstr "381 mm/50 Model 1934 (砲塔)"
+
 msgid "IDS_PIUA900_ART_BLACK_NAPOLI"
 msgstr "254 mm/60 (砲塔)"
 
@@ -91278,6 +92538,9 @@ msgstr "135 mm/45 Model 1938 (Model 1938 砲座)"
 msgid "IDS_PIUA914_ART_A_VESPUCCI"
 msgstr "127 mm/38 Mk.12 (Mk.38 砲座)"
 
+msgid "IDS_PIUA915_ART_ISONZO"
+msgstr "356 mm/45 Vickers Mk.A (連装砲塔)"
+
 msgid "IDS_PIUB700_TB_AQUILA"
 msgstr "Reggiane Re.2001"
 
@@ -91286,6 +92549,9 @@ msgstr "Fiat G.55s"
 
 msgid "IDS_PIUD900_DB_LAZIO"
 msgstr "Savoia-Marchetti SM.93"
+
+msgid "IDS_PIUD915_DB_ISONZO"
+msgstr "F8F Bearcat float"
 
 msgid "IDS_PIUE001_ENG_STOCK"
 msgstr "推力: 7,800 馬力"
@@ -91425,6 +92691,9 @@ msgstr "推力: 130,000 馬力"
 msgid "IDS_PIUE810_C9_ENG_STOCK"
 msgstr "推力: 120,000 馬力"
 
+msgid "IDS_PIUE811_ENG_SAN_GIORGIO"
+msgstr "推力: 160,000 馬力"
+
 msgid "IDS_PIUE900_ENG_BLACK_NAPOLI"
 msgstr "推力: 240,000 馬力"
 
@@ -91470,6 +92739,9 @@ msgstr "推力: 110,000 馬力"
 msgid "IDS_PIUE914_ENG_A_VESPUCCI"
 msgstr "推力: 70,000 馬力"
 
+msgid "IDS_PIUE915_ENG_ISONZO"
+msgstr "推力: 212,000 馬力"
+
 msgid "IDS_PIUF700_FC_AQUILA"
 msgstr "Mk8 mod. 1"
 
@@ -91478,6 +92750,9 @@ msgstr "Mk9 mod. 1"
 
 msgid "IDS_PIUF901_FC_LAZIO"
 msgstr "Mk8 mod. 1"
+
+msgid "IDS_PIUF915_FC_ISONZO"
+msgstr "Mk9 mod. 1"
 
 msgid "IDS_PIUH001_C1_HULL_A"
 msgstr "Eritrea"
@@ -91680,6 +92955,9 @@ msgstr "Impero"
 msgid "IDS_PIUH813_C9_HULL_TOP"
 msgstr "Elio Adriano"
 
+msgid "IDS_PIUH814_HULL_SAN_GIORGIO"
+msgstr "San Giorgio"
+
 msgid "IDS_PIUH900_HULL_BLACK_NAPOLI"
 msgstr "Napoli B."
 
@@ -91724,6 +93002,9 @@ msgstr "Attilio Regolo (EM)"
 
 msgid "IDS_PIUH914_HULL_A_VESPUCCI"
 msgstr "Amerigo Vespucci"
+
+msgid "IDS_PIUH915_ISONZO"
+msgstr "Isonzo"
 
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -91935,6 +93216,9 @@ msgstr "SDT 9"
 msgid "IDS_PIUS813_C9_SUO_STOCK"
 msgstr "SDT 9 mod.2"
 
+msgid "IDS_PIUS814_SUO_SAN_GIORGIO"
+msgstr "SDT 9"
+
 msgid "IDS_PIUS900_SUO_BLACK_NAPOLI"
 msgstr "SDT 10"
 
@@ -91976,6 +93260,9 @@ msgstr "SDT 10"
 
 msgid "IDS_PIUS913_SUO_A_VESPUCCI"
 msgstr "SDT 11"
+
+msgid "IDS_PIUS915_SUO_ISONZO"
+msgstr "SDT 9"
 
 msgid "IDS_PIUT100_DD2_TORP_STOCK"
 msgstr "450 mm W 200"
@@ -92102,6 +93389,9 @@ msgstr "533 mm Si 270 N2"
 
 msgid "IDS_PIUT909_TORP_A_VESPUCCI"
 msgstr "Mk16 mod. 1"
+
+msgid "IDS_PIUT915_TORP_ISONZO"
+msgstr "533 mm Si 270 N2"
 
 msgid "IDS_PJAB001_B5N2"
 msgstr "中島 B5N2 九七式艦攻"
@@ -92768,6 +94058,9 @@ msgstr "勝利の風"
 
 msgid "IDS_PJES457_MYOKO"
 msgstr "アルペジオ"
+
+msgid "IDS_PJES460_KAIMON_SUMMER"
+msgstr "順風滿帆"
 
 msgid "IDS_PJES467_ASHIGARA"
 msgstr "アルペジオ"
@@ -102137,6 +103430,9 @@ msgstr "雪の峰"
 msgid "IDS_PRES320_23FEBRUARY"
 msgstr "祖国の守護者"
 
+msgid "IDS_PRES327_SKADI_ETERIA"
+msgstr "氷の心"
+
 msgid "IDS_PRES328_TSARMOREY_LUKOMOR"
 msgstr "ルコモリエ"
 
@@ -102248,6 +103544,9 @@ msgstr "冬の寒さ"
 msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
 msgstr "戦時迷彩"
 
+msgid "IDS_PRES458_PRINCESS_OLGA_TM"
+msgstr "公の船"
+
 msgid "IDS_PRES460_SUVOROV_WHITE"
 msgstr "イタリア公爵"
 
@@ -102339,10 +103638,7 @@ msgid "IDS_PREV_ALLIED_VEHICLE_PREF_TOOLTIP_DESCRIPTION"
 msgstr "カメラを前の味方艦艇に戻します。"
 
 msgid "IDS_PREV_SHIPS_WILL_BE_ALSO_RESEARCHED"
-msgstr "先行艦艇と必要なモジュールも研究されます"
-
-msgid "IDS_PREV_SHIP_MODULES_WILL_BE_ALSO_RESEARCHED"
-msgstr "前の艦艇のモジュールも研究されます"
+msgstr "先行艦艇も研究されます"
 
 msgid "IDS_PRGA003_MACHINEGUNMAXIM_7_62"
 msgstr "7.62 mm Maxim 機銃"
@@ -103209,10 +104505,10 @@ msgid "IDS_PRMP_DETAILS_BUTTON"
 msgstr "詳細"
 
 msgid "IDS_PRMP_DISCOUNT"
-msgstr "<body>割引<br><h3>%(value)d%(percent)s</h3></body>"
+msgstr "<body>割引<br/><h3>%(value)d%(percent)s</h3></body>"
 
 msgid "IDS_PRMP_FOR_YOU"
-msgstr "<body><h3>%(playerName)s</h3> 様のための<br>1 回限りのパーソナル・オファー!</body>"
+msgstr "<body><h3>%(playerName)s</h3> 様のための<br/>1 回限りのパーソナル・オファー!</body>"
 
 msgid "IDS_PRMP_GO_TO_PREM_SHOP"
 msgstr "プレミアムショップへ"
@@ -104187,6 +105483,12 @@ msgstr "152 mm proiettili CS 1926"
 msgid "IDS_PRPA277_90MM_CS_SG_GEN_SUVOROV"
 msgstr "90 mm proiettili CS"
 
+msgid "IDS_PRPA278_305MM_HE_T11_I_GROZNY"
+msgstr "305 mm HE Model 1928"
+
+msgid "IDS_PRPA279_305MM_AP_T11_I_GROZNY"
+msgstr "305 mm AP Model 1928"
+
 msgid "IDS_PRPA301_305_AP_1911_SAND"
 msgstr "305 mm AP Model 1911 mod.1"
 
@@ -104794,7 +106096,7 @@ msgid "IDS_PRSB103"
 msgstr "Knyaz Suvorov"
 
 msgid "IDS_PRSB103_DESCR"
-msgstr "<p>日露戦争でロシア艦隊の戦艦ほぼ全てを失った後、この種類の新たな艦艇を建造する必要が生じた。1906 年春までに、イギリス艦隊とアメリカ艦隊向けに建造中の艦艇 (ドレッドノート、ミシガン) の性能が明らかになり、武器庫では外国の見本に劣らない強力な艦艇の建造に関する問題が提起された。</p><p class=\"p_spacing\"> </p><p>議論の結果、海軍技術委員会は新艦艇の概略設計の策定に着手した。1907 年 4 月、約 20,000 トンの排水量を持つ 4 隻の艦艇建造を規定する計画が採択された。最終案の一つは 1907 年 9 月に遡り、以下の性能を有する：五基の連装砲塔 (線形・菱形配置) に十門の 305 mm 砲、補助口径砲 14 門、満載排水量 22,000 トン、203 mm 主装甲帯、22 ノットの速力。</p>"
+msgstr "<p>日露戦争でロシア艦隊の戦艦ほぼ全てを失った後、この種類の新たな艦艇を建造する必要が生じた。1906 年春までに、イギリス艦隊とアメリカ艦隊向けに建造中の艦艇 (ドレッドノート、ミシガン) の性能が明らかになり、武器庫では外国の見本に劣らない強力な艦艇の建造に関する問題が提起された。</p><p class=\"p_spacing\"> </p><p>議論の結果、海軍技術委員会は新艦艇の概略設計の策定に着手した。1907 年 4 月、約 20,000 トンの排水量を持つ 4 隻の艦艇建造を規定する計画が採択された。最終案の一つは 1907 年 9 月に遡り、以下の性能を有する: 五基の連装砲塔 (線形・菱形配置) に十門の 305 mm 砲、補助口径砲 14 門、満載排水量 22,000 トン、203 mm 主装甲帯、22 ノットの速力。</p>"
 
 msgid "IDS_PRSB103_FULL"
 msgstr "Knyaz Suvorov"
@@ -105256,13 +106558,13 @@ msgid "IDS_PRSB548_YEAR"
 msgstr "1933"
 
 msgid "IDS_PRSB549"
-msgstr "Gruzia"
+msgstr "Gruziya"
 
 msgid "IDS_PRSB549_DESCR"
 msgstr "<p>峡谷の門をくぐると、城塞の塔が岩肌の番人巨人のように見張りを続ける、古の地が広がる。エメラルド色の谷は黄金の雲の下でまどろみ、永遠の雪は銀の冠のように山頂を覆っている。この地は厳しく誇り高く、しかし古い要塞のように生命に満ちあふれている。</p><p class=\"p_spacing\"></p><p>風化した断崖の向こうには、伝説が息づき甘美な歌が流れる地がある——古くして永遠に若き地が。</p>"
 
 msgid "IDS_PRSB549_FULL"
-msgstr "Gruzia"
+msgstr "Gruziya"
 
 msgid "IDS_PRSB549_NUMBER"
 msgstr "1"
@@ -105283,6 +106585,21 @@ msgid "IDS_PRSB550_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSB550_YEAR"
+msgstr "1938"
+
+msgid "IDS_PRSB607"
+msgstr "Spear of Skadi"
+
+msgid "IDS_PRSB607_DESCR"
+msgstr "<p>ウィンターガードの旗艦戦艦。この地の住人は自然にも敵にも屈しない。永久凍土の束縛から解き放たれた砕氷船を思わせる。</p><p class=\"p_spacing\"> </p><p>その外観は北方民族の伝統を具現化している。船体と兵装は、何世紀もかけて形成された氷から削り出されたかのようだ。しかし、一見脆い美しさの背後には、過酷な気候によって鍛えられた力と不屈の性格が潜んでいる。</p>"
+
+msgid "IDS_PRSB607_FULL"
+msgstr "Spear of Skadi"
+
+msgid "IDS_PRSB607_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB607_YEAR"
 msgstr "1938"
 
 msgid "IDS_PRSB709"
@@ -105735,6 +107052,21 @@ msgid "IDS_PRSC510_NUMBER"
 msgstr "3"
 
 msgid "IDS_PRSC510_YEAR"
+msgstr "1951"
+
+msgid "IDS_PRSC511"
+msgstr "Ivan Grozny"
+
+msgid "IDS_PRSC511_DESCR"
+msgstr "<p>1940年2月、ソ連はドイツから未完成の重巡洋艦リュッツォウを購入し、設計図を調査した後、これを基にさらに優れた艦艇を建造するアイデアが浮上しました。海軍人民委員のN.クズネツォフ提督の指示により、予備的な運用戦術要求が策定されました。新設計には82のインデックスが付与されました。</p><p class=\"p_spacing\"> </p><p>1943年9月に要求は修正され、1944年半ばまでに第17中央設計局は8つの基本設計案を作成、その後も要求は継続的に調整されました。1947年8月、基本設計案は造船工業省と海軍に提出され、305mm砲装備の案が選ばれました。</p><p class=\"p_spacing\"> </p><p>第17中央設計局は1949年3月まで基本設計案を検討しました。技術設計は1949年4月から開始され、同年10月に第16中央設計局に移管されました。1951年2月に設計は承認され、最初の2隻はニコラーエフとレニングラードで起工されました。1952年10月にはモロトフスクで3番艦が起工されましたが、艦名が付けられる前に建造は中止されました。</p>"
+
+msgid "IDS_PRSC511_FULL"
+msgstr "Ivan Grozny"
+
+msgid "IDS_PRSC511_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC511_YEAR"
 msgstr "1951"
 
 msgid "IDS_PRSC512"
@@ -107224,6 +108556,9 @@ msgstr "406 mm/45 (MK-2-16 砲座)"
 msgid "IDS_PRUA605_D7_ART_STOCK"
 msgstr "130 mm/50 Model 1936 (B-2LM 砲座)"
 
+msgid "IDS_PRUA606_ART_SKADI_SPEAR"
+msgstr "406 mm/45 Model 1915 (砲塔)"
+
 msgid "IDS_PRUA611_D7_ART_STOCK"
 msgstr "130 mm/50 Model 1936 (B-2LM 砲座)"
 
@@ -107485,6 +108820,9 @@ msgstr "457 mm/55 SM-45 (砲塔)"
 msgid "IDS_PRUA932_ART_GDR"
 msgstr "380 mm/52 SK C/34 (砲塔)"
 
+msgid "IDS_PRUA933_ART_I_GROZNY"
+msgstr "305 mm/61 SM-33 (SM-31 砲座)"
+
 msgid "IDS_PRUA974_ART_MOSK"
 msgstr "220 mm/65 (SM-6 砲座)"
 
@@ -107728,6 +109066,9 @@ msgstr "推力: 86,000 馬力"
 msgid "IDS_PRUE606_D7_ENG_STOCK"
 msgstr "推力: 60,810 馬力"
 
+msgid "IDS_PRUE607_ENG_SKADI_SPEAR"
+msgstr "推力: 100,000 馬力"
+
 msgid "IDS_PRUE611_C7_ENG_STOCK"
 msgstr "推力: 126,500 馬力"
 
@@ -107870,7 +109211,7 @@ msgid "IDS_PRUE817_ENG_PERM_VELIKAYA"
 msgstr "推力: 231,000 馬力"
 
 msgid "IDS_PRUE818_ENG_SVERDLOVSK"
-msgstr "推力: 150,000 馬力"
+msgstr "推力: 8,400 馬力"
 
 msgid "IDS_PRUE819_ENG_YURI_DOLGORUKIY"
 msgstr "推力: 210,000 馬力"
@@ -107939,10 +109280,10 @@ msgid "IDS_PRUE912_S10_ENG_STOCK"
 msgstr "推力: 8,400 馬力"
 
 msgid "IDS_PRUE913_D10_ENG_STOCK"
-msgstr "推力: 150,000 馬力"
+msgstr "推力: 8,400 馬力"
 
 msgid "IDS_PRUE914_ENG_SEVASTOPOL"
-msgstr "推力: 150,000 馬力"
+msgstr "推力: 8,400 馬力"
 
 msgid "IDS_PRUE915_CV10_ENG"
 msgstr "推力: 231,000 馬力"
@@ -108003,6 +109344,9 @@ msgstr "推力: 240,000 馬力"
 
 msgid "IDS_PRUE935_ENG_GDR"
 msgstr "推力: 195,000 馬力"
+
+msgid "IDS_PRUE936_ENG_I_GROZNY"
+msgstr "推力: 280,000 馬力"
 
 msgid "IDS_PRUE974_ENG_MOSK"
 msgstr "推力: 210,000 馬力"
@@ -108325,6 +109669,9 @@ msgstr "Shchors (A)"
 msgid "IDS_PRUH612_SCHORS_B"
 msgstr "Shchors (B)"
 
+msgid "IDS_PRUH613_HULL_SKADI_SPEAR"
+msgstr "Spear of Skadi"
+
 msgid "IDS_PRUH700_HULL_BLACK_CHKALOV"
 msgstr "Chkalov B."
 
@@ -108524,7 +109871,7 @@ msgid "IDS_PRUH830_BB8_HULL_BORODINO"
 msgstr "Borodino"
 
 msgid "IDS_PRUH831_HULL_S_GRUZIA"
-msgstr "Gruzia"
+msgstr "Gruziya"
 
 msgid "IDS_PRUH832_HULL_OGNENNY"
 msgstr "Ognenny"
@@ -108642,6 +109989,9 @@ msgstr "Generalissimo Suvorov"
 
 msgid "IDS_PRUH935_HULL_GDR"
 msgstr "GDR"
+
+msgid "IDS_PRUH936_HULL_I_GROZNY"
+msgstr "Ivan Grozny"
 
 msgid "IDS_PRUH974_MOSK"
 msgstr "Moskva"
@@ -108970,6 +110320,9 @@ msgstr "GFCS VII mod. 1"
 msgid "IDS_PRUS608_D7_SUO_STOCK"
 msgstr "GFCS VII"
 
+msgid "IDS_PRUS609_SUO_SKADI_SPEAR"
+msgstr "SUO VII"
+
 msgid "IDS_PRUS611_SUO"
 msgstr "GFCS VII mod. 1"
 
@@ -109248,6 +110601,9 @@ msgstr "SDT 10"
 
 msgid "IDS_PRUS927_SUO_GDR"
 msgstr "SUO X"
+
+msgid "IDS_PRUS928_SUO_I_GROZNY"
+msgstr "SUO XI"
 
 msgid "IDS_PRUS930_D11_SUO_STOCK"
 msgstr "GFCS XI mod. 1"
@@ -111390,6 +112746,9 @@ msgstr "76.2 mm/45 QF (HA 砲座)"
 msgid "IDS_PVGA092_3IN50_TWIN_MARK_33"
 msgstr "76.2 mm/50 Mk.22 (Mk.33 砲座)"
 
+msgid "IDS_PVGA095_2PDR_QF_MKII_POMPOM"
+msgstr "40 mm/39 Vickers QF Mk.II (Mk.II HA 砲座)"
+
 msgid "IDS_PVGM001_6IN47_CL55"
 msgstr "152 mm/47 Mk.16 (砲塔)"
 
@@ -111468,6 +112827,9 @@ msgstr "127 mm/38 Mk.12 (Mk.30 砲座)"
 msgid "IDS_PVGM091_5IN38_MK30_MOD0"
 msgstr "127 mm/38 Mk.12 (Mk.30 mod.0 砲座)"
 
+msgid "IDS_PVGM093_190MM_52_OT"
+msgstr "190 mm/52 Odero-Terni (砲塔)"
+
 msgid "IDS_PVGS004_5IN25_MK27"
 msgstr "127 mm/25 Mk.13 (Mk.27 砲座)"
 
@@ -111510,6 +112872,9 @@ msgstr "133 mm/50 QF Mk.I (Mk.II 砲座)"
 msgid "IDS_PVGS072_5IN54_MARK42"
 msgstr "127 mm/54 Mk.16 (Mk.42 砲座)"
 
+msgid "IDS_PVGS094_102MM_45_N11_M1929"
+msgstr "102 mm/45 Odero-Terni Mod.1929 (連装砲座)"
+
 msgid "IDS_PVGT015_21IN_QUAD_TORPEDO_TUBE"
 msgstr "533 mm QR Mk II"
 
@@ -111545,6 +112910,9 @@ msgstr "533 mm TR Mk IV"
 
 msgid "IDS_PVGT087_21IN_MK15_TORPEDO_TUBES"
 msgstr "533 mm Mk XV"
+
+msgid "IDS_PVGT096_INVISIBLE_TA_3T_7M"
+msgstr "533 mm 三連装"
 
 msgid "IDS_PVPA001_127MM_HE_NUEVE"
 msgstr "127 mm HE/HC Mk36"
@@ -111696,6 +113064,15 @@ msgstr "120 mm HE"
 msgid "IDS_PVPA052_120MM_QF_AP"
 msgstr "120 mm AP"
 
+msgid "IDS_PVPA053_190MM_HE_DE_MAYO"
+msgstr "190 mm HE 200 lb"
+
+msgid "IDS_PVPA054_190MM_AP_DE_MAYO"
+msgstr "190 mm AP 200 lb"
+
+msgid "IDS_PVPA055_102MM_HE_35LBS_SG"
+msgstr "102 mm HE 35 lb"
+
 msgid "IDS_PVPD105_DEPTH_T5"
 msgstr "350 lb Depth Bomb"
 
@@ -111728,6 +113105,9 @@ msgstr "533 mm Mk 17"
 
 msgid "IDS_PVPT009_533MM_T11"
 msgstr "533 mm Mk 17"
+
+msgid "IDS_PVPT010_533_MKIX_25_MAYO"
+msgstr "533 mm Mk IX"
 
 msgid "IDS_PVPT011_533MM_MKIX3_NUEVA"
 msgstr "533mm Mk X*"
@@ -112023,6 +113403,21 @@ msgstr "4"
 msgid "IDS_PVSC510_YEAR"
 msgstr "1943"
 
+msgid "IDS_PVSC517"
+msgstr "25 de Mayo"
+
+msgid "IDS_PVSC517_DESCR"
+msgstr "<p>第一次世界大戦終結後、アルゼンチン海軍は数隻の新型戦艦を保有していましたが、巡洋艦はすべて旧式化していました。アルゼンチン議会は国外で数隻の巡洋艦を購入するための資金を承認しました。</p><p class=\"p_spacing\"> </p><p>イタリアに2隻が発注されました。設計はトレント型重巡洋艦を基にしていましたが、原型よりも小型化され、兵装と装甲は弱体化されました。</p><p class=\"p_spacing\"> </p><p>25 de Mayo 巡洋艦はリヴォルノのOdero Terni Orlando造船所で建造されました。1936～37年、本艦はスペイン内戦時にアルゼンチン市民とスペイン難民の救助活動を行いました。1930～40年代には演習や式典に参加。1954～55年に武装解除され、その後練習艦として運用されました。</p>"
+
+msgid "IDS_PVSC517_FULL"
+msgstr "25 de Mayo"
+
+msgid "IDS_PVSC517_NUMBER"
+msgstr "2"
+
+msgid "IDS_PVSC517_YEAR"
+msgstr "1931"
+
 msgid "IDS_PVSC808"
 msgstr "I. Allende CLR"
 
@@ -112215,6 +113610,9 @@ msgstr "152 mm/50 BL Mk.XXIII (Mk.XXIII 砲座)"
 msgid "IDS_PVUA603_D7_ART_STOCK"
 msgstr "127 mm/38 Mk.12 (Mk.30/Mk.21 mod.1 砲座)"
 
+msgid "IDS_PVUA604_ART_25_MAYO"
+msgstr "190 mm/52 Odero-Terni (砲塔)"
+
 msgid "IDS_PVUA701_ART_ATLANTICO"
 msgstr "381 mm/42 Mk.I (Mk.I**/N 砲座)"
 
@@ -112298,6 +113696,9 @@ msgstr "推力: 72,500 馬力"
 
 msgid "IDS_PVUE603_D7_ENG_STOCK"
 msgstr "推力: 34,500 馬力"
+
+msgid "IDS_PVUE604_ENG_25_MAYO"
+msgstr "推力: 85,000 馬力"
 
 msgid "IDS_PVUE701_ENG_ATLANTICO"
 msgstr "推力: 73,200 馬力"
@@ -112397,6 +113798,9 @@ msgstr "Coronel Bolognesi (B)"
 
 msgid "IDS_PVUH604_D7_HULL_STOCK"
 msgstr "Acre"
+
+msgid "IDS_PVUH605_25_MAYO"
+msgstr "25 de Mayo"
 
 msgid "IDS_PVUH701_ATLANTICO"
 msgstr "Atlântico"
@@ -112506,6 +113910,9 @@ msgstr "Mk7 mod. 2"
 msgid "IDS_PVUS604_D7_SUO_STOCK"
 msgstr "Mk7"
 
+msgid "IDS_PVUS605_SUO_25_MAYO"
+msgstr "Mk7"
+
 msgid "IDS_PVUS701_SUO_ATLANTICO"
 msgstr "Mk8 mod. 1"
 
@@ -112577,6 +113984,9 @@ msgstr "533 mm Mk IX"
 
 msgid "IDS_PVUT602_D7_TORP_STOCK"
 msgstr "533 mm Mk IV"
+
+msgid "IDS_PVUT603_TORP_25_MAYO"
+msgstr "533 mm Mk IX"
 
 msgid "IDS_PVUT701_C8_TORP_STOCK"
 msgstr "533 mm Mk VIII"
@@ -115825,7 +117235,7 @@ msgid "IDS_PXSB002"
 msgstr "Rasputin"
 
 msgid "IDS_PXSB002_DESCR"
-msgstr "<p>長距離戦闘艦<br>難易度: 高</p><p class=\"p_spacing\"> </p><p>ラスプーチンは神秘的な戦艦であり、逢魔時艦隊の不可解な旗艦です。本艦が建造された場所については情報が少なく、これを誰がどのような理由で設計・建造したかについては謎に包まれています。戦闘において本艦と遭遇した者達によると、本艦には人間の精神に影響を与え、敵艦長の指揮能力を奪う力がある模様です。</p>"
+msgstr "<p>長距離戦闘艦<br/>難易度: 高</p><p class=\"p_spacing\"> </p><p>ラスプーチンは神秘的な戦艦であり、逢魔時艦隊の不可解な旗艦です。本艦が建造された場所については情報が少なく、これを誰がどのような理由で設計・建造したかについては謎に包まれています。戦闘において本艦と遭遇した者達によると、本艦には人間の精神に影響を与え、敵艦長の指揮能力を奪う力がある模様です。</p>"
 
 msgid "IDS_PXSB002_FULL"
 msgstr "Rasputin"
@@ -115855,7 +117265,7 @@ msgid "IDS_PXSB004"
 msgstr "Magnu-S"
 
 msgid "IDS_PXSB004_DESCR"
-msgstr "<p>マグヌ-S は、パラド級戦艦のリードシップであり。<br>その設計に組み込まれたメカニズムにより、既存のあらゆる兵装に対して一時的に無敵になることが可能です。本級に乗船している修理班は、インタニアの中でも最高の精鋭達であり、戦闘中であっても付近の味方艦艇を修理することが可能です。</p><p class=\"p_spacing\"> </p><p>瘴気によるダメージ: 200 HP/秒</p>"
+msgstr "<p>マグヌ-S は、パラド級戦艦のリードシップであり。<br/>その設計に組み込まれたメカニズムにより、既存のあらゆる兵装に対して一時的に無敵になることが可能です。本級に乗船している修理班は、インタニアの中でも最高の精鋭達であり、戦闘中であっても付近の味方艦艇を修理することが可能です。</p><p class=\"p_spacing\"> </p><p>瘴気によるダメージ: 200 HP/秒</p>"
 
 msgid "IDS_PXSB004_FULL"
 msgstr "Magnu-S"
@@ -115870,7 +117280,7 @@ msgid "IDS_PXSB005"
 msgstr "Varg"
 
 msgid "IDS_PXSB005_DESCR"
-msgstr "<p>短距離戦闘艦<br>難易度: 高</p><p class=\"p_spacing\"> </p><p>ヴァーグは北海の霧の中から出現した海賊艦隊の旗艦であり、魅惑的なフィヨルドの中に忽然と姿を消しました。本艦はその艦長と同様に不滅です。その船体は何世紀もの時の中で鉄よりも硬くなっているため、短時間であれば無敵になることができます。本艦のオーラには無謀にも接近してきた艦艇からエネルギーを吸い取る効果があります。</p>"
+msgstr "<p>短距離戦闘艦<br/>難易度: 高</p><p class=\"p_spacing\"> </p><p>ヴァーグは北海の霧の中から出現した海賊艦隊の旗艦であり、魅惑的なフィヨルドの中に忽然と姿を消しました。本艦はその艦長と同様に不滅です。その船体は何世紀もの時の中で鉄よりも硬くなっているため、短時間であれば無敵になることができます。本艦のオーラには無謀にも接近してきた艦艇からエネルギーを吸い取る効果があります。</p>"
 
 msgid "IDS_PXSB005_FULL"
 msgstr "Varg"
@@ -115915,7 +117325,7 @@ msgid "IDS_PXSB008"
 msgstr "Leviathan"
 
 msgid "IDS_PXSB008_DESCR"
-msgstr "<p>長距離戦闘艦<br>難易度: 低</p><p class=\"p_spacing\"> </p><p>レヴィアタンは隣接する世界面から召喚された海竜であり、狡猾な黒魔術師の艦長によって騙され、任務に従事しています。このモンスターの表皮は以前よりも弱くなっていますが悠久の経験による英知があり、極めて正確な攻撃を行うことが可能です。さらに、その艦長が艦橋で行う儀式には付近に存在する全ての味方にエネルギーを供給する効果があります。</p>"
+msgstr "<p>長距離戦闘艦<br/>難易度: 低</p><p class=\"p_spacing\"> </p><p>レヴィアタンは隣接する世界面から召喚された海竜であり、狡猾な黒魔術師の艦長によって騙され、任務に従事しています。このモンスターの表皮は以前よりも弱くなっていますが悠久の経験による英知があり、極めて正確な攻撃を行うことが可能です。さらに、その艦長が艦橋で行う儀式には付近に存在する全ての味方にエネルギーを供給する効果があります。</p>"
 
 msgid "IDS_PXSB008_FULL"
 msgstr "Leviathan"
@@ -116140,7 +117550,7 @@ msgid "IDS_PXSC002"
 msgstr "Scarab"
 
 msgid "IDS_PXSC002_DESCR"
-msgstr "<p>長距離戦闘艦<br>難易度: 高</p><p class=\"p_spacing\"> </p><p>スカラベは古代のフォアランナー達の戒律に則って建造された浮かべる寺院であり、命中弾を与える毎に目標のエネルギーの一部を奪うことができます。そして本艦の疑似バイオ装甲にはダメージを与えた際に奪ったエネルギーを吸収することで、自艦の HP を回復するという能力があります。</p>"
+msgstr "<p>長距離戦闘艦<br/>難易度: 高</p><p class=\"p_spacing\"> </p><p>スカラベは古代のフォアランナー達の戒律に則って建造された浮かべる寺院であり、命中弾を与える毎に目標のエネルギーの一部を奪うことができます。そして本艦の疑似バイオ装甲にはダメージを与えた際に奪ったエネルギーを吸収することで、自艦の HP を回復するという能力があります。</p>"
 
 msgid "IDS_PXSC002_FULL"
 msgstr "Scarab"
@@ -116230,7 +117640,7 @@ msgid "IDS_PXSC009"
 msgstr "Octopus"
 
 msgid "IDS_PXSC009_DESCR"
-msgstr "<p>長距離戦闘艦<br>難易度: 低</p><p class=\"p_spacing\"> </p><p>大いなるクラーケンの伝説では、その姿が巨大なタコであるとされることが多くあります。そして、遙か昔に沈没した軍艦の残骸が瘴気のパワーによって巨大なタコと融合した結果、この巡洋艦オクトパスが誕生しました。その腐食した主砲は高い射撃速度を発揮することはできないものの、その錆びた砲弾は文字通り一撃で敵を炎上させることが可能です。加えて、底知れぬ海中から得たエネルギーを使用して味方を回復させるという特殊能力を備えています。</p>"
+msgstr "<p>長距離戦闘艦<br/>難易度: 低</p><p class=\"p_spacing\"> </p><p>大いなるクラーケンの伝説では、その姿が巨大なタコであるとされることが多くあります。そして、遙か昔に沈没した軍艦の残骸が瘴気のパワーによって巨大なタコと融合した結果、この巡洋艦オクトパスが誕生しました。その腐食した主砲は高い射撃速度を発揮することはできないものの、その錆びた砲弾は文字通り一撃で敵を炎上させることが可能です。加えて、底知れぬ海中から得たエネルギーを使用して味方を回復させるという特殊能力を備えています。</p>"
 
 msgid "IDS_PXSC009_FULL"
 msgstr "Octopus"
@@ -116410,7 +117820,7 @@ msgid "IDS_PXSC104"
 msgstr "Unexpected"
 
 msgid "IDS_PXSC104_DESCR"
-msgstr "最新の開発で大きな期待が寄せられている：国内初の農業専用艦艇。このクルーザーは、狭くて速いウェーブを発射する二つの速射ウェーブキャスターを装備している。消耗品「エンジンブースト」は艦艇の速度を大幅に向上させるが、持続時間は短い。"
+msgstr "最新の開発で大きな期待が寄せられている: 国内初の農業専用艦艇。このクルーザーは、狭くて速いウェーブを発射する二つの速射ウェーブキャスターを装備している。消耗品「エンジンブースト」は艦艇の速度を大幅に向上させるが、持続時間は短い。"
 
 msgid "IDS_PXSC104_FULL"
 msgstr "Unexpected"
@@ -116548,7 +117958,7 @@ msgid "IDS_PXSD002"
 msgstr "Ghoul"
 
 msgid "IDS_PXSD002_DESCR"
-msgstr "<p>短距離戦闘艦<br>難易度: 低</p><p class=\"p_spacing\"> </p><p>グールは様々なモンスターのパーツを寄せ集めて成形され、Victor F. Einstein の魔法によって甦った幽霊艦です。インタニアの水兵達によると、損傷したグールを 1 分間でも見失った場合、完全に回復した状態で舞い戻り、あらゆる生物に破滅をもたらすとされています。</p>"
+msgstr "<p>短距離戦闘艦<br/>難易度: 低</p><p class=\"p_spacing\"> </p><p>グールは様々なモンスターのパーツを寄せ集めて成形され、Victor F. Einstein の魔法によって甦った幽霊艦です。インタニアの水兵達によると、損傷したグールを 1 分間でも見失った場合、完全に回復した状態で舞い戻り、あらゆる生物に破滅をもたらすとされています。</p>"
 
 msgid "IDS_PXSD002_FULL"
 msgstr "Ghoul"
@@ -116623,7 +118033,7 @@ msgid "IDS_PXSD008"
 msgstr "Steel Rat"
 
 msgid "IDS_PXSD008_DESCR"
-msgstr "<p>長距離戦闘艦<br>難易度: 高</p><p class=\"p_spacing\"> </p><p>駆逐艦スチールラットは外観こそ地味であるものの、最も洗練された先進的なツールとメカニズムを備えています。本艦は 1 対 1 の対決においては脆弱ですが味方艦艇の HP を速やかに回復し、消耗品を補充するという特殊能力を有するため、真のゲームチェンジャーになり得る潜在能力を秘めています。</p>"
+msgstr "<p>長距離戦闘艦<br/>難易度: 高</p><p class=\"p_spacing\"> </p><p>駆逐艦スチールラットは外観こそ地味であるものの、最も洗練された先進的なツールとメカニズムを備えています。本艦は 1 対 1 の対決においては脆弱ですが味方艦艇の HP を速やかに回復し、消耗品を補充するという特殊能力を有するため、真のゲームチェンジャーになり得る潜在能力を秘めています。</p>"
 
 msgid "IDS_PXSD008_FULL"
 msgstr "Steel Rat"
@@ -116638,7 +118048,7 @@ msgid "IDS_PXSD009"
 msgstr "Razorworm"
 
 msgid "IDS_PXSD009_DESCR"
-msgstr "<p>長距離戦闘艦<br>難易度: 高</p><p class=\"p_spacing\"> </p><p>生体力学の応用によって建造されたこのレイザーワームは特別作戦を遂行する上で理想的なスパイ艦であり、獲物を追跡することも追跡から逃れることも得意としています。ギロチンのように素早く、ハンマーのように硬く、その艦長と同様にタフな本艦は獲物を速やかに追い詰めます。「何故レイザーワームか?」それは本艦に攻撃を命中させることは地獄のように困難だからなのです。</p>"
+msgstr "<p>長距離戦闘艦<br/>難易度: 高</p><p class=\"p_spacing\"> </p><p>生体力学の応用によって建造されたこのレイザーワームは特別作戦を遂行する上で理想的なスパイ艦であり、獲物を追跡することも追跡から逃れることも得意としています。ギロチンのように素早く、ハンマーのように硬く、その艦長と同様にタフな本艦は獲物を速やかに追い詰めます。「何故レイザーワームか?」それは本艦に攻撃を命中させることは地獄のように困難だからなのです。</p>"
 
 msgid "IDS_PXSD009_FULL"
 msgstr "Razorworm"
@@ -120025,7 +121435,7 @@ msgid "IDS_PZSB106"
 msgstr "Chakri"
 
 msgid "IDS_PZSB106_DESCR"
-msgstr "<p>1926 年、英国の技術者 J・サーストンは、Vickers Design 892 として知られる戦艦の設計案を提案した。この設計案は排水量 26,500 トンの戦艦であった。砲の配置はネルソン級戦艦と類似しており：2 基の 305 mm 砲塔が艦首に設置される予定だった。</p><p class=\"p_spacing\"> </p><p>設計の詳細化の過程で、最大速度を低下させる代償として、主砲の数は 7 門まで増加する可能性があった。もしこの設計案が実現されていたならば、この艦艇は戦後、西側諸国と同盟関係にあったタイによって購入されていたかもしれない。</p>"
+msgstr "<p>1926 年、英国の技術者 J・サーストンは、Vickers Design 892 として知られる戦艦の設計案を提案した。この設計案は排水量 26,500 トンの戦艦であった。砲の配置はネルソン級戦艦と類似しており: 2 基の 305 mm 砲塔が艦首に設置される予定だった。</p><p class=\"p_spacing\"> </p><p>設計の詳細化の過程で、最大速度を低下させる代償として、主砲の数は 7 門まで増加する可能性があった。もしこの設計案が実現されていたならば、この艦艇は戦後、西側諸国と同盟関係にあったタイによって購入されていたかもしれない。</p>"
 
 msgid "IDS_PZSB106_FULL"
 msgstr "Chakri"
@@ -120055,7 +121465,7 @@ msgid "IDS_PZSB108"
 msgstr "Hanoi"
 
 msgid "IDS_PZSB108_DESCR"
-msgstr "<p>バルト海造船所設計局 KB-4 計画のA型戦艦を想定した戦後近代化案。対機雷砲および主砲後部砲塔を汎用砲架に換装する構想。その他の主砲は 55 口径 305 mm 砲に換装。</p><p class=\"p_spacing\"> </p><p>ソ連の軍政的判断に基づく近代化・兵装更新後、本艦はアジア太平洋地域の友好国 (例：ベトナム) へ供与される可能性があった。</p>"
+msgstr "<p>バルト海造船所設計局 KB-4 計画のA型戦艦を想定した戦後近代化案。対機雷砲および主砲後部砲塔を汎用砲架に換装する構想。その他の主砲は 55 口径 305 mm 砲に換装。</p><p class=\"p_spacing\"> </p><p>ソ連の軍政的判断に基づく近代化・兵装更新後、本艦はアジア太平洋地域の友好国 (例: ベトナム) へ供与される可能性があった。</p>"
 
 msgid "IDS_PZSB108_FULL"
 msgstr "Hanoi"
@@ -120205,7 +121615,7 @@ msgid "IDS_PZSC101"
 msgstr "成安"
 
 msgid "IDS_PZSC101_DESCR"
-msgstr "<p>ロンドン海軍条約の抜け穴を利用して、600 トン以下の艦艇の建造数を制限していなかったため、日本は 1930 年代に護衛と哨戒のための小型艦艇の建造を開始しました。これらの艦艇は海防艦に分類されました：元々日本では、沿岸防衛の任務に転用された旧式艦をこう呼んでいました。</p><p class=\"p_spacing\"> </p><p>設計は三菱重工業によって行われました。1938 年から 1941 年にかけて、最初の 4 隻が建造され、その後さらに 174 隻の海防艦が続きました。第二次世界大戦後、これらの艦艇の一部は連合国軍の海軍に引き渡されました。</p><p class=\"p_spacing\"> </p><p>海防艦第 40 号は 1944 年に「藤永田造船所」で建造されました。1945 年から 1947 年にかけて、日本の降伏後、この艦は掃海艇として使用されました。1947 年 8 月、元海防艦は中国に引き渡され、「成安」と命名され、1949 年には中国台湾省「海軍」に移管されました。</p>"
+msgstr "<p>ロンドン海軍条約の抜け穴を利用して、600 トン以下の艦艇の建造数を制限していなかったため、日本は 1930 年代に護衛と哨戒のための小型艦艇の建造を開始しました。これらの艦艇は海防艦に分類されました: 元々日本では、沿岸防衛の任務に転用された旧式艦をこう呼んでいました。</p><p class=\"p_spacing\"> </p><p>設計は三菱重工業によって行われました。1938 年から 1941 年にかけて、最初の 4 隻が建造され、その後さらに 174 隻の海防艦が続きました。第二次世界大戦後、これらの艦艇の一部は連合国軍の海軍に引き渡されました。</p><p class=\"p_spacing\"> </p><p>海防艦第 40 号は 1944 年に「藤永田造船所」で建造されました。1945 年から 1947 年にかけて、日本の降伏後、この艦は掃海艇として使用されました。1947 年 8 月、元海防艦は中国に引き渡され、「成安」と命名され、1949 年には中国台湾省「海軍」に移管されました。</p>"
 
 msgid "IDS_PZSC101_FULL"
 msgstr "成安"
@@ -121752,6 +123162,9 @@ msgstr "駆逐艦スキルをリセットしますか:"
 msgid "IDS_QUESTION_RESET_SKILLPOINTS_FOR_SUBMARINE"
 msgstr "潜水艦スキルをリセットしますか:"
 
+msgid "IDS_QUESTION_RESTORE_FOR"
+msgstr "修復? 費用:"
+
 msgid "IDS_QUESTION_RETURN_TO_DOCK"
 msgstr "港に戻る?"
 
@@ -122576,6 +123989,9 @@ msgstr "シーズン開始までお待ちください。"
 msgid "IDS_RATING_BATTLES_DENY_REASON_WRONG_SHIP_LEVEL"
 msgstr "Tier が適合する艦艇を選択"
 
+msgid "IDS_RATING_BATTLES_DETAILS_BUTTON"
+msgstr "詳細"
+
 msgid "IDS_RATING_BATTLES_INFORMER_TYPE_0"
 msgstr "レーティング戦シーズン開幕!"
 
@@ -122590,6 +124006,12 @@ msgstr "ブロンズ %(_rating)s"
 
 msgid "IDS_RATING_BATTLES_LEAGUE_BRONZE_RATING_FULL"
 msgstr "レーティング: ブロンズ %(_rating)s"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_ENTERANCE_REWARDS_INFO_0"
+msgstr "リーグへの昇格による各褒賞は一度だけ取得できます。"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_ENTERANCE_REWARDS_TITLE"
+msgstr "リーグへの昇格による褒賞"
 
 msgid "IDS_RATING_BATTLES_LEAGUE_GOLD"
 msgstr "ゴールド"
@@ -122654,20 +124076,29 @@ msgstr "各リソースの獲得可能な量は、シーズン中の勝利によ
 msgid "IDS_RATING_BATTLES_LEAGUE_VICTORIES_REWARDS"
 msgstr "各勝利につき:"
 
+msgid "IDS_RATING_BATTLES_LEAGUE_VICTORY_REWARDS_INFO_0"
+msgstr "各リソースには上限値が設定されており、シーズン中に褒賞を受け取る際にその値を超えることはできません。"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_VICTORY_REWARDS_INFO_1"
+msgstr "各リソースの上限値はシーズン全体にわたって設定されます。"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_VICTORY_REWARDS_TITLE"
+msgstr "勝利報酬"
+
 msgid "IDS_RATING_BATTLES_QUALIFICATION"
 msgstr "昇格ゾーン"
 
 msgid "IDS_RATING_BATTLES_QUALIFICATION_DESCRIPTION"
-msgstr "5 回戦闘を実施してリーグに参加し、レーティングを獲得しましょう"
+msgstr "5戦闘を行い、レーティングを獲得して各リーグに進みましょう。"
 
 msgid "IDS_RATING_BATTLES_QUALIFICATION_RESULTS_TEXT"
 msgstr "参加戦闘数:"
 
 msgid "IDS_RATING_BATTLES_QUALIFICATION_REWARDS"
-msgstr "昇格褒賞:"
+msgstr "昇格通過報酬:"
 
 msgid "IDS_RATING_BATTLES_QUALIFICATION_TEXT"
-msgstr "あなたの戦闘での貢献度は、レーティングとして各バトル後に更新されます。"
+msgstr "レーティングはあなたの戦闘効率を反映し、各戦闘後に更新されます。効率は獲得した基本 EXP と戦闘結果に基づいて計算されます。"
 
 msgid "IDS_RATING_BATTLES_RESULTS_QUALIFICATION_REWARDS"
 msgstr "達成褒賞:"
@@ -123491,6 +124922,12 @@ msgstr "再起動"
 msgid "IDS_RESTART_PREFS_CHANGED_INFO"
 msgstr "ゲームの再起動後に次のパラメーター変更が適用されます:"
 
+msgid "IDS_RESTORE_SHIP_NOT_SELECTED"
+msgstr "復旧する艦艇を選択してください"
+
+msgid "IDS_RESTORE_UPPER_CASE"
+msgstr "復旧"
+
 msgid "IDS_RESTRICTIONS_AVA"
 msgstr "GO NAVY! 参加要件"
 
@@ -123750,7 +125187,7 @@ msgid "IDS_REWARD_ELITE_CREW_BOOK_TITLE"
 msgstr "精鋭艦長教本"
 
 msgid "IDS_REWARD_EVENTUM_10_TITLE"
-msgstr "サマートークン"
+msgstr "夏のトークン"
 
 msgid "IDS_REWARD_EVENTUM_1_TITLE"
 msgstr "神秘の欠片"
@@ -123762,13 +125199,13 @@ msgid "IDS_REWARD_EVENTUM_3_TITLE"
 msgstr "アメリカン・トークン"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
-msgstr "カラフル・トークン"
+msgstr "均衡トークン"
 
 msgid "IDS_REWARD_EVENTUM_5_TITLE"
 msgstr "ユトランド・トークン"
 
 msgid "IDS_REWARD_EVENTUM_6_TITLE"
-msgstr "レイダートークン"
+msgstr "夏のトークン"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
 msgstr "ドイツ・トークン"
@@ -127088,17 +128525,17 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "特別 Tier X 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier X"
+
 msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "特別 Tier X 艦艇"
-
-msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL145_TIER10_0111_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127599,22 +129036,22 @@ msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_SLOT_0_TITLE_FULL"
 msgstr "プレミアム艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier IX プレミアム艦艇"
+msgstr "Tier IX–X 艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier IX"
+msgstr "Tier IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Tier VII–VIII プレミアム艦艇"
+msgstr "Tier VII–VIII 艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Tier VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_TITLE"
-msgstr "アメリカ戦隊"
+msgstr "アメリカ分艦隊"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_TITLE_QUOTES"
-msgstr "「アメリカ戦隊」"
+msgstr "「アメリカ分艦隊」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL171_US_SHIP_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -129158,6 +130595,30 @@ msgstr "荒波"
 msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_TITLE_QUOTES"
 msgstr "「荒波」"
 
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_TITLE"
+msgstr "アメリカ艦隊"
+
+msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_TITLE_QUOTES"
+msgstr "「アメリカ艦隊」"
+
 msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
 msgstr "マップ「終末の港湾」へのバトルアクセス。"
 
@@ -129199,6 +130660,12 @@ msgstr "褒賞を取得"
 
 msgid "IDS_REWARD_RECRUITMENT_POINTS_TITLE"
 msgstr "ナビゲーター・トークン"
+
+msgid "IDS_REWARD_SAGA_FULL_COMPLETION_REQUIRED_HINT"
+msgstr "褒賞はストーリーを完全にクリアした後に付与されます。"
+
+msgid "IDS_REWARD_SAGA_PROGRESS_TITLE"
+msgstr "イベント進捗ポイント"
 
 msgid "IDS_REWARD_SALTPETER_TITLE"
 msgstr "ポータルチップ"
@@ -129575,6 +131042,9 @@ msgstr "敵艦艇に酸ダメージを与えた。"
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ACOUSTIC_HIT"
 msgstr "敵艦にソナーピンガーが命中。"
 
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ASSIST_FRAG"
+msgstr "敵艦艇の撃沈に大きく貢献する。"
+
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BOMB"
 msgstr "敵艦に爆弾が命中。"
 
@@ -129612,7 +131082,7 @@ msgid "IDS_RIBBON_DESCRIPTION_RIBBON_HIT_SEGMENT"
 msgstr "敵艦の装甲に主砲、中口径砲、または魚雷で命中させる。"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MAIN_CALIBER"
-msgstr "敵の艦艇に主砲弾が命中"
+msgstr "敵の艦艇に主砲弾または中口径砲弾が命中"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MINE"
 msgstr "機雷で敵艦艇にダメージを与えた。"
@@ -129677,6 +131147,12 @@ msgstr "敵飛行船を減速。"
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
 msgstr "敵飛行船の減速をアシストする。"
 
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ASSIST_DAMAGE_FRAG"
+msgstr "ダメージを与えることで、敵艦艇の撃沈に大きく貢献する。"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ASSIST_SPOT_FRAG"
+msgstr "索敵情報を提供することで、敵艦艇の撃沈に大きく貢献する。"
+
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_CAPTURE"
 msgstr "キーエリア/敵陣地を占領。"
 
@@ -129738,16 +131214,16 @@ msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_HOMING_MISSILE"
 msgstr "敵の艦艇に自律誘導型ミサイルが命中。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
-msgstr "主砲弾を敵艦に命中させ、不貫通とする。"
+msgstr "主砲弾または中口径砲弾を敵艦に命中させ、不貫通とする。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_OVER_PENETRATION"
-msgstr "主砲弾で敵艦を全貫通させる。"
+msgstr "主砲弾または中口径砲弾で敵艦を全貫通させる。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_PENETRATION"
-msgstr "主砲弾で敵艦を貫通させる。"
+msgstr "主砲弾または中口径砲弾で敵艦を貫通させる。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_RICOCHET"
-msgstr "主砲弾は敵艦の装甲に跳弾しました。"
+msgstr "主砲弾または中口径砲弾は敵艦の装甲に跳弾しました。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MINE_DESTROY"
 msgstr "敵の機雷を爆雷で破壊する。"
@@ -129799,6 +131275,9 @@ msgstr "酸命中"
 
 msgid "IDS_RIBBON_RIBBON_ACOUSTIC_HIT"
 msgstr "目標に命中"
+
+msgid "IDS_RIBBON_RIBBON_ASSIST_FRAG"
+msgstr "撃沈への貢献"
 
 msgid "IDS_RIBBON_RIBBON_BOMB"
 msgstr "目標に命中"
@@ -129887,6 +131366,9 @@ msgstr "酸命中"
 msgid "IDS_RIBBON_SSE_RIBBON_ACOUSTIC_HIT"
 msgstr "ソナーでマーク"
 
+msgid "IDS_RIBBON_SSE_RIBBON_ASSIST_FRAG"
+msgstr "撃沈への貢献"
+
 msgid "IDS_RIBBON_SSE_RIBBON_BOMB"
 msgstr "爆弾命中"
 
@@ -129921,7 +131403,7 @@ msgid "IDS_RIBBON_SSE_RIBBON_HIT_SEGMENT"
 msgstr "装甲に命中"
 
 msgid "IDS_RIBBON_SSE_RIBBON_MAIN_CALIBER"
-msgstr "主砲命中"
+msgstr "主砲または中口径砲命中"
 
 msgid "IDS_RIBBON_SSE_RIBBON_MINE"
 msgstr "与ダメージ"
@@ -129988,6 +131470,12 @@ msgstr "飛行船を減速した"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
 msgstr "減速アシスト"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ASSIST_DAMAGE_FRAG"
+msgstr "ダメージ貢献"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ASSIST_SPOT_FRAG"
+msgstr "観測貢献"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE"
 msgstr "占領"
@@ -130123,6 +131611,12 @@ msgstr "飛行船を減速した"
 
 msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
 msgstr "減速アシスト"
+
+msgid "IDS_RIBBON_SUBRIBBON_ASSIST_DAMAGE_FRAG"
+msgstr "ダメージ貢献"
+
+msgid "IDS_RIBBON_SUBRIBBON_ASSIST_SPOT_FRAG"
+msgstr "観測貢献"
 
 msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE"
 msgstr "占領"
@@ -130405,6 +131899,192 @@ msgstr "Colin Clydebank"
 
 msgid "IDS_RVR_ELSWICK"
 msgstr "Edward Elswick"
+
+msgid "IDS_SAGAS_ARCHIVE_MW_EPISODE_LABEL_NUM"
+msgstr "第 %(_value)s 章"
+
+msgid "IDS_SAGAS_MODAL_WINDOW_HEADER_ARCHIVE"
+msgstr "物語のすべての章"
+
+msgid "IDS_SAGAS_MODAL_WINDOW_HEADER_JOURNEY"
+msgstr "任務"
+
+msgid "IDS_SAGAS_MODAL_WINDOW_HEADER_NARRATIVE"
+msgstr "ストーリー"
+
+msgid "IDS_SAGA_ARCHIVE_CHAPTER_STATUS_0"
+msgstr "クリア"
+
+msgid "IDS_SAGA_ARCHIVE_CHAPTER_STATUS_0_MOUSE_INSTRUCTION"
+msgstr "もう一度見る"
+
+msgid "IDS_SAGA_ARCHIVE_CHAPTER_STATUS_1"
+msgstr "現在の章"
+
+msgid "IDS_SAGA_ARCHIVE_CHAPTER_STATUS_1_MOUSE_INSTRUCTION"
+msgstr "続ける"
+
+msgid "IDS_SAGA_ARCHIVE_CHAPTER_STATUS_2"
+msgstr "ブロックされました"
+
+msgid "IDS_SAGA_ARCHIVE_CHAPTER_STATUS_UNAVAILABLE_DESCRIPTION"
+msgstr "前の章が未クリアです"
+
+msgid "IDS_SAGA_ARCHIVE_NO_CHOICE_AVAILABLE_TOOLTIP"
+msgstr "選択は既に行われました。変更できません。"
+
+msgid "IDS_SAGA_BANNER_HINT_GO_TO_EVENT"
+msgstr "イベント画面へ"
+
+msgid "IDS_SAGA_BANNER_MARKER_NEW_CHAPTER"
+msgstr "新しい章が解放されました"
+
+msgid "IDS_SAGA_BUTTON_ABOUT"
+msgstr "イベントについて"
+
+msgid "IDS_SAGA_BUTTON_ARCHIVE"
+msgstr "アーカイブへ"
+
+msgid "IDS_SAGA_BUTTON_BACKWARD"
+msgstr "戻る"
+
+msgid "IDS_SAGA_BUTTON_CANCEL"
+msgstr "キャンセル"
+
+msgid "IDS_SAGA_BUTTON_COLLECT_REWARD"
+msgstr "褒賞を受け取る"
+
+msgid "IDS_SAGA_BUTTON_COLLECT_REWARDS"
+msgstr "すべての褒賞を受け取る"
+
+msgid "IDS_SAGA_BUTTON_FINISH"
+msgstr "完了"
+
+msgid "IDS_SAGA_BUTTON_FORWARD"
+msgstr "進む"
+
+msgid "IDS_SAGA_BUTTON_REWIND_FORWARD_TOOLTIP"
+msgstr "最後に視聴したエピソード"
+
+msgid "IDS_SAGA_BUTTON_SELECT"
+msgstr "選択する"
+
+msgid "IDS_SAGA_BUTTON_TO_STORY"
+msgstr "ストーリーへ"
+
+msgid "IDS_SAGA_DIALOGUE_VOICEOVERS_LABEL"
+msgstr "セリフ音声"
+
+msgid "IDS_SAGA_FINAL_DESCRIPTION"
+msgstr "物語アーカイブでクリア済みの章を閲覧できます。"
+
+msgid "IDS_SAGA_FINAL_ETERIA_FINAL_STATS_TIME_DESCRIPTION"
+msgstr "イベント「エーテリアの守護者・氷と蒸気」は終了しました。"
+
+msgid "IDS_SAGA_FINAL_STATS_REACHED_TITLE"
+msgstr "イベント終了"
+
+msgid "IDS_SAGA_FINAL_TITLE"
+msgstr "フィナーレ"
+
+msgid "IDS_SAGA_FINISHED"
+msgstr "イベント終了"
+
+msgid "IDS_SAGA_FORK_CHOICE_CONFIRMATION_TITLE"
+msgstr "確認"
+
+msgid "IDS_SAGA_FORK_CHOICE_UNAVAILABLE"
+msgstr "選択は既に行われました。変更できません。"
+
+msgid "IDS_SAGA_FORK_NO_REVERSE_WARNING"
+msgstr "この選択は変更できません。"
+
+msgid "IDS_SAGA_JOURNEY_ALL_TASKS_COMPLETED"
+msgstr "実行可能な任務はありません"
+
+msgid "IDS_SAGA_JOURNEY_TASKS_TITLE"
+msgstr "イベント任務"
+
+msgid "IDS_SAGA_MAIN_TITLE_ETERIA"
+msgstr "エーテリアの守護者・氷と蒸気"
+
+msgid "IDS_SAGA_ONBOARDING_ADDITIONAL_CREW_INFO"
+msgstr "イベントの艦長は武器庫でも入手可能です。"
+
+msgid "IDS_SAGA_ONBOARDING_BUTTON_CONFIRM_LABEL"
+msgstr "開始"
+
+msgid "IDS_SAGA_ONBOARDING_BUTTON_CONFIRM_LABEL_ETERIA"
+msgstr "乗船する"
+
+msgid "IDS_SAGA_ONBOARDING_DESCRIPTION_0"
+msgstr "ストーリーの 4 つの章が、戦闘任務のグループごとに分かれてあなたを待っています。それらをクリアして、新しいエピソードを解放し、褒賞を獲得しましょう。"
+
+msgid "IDS_SAGA_ONBOARDING_DESCRIPTION_1"
+msgstr "最終章では、物語の結末と主要な褒賞——三人の艦長のうち一人を決定する選択をを行います。"
+
+msgid "IDS_SAGA_ONBOARDING_TITLE"
+msgstr "ルール"
+
+msgid "IDS_SAGA_PROGRESSBAR_EVENT_ALMOST_FINISHED"
+msgstr "ストーリー間もなく終了"
+
+msgid "IDS_SAGA_PROGRESSBAR_EVENT_FINISHED"
+msgstr "ストーリーをすべてクリアしました!"
+
+msgid "IDS_SAGA_PROGRESSBAR_FINAL_REWARD_TOOLTIP_HEADER"
+msgstr "ストーリー最終褒賞"
+
+msgid "IDS_SAGA_PROGRESSBAR_NEXT_REWARD_IN"
+msgstr "次の褒賞まで:"
+
+msgid "IDS_SAGA_PROGRESSBAR_TITLE"
+msgstr "イベントの進捗"
+
+msgid "IDS_SAGA_PROGRESSBAR_TITLE_FINISHED"
+msgstr "イベント終了"
+
+msgid "IDS_SAGA_PROGRESS_CURRENCY_TITLE"
+msgstr "進捗ポイント"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_DESCRIPTION"
+msgstr "ストーリー「エーテリアの守護者・氷と蒸気」の全チャプター"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_HEADER"
+msgstr "アーカイブ"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_MOUSE_INSTRUCTION"
+msgstr "アーカイブへ"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_JOURNEY_DESCRIPTION"
+msgstr "利用可能なストーリー戦闘任務"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_JOURNEY_HEADER"
+msgstr "戦闘任務"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_JOURNEY_MOUSE_INSTRUCTION"
+msgstr "続行します"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_DESCRIPTION"
+msgstr "現在の章"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_HEADER"
+msgstr "ストーリー"
+
+msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_MOUSE_INSTRUCTION"
+msgstr "続きを進める"
+
+msgid "IDS_SAGA_TIMER_REWARD_CHOICE_TIME_LEFT"
+msgstr "報酬選択有効期限: %(_timeLeft)s"
+
+msgid "IDS_SAGA_TOOLTIP_TOGGLE_OFF"
+msgstr "オフ"
+
+msgid "IDS_SAGA_TOOLTIP_TOGGLE_ON"
+msgstr "オン"
+
+msgid "IDS_SAGA_WINDOW_CLOSE"
+msgstr "ウィンドウを閉じる"
 
 msgid "IDS_SAIRUS_GERRERO"
 msgstr "Ivan K. Ulibin"
@@ -131216,6 +132896,9 @@ msgstr "秒"
 msgid "IDS_SECONDARYHEADER"
 msgstr "副任務:"
 
+msgid "IDS_SECONDARY_ARTILLERY_AVAILABLE"
+msgstr "中口径砲を使用可能です"
+
 msgid "IDS_SECONDARY_CALIBER"
 msgstr "副砲"
 
@@ -131548,7 +133231,7 @@ msgstr ""
 "ログイン画面にリダイレクトされます。"
 
 msgid "IDS_SERVER_WILL_RESTART_DOCK_SOFT"
-msgstr "注意! このサーバーの再起動まで<br><h3>%(timeLeft)s</h3><br>別のサーバーにリダイレクトされます。"
+msgstr "注意! このサーバーの再起動まで<br/><h3>%(timeLeft)s</h3><br/>別のサーバーにリダイレクトされます。"
 
 msgid "IDS_SERVICE_C"
 msgstr "修理・補給"
@@ -131598,17 +133281,20 @@ msgstr "信号旗を変更するには、艦艇の修理・補給を行ってく
 msgid "IDS_SESSION_ACCURACY_MAIN_PERCENT"
 msgstr "主砲弾命中率。"
 
+msgid "IDS_SESSION_AVG_ASSIST_KILLS"
+msgstr "1 戦あたりの平均撃沈貢献数"
+
 msgid "IDS_SESSION_AVG_DEAL_OUT_DAMAGE"
-msgstr "1 戦あたりの敵艦艇への平均ダメージ。"
+msgstr "1 戦あたりの敵艦艇への平均ダメージ"
 
 msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_AIRCRAFT"
-msgstr "1 戦あたりの平均敵機撃墜数。"
+msgstr "1 戦あたりの平均敵機撃墜数"
 
 msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_SHIPS"
-msgstr "1 戦あたりの平均敵艦艇撃沈数。"
+msgstr "1 戦あたりの平均敵艦艇撃沈数"
 
 msgid "IDS_SESSION_AVG_SHIPS_SPOTTED"
-msgstr "1 戦あたりの平均敵艦艇発見数。"
+msgstr "1 戦あたりの平均敵艦艇発見数"
 
 msgid "IDS_SESSION_RESOURCES"
 msgstr "今日のすべての戦闘で取得したリソースの合計"
@@ -132032,6 +133718,9 @@ msgstr "特徴"
 msgid "IDS_SHIP_BRANCH_FEATURES_TOOLTIP_TITLE"
 msgstr "艦艇の特徴"
 
+msgid "IDS_SHIP_CANT_BE_RESTORED_WARNING"
+msgstr "技術ツリー内のこの艦艇は復旧できません"
+
 msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_CLAN_AIRCARRIER"
 msgstr "航空母艦はクラン分艦隊には参加できません。"
 
@@ -132171,7 +133860,7 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_LEVEL_TITLE"
 msgstr "Tier を選択:"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_PERCENT_RATE"
-msgstr "<p>新しい設計図を<br>取得する確率: <span class=\"percentRate\">%(_percentRate)s</span></p>"
+msgstr "<p>新しい設計図を<br/>取得する確率: <span class=\"percentRate\">%(_percentRate)s</span></p>"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_TITLE"
 msgstr "資材を設計図と交換する"
@@ -132256,18 +133945,6 @@ msgstr "新艦艇やモジュールの研究に必要。"
 
 msgid "IDS_SHIP_EXP_FULL"
 msgstr "新たな艦艇を研究できます!"
-
-msgid "IDS_SHIP_EXP_SORT_CLASS"
-msgstr "艦種別"
-
-msgid "IDS_SHIP_EXP_SORT_DEFAULT"
-msgstr "標準"
-
-msgid "IDS_SHIP_EXP_SORT_LEVEL"
-msgstr "Tier 別"
-
-msgid "IDS_SHIP_EXP_SORT_NATION"
-msgstr "国家別"
 
 msgid "IDS_SHIP_EXT_ARMOUR"
 msgstr "外部装甲"
@@ -134303,6 +135980,9 @@ msgstr "操舵装置"
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_PINGER_CRIT"
 msgstr "ソナー"
 
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_SECONDARY_CALIBER_CRIT"
+msgstr "中口径砲"
+
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_TORPEDO_TUBE_CRIT"
 msgstr "魚雷発射管"
 
@@ -134325,7 +136005,7 @@ msgid "IDS_SHIP_PARAM_AIR_DEFENSE"
 msgstr "対空火力"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT"
-msgstr "爆雷空襲"
+msgstr "空襲"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_BOMB_BURN_PROB_HE"
 msgstr "目標への火災発生率"
@@ -134370,13 +136050,13 @@ msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SMOKE_PARAMS_TITLE"
 msgstr "ショートバースト発煙装置"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE"
-msgstr "爆雷空襲"
+msgstr "爆雷 (DC)"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_FIGHTER"
 msgstr "迎撃機"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_HE"
-msgstr "HE 爆弾空襲"
+msgstr "通常爆弾 (HE)"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SCOUT"
 msgstr "随伴着弾観測機"
@@ -135023,6 +136703,9 @@ msgstr "操舵装置、機能停止"
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_PINGER_CRIT"
 msgstr "ソナー機能停止"
 
+msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_SECONDARY_CALIBER_CRIT"
+msgstr "中口径砲損傷、射撃不能"
+
 msgid "IDS_SHIP_PARAM_MODULE_STATE_DESCRIPTION_TORPEDO_TUBE_CRIT"
 msgstr "魚雷発射管損傷、発射不能"
 
@@ -135121,6 +136804,9 @@ msgstr "チャージ 1 回の機雷数"
 
 msgid "IDS_SHIP_PARAM_SEA_MINES_RELOAD_TIME"
 msgstr "装填時間"
+
+msgid "IDS_SHIP_PARAM_SECONDARY_ARTILLERY_MAX_DIST"
+msgstr "中口径砲の射程"
 
 msgid "IDS_SHIP_PARAM_SEC_ARTILLERY_GUNS_COUNT"
 msgstr "中口径砲塔"
@@ -135773,6 +137459,9 @@ msgstr "艦歴"
 msgid "IDS_SHIP_PURCHASE"
 msgstr "艦の購入"
 
+msgid "IDS_SHIP_READY_RESEARCH"
+msgstr "艦艇の研究が可能です"
+
 msgid "IDS_SHIP_RENT_CREW_HINT"
 msgstr "艦長レンタル: %(_timeLeft)s"
 
@@ -135781,6 +137470,27 @@ msgstr "この艦艇は戦闘から離脱した後、またはステータスを
 
 msgid "IDS_SHIP_RENT_UNTIL_ZERO"
 msgstr "艦艇のレンタル期限が迫っています"
+
+msgid "IDS_SHIP_RESEARCH_PROGRESS"
+msgstr "研究の進捗:"
+
+msgid "IDS_SHIP_RESTORATION_DESCRIPTION_PARAGRAPH_1"
+msgstr "以前売却した特別およびプレミアム艦艇を取り戻すことができます。"
+
+msgid "IDS_SHIP_RESTORATION_DESCRIPTION_PARAGRAPH_2"
+msgstr "ご注意ください: 過去のイベントの一部の艦艇は復旧できません。"
+
+msgid "IDS_SHIP_RESTORATION_FOOTER_TITLE"
+msgstr "売却した艦艇の復旧"
+
+msgid "IDS_SHIP_RESTORATION_HEADER"
+msgstr "艦艇の復旧"
+
+msgid "IDS_SHIP_RESTORATION_RESTORED_SINCE"
+msgstr "%(_date)s 以降に売却された艦艇を復旧できます"
+
+msgid "IDS_SHIP_RESTORATION_SHIP_LIST"
+msgstr "艦艇一覧"
 
 msgid "IDS_SHIP_REWARD"
 msgstr "%s %s"
@@ -135972,6 +137682,18 @@ msgstr "艦艇の特徴"
 
 msgid "IDS_SHIP_SHARDS_TTX_BUTTON_REPAIR"
 msgstr "修理"
+
+msgid "IDS_SHIP_SORT_CLASS"
+msgstr "艦種別"
+
+msgid "IDS_SHIP_SORT_DEFAULT"
+msgstr "標準"
+
+msgid "IDS_SHIP_SORT_LEVEL"
+msgstr "Tier 別"
+
+msgid "IDS_SHIP_SORT_NATION"
+msgstr "国家別"
 
 msgid "IDS_SHIP_SPECIAL"
 msgstr "特別艦艇"
@@ -136523,7 +138245,7 @@ msgid "IDS_SKILL_DESC_DEFENCE_UW"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_DEFENSE_CRIT_PROBABILITY"
-msgstr "主砲、魚雷発射管、操舵装置、主機の機能停止の発生率を低減。"
+msgstr "主砲、中口径砲、魚雷発射管、操舵装置、主機の機能停止の発生率を低減。"
 
 msgid "IDS_SKILL_DESC_DEFENSE_HP"
 msgstr " "
@@ -136532,7 +138254,7 @@ msgid "IDS_SKILL_DESC_DEPTH_CHARGE_BOMBER_ALERT"
 msgstr "潜水艦に対する深度爆撃による航空攻撃の開始警告。"
 
 msgid "IDS_SKILL_DESC_DETECTION_AIMING"
-msgstr "主砲で自艦を狙っている敵艦艇、または対空砲で自艦の飛行中隊を攻撃している敵艦艇の数が表示されます。"
+msgstr "主砲と中口径砲で自艦を狙っている敵艦艇、または対空砲で自艦の飛行中隊を攻撃している敵艦艇の数が表示されます。"
 
 msgid "IDS_SKILL_DESC_DETECTION_ALERT"
 msgstr "4.5 km を超える距離から斉射を受けた際に警告を表示。"
@@ -136942,7 +138664,7 @@ msgid "IDS_SKILL_TRIGGER_ENEMIESNOTLESSTHANALLIESWITHINGMTRIGGER"
 msgstr "<p>自艦の主砲の射程内に存在する味方艦艇数が可視状態の敵艦艇数を超えていない場合、自艦の能力を向上させる。</p><p class=\"p_spacing\"> </p><p>自艦は味方艦艇数には含まれない。</p>"
 
 msgid "IDS_SKILL_TRIGGER_ENEMYWITHINVISIBILITYTRIGGER"
-msgstr "自艦の標準被発見距離内に可視状態の敵艦艇が存在する場合に主砲の装填速度を向上。主砲射撃、その他の出来事による被発見距離の変化は考慮されない。"
+msgstr "自艦の標準被発見距離内に可視状態の敵艦艇が存在する場合に主砲と中口径砲の装填速度を向上。主砲射撃、その他の出来事による被発見距離の変化は考慮されない。"
 
 msgid "IDS_SKILL_TRIGGER_ENTITYISINVISIBLETRIGGER"
 msgstr "自艦が発見されていない場合に自艦の速度を向上。"
@@ -137002,7 +138724,7 @@ msgid "IDS_SKILL_TRIGGER_VISIBLEENEMYWITHINGMTRIGGER"
 msgstr "自艦の主砲射程内に敵艦艇が存在する場合に艦艇の性能を向上。"
 
 msgid "IDS_SKILL_TRIGGER_VISIBLEENEMYWITHINGSTRIGGER"
-msgstr "自艦の副砲の射程内に敵が発見された後に主砲の装填速度を向上させる。一時的な係数による副砲射程の変化は考慮されない。"
+msgstr "自艦の副砲の射程内に敵が発見された後に主砲と中口径砲の装填速度を向上させる。一時的な係数による副砲射程の変化は考慮されない。"
 
 msgid "IDS_SKIPBOMBER"
 msgstr "反跳爆撃機"
@@ -137039,11 +138761,6 @@ msgstr "スラヴィア"
 
 msgid "IDS_SLAVYANA_WINTER"
 msgstr "冬のスラヴィア"
-
-msgid "IDS_SLOT_MODULES_SHIP_CROSS_RESEARCH"
-msgstr ""
-"次の艦艇を研究するには、\n"
-"これらのモジュールの研究が必要です"
 
 msgid "IDS_SLOT_PURCHASE"
 msgstr "スロットの購入"
@@ -137489,6 +139206,24 @@ msgstr "トランスフォーマー – サウンドウェーブ"
 
 msgid "IDS_SOUND_MOD_ENTERTAINMENT_STARSCREAM"
 msgstr "トランスフォーマー – スタースクリーム"
+
+msgid "IDS_SOUND_MOD_ETERIA_ELIONOR_ANIME"
+msgstr "Elinor Sirendal"
+
+msgid "IDS_SOUND_MOD_ETERIA_HILDA_ANIME"
+msgstr "Hilda Skadisdottir"
+
+msgid "IDS_SOUND_MOD_ETERIA_MARO_ANIME"
+msgstr "Maro"
+
+msgid "IDS_SOUND_MOD_ETERIA_NERET_ANIME"
+msgstr "Neret"
+
+msgid "IDS_SOUND_MOD_ETERIA_NIKEA_ANIME"
+msgstr "Nikea Limneida"
+
+msgid "IDS_SOUND_MOD_ETERIA_TINA_ANIME"
+msgstr "Tina Hartmann"
 
 msgid "IDS_SOUND_MOD_EVAVALENTINE"
 msgstr "Eva Valentine"
@@ -138748,6 +140483,12 @@ msgstr "格納庫装甲板"
 msgid "IDS_SSC_INCLIN"
 msgstr "装甲甲板スロープ"
 
+msgid "IDS_SSC_SGBARBETTE"
+msgstr "副砲塔バーベット装甲"
+
+msgid "IDS_SSC_SGTOP"
+msgstr "副砲塔バーベット装甲"
+
 msgid "IDS_SSE_ACHIEVEMENTS_LIST_BUTTON_SUBST_MARKER"
 msgstr "[icon_marker]"
 
@@ -138937,6 +140678,9 @@ msgstr "艦艇に信号旗を搭載する"
 msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_ALL_MISSILES"
 msgstr "艦載ミサイル"
 
+msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_ATBA"
+msgstr "副砲で"
+
 msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_BOMBER"
 msgstr "航空爆弾で"
 
@@ -138949,8 +140693,8 @@ msgstr "体当たりで"
 msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_ROCKET"
 msgstr "ロケット弾で"
 
-msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_SECONDARY_GUN"
-msgstr "副砲で"
+msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_SECONDARY"
+msgstr "中口径砲で"
 
 msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_TBOMBER"
 msgstr "航空魚雷で"
@@ -138967,6 +140711,9 @@ msgstr "基本 EXP を取得"
 msgid "IDS_SSE_CONDITIONS_MODULE_AIR_DEFENCE"
 msgstr "対空兵装"
 
+msgid "IDS_SSE_CONDITIONS_MODULE_ATBA"
+msgstr "副砲"
+
 msgid "IDS_SSE_CONDITIONS_MODULE_ENGINE"
 msgstr "主機"
 
@@ -138977,7 +140724,7 @@ msgid "IDS_SSE_CONDITIONS_MODULE_PINGER"
 msgstr "ソナー"
 
 msgid "IDS_SSE_CONDITIONS_MODULE_SECONDARY"
-msgstr "副砲"
+msgstr "中口径砲"
 
 msgid "IDS_SSE_CONDITIONS_MODULE_STEERING"
 msgstr "操舵装置"
@@ -139081,6 +140828,9 @@ msgstr "艦載ミサイル"
 msgid "IDS_SSE_CONDITIONS_USING_ALL_TORPEDOES"
 msgstr "魚雷で"
 
+msgid "IDS_SSE_CONDITIONS_USING_ATBA"
+msgstr "副砲で"
+
 msgid "IDS_SSE_CONDITIONS_USING_BOMBER"
 msgstr "航空爆弾で"
 
@@ -139106,7 +140856,7 @@ msgid "IDS_SSE_CONDITIONS_USING_SEA_MINE"
 msgstr "機雷で"
 
 msgid "IDS_SSE_CONDITIONS_USING_SECONDARY_GUN"
-msgstr "副砲で"
+msgstr "中口径砲で"
 
 msgid "IDS_SSE_CONDITIONS_USING_SKIPBOMBER"
 msgstr "反跳爆撃で"
@@ -139932,6 +141682,12 @@ msgstr "飛行甲板"
 msgid "IDS_ST_INCLIN"
 msgstr "装甲甲板スロープ"
 
+msgid "IDS_ST_SGBARBETTE"
+msgstr "副砲塔バーベット装甲"
+
+msgid "IDS_ST_SGTOP"
+msgstr "副砲塔バーベット装甲"
+
 msgid "IDS_ST_TRANS"
 msgstr "船尾横隔壁"
 
@@ -140127,11 +141883,17 @@ msgstr "スプリント終了まで: %(_timeLeft)s"
 msgid "IDS_SUBST_RANKED_SPRINT_STARTS_IN"
 msgstr "スプリント開始まで: %(_timeTillStart)s"
 
+msgid "IDS_SUBST_RATING_BATTLES_LEAGUE_REWARDS_PROGRESS"
+msgstr "%(_currentValue)s / %(_maxValue)s"
+
 msgid "IDS_SUBST_RATING_SEASON_STARTS_IN"
 msgstr "シーズン開始まで: %(_timeTillStart)s"
 
 msgid "IDS_SUBST_REWARD_PREM_DAYS"
 msgstr "日数: %(_days)s"
+
+msgid "IDS_SUBST_SAGA_TIMER_TILL_END"
+msgstr "イベント終了まで: %(_timeLeft)s"
 
 msgid "IDS_SUBST_SHIP_ACES_SPRINT_TOOLTIP_TITLE"
 msgstr "ステージ %(sprint)s"
@@ -140385,6 +142147,9 @@ msgstr "チームのスタート位置の変更をお待ちください"
 msgid "IDS_SWIRSKI"
 msgstr "Jerzy Swirski"
 
+msgid "IDS_SWIRSKI_DESC"
+msgstr "<p>イェジ・ヴウォジミェシュ (ゲオルギー・ウラジミロヴィチ) スヴィルスキー (1882–1959) — ロシアおよびポーランドの海軍将校で、1941 年よりポーランド海軍中将。</p><p class=\"p_spacing\"> </p><p>1902 年にサンクトペテルブルクの海軍幼年学校を卒業し、黒海艦隊に勤務した。第一次世界大戦中は艦隊の航海長を務め、1917 年には功績により大佐に昇進した。1919 年からスヴィルスキーはワルシャワに滞在し、ポーランド共和国海軍の初代司令官となり、後に軍事省海軍局長となった。1931 年に少将の階級を授与された。1939 年 9 月のポーランド敗北後、西側のポーランド亡命政府で同じ職に就いた。第二次世界大戦中、スヴィルスキーはイギリス海軍の一員として戦ったポーランド海軍を事実上指揮し、バス勲章の最高位を授与された。戦後はロンドンで暮らした。</p>"
+
 msgid "IDS_SWITCH_CAMERA"
 msgstr "位置変更"
 
@@ -140564,6 +142329,9 @@ msgstr "戦闘終了!"
 msgid "IDS_SYS_MSG_BATTLE_REWARDS"
 msgstr "戦闘褒賞"
 
+msgid "IDS_SYS_MSG_BATTLE_STATS_ASSIST_KILLS"
+msgstr "あなたの貢献により撃沈された艦艇"
+
 msgid "IDS_SYS_MSG_BATTLE_STATS_DAMAGE"
 msgstr "与ダメージ"
 
@@ -140646,7 +142414,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
 msgstr "神秘の欠片の購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
-msgstr "サマートークン購入完了"
+msgstr "夏のトークン購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "艦隊トークン購入完了"
@@ -140655,13 +142423,13 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
 msgstr "アメリカン・トークン購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
-msgstr "カラフル・トークン購入完了"
+msgstr "均衡トークン購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
 msgstr "ユトランドトークン購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
-msgstr "レイダートークンの購入完了"
+msgstr "夏のトークン購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
 msgstr "ドイツ・トークン購入完了"
@@ -141210,7 +142978,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
 msgstr "神秘の欠片を取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
-msgstr "夏のトークンを受け取りました"
+msgstr "夏のトークンを取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "艦隊トークンを取得"
@@ -141219,13 +142987,13 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
 msgstr "アメリカン・トークンを取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
-msgstr "カラフル・トークンを取得"
+msgstr "均衡トークンを取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
 msgstr "ユトランドトークンを取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
-msgstr "レイダートークンを受け取りました"
+msgstr "夏のトークンを取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
 msgstr "ドイツ・トークンを取得"
@@ -141416,6 +143184,9 @@ msgstr "艦艇をレンタル"
 msgid "IDS_SYS_MSG_RESET_CREW_SKILLS"
 msgstr "艦長スキルのリセット完了"
 
+msgid "IDS_SYS_MSG_RESTORED_SHIP"
+msgstr "艦艇は復旧した"
+
 msgid "IDS_SYS_MSG_RETRAIN_CREW"
 msgstr "艦長の再訓練を開始"
 
@@ -141424,6 +143195,9 @@ msgstr "艦長の再訓練を完了"
 
 msgid "IDS_SYS_MSG_REWARDED"
 msgstr "褒賞を取得"
+
+msgid "IDS_SYS_MSG_SAGA_PROGRESS"
+msgstr "イベント任務達成の褒賞"
 
 msgid "IDS_SYS_MSG_SELL_ABILITY"
 msgstr "消耗品の売却完了"
@@ -141698,13 +143472,13 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
 msgstr "アメリカン・トークンの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
-msgstr "カラフル・トークンがの削除"
+msgstr "均衡トークンの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
 msgstr "ユトランドトークンの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
-msgstr "レイダートークンの削除"
+msgstr "夏のトークンの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
 msgstr "ドイツ・トークンの削除"
@@ -142142,10 +143916,10 @@ msgid "IDS_TALENT_PGW103_RIBBONS_12_DESCRIPTION"
 msgstr "任意の航空兵装を敵艦艇に 30 回命中させることで各戦で 1 回発動。"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_13"
-msgstr "主砲装填手"
+msgstr "主砲と中口径砲装填手"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_13_DESCRIPTION"
-msgstr "敵艦艇に主砲弾を 140 回命中させることで各戦で 1 回発動。"
+msgstr "敵艦艇に主砲弾と中口径砲弾を 140 回命中させることで各戦で 1 回発動。"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_14"
 msgstr "副砲装填手"
@@ -142166,7 +143940,7 @@ msgid "IDS_TALENT_PIW101_RIBBONS_10"
 msgstr "秘蔵リザーブ"
 
 msgid "IDS_TALENT_PIW101_RIBBONS_10_DESCRIPTION"
-msgstr "敵艦艇に主砲弾を 100 回命中させることで各戦で 1 回発動。"
+msgstr "敵艦艇に主砲弾と中口径砲弾を 100 回命中させることで各戦で 1 回発動。"
 
 msgid "IDS_TALENT_PIW101_RIBBONS_9"
 msgstr "射程延伸"
@@ -142238,7 +144012,7 @@ msgid "IDS_TALENT_PVW404_RIBBONS_8"
 msgstr "疲れを知らない"
 
 msgid "IDS_TALENT_PVW404_RIBBONS_8_DESCRIPTION"
-msgstr "<p>主砲または副砲で敵艦艇に命中弾を 200 発与えると、1 戦闘につき 1 回発動します。</p><p class=\"p_spacing\"> </p><p>両方の種類の兵装による命中弾の合計数がカウントされます。</p>"
+msgstr "<p>主砲、中口径砲または副砲で敵艦艇に命中弾を 200 発与えると、1 戦闘につき 1 回発動します。</p><p class=\"p_spacing\"> </p><p>3 種類の兵装による命中弾の合計数がカウントされます。</p>"
 
 msgid "IDS_TALENT_PWW010_RIBBONS_11"
 msgstr "雷装専門家"
@@ -142544,7 +144318,7 @@ msgid "IDS_TERRITORY_ARCHIVE_TEXT_GLOBAL_0"
 msgstr "<p>1941 年 6 月までに、北方艦隊は 18 隻の水上艦艇、15 隻の潜水艦、116 機の海軍航空機を保有していた。ほとんどの艦艇はムルマンスク近郊のポリャールヌイに基地を置いていた。</p><p class=\"p_spacing\"> </p><p>戦争が始まる前から、ドイツ空軍はソ連領内で偵察活動を行っており、敵は多くの戦略的重要施設や海軍基地の位置を把握していた。</p><p class=\"p_spacing\"> </p><p>6 月 22 日、ドイツ空軍はポリャールヌイ地区への爆撃を実行した。その後、北方艦隊の海上交通路と飛行場が攻撃された。6 月 29 日、敵軍はムルマンスク方面への攻勢に移った。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_GLOBAL_1"
-msgstr "<p>北方艦隊は北極圏の戦いにおいて重要な役割を果たしました：上陸部隊による支援、海上補給の確保を行いました。艦隊の戦力は戦略的重要性を持つ船団を護衛し、敵の艦艇、船舶、基地への攻撃を実施しました。北極圏解放後も北方艦隊は、最新のドイツ潜水艦による攻撃からソ連および連合国の船舶を守り続けました。</p><p class=\"p_spacing\"> </p><p>北方艦隊は大祖国戦争の勝利を、コラ湾での大規模なパレードをもって祝いました。</p>"
+msgstr "<p>北方艦隊は北極圏の戦いにおいて重要な役割を果たしました: 上陸部隊による支援、海上補給の確保を行いました。艦隊の戦力は戦略的重要性を持つ船団を護衛し、敵の艦艇、船舶、基地への攻撃を実施しました。北極圏解放後も北方艦隊は、最新のドイツ潜水艦による攻撃からソ連および連合国の船舶を守り続けました。</p><p class=\"p_spacing\"> </p><p>北方艦隊は大祖国戦争の勝利を、コラ湾での大規模なパレードをもって祝いました。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_0"
 msgstr "<p>1942 年、ノルウェーのトロンハイムにおいて、バレンツ海におけるソ連軍と連合国軍の連絡線を遮断するため、ドイツの重艦艇からなる艦隊が編成された。</p><p class=\"p_spacing\"> </p><p>7 月 5 日、戦艦 1 隻、重巡洋艦 2 隻、駆逐艦数隻からなるドイツ艦隊は、北極船団を攻撃するため港を出撃した。</p><p class=\"p_spacing\"> </p><p>同日、敵艦隊の集結はソ連潜水艦 K-21 の乗組員によって発見された。艦隊に接近した潜水艦は、戦艦ティルピッツに対して 4 本の魚雷による攻撃を行った。</p>"
@@ -142580,7 +144354,7 @@ msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_2"
 msgstr "<p>オペレーション「ヴェスト」の海上方面における主な目的は、ドイツ軍がヴァランゲルフィヨルドの港を経由して北フィンランドからノルウェーへ撤退するのを阻止することでした。この計画の実行には、事前に定められた海域において、艦隊の各種戦力による共同作戦が再び想定されていました。</p><p class=\"p_spacing\"> </p><p>海軍航空隊はキルケネス～ハンメルフェスト線で活動し、魚雷艇はヴァランゲルフィヨルド海域で、潜水艦はヴァルデから経度 20 度 00 分線まで展開しました。駆逐艦はヴァルデとノールキン岬の間で敵の船団を待ち構えていました。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_3"
-msgstr "<p>1944 年、北方艦隊とカレリア戦線の共同作戦により、ソ連の極北地域は解放された。ドイツの重工業はペツァモ地区からの貴重なニッケル鉱石と鉄鉱石の供給を断たれ、ドイツ海軍はバレンツ海の基地を失った。</p><p class=\"p_spacing\"> </p><p>極北地域でのドイツ軍敗北後も、北方艦隊は対外・対内海上交通路の防衛を続けた：敵は依然としてソ連領海に侵入していた。</p><p class=\"p_spacing\"> </p><p>北方艦隊の艦艇数は増加した。その戦列は一時的に、連合国から貸与された戦艦「ロイヤル・ソブリン」と巡洋艦「ミルウォーキー」によって補強され、これらは「アルハンゲリスク」および「ムルマンスク」と改名された。</p>"
+msgstr "<p>1944 年、北方艦隊とカレリア戦線の共同作戦により、ソ連の極北地域は解放された。ドイツの重工業はペツァモ地区からの貴重なニッケル鉱石と鉄鉱石の供給を断たれ、ドイツ海軍はバレンツ海の基地を失った。</p><p class=\"p_spacing\"> </p><p>極北地域でのドイツ軍敗北後も、北方艦隊は対外・対内海上交通路の防衛を続けた: 敵は依然としてソ連領海に侵入していた。</p><p class=\"p_spacing\"> </p><p>北方艦隊の艦艇数は増加した。その戦列は一時的に、連合国から貸与された戦艦「ロイヤル・ソブリン」と巡洋艦「ミルウォーキー」によって補強され、これらは「アルハンゲリスク」および「ムルマンスク」と改名された。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP0_0"
 msgstr "<p>7 月 5 日、第 52 狙撃師団長は北方艦隊司令官に対し、ボリシャヤ・ザパドナヤ・リツァ湾南岸への挺身隊上陸により、地上軍側翼の支援を要請した。</p><p class=\"p_spacing\"> </p><p>作戦は 7 月 6 日深夜に開始された。上陸部隊を乗せた艦艇は「逐次進出」により単艦ずつ航行し、極昼条件下での隠蔽性を確保した。上陸用舟艇にはモーターボートが使用され、桟橋付近の敵砲撃を回避するため、施設未整備の海岸へ直接上陸が実施された。</p><p class=\"p_spacing\"> </p><p>上陸作戦は成功裡に完了した。上陸部隊は敵戦力を撃破し、第 52 狙撃師団の各部隊との合流を果たした。</p>"
@@ -142851,6 +144625,9 @@ msgstr "ご利用感謝いたします!"
 msgid "IDS_THEODORECHANDLER"
 msgstr "Theodore E. Chandler"
 
+msgid "IDS_THEODORECHANDLER_DESC"
+msgstr "<p>セオドア・チャンドラー (1894–1945) — アメリカの海軍将校であり、1944 年からは少将。</p><p class=\"p_spacing\"> </p><p>チャンドラーは代々の海軍軍人の家系の出身で、1915 年にアナポリスの海軍兵学校を卒業した。1941 年、大佐 (1 等海佐) の階級で巡洋艦オマハの艦長に任命され、大西洋で活動した。1943 年 4 月からは、潜水艦と戦うカリブ海南部のアメリカ海軍部隊を指揮した。1944 年 7 月、南フランスにおける連合軍の上陸オペレーションを支援する巡洋艦部隊の司令官に任命された。その後、太平洋で戦艦部隊を指揮し、スリガオ海峡海戦に参加した。1944 年 12 月からは巡洋艦部隊の司令官を務めた。1945 年 1 月 5 日、フィリピン上陸オペレーション中、セオドア・チャンドラーは神風攻撃により、旗艦である巡洋艦ルイビル上で致命傷を負った。</p>"
+
 msgid "IDS_THE_WAITING_TIME_IN_A_COOPERATIVE_BATTLE_IS_FIXED"
 msgstr "30 秒でプレイヤーを保証付きでマッチング"
 
@@ -143031,9 +144808,6 @@ msgstr "戦闘復帰まで:"
 msgid "IDS_TIME_LEFT_BATTLE_TOURNAMENT"
 msgstr "戦闘開始まで:"
 
-msgid "IDS_TIME_LEFT_FOR_LOOTEXP"
-msgstr "次の毎日コンテナは利用可能になります: %(_timeLeft)s"
-
 msgid "IDS_TIME_TILL_CAPTURE_POINT_ACTIVATION"
 msgstr "キーエリアの起動までの時間"
 
@@ -143143,7 +144917,7 @@ msgid "IDS_TIPS_AIRCRAFT_SQUADRON_SKIP_BOMBERS_HE"
 msgstr "(HE) 反跳爆撃機"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_SKIP_BOMBERS_HE_DESCRIPTION"
-msgstr "<p>このタイプの航空機は HE 爆弾を搭載しており、火災を引き起こすことが可能です。</p><p class=\"p_spacing\"> </p><p>HE 爆弾は水面で反跳します。<br>威力を最大限に高めるには、目標の舷側から攻撃するようにしましょう。</p>"
+msgstr "<p>このタイプの航空機は HE 爆弾を搭載しており、火災を引き起こすことが可能です。</p><p class=\"p_spacing\"> </p><p>HE 爆弾は水面で反跳します。<br/>威力を最大限に高めるには、目標の舷側から攻撃するようにしましょう。</p>"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_TORPERS"
 msgstr "雷撃機"
@@ -143160,7 +144934,7 @@ msgstr ""
 "喫水が深い艦艇のみに命中します。"
 
 msgid "IDS_TIPS_AIRSUPPORT_BOMB_HE"
-msgstr "HE 爆弾空襲"
+msgstr "通常爆弾 (HE)"
 
 msgid "IDS_TIPS_AIRSUPPORT_BOMB_HE_DESCRIPTION"
 msgstr "<p>この兵装は [CMD_AMMO_SLOT_4] を押すことで使用できます。</p><p class=\"p_spacing\"> </p><p>マークされたエリアに対し HE 爆弾による空爆を実施します。</p><p class=\"p_spacing\"> </p><p>大型で重装甲の敵艦艇に対して最も効果的です。</p>"
@@ -143382,7 +145156,7 @@ msgid "IDS_TIPS_MAIN_CALIBER_SHOOTING"
 msgstr "主砲射撃"
 
 msgid "IDS_TIPS_MAIN_CALIBER_SHOOTING_DESCRIPTION"
-msgstr "<p>敵艦に狙いを定め、主砲インジケータの色が緑に変わるまで待つと、射撃可能な状態となります。</p><p class=\"p_spacing\"> </p><p>長押し [KEY_LEFTMOUSE] で順次射撃、<br>ダブルクリック [KEY_LEFTMOUSE_DOUBLE] で全砲塔から斉射することが可能です。</p>"
+msgstr "<p>敵艦に狙いを定め、主砲インジケータの色が緑に変わるまで待つと、射撃可能な状態となります。</p><p class=\"p_spacing\"> </p><p>長押し [KEY_LEFTMOUSE] で順次射撃、<br/>ダブルクリック [KEY_LEFTMOUSE_DOUBLE] で全砲塔から斉射することが可能です。</p>"
 
 msgid "IDS_TIPS_MINIMAP"
 msgstr "ミニマップ"
@@ -143612,7 +145386,7 @@ msgid "IDS_TITLE_CONSUMABLES"
 msgstr "消耗品"
 
 msgid "IDS_TITLE_PCM001_MAINGUN_MOD_I"
-msgstr "主砲改良 1"
+msgstr "主砲と中口径砲改良 1"
 
 msgid "IDS_TITLE_PCM002_TORPEDO_MOD_I"
 msgstr "魚雷発射管改良 2"
@@ -143627,7 +145401,7 @@ msgid "IDS_TITLE_PCM005_SECONDARYGUN_MOD_I"
 msgstr "副砲改良 1"
 
 msgid "IDS_TITLE_PCM006_MAINGUN_MOD_II"
-msgstr "主砲改良 2"
+msgstr "主砲と中口径砲改良 2"
 
 msgid "IDS_TITLE_PCM007_TORPEDO_MOD_II"
 msgstr "魚雷発射管改良 3"
@@ -143648,7 +145422,7 @@ msgid "IDS_TITLE_PCM012_SECONDARYGUN_MOD_II"
 msgstr "副兵装改良 1"
 
 msgid "IDS_TITLE_PCM013_MAINGUN_MOD_III"
-msgstr "主砲改良 3"
+msgstr "主砲と中口径砲改良 3"
 
 msgid "IDS_TITLE_PCM014_TORPEDO_MOD_III"
 msgstr "魚雷発射管改良 3"
@@ -143945,7 +145719,7 @@ msgid "IDS_TITLE_PCM112_T11_SS_SUPGRADE_MOD_III"
 msgstr "ソナー改良 2"
 
 msgid "IDS_TITLE_PCM113_MAINGUN_MOD_I"
-msgstr "主砲改良 1"
+msgstr "主砲と中口径砲改良 1"
 
 msgid "IDS_TITLE_PCM114_TORPEDOMOD_MOD_0"
 msgstr "魚雷発射管改良 1"
@@ -144024,6 +145798,9 @@ msgstr "兵装の特性値が変化します。"
 
 msgid "IDS_TOGO"
 msgstr "東郷平八郎"
+
+msgid "IDS_TOGO_DESC"
+msgstr "<p>東郷平八郎 (1848–1934) は日本の提督で、1913 年より海軍元帥の名誉称号を帯びた。</p><p class=\"p_spacing\"> </p><p>1870 年代にイギリスで海軍教育を受けた。巡洋艦「浪速」の艦長として日本侵華戦争 (1894–1895) で功績を挙げ、海軍少将に昇進した。日露戦争中は海軍大将として連合艦隊司令長官に任命された。旅順沖で第 1 太平洋艦隊に対して有効に行動し、制海権を獲得した。その後、日本海海戦で第 2 太平洋艦隊に勝利した。1905 年から 1909 年まで、東郷平八郎は軍令部長、軍事参議院議員を務め、日本の最高位の勲章をすべて受章した。1913 年に退役し、1924 年まで後の天皇となる裕仁親王の教育係の一人を務めた。</p>"
 
 msgid "IDS_TOKEN_TARGET_TYPE_BATTLEPASS"
 msgstr "BATTLE PASS"
@@ -144588,6 +146365,9 @@ msgstr "チャージ 1 回の機雷数"
 
 msgid "IDS_TOOLTIP_SEA_MINES_RELOAD_TIME"
 msgstr "機雷のチャージ 1 回の装填時間"
+
+msgid "IDS_TOOLTIP_SECONDARY_ARTILLERY_MAX_DIST"
+msgstr "中口径砲の最大射程"
 
 msgid "IDS_TOOLTIP_SEC_MAIN_GUN"
 msgstr "中口径砲"
@@ -145644,6 +147424,9 @@ msgstr "青黄色判別困難"
 msgid "IDS_TRUBETSKOY"
 msgstr "Vladimir Trubetskoy"
 
+msgid "IDS_TRUBETSKOY_DESC"
+msgstr "<p>ウラジーミル・ウラジーミロヴィチ・トルベツコイ (1868–1931) — 公爵、ロシア海軍士官、1916 年より海軍少将。</p><p class=\"p_spacing\"> </p><p>1891 年に海軍兵学校を卒業。日露戦争中、ウラジオストクでロシア最初期の潜水艦の一隻「ソム」を指揮した。第一次世界大戦が始まる頃には海軍大佐の階級を持ち、黒海艦隊の駆逐艦戦隊を指揮していた。1914 年 10 月 29 日のセヴァストポリ沖の海戦では、ドイツの巡洋戦艦ゲーベンに対する魚雷攻撃を率いた。1915 年から 1916 年にかけては「デルスキー」型駆逐艦の戦隊を指揮し、トルコ沿岸での作戦により、聖ゲオルギー武器と聖ゲオルギー勲章 4 等を授与された。1916 年には艦隊の旗艦戦艦「インペラトリーツァ・マリーヤ」の艦長に任命され、その後、黒海機雷旅団長となった。革命と内戦の後、国外に移住し、パリで暮らした。</p>"
+
 msgid "IDS_TRUS"
 msgstr "臆病者"
 
@@ -146331,58 +148114,58 @@ msgid "IDS_UNLOCKS_DESCRIPTION_9"
 msgstr "<p>戦闘任務を達成して価値ある褒賞を入手しましょう。</p><p class=\"p_spacing\"> </p><p>利用可能な任務リストを確認するには、「活動」セクションに移動し、その後「戦闘任務」を選択してください。</p>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_11"
-msgstr "<body><h3>艦艇エコノミーボーナス</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>艦艇エコノミーボーナス</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_12"
-msgstr "<body><h3>アップグレード</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>アップグレード</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_13"
-msgstr "<body><h3>艦長スキル</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>艦長スキル</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_14"
-msgstr "<body><h3>信号旗</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>信号旗</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_15"
-msgstr "<body><h3>艦艇の外装変更</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>艦艇の外装変更</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_17"
-msgstr "<body><h3>艦艇の研究と強化</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>艦艇の研究と強化</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_2015"
-msgstr "<body><h3>艦艇の外装変更</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>艦艇の外装変更</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_22"
-msgstr "<body><h3>キャンペーン</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>キャンペーン</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_23"
-msgstr "<body><h3>倉庫の管理</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>倉庫の管理</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_24"
-msgstr "<body><h3>オペレーション</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>オペレーション</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
-msgstr "<body><h3>クラン戦</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>クラン戦</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3"
-msgstr "<body><h3>ランダム戦</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>ランダム戦</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_301600"
-msgstr "<body><h3>ランク戦とレート戦</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>ランク戦とレート戦</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
-msgstr "<h3>Co-op 戦</h3><br>がアンロックされました"
+msgstr "<h3>Co-op 戦</h3><br/>がアンロックされました"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
-msgstr "<body><h3>フリー EXP</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>フリー EXP</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_6"
-msgstr "<body><h3>コンテナ</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>コンテナ</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_7"
-msgstr "<body><h3>武器庫</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>武器庫</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_9"
-msgstr "<body><h3>戦闘任務</h3><br>がアンロックされました</body>"
+msgstr "<body><h3>戦闘任務</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_TITLE_11"
 msgstr "エコノミーボーナス"
@@ -148431,7 +150214,7 @@ msgstr[0] "%(durationAlmanac)s 日間、これらの褒賞を入手できます"
 
 msgid "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
-msgstr[0] "今後 %(extraRewardClaimDay)s 日間、追加褒賞を入手できるようになります"
+msgstr[0] "次の %(extraRewardClaimDay)s 日目には、更新される褒賞を受け取ることができます。"
 
 msgid "IDS_PL_ALMANAC_WINDOW_WARNING_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_WARNING_STATUS"
