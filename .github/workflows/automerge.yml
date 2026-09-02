@@ -63,6 +63,18 @@ jobs:
                 }
               }
 
+              // 2.5 GITHUB_TOKEN merges do not trigger push workflows, so dispatch
+              // the GitLab mirror sync manually when any PR was merged
+              if (targetPRs.length > 0) {
+                await github.rest.actions.createWorkflowDispatch({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  workflow_id: 'sync2gitlab.yml',
+                  ref: 'main'
+                });
+                console.log("Dispatched sync2gitlab after auto-merge.");
+              }
+
               // 3. Self-Disable to save Actions quota
               await github.rest.actions.disableWorkflow({
                 owner: context.repo.owner,
