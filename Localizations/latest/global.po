@@ -1769,13 +1769,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_3WAYSTOKILL_PA"
 msgstr "1 戦中に 3 隻の敵艦艇を 3 種類の方法で撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRCARRIER_KILL_1"
-msgstr "航空母艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "航空母艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRCARRIER_KILL_2"
-msgstr "航空母艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "航空母艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRCARRIER_KILL_3"
-msgstr "航空母艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "航空母艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRDEFENSEEXPERT"
 msgstr "1 戦中に敵機を %(goalValue)s 機以上撃墜する。"
@@ -1835,13 +1835,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVASHARKS"
 msgstr "Go Navy! コンペティションで Sharks チームへの忠誠を示す。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BASECAPTURE_AMOUNT_1"
-msgstr "敵のキーエリアまたは拠点を%(ribbonsCount)s個占領する、または占領を支援する。"
+msgstr "敵のキーエリアまたは陣地を %(ribbonsCount)s 個占領する、または占領を支援する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BASECAPTURE_AMOUNT_2"
-msgstr "敵のキーエリアまたは拠点を%(ribbonsCount)s個占領する、または占領を支援する。"
+msgstr "敵のキーエリアまたは陣地を %(ribbonsCount)s 個占領する、または占領を支援する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BASECAPTURE_AMOUNT_3"
-msgstr "敵のキーエリアまたは拠点を%(ribbonsCount)s個占領する、または占領を支援する。"
+msgstr "敵のキーエリアまたは陣地を %(ribbonsCount)s 個占領する、または占領を支援する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLESHIP_KILL_1"
 msgstr "戦艦 %(killedVehiclesCount)s 隻を撃破する。"
@@ -2025,13 +2025,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_BW_PARTICIPANT"
 msgstr "開発チームは、βウィークエンドにご参加頂いた皆様に感謝いたします。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMOS_AMOUNT_1"
-msgstr "カモフラージュを%(camouflagesCount)s個集める。"
+msgstr "カモフラージュを %(camouflagesCount)s 個集める。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMOS_AMOUNT_2"
-msgstr "カモフラージュを%(camouflagesCount)s個集める。"
+msgstr "カモフラージュを %(camouflagesCount)s 個集める。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMOS_AMOUNT_3"
-msgstr "カモフラージュを%(camouflagesCount)s個集める。"
+msgstr "カモフラージュを %(camouflagesCount)s 個集める。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMPAIGN1_COMPLETED"
 msgstr "「勝利の科学」キャンペーンの最終任務を達成する。"
@@ -2229,13 +2229,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTOR_PA"
 msgstr "1 戦中に航空機によって投下された消耗品を 5 個確保する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECT_COMMANDERS_1"
-msgstr "21レベルの艦長を%(commandersCount)s人集める。"
+msgstr "21 レベルの艦長を %(commandersCount)s 人集める。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECT_COMMANDERS_2"
-msgstr "21レベルの艦長を%(commandersCount)s人集める。"
+msgstr "21 レベルの艦長を %(commandersCount)s 人集める。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECT_COMMANDERS_3"
-msgstr "21レベルの艦長を%(commandersCount)s人集める。"
+msgstr "21 レベルの艦長を %(commandersCount)s 人集める。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COMBAT_PACE"
 msgstr "%(streak)s 連戦連勝する。"
@@ -2270,13 +2270,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_BOOK"
 msgstr "「海の伝説 巡洋艦」の所有者になる。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_KILL_1"
-msgstr "巡洋艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "巡洋艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_KILL_2"
-msgstr "巡洋艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "巡洋艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_KILL_3"
-msgstr "巡洋艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "巡洋艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CVC_BRAWL_TOP1"
 msgstr "第 1 位を達成する。"
@@ -2291,10 +2291,10 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_CVC_BRAWL_TOP1000"
 msgstr "Top 1000 クランに入る。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DEATHMATCH_FOUR_KILL_STREAK"
-msgstr "敵艦艇を4隻撃破し、その間に一度も死なないこと。"
+msgstr "敵艦艇を 4 隻撃破し、その間に一度も死なないこと。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DEATHMATCH_VICTORY"
-msgstr "1位を取る。"
+msgstr "1 位を取る。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DEATHMATCH_VICTORY_5_DEATHS"
 msgstr "戦闘で5回以上死亡せずに1位を獲得する。"
@@ -2556,6 +2556,9 @@ msgstr "「造船」コレクションを全て完成させる。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "「薩鎮氷の時代」コレクションを完成させる。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_RARE_BEAST_2026"
+msgstr "犯罪シンジケートのメンバー全員を捕まえる。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "「未来の響き」のコレクションを全て完成させる。"
@@ -2987,6 +2990,15 @@ msgstr "オペレーション「ヒドラの巣」で 1 勝する。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RAM_PA"
 msgstr "1 戦中に 2 隻の敵艦艇を体当たりによって撃沈する。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "犯罪組織の大物を捕らえよ"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "犯罪組織の首領を捕らえよ"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_RARE_BOT"
+msgstr "犯罪組織の構成員を捕らえよ"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RASPUTIN"
 msgstr "「逢魔時バトル」で、戦艦 Rasputin を使用して 1 勝する。"
 
@@ -2997,7 +3009,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_REACTS_AMOUNT_2"
 msgstr "戦闘で%(emojisCount)sのリアクションを獲得する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_REACTS_AMOUNT_3"
-msgstr "戦闘で%(emojisCount)sのリアクションを獲得する。"
+msgstr "戦闘で %(emojisCount)s のリアクションを獲得する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RETRIBUTION"
 msgstr "自艦が撃沈された後に、敵艦を 1 隻撃沈する。"
@@ -3075,13 +3087,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIPSMASTER_3"
 msgstr "ウェブサイト上のミニゲームで、艦艇ブランチに関する良好な知識を披露する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIP_KILL_1"
-msgstr "敵対艦艇を%(killedVehiclesCount)s隻撃破せよ。"
+msgstr "敵艦艇を %(killedVehiclesCount)s 隻撃沈せよ。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIP_KILL_2"
-msgstr "敵対艦艇を%(killedVehiclesCount)s隻撃破せよ。"
+msgstr "敵艦艇を %(killedVehiclesCount)s 隻撃沈せよ。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIP_KILL_3"
-msgstr "敵対艦艇を%(killedVehiclesCount)s隻撃破せよ。"
+msgstr "敵艦艇を %(killedVehiclesCount)s 隻撃沈せよ。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SILENT_KILLER"
 msgstr "敵艦を 1 隻撃沈した上で、敵から発見されていない状態を維持する。"
@@ -3126,13 +3138,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_ST_PARTICIPANT"
 msgstr "開発チームは、スーパーテストにご参加頂いた皆様に感謝いたします。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUBMARINE_KILL_1"
-msgstr "潜水艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "潜水艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUBMARINE_KILL_2"
-msgstr "潜水艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "潜水艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUBMARINE_KILL_3"
-msgstr "潜水艦を%(killedVehiclesCount)s隻撃破する。"
+msgstr "潜水艦を %(killedVehiclesCount)s 隻撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT"
 msgstr "%(victimsCount)s 隻以上の敵艦艇にダメージを与える。各艦艇に対し、その基本 HP の %(damageRatio_percent)s 以上のダメージを与えること。"
@@ -3306,13 +3318,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR"
 msgstr "敵艦艇を %(victimsCount)s 隻以上撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_AMOUNT_1"
-msgstr "「クラーケン」の実績を%(achievementCount)s個獲得する。"
+msgstr "「クラーケン来襲!」の実績を %(achievementCount)s 個獲得する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_AMOUNT_2"
-msgstr "「クラーケン」の実績を%(achievementCount)s個獲得する。"
+msgstr "「クラーケン来襲!」の実績を %(achievementCount)s 個獲得する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_AMOUNT_3"
-msgstr "「クラーケン」の実績を%(achievementCount)s個獲得する。"
+msgstr "「クラーケン来襲!」の実績を %(achievementCount)s 個獲得する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_COOP"
 msgstr "敵艦艇を %(victimsCount)s 隻以上撃沈する。"
@@ -3679,6 +3691,9 @@ msgstr "造船"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "薩鎮氷の時代"
+
+msgid "IDS_ACHIEVEMENT_FILLALBUM_RARE_BEAST_2026"
+msgstr "事件解決"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "未来のこだま"
@@ -4127,6 +4142,15 @@ msgstr "ヒドラの巣"
 msgid "IDS_ACHIEVEMENT_RAM_PA"
 msgstr "トラブルメーカー"
 
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "私家探偵"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "潜入工作員"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_RARE_BOT"
+msgstr "スカウト"
+
 msgid "IDS_ACHIEVEMENT_RARITY_ELITE"
 msgstr "記念実績"
 
@@ -4261,6 +4285,9 @@ msgstr "ランダム戦で、港で編成した分艦隊でのみ達成可能。
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RANKED_ONEPERSEASON"
 msgstr "ランク戦で達成可能で、各シーズンに 1 回獲得可能。"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RARE_BEAST"
+msgstr "イベント「只ならぬ事件簿」にて進行中"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE"
 msgstr "「宇宙戦」で達成可能。"
@@ -4428,7 +4455,7 @@ msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_RANDOM_OR_RANK"
 msgstr "ランダム戦、ランク戦とレーティング戦"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_SQUAD"
-msgstr "小队戦"
+msgstr "分艦隊内の戦闘"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_CAMPAIGNS"
 msgstr "キャンペーン"
@@ -5150,6 +5177,12 @@ msgstr "プレイヤーを追加"
 msgid "IDS_ADD_PLAYER_TO_CONTACT_LIST"
 msgstr "連絡先に追加"
 
+msgid "IDS_ADD_SHIP_TO_COMPARISON"
+msgstr "艦艇を追加"
+
+msgid "IDS_ADD_TO_COMPARISON"
+msgstr "比較のために追加"
+
 msgid "IDS_ADD_TO_CONTACTS"
 msgstr "連絡先に追加"
 
@@ -5637,6 +5670,66 @@ msgstr "ボットの AI レベル"
 
 msgid "IDS_AKENO_MASHIRO"
 msgstr "岬明乃"
+
+msgid "IDS_ALBUM_EVENT_ABOUT_LINK_TEXT"
+msgstr "イベントについて"
+
+msgid "IDS_ALBUM_EVENT_CLUES"
+msgstr "証拠を集めた"
+
+msgid "IDS_ALBUM_EVENT_COUNTER"
+msgstr "捕まえた犯罪者:"
+
+msgid "IDS_ALBUM_EVENT_CTA_MARKER"
+msgstr "犯罪者を捕まえろ"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION"
+msgstr "<p>彼らは、自らが名乗るその者ではない。この街で最も危険な犯罪者たちは、あなたの友の顔の裏に潜んでいる。彼らはその声で語りかける——だが、見慣れた微笑みの奥に隠されているのは、冷徹な計算だけだ。</p><p class=\"p_spacing\"></p><p>四つの組織の構成員たちと戦いの中で相まみえ、スペード・シティの港を浄化せよ。手遅れになる前に、やつら全員を捕らえよ……</p>"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION_COMPLETED"
+msgstr "<p>冷たい灯りが闇の中から浮かび上がらせたのは、怯えた二人の顔だけだった。犯罪者たちは捕らえられ、一件落着。一瞬、胸の内が軽くなったが、その感覚も湿った空気の中へすぐに溶けていった。</p><p class=\"p_spacing\"></p><p>残ったのは、安物のコーヒーの苦みと、ひとつの実感だけだった――スペード・シティに平穏が訪れることはない。街の通りが静まり返ったのなら、どこかで新たな嵐がすでに始まっている……。</p>"
+
+msgid "IDS_ALBUM_EVENT_EARNED_ITEMS"
+msgstr "ファイルが作成されました"
+
+msgid "IDS_ALBUM_EVENT_ENOUGH_CLUES_STATUS_LINE"
+msgstr "もう一人の犯罪者を捕らえるに足る証拠が揃っている"
+
+msgid "IDS_ALBUM_EVENT_EVENT_PROGRESS"
+msgstr "サンジケートの壊滅まで"
+
+msgid "IDS_ALBUM_EVENT_MAIN_TASK_COMPLETION_TOOLTIP_HEADER"
+msgstr "シンジケート壊滅の報酬"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_STATUS_LINE"
+msgstr "犯罪者を排除した、もしくは排除に貢献した"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_TITLE"
+msgstr "現行犯で捕まった"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_DUPLICATE_STAMP"
+msgstr "証拠"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_DESCRIPTION"
+msgstr "基本 EXP を 2,500 獲得して、特に危険な犯罪者の痕跡を追え"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_TITLE"
+msgstr "追跡"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_DESCRIPTION"
+msgstr "身元不明"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_TITLE"
+msgstr "仮面の下の顔"
+
+msgid "IDS_ALBUM_EVENT_STATUS_COMPLETED"
+msgstr "事件解決"
+
+msgid "IDS_ALBUM_EVENT_SUBALBUM_COMPLETION_TOOLTIP_HEADER"
+msgstr "組織抹殺の褒賞"
+
+msgid "IDS_ALBUM_EVENT_TITLE"
+msgstr "只ならぬ事件簿"
 
 msgid "IDS_ALCHEMY_DENY_NOT_ENOUGH"
 msgstr " %(_deficit)dゴールド足りません"
@@ -7810,10 +7903,10 @@ msgid "IDS_BASE_LOGIN_EXISTS"
 msgstr "永久アカウントを作成しました。パスワードでログインしましょう。"
 
 msgid "IDS_BASE_TEAM_0"
-msgstr "基地"
+msgstr "陣地"
 
 msgid "IDS_BASE_TEAM_1"
-msgstr "基地"
+msgstr "陣地"
 
 msgid "IDS_BATTERY_CAPACITY_HIGH"
 msgstr "潜行能力が高い"
@@ -8536,6 +8629,15 @@ msgstr "注意! 敵は潜水艦に対抗すべく爆雷を投下してきます�
 msgid "IDS_BATTLE_LOADING_SUBMARINE_INFO_HEADER"
 msgstr "潜水艦"
 
+msgid "IDS_BATTLE_MAX_REGEN_CREW_DESCRIPTION"
+msgstr "消耗品では失ったHPをすべて復旧できるわけではない。HPゲージには、現在復旧可能な量がデフォルトで表示される。[KEY_LALT]を押すと最大可能値が表示される。"
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_SUBTITLE"
+msgstr "現在の効果"
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_VALUE"
+msgstr "HP 回復"
+
 msgid "IDS_BATTLE_MISSION"
 msgstr "戦闘任務"
 
@@ -8642,7 +8744,7 @@ msgid "IDS_BATTLE_STATS_ALLIES_AIRSHIP_ARRIVED"
 msgstr "味方飛行船が先に目的地に到着した"
 
 msgid "IDS_BATTLE_STATS_ALLIES_BASE_DESTROYED"
-msgstr "味方基地が破壊された。"
+msgstr "味方陣地が破壊された。"
 
 msgid "IDS_BATTLE_STATS_ALLIES_CAPTURED_BASE"
 msgstr "味方チームが陣地を占領"
@@ -8981,7 +9083,7 @@ msgid "IDS_BATTLE_STATS_ENEMIES_AIRSHIP_ARRIVED"
 msgstr "敵飛行船が先に目的地に到着した"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_BASE_DESTROYED"
-msgstr "敵基地を破壊しました。"
+msgstr "敵陣地を破壊しました。"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_CAPTURED_BASE"
 msgstr "敵チームが陣地を占領"
@@ -9494,10 +9596,10 @@ msgid "IDS_BATTLE_TASK_TEXT_I00_POINT_B_ONE"
 msgstr " "
 
 msgid "IDS_BATTLE_TASK_TEXT_IDS_DM_TASK"
-msgstr "プレイヤー %s は撃破しました："
+msgstr "プレイヤー %s は撃破しました:"
 
 msgid "IDS_BATTLE_TASK_TEXT_IDS_DM_TASK_ME"
-msgstr "あなたは撃破しました："
+msgstr "あなたは撃破しました:"
 
 msgid "IDS_BATTLE_TASK_TEXT_KILL_BAD_GUYS_AND_STAY_ALIVE"
 msgstr "駆逐艦 Megaera、Alecto、Tisiphone を撃沈せよ"
@@ -10326,6 +10428,9 @@ msgstr "「艦艇」購入可能"
 msgid "IDS_BUY_AND_SAVE_DOGTAG"
 msgstr "購入して保存する"
 
+msgid "IDS_BUY_COLLECTION_ALBUM_EVENT_FOR_DUPLICATE"
+msgstr "犯罪者を捕まえる"
+
 msgid "IDS_BUY_COLLECTION_FOR_DUPLICATE"
 msgstr "重複アイテムの交換"
 
@@ -10739,6 +10844,9 @@ msgstr "「ルコモリエ防衛」イベントに参加可能な艦艇のフィ
 
 msgid "IDS_CAROUSEL_PCVE035_FILTER"
 msgstr "「死闘」イベントに参加可能な艦艇のフィルター"
+
+msgid "IDS_CAROUSEL_PCVE036_FILTER"
+msgstr "「只ならぬ事件簿」イベントに参加可能な艦艇のフィルター"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "オペレーションに適合する艦艇をフィルター"
@@ -11518,6 +11626,9 @@ msgstr "「猛進」を選択"
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE034"
 msgstr "「ルコモリエ防衛」イベントを選択する"
 
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE036"
+msgstr "「只ならぬ事件簿 」を選択"
+
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
 "ユーザー名を選択してください。\n"
@@ -11603,6 +11714,12 @@ msgstr "トレーニング戦を選択"
 
 msgid "IDS_CHOOSE_TRIALBATTLE"
 msgstr "試練選択へ"
+
+msgid "IDS_CHOOSING_RESPAWN_POINT"
+msgstr "復活地点を選択してください"
+
+msgid "IDS_CHOOSING_SHIP"
+msgstr "艦艇を選択してください"
 
 msgid "IDS_CHOOSING_SHIP_AND_RESPAWN_POINT"
 msgstr ""
@@ -13607,6 +13724,18 @@ msgstr "収集中"
 msgid "IDS_COLLECTIONS"
 msgstr "コレクション"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_COMPLEXITY_LEVEL"
+msgstr "危険度"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_DUPLICATE_PRICE_COLON"
+msgstr "必要な証拠: %(amount)s"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_ACHIEVED"
+msgstr "捕まった"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_NOT_ACHIEVED"
+msgstr "捕まってない"
+
 msgid "IDS_COLLECTION_ALBUM_RECIEVED"
 msgstr "コレクション"
 
@@ -13662,6 +13791,9 @@ msgstr "コレクション %(_collectionName)s"
 
 msgid "IDS_COLLECTION_NOT_COLLECTING_TOOLTIP_DESCRIPTION"
 msgstr "このコレクションのアイテムは現在「毎日」コンテナから入手できません。"
+
+msgid "IDS_COLLECTION_OBJECT_ALBUM_EVENT_DUPLICATES_EXCHANGE_TITLE"
+msgstr "犯罪者の捕獲"
 
 msgid "IDS_COLLECTION_PLAYER_POINTS_COUNTER"
 msgstr "取得アイテム数"
@@ -13892,6 +14024,23 @@ msgstr "全艦艇からの EXP 変換費用:"
 
 msgid "IDS_COMMON_TEAM_VICTORY_DAYS_TOOLTIP"
 msgstr "コンペティションの全体における所属チームの勝利数"
+
+msgid "IDS_COMPARE"
+msgstr "比較"
+
+msgid "IDS_COMPARISON_NO_SHIPS"
+msgstr ""
+"比較する艦艇がまだ追加されていません。\n"
+"空のセルをクリックして、艦艇を追加してください。"
+
+msgid "IDS_COMPARISON_RESET"
+msgstr "設定をリセット"
+
+msgid "IDS_COMPARISON_TAB_CREW_SKILLS"
+msgstr "艦長スキル"
+
+msgid "IDS_COMPARISON_TAB_SHIP_CONFIGURATION"
+msgstr "艦艇の装備"
 
 msgid "IDS_COMPENDIUM_COPY_VALUES"
 msgstr "クリップボードにコピー"
@@ -14335,6 +14484,9 @@ msgstr "レーザーを使用するには [KEY_LEFTMOUSE] を長押しします�
 
 msgid "IDS_CONTEXT_TUTORIAL_MANUAL_AIR_DEFENSE_ACTIVATION"
 msgstr "対空弾幕を起動"
+
+msgid "IDS_CONTEXT_TUTORIAL_MASS_HEAL"
+msgstr "[KEY_LALT] 長押しでミニマップ上に味方の HP を表示"
 
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
 msgstr "敵が移動中です。射撃時は偏差照準を取ってください"
@@ -21505,6 +21657,9 @@ msgstr ""
 "照準設定を変更しました。\n"
 "変更を適用しますか?"
 
+msgid "IDS_CROWS"
+msgstr "カラスの群れ"
+
 msgid "IDS_CRUISECONTROLS"
 msgstr "巡航制御"
 
@@ -21558,6 +21713,12 @@ msgstr "取引後"
 
 msgid "IDS_CURRENCIES_OPERATION_BEFORE"
 msgstr "取引前"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES"
+msgstr "証拠"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES_DESCRIPTION"
+msgstr "戦闘以外で犯罪者を捕らえるには、証拠を4点集める必要があります。同じマスクの敵を戦闘で撃破するたびに、証拠を獲得できます。"
 
 msgid "IDS_CURRENCY_BPPOINTS"
 msgstr "BATTLE PASS ポイント"
@@ -21655,7 +21816,7 @@ msgstr "イベントの戦闘任務群の達成褒賞、または購入により
 msgid "IDS_CURRENCY_DOCKYARDUM_2_SPEND_DESCRIPTION"
 msgstr "造船所で艦艇を建造。"
 
-msgid "IDS_CURRENCY_DUBLICATES"
+msgid "IDS_CURRENCY_DUPLICATES"
 msgstr "重複"
 
 msgid "IDS_CURRENCY_ELITEXP"
@@ -21695,7 +21856,7 @@ msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
 msgstr "最終褒賞カードの開封で、永久迷彩「アルノの黄金」と旗を備えたスーパー駆逐艦アメリゴ・ヴェスプッチ、ならびにプレミアムコンテナ「アーティファクトの心臓」「石棺」「防護機構」を、アップデート26.9および26.10の期間限定で入手できます。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "イベント「11年：かつて秘境で」の暫定リソース。アップデート26.11のリリースに伴い、古代の宝物は補償なしで失効となります。"
+msgstr "イベント「11年: かつて秘境で」の暫定リソース。アップデート 26.11 のリリースに伴い、古代の宝物は補償なしで失効となります。"
 
 msgid "IDS_CURRENCY_EVENTUM_2"
 msgstr "旅行者トークン"
@@ -21707,19 +21868,19 @@ msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
 msgstr "報酬カードを開封すると、その中にはイベント資源の古代の宝物、スーパーコンテナ、Lesta Gamesのプレミアムコンテナ、その他の報酬が含まれます。さらに、特別な艦長カリプソ・カーターが登場するセットやプレミアムコンテナ「プレミアム艦艇VI」、その他のアイテムも期間限定でアップデート26.9および26.10で入手できます。"
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr "暫定リソース「11年：かつて荒野で」イベント。アップデート26.11のリリースに伴い、トラベラートークンは補償なしで失効します。"
+msgstr "暫定リソース「11年: かつて荒野で」イベント。アップデート 26.11 のリリースに伴い、トラベラートークンは補償なしで失効します。"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "アメリカン・トークン"
+msgstr "サイバートークン"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "アップデート 26.7 終了までの戦闘任務の達成、およびアップデート 26.8 終了までの武器庫のセットから入手可能。"
+msgstr "アップデート26.11において、武器庫のセットから期間限定で。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "早期アクセス Tier X 戦艦 New Jersey、プレミアムコンテナ「早期アクセス」、New Jersey と超戦艦 Virginia の永久迷彩「波のきらめき」および「月光」、Tier VIII～X および超艦艇の早期アクセス艦艇用ボーナス・パッケージ、その他のアイテムを含む連続セットを、アップデート 26.8 終了まで入手可能。"
+msgstr "プレミアムコンテナ「サイバーチェスト」とXティア戦艦「サイバースラヴァ」の永久迷彩「グラード・キテジ」付き連続セット、艦長サイバースラヴァとミロスラヴァ、その他のアイテムを期間限定でアップデート26.11にて"
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "イベント「アメリカ戦艦」の暫定リソース。アップデート 26.9 のリリース後、トークンは補償なしで消去されます。"
+msgstr "イベント「サイバースラヴ」の暫定リソース。26.12アップデートのリリースに伴い、補償なしで消滅します。"
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "古ルーシのジェトン"
@@ -21743,7 +21904,7 @@ msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
 msgstr "限定時間内に、アップデート26.9および26.10において、永久迷彩「伝説の遠征」を備えた超駆逐艦Jenkins、旗付きTier IX巡洋艦鳥海、ならびにプレミアムコンテナ「アーティファクトの心臓」、「石棺」、「防御機構」、およびコンテナ「神秘の小包」を入手するための航路ステージをクリアしよう。"
 
 msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
-msgstr "「11年：かつて荒野で」イベントの暫定リソース。アップデート26.11のリリースに伴い、マップの断片は補償なしで消滅します。"
+msgstr "「11年: かつて荒野で」イベントの暫定リソース。アップデート 26.11 のリリースに伴い、マップの断片は補償なしで消滅します。"
 
 msgid "IDS_CURRENCY_EVENTUM_6"
 msgstr "コシチェイの金貨"
@@ -21758,16 +21919,16 @@ msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
 msgstr "イベント「ルコモリエ防衛戦」の暫定リソース。アップデート26.12のリリースに伴い、補償なしで削除されます。"
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "ドイツ・トークン"
+msgstr "ブラックフライデーのトークン"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "アップデート 26.7 の期間中、戦闘任務の完了および武器庫のセットから、アップデート 26.7 終了まで。"
+msgstr "期間限定で、戦闘任務の達成および武器庫のセットにより、アップデート26.11にて。"
 
 msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "Tier X 巡洋艦 Wotan とプレミアムコンテナ「ドイツ戦隊」、Tier VIII～X および超艦艇の永久迷彩「研究所」、その他のアイテムを含む連続セットを、アップデート 26.7 終了まで入手可能。"
+msgstr "Tier IX 駆逐艦 Benham B のセット、プレミアムコンテナ「ホワイトモーター」と「艦隊宝庫」、コンテナ「ブラックモーター」、その他のアイテムを期間限定でアップデート 26.11 中に入手可能です。"
 
 msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "暫定リソース。アップデート 26.8 のリリース後、トークンは補償なしで消去されます。"
+msgstr "イベント『ブラックフライデー　われ、探しに往く』の期間限定リソース。アップデート26.12の実装をもって、対象トークンは補償なく失効いたします。"
 
 msgid "IDS_CURRENCY_EVENTUM_8"
 msgstr "紅い宝石"
@@ -22600,14 +22761,23 @@ msgstr "暑い夏"
 msgid "IDS_DECAL_PCED053_NAME"
 msgstr "レッサーパンダ"
 
+msgid "IDS_DECAL_PCED054_NAME"
+msgstr "ミーニンとポジャルスキー"
+
+msgid "IDS_DECAL_PCED058_NAME"
+msgstr "犯罪現場"
+
+msgid "IDS_DECAL_PCED059_NAME"
+msgstr "正義の手"
+
 msgid "IDS_DECAL_PCED501_DESCRIPTION"
-msgstr "この艦艇でのCo-op戦、ランダム戦、ランク戦、レーティング戦、および闘争とオペレーションでの結果が考慮されます。最大値：9 999。"
+msgstr "<p>この艦艇での Co-op 戦、ランダム戦、ランク戦、レーティング戦、および闘争とオペレーションでの結果が考慮されます。</p><p class=\"p_spacing\"> </p><p>最大値: 9,999。</p>"
 
 msgid "IDS_DECAL_PCED501_NAME"
 msgstr "破壊数"
 
 msgid "IDS_DECAL_PCED502_DESCRIPTION"
-msgstr "この艦艇でのCo-op戦、ランダム戦、ランク戦、レーティング戦、および闘争とオペレーションでの結果が考慮されます。最大値：9 999。"
+msgstr "<p>この艦艇での Co-op 戦、ランダム戦、ランク戦、レーティング戦、および闘争とオペレーションでの結果が考慮されます。</p><p class=\"p_spacing\"> </p><p>最大値: 9,999。</p>"
 
 msgid "IDS_DECAL_PCED502_NAME"
 msgstr "勝利"
@@ -22616,25 +22786,25 @@ msgid "IDS_DECAL_PCED503_NAME"
 msgstr "マスタリー"
 
 msgid "IDS_DECAL_PCED503_PROGRESS_TITLE"
-msgstr "マスタリー・レベル："
+msgstr "マスタリー・レベル:"
 
 msgid "IDS_DECAL_PCED503_SUBST_DESCRIPTION"
 msgstr "デカールを獲得するには、選択した艦艇でマスタリー・レベル%(_value)sに到達してください。"
 
 msgid "IDS_DECAL_PCED504_DESCRIPTION"
-msgstr "デカールを獲得するには、ランク戦での勝利で20個のスターを獲得し、ブロンズリーグのランク1以上に到達してください。"
+msgstr "<p>現在のシーズンにおけるあなたのランクを表示します。ランク戦が開催されていない期間は、前シーズン終了時点のランクを表示します。</p><p class=\"p_spacing\"> </p><p>デカールを獲得するには、ランク戦での勝利により20個の星を獲得し、ブロンズリーグのランク1以上に到達してください。</p>"
 
 msgid "IDS_DECAL_PCED504_NAME"
 msgstr "ランク"
 
 msgid "IDS_DECAL_PCED505_DESCRIPTION"
-msgstr "デカールを獲得するには、レーティング戦でシルバーリーグ以上に到達してください。"
+msgstr "<p>現在のシーズンのレーティングが表示されます。レーティング戦が開催されていない間は、前シーズン終了時のレーティングが表示されます。</p><p class=\"p_spacing\"> </p><p>デカールを獲得するには、レーティング戦でシルバーリーグ以上に到達してください。</p>"
 
 msgid "IDS_DECAL_PCED505_NAME"
 msgstr "レーティング"
 
 msgid "IDS_DECAL_PCED506_DESCRIPTION"
-msgstr "この艦艇での「勝利チームのトップ」ステータスを獲得したすべての戦闘がカウントされます。最大値: 9 999。"
+msgstr "<p>この艦艇で「勝利チームのトップ」を獲得したすべての戦闘がカウントされます。</p><p class=\"p_spacing\"> </p><p>最大値: 9 999</p>"
 
 msgid "IDS_DECAL_PCED506_NAME"
 msgstr "最佳勝者"
@@ -22846,6 +23016,9 @@ msgstr "<p>古来より、空は人類を魅了してきました — 宇宙の�
 
 msgid "IDS_DESCRIPTION_PCZA041_BD25_PUZZLE"
 msgstr "<p>目を閉じて 10 まで数えてください。何が見えますか? もしかすると、過去の戦闘の光景が目の前に浮かぶかもしれません: 砲火の閃光、鋼鉄の巨艦たちのシルエット、荒波の飛沫、忠実な戦友たちの顔…あるいは、あなたは未知の領域へと真っ直ぐに見据えているのでしょうか?</p><p class=\"p_spacing\"> </p><p>願いをかけてください。水平線の向こうに何が待っていようとも、過ぎ去った 10 年の戦いは永遠に心に刻まれ、だからこそあなたは艦艇を唯一正しい航路へと確信を持って進めているのです。</p>"
+
+msgid "IDS_DESCRIPTION_PCZA042_RARE_BEAST_BF26"
+msgstr "<p>この街には、他人の秘密を抱え込むという悪癖がある。夜が家々の屋根に降りると、隠し事を抱えた者たちが棲み処から這い出してくる。彼らはマスクで顔を隠し、名を変え、他人の声で語る。このまま永遠に影へ溶けてしまいそうだが――時に、箪笥の中の骸骨でさえ口を開く……。</p><p class=\"p_spacing\"> </p><p>ささいな手がかり、場違いな一言、そして時ならぬ一瞥――それだけで真実は白日のもとに引きずり出される。探偵の執念深い視線は、いかなる手がかりも取り逃さない。かつて街一つを恐怖に陥れた者たちも、やがては警察署の捜査ファイルに並ぶ、ただの名前になるだけだ。</p>"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "この戦闘では副砲を使用できません。"
@@ -23662,6 +23835,9 @@ msgstr "駆逐艦の発見"
 
 msgid "IDS_DIVEBOMBER"
 msgstr "爆撃機"
+
+msgid "IDS_DIVEBOMBER_ALT"
+msgstr "戦術爆撃機"
 
 msgid "IDS_DIVEBOMBER_AP"
 msgstr "(AP) 爆撃機"
@@ -24561,7 +24737,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_US"
 msgstr "<p>発動した場所にエリアを生成し: その範囲内に入った味方艦艇の抗堪性と機動性を一時的に向上させます。</p><p class=\"p_spacing\"> </p><p>エリアは消耗品を使用した場所に生成されます。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY054_MASSHEAL"
-msgstr "<p>艦艇の周囲に範囲を生成し、自身と味方の艦艇の HP を部分的に回復する。</p><p class=\"p_spacing\"></p><p>修理消耗品。</p>"
+msgstr "<p>艦艇の周囲に、自身と味方のHPが一部回復する領域を作成する。</p><p class=\"p_spacing\"> </p><p>ミニマップで味方のHPを表示するには、[KEY_LALT]を押し続ける。</p><p class=\"p_spacing\"> </p><p>修理消耗品。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY055_ABILITYCLONES"
 msgstr " "
@@ -24920,7 +25096,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY520_2025WT_HOUNDSMASSHEAL"
 msgstr "チーム内の各艦艇の戦闘力を瞬時に一部回復する。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
-msgstr "味方チームのすべての艦艇の速度と機動力を増加させる。</p><p class=\"p_spacing\"> </p><p>自分の艦艇は機動力に強化ボーナスを得る。</p>"
+msgstr "<p>チーム内の全艦艇の速度と機動性を向上させます。</p><p class=\"p_spacing\"> </p><p>自分の艦艇は機動性へのボーナスがさらに強化されます。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY522_2025WT_HOUNDSROTARYAC"
 msgstr "敵の同一艦艇に数発命中するごとに、自艦の主砲の性能を強化する。別の目標に命中すると進行状況はリセットされる。"
@@ -24953,7 +25129,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY535_2025WT_HOUNDSSUPERDESPERATE"
 msgstr "<p>与えるダメージと射撃速度に永続ボーナスを与え、使用するたびに増加します。</p><p class=\"p_spacing\"> </p><p>ボーナスの最大レベル: 3。あなたの艦艇が撃破されるとボーナスは失われます。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY536_2025WT_HOUNDSLOSSCOUNTER"
-msgstr "<p>連射速度に永続ボーナスを与え、使用するたびに増加します。</p><p class=\"p_spacing\"> </p><p>ボーナスの最大レベル：5。あなたの艦艇が撃破されるとボーナスは失われます。</p>"
+msgstr "<p>射撃速度に永続ボーナスを与え、使用するたびに増加します。</p><p class=\"p_spacing\"> </p><p>ボーナスの最大レベル: 5。あなたの艦艇が撃沈されるとボーナスは失われます。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY537_2025WT_HOUNDSLASTCHANSE"
 msgstr "装備作動中に艦艇の HP が 1% になると、あらゆるダメージに対して無敵状態を付与します。"
@@ -29012,6 +29188,12 @@ msgstr ""
 msgid "IDS_DOGTAG_PCNB482_NAME"
 msgstr "焔の鳥の羽根"
 
+msgid "IDS_DOGTAG_PCNB483_DESCRIPTION"
+msgstr "1704年の冬、大北方戦争のさなか、クロンシュタットの南に、木枠石詰め基礎（リャジ基礎）の要塞が築かれた。スウェーデン艦隊の進路を遮ったこの要塞は、クロンシュロット（ドイツ語の Kronschlot — 「王冠の城」）と名付けられた。"
+
+msgid "IDS_DOGTAG_PCNB483_NAME"
+msgstr "クロンシュロットの精霊"
+
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "このパッチは開発中です。"
 
@@ -31997,6 +32179,9 @@ msgstr "ポータルが開通した。貴艦は既に鍵を所有中!"
 msgid "IDS_EV2020_RULES_PORTAL_WITHOUT_KEY"
 msgstr "ポータルからの脱出には鍵が必要。"
 
+msgid "IDS_EV2611_E"
+msgstr "共犯者"
+
 msgid "IDS_EVAVALENTINE"
 msgstr "エヴァ・バレンタイン"
 
@@ -34037,6 +34222,9 @@ msgstr "攻撃機"
 msgid "IDS_FIGHTER_AIRSUP"
 msgstr "空襲: 戦闘機"
 
+msgid "IDS_FIGHTER_ALT"
+msgstr "戦術攻撃機"
+
 msgid "IDS_FIGHTER_AP"
 msgstr "(AP) 攻撃機"
 
@@ -34200,7 +34388,7 @@ msgid "IDS_FIRST_BATTLE_CARD_SHOOTING_1"
 msgstr "副砲と対空砲は自動的に作動します。"
 
 msgid "IDS_FIRST_BATTLE_DESCRIPTION"
-msgstr "初陣"
+msgstr "敵の艦艇をすべて撃破せよ"
 
 msgid "IDS_FIRST_BATTLE_GOAL"
 msgstr "敵艦艇を殲滅せよ"
@@ -34297,6 +34485,9 @@ msgstr "提督の人生"
 
 msgid "IDS_FIRST_PCZA027_TFTM_108_NAME"
 msgstr "オートボット艦長"
+
+msgid "IDS_FIRST_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "黒い帆"
 
 msgid "IDS_FIRST_SCARLET_BIRTHDAY_2_NAME"
 msgstr "革新の頂点"
@@ -34538,6 +34729,9 @@ msgstr "6×1"
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE035"
 msgstr "1×8"
 
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE036"
+msgstr "5x7"
+
 msgid "IDS_FORM_DIVISION"
 msgstr "分艦隊の作成"
 
@@ -34624,6 +34818,9 @@ msgstr "未来の艦隊"
 
 msgid "IDS_FOURTH_PCZA027_TFTM_108_NAME"
 msgstr "《ディセプティコン》ゲームの歴史"
+
+msgid "IDS_FOURTH_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "港の影"
 
 msgid "IDS_FOURTH_SCARLET_BIRTHDAY_2_NAME"
 msgstr "テクノロジーの勝利"
@@ -34910,6 +35107,9 @@ msgstr "白上フブキ"
 msgid "IDS_FULLSCREEN"
 msgstr "全画面"
 
+msgid "IDS_FUNNEL"
+msgstr "煙突防護"
+
 msgid "IDS_GAMELOGIC_PRESET"
 msgstr "小型オブジェクトのアニメート"
 
@@ -35022,7 +35222,7 @@ msgid "IDS_GAMEMODE_CONVOY_TEAM_DEFENDERS"
 msgstr "護衛チーム"
 
 msgid "IDS_GAMEMODE_DEATHMATCH_RULES_DESCRIPTION_TEXT_0_0"
-msgstr "危険なターゲットを破壊して、より多くのポイントを獲得せよ。注意せよ：お前もターゲットになる可能性がある。"
+msgstr "危険なターゲットを破壊して、より多くのポイントを獲得せよ。注意せよ: お前もターゲットになる可能性がある。"
 
 msgid "IDS_GAMEMODE_DEATHMATCH_RULES_DESCRIPTION_TEXT_1_0"
 msgstr "艦艇の機動性強化"
@@ -35380,6 +35580,9 @@ msgstr "ルール"
 msgid "IDS_GO_TO_ACCESS_LEVEL_MOUSE_INSTRUCTION"
 msgstr "「アクセスレベル」画面へ"
 
+msgid "IDS_GO_TO_ALBUM_EVENT"
+msgstr "「只ならぬ事件簿」画面へ移動する"
+
 msgid "IDS_GO_TO_ALMANAC_MOUSE_INSTRUCTION"
 msgstr "「毎日褒賞」画面へ"
 
@@ -35424,6 +35627,9 @@ msgstr "「ニュース」画面へ"
 
 msgid "IDS_GO_TO_OBJECT_SCREEN"
 msgstr "アイテム閲覧画面へ"
+
+msgid "IDS_GO_TO_OBJECT_SCREEN_ALBUM_EVENT"
+msgstr "資料を開く"
 
 msgid "IDS_GO_TO_PLAYBACK_UPPERCASE"
 msgstr "再生"
@@ -36573,6 +36779,21 @@ msgstr "あなたの艦艇から受け取れる褒賞の総数です。このリ
 
 msgid "IDS_GUIDING_TIP_380_HEADER"
 msgstr "褒賞"
+
+msgid "IDS_GUIDING_TIP_381_DESC"
+msgstr "艦艇を設定してその特性を比較できます。カルーセルから艦艇を右クリックするか、比較画面ですぐに追加できます。"
+
+msgid "IDS_GUIDING_TIP_381_HEADER"
+msgstr "艦艇比較"
+
+msgid "IDS_GUIDING_TIP_382_DESC"
+msgstr "性能差は表の最初の艦艇を基準に表示されています。比較対象の艦艇はいつでも変更できます。"
+
+msgid "IDS_GUIDING_TIP_382_HEADER"
+msgstr "1隻の艦艇を他の艦艇と比較してください"
+
+msgid "IDS_GUIDING_TIP_383_HEADER"
+msgstr "証拠は揃った"
 
 msgid "IDS_GUIDING_TIP_38_DESC"
 msgstr "新たなスキルを習得するにはスキルポイントが必要です。スキルポイントを得るには、戦闘で艦長 EXP を取得する必要があります。"
@@ -38395,6 +38616,9 @@ msgstr "全フィルターの初期化"
 msgid "IDS_HINT_RESET_FILTER"
 msgstr "このフィルターをリセット"
 
+msgid "IDS_HINT_RESPAWN_BUFF"
+msgstr "復活ポイントで入手できる艦艇は、この戦闘タイプにおいてのみ有効な強化済みの性能を備えている。そのような艦艇で戦闘に復帰すると、さらに追加の強化を得ることになる。効果は獲得のたびに増大する。"
+
 msgid "IDS_HINT_RESTRICTION_AUTO_DAMAGE"
 msgstr "この消耗品は戦闘中に必要に応じて自動的に使用されます。"
 
@@ -38835,6 +39059,15 @@ msgstr "残り: %(_timeLeft)s"
 
 msgid "IDS_INFOTIP_ALMANAC"
 msgstr "毎日褒賞"
+
+msgid "IDS_INFOTIP_COMPARISON_HEADER"
+msgstr "比較用の艦艇"
+
+msgid "IDS_INFOTIP_GO_TO_COMPARISON"
+msgstr "表へ"
+
+msgid "IDS_INFOTIP_REMOVE_ALL_COMPARISON_LIST"
+msgstr "リストをクリア"
 
 msgid "IDS_INFO_AIRPLANE"
 msgstr "左 MB: 中隊の選択"
@@ -42153,7 +42386,7 @@ msgid "IDS_LUKOMORYE_BALANCER_CHOSEN_FRACTION"
 msgstr "チーム"
 
 msgid "IDS_LUKOMORYE_BALANCER_LONG_AWAIT_TITLE"
-msgstr "戦闘検索 遅延中..."
+msgstr "戦闘検索遅延中..."
 
 msgid "IDS_LUKOMORYE_BALANCER_PLAYERS_WAITING"
 msgstr "待機中のプレイヤー:"
@@ -43132,10 +43365,10 @@ msgid "IDS_META_EVENT_TASKS_SIDE_1"
 msgstr " 穢れし者らがために"
 
 msgid "IDS_META_EVENT_TASKS_SIDE_TITLE_0"
-msgstr "勇士：%(_count)s"
+msgstr "勇士: %(_count)s"
 
 msgid "IDS_META_EVENT_TASKS_SIDE_TITLE_1"
-msgstr " 穢れし者：%(_count)s"
+msgstr "穢れし者: %(_count)s"
 
 msgid "IDS_META_EVENT_TASKS_SIDE_TOOLTIP_TITLE_0"
 msgstr "勇士"
@@ -43229,6 +43462,9 @@ msgstr "Mina Hurray"
 
 msgid "IDS_MINEBOMBER"
 msgstr "機雷敷設機"
+
+msgid "IDS_MINEBOMBER_ALT"
+msgstr "戦術機雷敷設機"
 
 msgid "IDS_MINES"
 msgstr "機雷"
@@ -43574,6 +43810,21 @@ msgstr "Maxim Metky"
 
 msgid "IDS_MK_PREMIUM_ACCOUNT_ENDS_TIME"
 msgstr "MK プレミアムアカウントの残期間: %(timeLeft)s"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_HEADER_TEXT"
+msgstr "比較する艦艇のリストをクリアしますか?"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_SUBHEADER_TEXT"
+msgstr "艦艇に設定された設定もリセットされます。"
+
+msgid "IDS_MODAL_COMPARISON_INCOMPARABLE_CONFIRMATION_TEXT"
+msgstr "この艦艇 (英語で「Incomparable」は「比類なき」の意) を他の艦艇と比較してもよろしいですか?"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_HEADER_TEXT"
+msgstr "すべての設定をリセットしますか?"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_SUBHEADER_TEXT"
+msgstr "確認後、設定やスキルを含むすべての設定がリセットされます"
 
 msgid "IDS_MODAL_ENTER_BATTLE_WITHOUT_CREW_DESCRIPTION_PARAGRAPH_1"
 msgstr "艦長が不在の艦艇は戦闘での有効性が低下します。"
@@ -44648,7 +44899,7 @@ msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "不死者コシチェイは、穢れし者らの軍勢とともに焔の鳥を奪い去り、邪なる儀式にてその力を奪わんとし、世界を永遠の闇に沈めんと欲す。勇ましき勇士の同胞は、悪しき者らを討ち祓い、ルコモリエを救わねばならぬ。戦いは、二つの段階より成る。"
 
 msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_2_HEADER"
-msgstr "第一段階：暗黒の儀式"
+msgstr "第一段階: 暗黒の儀式"
 
 msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "その力尽きぬ限り、焔の鳥は勇士らを助け、戦場へと戻し、妖しき羽を送りて艦を強めん。勇士たちは穢れし者らを討ち祓い、邪なる儀式の成就を阻まねばならぬ。"
@@ -44657,7 +44908,7 @@ msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_2_TEXT_2"
 msgstr "されど穢れし力、眠ることなし。コシチェイの眷属らは、勇士を討ち滅ぼさんとし、焔の鳥の羽を誰よりも先に奪い、儀式の成就を早めんと企てり。"
 
 msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_3_HEADER"
-msgstr "第二段階：伝説の戦い"
+msgstr "第二段階: 伝説の戦い"
 
 msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_3_TEXT_1"
 msgstr "勇士たちが儀式の成就までに穢れし者らを討ち祓い得ぬなら、焔の鳥は妖しき呪いにその力を奪われ、もはや同胞を助くること能わず。されど、既に得たる強化は、なお作用し続けん。"
@@ -44684,7 +44935,7 @@ msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_3_HEADER"
 msgstr "危険な目標"
 
 msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "危険な目標 — 3 隻以上の敵を撃沈した艦艇 — を撃破して、より多くのポイントを獲得しましょう。覚えておいてください：目標は誰でもあり得ます、あなた自身でさえも!"
+msgstr "危険な目標 — 3 隻以上の敵を撃沈した艦艇 — を撃破して、より多くのポイントを獲得しましょう。覚えておいてください: 目標は誰でもあり得ます、あなた自身でさえも!"
 
 msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_WIN_POINTS"
 msgstr "+%(_winPoints)d"
@@ -44736,6 +44987,60 @@ msgstr "参加条件"
 
 msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_5_TEXT_1"
 msgstr "適切な艦艇:"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_HEADER"
+msgstr "調査"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "セカンドチャンス"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "どん底に落ちた者でも、第二のチャンスはある。撃沈された後も、復活地点と艦艇を選んで戦闘に戻ることができる。一部の艦艇は、戦闘で獲得した復活ポイントでのみ利用可能だ。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "艦艇の強化"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "戦闘に出る前に、あなたの艦艇の特性は強化されます。危険な犯罪者を撃破し、復活ポイントで艦艇に乗って戦闘に復帰することでも、さらなる強化を得られます。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "4 つの攻撃"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "この街の犯罪シンジケートは、四つの組織で構成されている。彼らは次々と闇から現れ、あなたの艦船を襲うだろう。スペード・シティの港を浄化するため、すべての敵を撃破せよ。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_HEADER"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_HEADER"
+msgstr "戦闘の特徴"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "四つの犯罪組織がスペード・シティの港を襲撃している。襲撃者の中には、名だたる司令官のマスクをかぶって正体を隠した、極めて危険な人物たちがいる。手遅れになる前に、彼らを排除し、犯罪シンジケートを摘発し、この街を守れ。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "[scenario_tag_buff]のマークが付いた敵を撃破すると、味方の艦艇はこの夜を生き延びるのに役立つ強化を獲得します。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_HEADER"
+msgstr "戦闘復帰"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "撃破された場合は、位置と艦艇を選択して戦闘に復帰します。一部の艦艇は、戦闘で獲得した復活ポイントでのみ利用可能です。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "復帰後数秒間、受けるダメージが減少する。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_HEADER"
+msgstr "夜明けまで持ちこたえろ"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "襲撃の制限時間が切れる前に、犯罪者たちを排除せよ。部隊が敵を撃破できなかった場合、あるいはあなたの艦船がすべて同時に航行不能となった場合――犯罪組織が勝利し、スペード・シティは二度と以前の姿には戻らない。"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_HEADER"
+msgstr "参加条件"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "適した艦艇:"
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_HEADER"
 msgstr "ヒドラの巣"
@@ -45093,7 +45398,7 @@ msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "あなたの艦艇の各船倉には、Tier V から超艦艇まで、褒賞があります。"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "戦闘で艦艇に乗って出撃し、純経験値300を稼ぐか勝利することで、船倉から褒賞を受け取ることができます。"
+msgstr "戦闘で艦艇に乗って出撃し、300 基本 EXP を稼ぐか勝利することで、船倉から褒賞を受け取ることができます。"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_HEADER"
 msgstr "ハッチの鍵"
@@ -45221,6 +45526,9 @@ msgstr "ガンマ"
 msgid "IDS_MODAL_WINDOW_TITLE_PREMIUM_ACCOUNT_PURCHASE"
 msgstr "プレミアムアカウントの購入"
 
+msgid "IDS_MODAL_WINDOW_TITLE_SHIP_COMPARISON"
+msgstr "艦艇比較"
+
 msgid "IDS_MODAL_WINDOW_TITLE_SIGNAL_PURCHASE"
 msgstr "信号旗の購入"
 
@@ -45235,6 +45543,9 @@ msgstr "固有スキルの放棄"
 
 msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
 msgstr "固有スキルの取得"
+
+msgid "IDS_MODAL_WINDOW_TITLE_UPGRADE_SHIP_COMPARISON"
+msgstr "艦艇の設定"
 
 msgid "IDS_MODAL_WINDOW_TRIALBATTLE_RULES_HEADER"
 msgstr "試練"
@@ -45894,6 +46205,9 @@ msgstr "指揮官に紐づかない"
 
 msgid "IDS_MUSIC_MOD_BASE_DESCRIPTION"
 msgstr "艦長と戦闘に入る際、専用の音楽を持つ艦長であっても「標準」カテゴリの音楽が再生されます。"
+
+msgid "IDS_MUSIC_MOD_BLACK_FRIDAY"
+msgstr "只ならぬ事件簿"
 
 msgid "IDS_MUSIC_MOD_DESCRIPTION"
 msgstr "戦闘 BGM のタイプの設定です。"
@@ -52499,6 +52813,9 @@ msgstr "FlyFire"
 msgid "IDS_PAES527_BLACKBLACK"
 msgstr "特別"
 
+msgid "IDS_PAES529_BLACK_BENHAM"
+msgstr "特別"
+
 msgid "IDS_PAES530_MAD_GEARING"
 msgstr "Master of the Water World"
 
@@ -56071,11 +56388,6 @@ msgstr "操舵不能"
 msgid "IDS_PARAMS_MODIFIER_SUBMARINELOWDAMAGE"
 msgstr "潜水艦はダメージが軽減されます"
 
-msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
-msgstr ""
-"潜水艦の潜望鏡/作戦深度\n"
-"における位置表示"
-
 msgid "IDS_PARAMS_MODIFIER_TORPEDOBOMBERACCURACYINCRATECOEFF"
 msgstr "雷撃機の照準速度"
 
@@ -58760,6 +59072,21 @@ msgstr "175"
 msgid "IDS_PASD529_YEAR"
 msgstr "1943"
 
+msgid "IDS_PASD539"
+msgstr "Benham B"
+
+msgid "IDS_PASD539_DESCR"
+msgstr "<p>ベンハム級駆逐艦は、グリッドレイ級とバグレイ級という2つの艦級を発展させたものであった。同級もまた片舷2基ずつ、計4基の魚雷発射管を装備していたが、先行艦級よりも強力な機関を備えていた点で異なっていた。</p><p class=\"p_spacing\"> </p><p>ベンハム級のネームシップであるUSSベンハムは、ニュージャージー州カーニーで建造された。同駆逐艦は真珠湾攻撃の際、空母エンタープライズをミッドウェーへ護衛していたため、被害を受けなかった。戦争中、同艦はドーリットル空襲、ミッドウェー海戦、第二次ソロモン海戦に参加した。1942年11月15日、ガダルカナル島の戦いでベンハムは魚雷の命中を受け、乗員によって放棄され、駆逐艦USSグウィンによって撃沈された。</p>"
+
+msgid "IDS_PASD539_FULL"
+msgstr "Benham B"
+
+msgid "IDS_PASD539_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD539_YEAR"
+msgstr "1939年"
+
 msgid "IDS_PASD597"
 msgstr "Sims B"
 
@@ -58870,6 +59197,21 @@ msgstr "105"
 
 msgid "IDS_PASD913_YEAR"
 msgstr "1945"
+
+msgid "IDS_PASD999"
+msgstr "Benham B"
+
+msgid "IDS_PASD999_DESCR"
+msgstr "「只ならぬ事件簿」イベント用のBenhamの艦艇コピー。"
+
+msgid "IDS_PASD999_FULL"
+msgstr "Benham B"
+
+msgid "IDS_PASD999_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD999_YEAR"
+msgstr "1939年"
 
 msgid "IDS_PASS106"
 msgstr "Cachalot (old)"
@@ -59392,6 +59734,12 @@ msgstr "406 mm/45 Mk.6 (砲塔)"
 
 msgid "IDS_PAUA818_ART_NORTH_DAKOTA"
 msgstr "406mm/56 Mk.4 砲塔"
+
+msgid "IDS_PAUA819_ART_BLACK_BENHAM"
+msgstr "127 mm/38 Mk.12 (Mk.30/Mk.30 mod.0 砲座)"
+
+msgid "IDS_PAUA820_ART_RARE_BEAST_DESTROYER"
+msgstr "127mm/38 Mk.12 砲座 Mk.30 / Mk.30 mod.0"
 
 msgid "IDS_PAUA821_B9_ART_STOCK"
 msgstr "406 mm/50 Mk.7 (砲塔)"
@@ -60280,6 +60628,12 @@ msgstr "推力: 130,000 馬力"
 
 msgid "IDS_PAUE817_ENG_NORTH_DAKOTA"
 msgstr "推力: 212,000 馬力"
+
+msgid "IDS_PAUE818_ENG_BLACK_BENHAM"
+msgstr "推力: 50,000 馬力"
+
+msgid "IDS_PAUE819_ENG_RARE_BEAST_DESTROYER"
+msgstr "推力: 50,000 馬力"
 
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "推力: 120,000 馬力"
@@ -61204,6 +61558,12 @@ msgstr "Indiana"
 msgid "IDS_PAUH825_HULL_NORTH_DAKOTA"
 msgstr "North Dakota"
 
+msgid "IDS_PAUH826_HULL_BLACK_BENHAM"
+msgstr "Benham B."
+
+msgid "IDS_PAUH827_HULL_RARE_BEAST_DESTROYER"
+msgstr "Benham B"
+
 msgid "IDS_PAUH831_IOWA_1943"
 msgstr "Iowa (A)"
 
@@ -62063,6 +62423,12 @@ msgstr "Mk9 mod. 1"
 msgid "IDS_PAUS824_SUO_NORTH_DAKOTA"
 msgstr "Mk38"
 
+msgid "IDS_PAUS825_SUO_BLACK_BENHAM"
+msgstr "Mk9 mod. 1"
+
+msgid "IDS_PAUS826_SUO_RARE_BEAST_DESTROYER"
+msgstr "Mk9"
+
 msgid "IDS_PAUS831_SUO_BLACK"
 msgstr "Mk9 mod. 1"
 
@@ -62392,6 +62758,12 @@ msgstr "533 mm (5x Mk29 mod. 1)"
 
 msgid "IDS_PAUT808_D9_TORP_STOCK"
 msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAUT809_TORP_BLACK_BENHAM"
+msgstr "533 mm Mk15"
+
+msgid "IDS_PAUT810_TORP_RARE_BEAST_DESTROYER"
+msgstr "533 mm Mk15"
 
 msgid "IDS_PAUT900_S10_TORP_STOCK"
 msgstr "Mk29 mod. 0 と Mk28 MIE"
@@ -62962,6 +63334,9 @@ msgstr "天空の私掠船"
 
 msgid "IDS_PBES428_EDINBURGH_RANGER"
 msgstr "Adamas Viridis"
+
+msgid "IDS_PBES501_WATERLOO_WHITE"
+msgstr "霧のアルビオン"
 
 msgid "IDS_PBES509_JUTLAND_COLORFUL"
 msgstr "ピンクの光線"
@@ -68498,6 +68873,9 @@ msgstr "雷神の怒り"
 msgid "IDS_PCEC162_MAT_GONCHIE_LUK"
 msgstr "穢れし者"
 
+msgid "IDS_PCEC163_LEGACY_CAMO"
+msgstr "犯罪者のマスク"
+
 msgid "IDS_PCEC990_TRIALS_BUDENY"
 msgstr "標的"
 
@@ -73664,6 +74042,42 @@ msgstr "不死者コシチェイの面影は、古き世の幽世への想いに
 msgid "IDS_PCEE835_KOSCHEY_FLAG_EXTRA_DESCRIPTION"
 msgstr "「ルコモリエ防衛」イベントを記念して。"
 
+msgid "IDS_PCEE836_HIZENBLACK_FLAG"
+msgstr "肥前B"
+
+msgid "IDS_PCEE836_HIZENBLACK_FLAG_DESCRIPTION"
+msgstr "ブラックフライデー（Black Friday）は、世界の多くの国で冬のセールが公式に始まる日です。"
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG"
+msgstr "Benham B"
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG_DESCRIPTION"
+msgstr "ブラックフライデー（Black Friday）は、世界の多くの国で冬のセールが公式に始まる日です。"
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG"
+msgstr "Borodino B"
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG_DESCRIPTION"
+msgstr "ブラックフライデー（Black Friday）は、世界の多くの国で冬のセールが公式に始まる日です。"
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG"
+msgstr "Schill B"
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG_DESCRIPTION"
+msgstr "ブラックフライデー（Black Friday）は、世界の多くの国で冬のセールが公式に始まる日です。"
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG"
+msgstr "Ruggiero di Lauria B"
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG_DESCRIPTION"
+msgstr "ブラックフライデー（Black Friday）は、世界の多くの国で冬のセールが公式に始まる日です。"
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG"
+msgstr "クロンシュロットの精霊"
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG_DESCRIPTION"
+msgstr "1704年の冬、大北方戦争のさなか、クロンシュタットの南に、木枠石詰め基礎（リャジ基礎）の要塞が築かれた。スウェーデン艦隊の進路を遮ったこの要塞は、クロンシュロット（ドイツ語の Kronschlot — 「王冠の城」）と名付けられた。"
+
 msgid "IDS_PCEE842_ISONZO_FLAG"
 msgstr "RN Isonzo"
 
@@ -73735,6 +74149,36 @@ msgstr "先軍"
 
 msgid "IDS_PCEE856_SONGUN_FLAG_DESCRIPTION"
 msgstr "先軍政治 (ソングン) は、1990 年代に形成された朝鮮民主主義人民共和国の国家政策である。その主要原則「軍隊が第一」は、国家と社会生活における軍隊の主導的役割を掲げている。"
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG"
+msgstr "HNoMS Harald Hardråde"
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG_DESCRIPTION"
+msgstr "赤い旗地に金色の獅子 — これはノルウェー王たちの王旗である。同国最古の旗であり、最も古い図像は14世紀初頭にさかのぼる。中世ノルウェーを代表する最も名高い王の一人が、ハーラル3世「苛烈王」である。"
+
+msgid "IDS_PCEE860_UDARNY_FLAG"
+msgstr "Udarny"
+
+msgid "IDS_PCEE860_UDARNY_FLAG_DESCRIPTION"
+msgstr "突撃部隊、すなわち「死の部隊」は、1917年に編成されたロシア軍の志願制突撃部隊であり、最も危険な戦闘任務を遂行するために設けられた。一部の部隊の軍旗には、髑髏と交差した骨が描かれていた。"
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG"
+msgstr "La Rochelle"
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG_DESCRIPTION"
+msgstr "17世紀、港湾都市ラ・ロシェルはフランスのプロテスタント——ユグノー——の最大の拠点であった。1627〜1628年のラ・ロシェル包囲戦は、リシュリュー枢機卿率いる王軍によって戦われ、アレクサンドル・デュマの小説『三銃士』における重要な挿話の一つとなった。"
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG"
+msgstr "Borodino '04"
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG_DESCRIPTION"
+msgstr "20世紀初頭、サンクトペテルブルクのアドミラルティ造船所で建造された艦船は、工場旗を掲げて公試を行っていた。その旗地には、互いに結ばれていない4つの錨と、文字「А. З.」——「Адмиралтейский завод（アドミラルティ造船所）」の略称——が描かれていた。"
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG"
+msgstr "三笠 '04"
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG_DESCRIPTION"
+msgstr "日本海軍の提督旗は1897年から1945年まで使用されていた。東郷平八郎提督は日露戦争時の連合艦隊旗艦である戦艦三笠にこの旗を掲げていた。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "サンタ求む 2016"
@@ -74692,6 +75136,18 @@ msgstr "プレイヤー同士の戦闘で、チーム分けはない。各自が
 msgid "IDS_PCVE035_SUBHEADER"
 msgstr "他のプレイヤーと一人で戦う"
 
+msgid "IDS_PCVE036"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_PCVE036_DESCRIPTION"
+msgstr "スペード・シティの陰鬱な空気の中で繰り広げられる、プレイヤー対犯罪者たちの非対称戦。"
+
+msgid "IDS_PCVE036_SHIP_ROLE"
+msgstr "役割: %(roleValue)s"
+
+msgid "IDS_PCVE036_SUBHEADER"
+msgstr "スペードシティで犯罪と戦おう"
+
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "味方の分艦隊が攻撃を受けた。一部の艦艇は撃沈され、輸送船団は拿捕されて敵基地へと連行されようとしている。敵船団を迎撃し、味方艦船を奪還せよ。"
 
@@ -75507,6 +75963,12 @@ msgstr "MK 記念日のお祝い"
 msgid "IDS_PCZA041_BD25_PUZZLE_QUOTES"
 msgstr "「MK 記念日のお祝い」"
 
+msgid "IDS_PCZA042_RARE_BEAST_BF26"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_PCZA042_RARE_BEAST_BF26_QUOTES"
+msgstr "「只ならぬ事件簿」"
+
 msgid "IDS_PCZC011_BISMARCK_BISMARCK"
 msgstr "Bismarck"
 
@@ -76170,11 +76632,167 @@ msgstr "パズルのピース"
 msgid "IDS_PCZC1036_BD25_PUZZLE_60"
 msgstr "パズルのピース"
 
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1"
+msgstr "ファイル № 1: エルメリンダ・ユング"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_HEADER"
+msgstr "ファイル № 1"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_SUBHEADER"
+msgstr "「黒い帆」組織のメンバー"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>エルメリンダ・ユング――天才技師マックス・フォン・クリーガーの娘。強大な秘密軍事同盟を壊滅させうる秘密を握っている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>犯人の身元は特定されていない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>険しい目つきと、狡猾な笑み。その姿のすべてが、口にする以上のことを知っていると告げている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>なし。それがかえって怪しい。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2"
+msgstr "ファイル № 2:学問猫"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_HEADER"
+msgstr "ファイル № 2"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_SUBHEADER"
+msgstr "「黒い帆」組織のメンバー"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>学問猫――ルコモーリエで最も賢い獣。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>知的な風貌の裏に隠されている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>利発な顔つき。真面目な相貌。どこかの大臣にでもなれそうだ。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>右へ進んでも歌を歌わない。左へ進んでも何も語らない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3"
+msgstr "ファイル № 3: マチルダ・ケリー"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_HEADER"
+msgstr "ファイル № 3"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_SUBHEADER"
+msgstr "「黒い帆」組織のメンバー"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>マチルダ・ケリー――勇敢な海賊の女王。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>特定されていない。明らかに成りすましが行われている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>羽根飾りの帽子、リボルバー、そして他人の所有物への敬意の一切の欠如。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>ラム酒を好まない。いかなる宝箱にもまったく関心を示さない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
 msgstr "もっと駆逐艦が必要だ"
 
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR_DESCRIPTION"
 msgstr "<p>アップデート 0.6.2 では、ソ連駆逐艦ツリーにサブブランチを追加し、これは好評を得ました。ハバロフスク (Khabarovsk) を頂点とするメインブランチは、巡洋艦に近い砲戦主体のプレイスタイルに適しており、常に動き続けながら積極的に射撃し、高速を活かして急襲を仕掛ける。このようなスリリングな戦闘体験が保証されていました。</p><p class=\"p_spacing\"> </p><p>一方で、グロザヴォイ (Grozovoi) を頂点としたサブブランチは、魚雷を主体として主砲を補助的に使うという、一般的な駆逐艦に近い特性を有していました。</p>"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4"
+msgstr "ファイル № 4: Dobrozhir Drobojanovich"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_HEADER"
+msgstr "ファイル № 4"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_SUBHEADER"
+msgstr "「黒い帆」組織の権威"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>ドブロジル・ドロボダノヴィチ――蜥蜴どもを討ち破りし、豪胆な勇士。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>名高き勇者の面の下に隠されている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>若武者の意気と、豪傑の大力。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>スラヴィック・フォンクを好まない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>大物。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5"
+msgstr "ファイル № 5:CM-10A"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_HEADER"
+msgstr "ファイル № 5"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_SUBHEADER"
+msgstr "「黒い帆」組織の権威"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>ЦМ-10А――未知の系外惑星への遠征を率いたアンドロイド司令官。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>ロボットの仮面の下には生身の生命体が隠れていると、捜査当局は睨んでいる。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>やたらと命令したがる。隊内に張り詰めた空気を生んでいる。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>バッテリーで動いていると主張するが、不審なほど頻繁に休憩を取る。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>大物。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6"
+msgstr "ファイル № 6:カラスの群れ"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_HEADER"
+msgstr "ファイル № 6"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_SUBHEADER"
+msgstr "「黒い帆」組織の首領"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>鴉の群れ――スペード・シティの探偵団。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>特定されていない。信頼できる筋によれば、この三人は一味全体の上層部である。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>裏社会の天才たち。極めて危険な犯罪者。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>痕跡を残さない。羽根一枚すら。光る物には、不審なほど頑なに見向きもしない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>首領。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7"
+msgstr "ファイル № 7:Anton Grant"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_HEADER"
+msgstr "ファイル № 7"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_SUBHEADER"
+msgstr "「夜のカラス」組織のメンバー"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>アントン・グラント――海洋遺産財団の海軍少将。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>特定されていない。捜査中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>厳しい目つきと、がっしりとした腕。噂によれば、現代の技術には不信感を抱いているらしい。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>ニューラルネットワークを使っているところを現行犯で押さえられた。アップルシャルロットのレシピを探していた。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8"
+msgstr "ファイル № 8: 孫尚香"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_HEADER"
+msgstr "ファイル № 8"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_SUBHEADER"
+msgstr "「夜のカラス」組織のメンバー"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>孫尚香――三国時代の中国の姫武将。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>犯人の身元は確認中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>どこへ行くにも剣を手放さない。どういうわけか、ボードゲームでは必ず勝つ。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>話の辻褄がよく合わなくなる。呉と蜀の区別がつかないのだ。魏のことを訊かれると、答えるのを避ける。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9"
+msgstr "ファイル № 9: 不沈のサム"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_HEADER"
+msgstr "ファイル № 9"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_SUBHEADER"
+msgstr "「夜のカラス」組織のメンバー"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>不沈のサム――三隻の軍艦の沈没を生き延びた名高い船猫。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>現時点で、犯人の身元は特定されていない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>白黒の毛色に、ひげ、脚、尾。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>『タイタニック』を観ても泣かない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10"
+msgstr "ファイル № 10: Lesta"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_HEADER"
+msgstr "ファイル № 10"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_SUBHEADER"
+msgstr "「夜のカラス」組織の権威"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>人魚のLesta――『Mir Korabley』の愛らしいマスコット。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>特定されていない。海の出自をめぐる疑問は、深まるばかりだ。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>水の中ではまるで魚のようにくつろぐ……水の中では。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>あらゆる質問に歌で答える。しかも音程が外れている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>大物。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11"
+msgstr "ファイル № 11: キュレーター"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_HEADER"
+msgstr "ファイル № 11"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_SUBHEADER"
+msgstr "「夜のカラス」組織の権威"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Маска</p><p>キュレーター――地球を異星人の侵略から守る人工知能。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>特定されていない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>故障した船載コンピュータか、ロボット掃除機のような姿。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>定期的に無線に接続しては、延々とロシアン・シャンソンを聴いている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>大物。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12"
+msgstr "ファイル № 12: セリョージャ"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_HEADER"
+msgstr "ファイル № 12"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_SUBHEADER"
+msgstr "「夜のカラス」組織の首領"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Маска</p><p>セリョージャ――人当たりの良い列車の車掌。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>確認中。現時点で、捜査は鉄路の行き止まりに突き当たっている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>催眠術で乗客の意識を操り、開放式寝台車（プラツカルト）の一番奥にある側面席を買わせる。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>航空券を買っているところを目撃された。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>首領。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13"
+msgstr "ファイル № 13: ミハイル・オルロフ"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_HEADER"
+msgstr "ファイル № 13"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_SUBHEADER"
+msgstr "「ホワイトシャーク」組織のメンバー"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Маска</p><p>ミハイル・オルロフ――進歩省の査察官。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>取り調べ中。現時点で、犯人の身元は特定されていない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>銀河を股にかける旅人にして冒険者といった風貌。現代のコンピュータ技術の発展を、あらゆる形で後押ししている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>機器の電源を、コンセントからコードを引き抜いて切る。現行犯で押さえられた。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC104_MK_FRENCHCRUISER"
 msgstr "次は? エンジンブーストを戦艦にも搭載するの?"
@@ -76182,11 +76800,143 @@ msgstr "次は? エンジンブーストを戦艦にも搭載するの?"
 msgid "IDS_PCZC104_MK_FRENCHCRUISER_DESCRIPTION"
 msgstr "<p>アップデート 0.6.4 で実装されたフランス巡洋艦ツリーはバランスが良好であり、バランス上の問題点が皆無でした。そしてこのツリーの実装は、プレイヤーがフランス料理の用語を学ぶ良い機会になりました。</p><p class=\"p_spacing\"> </p><p>消耗品「エンジンブースト」はこれらの艦艇の特性によく合っており、Tier X のアンリ 4 世 (Henri IV) は、巡洋艦としては異例の 240 mm 砲を搭載しており、最高火力の巡洋艦としての地位を素早く固めました。</p>"
 
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14"
+msgstr "ファイル № 14:アレクサンドル・プーシキン"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_HEADER"
+msgstr "ファイル № 14"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_SUBHEADER"
+msgstr "「ホワイトシャーク」組織のメンバー"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Маска</p><p>アレクサンドル・セルゲーエヴィチ・プーシキン――我らのすべてにして、ロシア詩の太陽。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>対象の身元は確認中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>巻き毛、頬ひげ、シルクハット。しばしば見知らぬ相手に決闘を申し込みながら、約束の刻限には現れない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>『エヴゲーニイ・オネーギン』は、一行より多くを思い出せない。四行詩を書こうとすると、あからさまに動揺する。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15"
+msgstr "ファイル № 15:自由の女神"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_HEADER"
+msgstr "ファイル № 15"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_SUBHEADER"
+msgstr "「ホワイトシャーク」組織のメンバー"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Маска</p><p>自由の女神――自由と独立の象徴。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>特定されていない。容疑者は、その場から一歩も動こうとしない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>たいまつを手に、いつも王冠を戴いている。仕事にはきわめて忠実で、悪天候のときも持ち場を離れない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>写真にはいつも完璧に写る。他人の視線に、不審なほど依存している。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16"
+msgstr "ファイル № 16:アストラ"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_HEADER"
+msgstr "ファイル № 16"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_SUBHEADER"
+msgstr "「ホワイトシャーク」組織の権威"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Маска</p><p>アストラ――宇宙の征服者たちの星への旅に同行した宇宙飛行犬。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">正体</p><p>特定されていない。弱みを掴もうとする試みは、ことごとく失敗した。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特徴</p><p>いい子。できすぎているくらいに、いい子。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠</p><p>吠えない。噛まない。通行人に無関心。猫には見向きもしない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内の役割</p><p>大物。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17"
+msgstr "ファイル № 17:アンドロメダ"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_HEADER"
+msgstr "ファイル № 17"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_SUBHEADER"
+msgstr "「ホワイトシャーク」組織の権威"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>アンドロメダ——星間船から人類と交信するために創られた、天体のヒューマノイドとしての顕現。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>未確認。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>目撃者によって外見の証言はまちまちである。誰ひとり、彼女の瞳の色を思い出せない。ピンク? 赤? 紫?</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>すべての目撃者が、アンドロメダと直接会ったと確信している。だが、その会話の細部を覚えている者はいない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>権威。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18"
+msgstr "ファイル № 18: 不死者コシチェイ"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_HEADER"
+msgstr "ファイル № 18"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_SUBHEADER"
+msgstr "「ホワイトシャーク」組織の首領"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>コシチェイ・ザ・デスレス——ロシアの民話における最大の悪役。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>未特定。容疑者にまつわる不死の説には疑問が残る。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>病んだ貌をしている。王冠と外套を決して脱がない。窶れている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>クロスステッチの刺繍を趣味としている。兎や鴨を前にしても、恐れを抱かない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>首領。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19"
+msgstr "ファイル № 19: ジェームズ・コンラッド"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_HEADER"
+msgstr "ファイル№ 19"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_SUBHEADER"
+msgstr "港湾の影のメンバー"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>ジェームズ・コンラッド——米海軍の少佐にして、コールサイン「スチール・ドッグ」を持つ歴戦の工作員。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>未特定。取り調べのあらゆる問いに対し、容疑者はこう答える。「極秘である」と。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>鋼の眼差し、鋼の神経、そして自らの正しさに対する鋼の確信。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>船室に一匹の猫の写真を所持している。その写真の出所について、説明を拒んだ。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20"
+msgstr "ファイル № 20: アレクサンドル・ウヴァーロフ"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_HEADER"
+msgstr "ファイル № 20"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_SUBHEADER"
+msgstr "港湾の影のメンバー"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>アレクサンドル・ウヴァーロフ——第二次世界大戦の敗戦後、南極へ逃れたドイツ艦船を追うソ連の諜報員。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>未特定。捜査は二重スパイ説を検討している。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>何時間も氷点下に身を置いていられる。いかなる不可解な状況にあっても、平然とした顔を崩さない。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>カメラを前にしても不自然なほど落ち着いている。時折、言葉のあとに奇妙な間を置く——何かを待っているかのように。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21"
+msgstr "ファイル№ 21:ヨハネス・メック＝ライネ"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_HEADER"
+msgstr "ファイル№ 21"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_SUBHEADER"
+msgstr "港湾の影のメンバー"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>ヨハネス・メック＝ライネ——ドイツの機械技師。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>犯人の身元は特定作業中。一部の証言によれば、犯人はニューヨークのとある警察官に似ているという。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>肩掛け式の拳銃ホルスターを着用している。非武装のときでさえも。高層ビルに対する不健全な愛着を持っている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>ドイツ人だと主張しているが、ドイツ語を話さない。理由もなく、始終こう繰り返す——Yippee-ki-yay。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>構成員。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22"
+msgstr "ファイル№ 22:エヴァ・ヴァレンタイン"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_HEADER"
+msgstr "ファイル№ 22"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_SUBHEADER"
+msgstr "「港の影」組織の権威"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>エヴァ・ヴァレンタイン——快活なアニメ調の指揮官。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>特定作業中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>潮色の髪と、優しげな眼差し。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>始終、長い間を置く。ひとこと発するごとに、物憂げにため息をつき、遠くを見つめる。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>権威。</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23"
+msgstr "ファイル № 23: トライアングルム"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_HEADER"
+msgstr "ファイル№ 23"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_SUBHEADER"
+msgstr "「港の影」組織の権威"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>トリアングルム——星間船から人類と交信するために創られた、天体のヒューマノイドとしての顕現。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>未確認。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>判別不能な、強い訛りで話す。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>人のもとで暮らしたことのない存在であるにしては、人類の文化を知りすぎている。チョコチップクッキーを好む。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>権威。</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC105_MK_BISMARCK"
 msgstr "マイティ・ビスマルク"
 
 msgid "IDS_PCZC105_MK_BISMARCK_DESCRIPTION"
 msgstr "<p>キャンペーン「ビスマルク追撃戦」は、大規模なものでした。参加者は 30 万人以上であり、そのうち 14 万人がコレクションを完成させ、付与されたコンテナの数は 700 万個を超えました。そして 6 万隻以上もの Tier VIII 戦艦ビスマルク (Bismarck) が、様々なスキルのプレイヤーの手に渡りました。</p><p class=\"p_spacing\"> </p><p>このイベントでは、キャンペーンの各種任務を達成することで、歴史に関する読み物が読めるという要素が用意されており、これもまたプレイヤーを大いに楽しませました。</p>"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24"
+msgstr "ファイル№ 24: 畫虎"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_HEADER"
+msgstr "ファイル№ 24"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_SUBHEADER"
+msgstr "「港の影」の頭領"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_DESCRIPTION"
+msgstr "<p class=\"p_bold\">マスク</p><p>畫虎——遥远なる東方の地より来たる、勇ましき猫の戦士。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">素顔</p><p>犯人の身元は特定作業中。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">特異な特徴</p><p>卓越した身体能力を有する。常に四本の脚で着地する。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">証拠品</p><p>箱に対して無関心である。鼠の仲間と行動しているところを目撃されている。</p><p class=\"p_spacing\"></p><p class=\"p_bold\">組織内での役割</p><p>首領。</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC106_MK_BOTREVENGE"
 msgstr "ボットの逆襲"
@@ -82137,6 +82887,12 @@ msgstr "340 mm HE OEA Mle 1932"
 msgid "IDS_PFPA123_340MM_AP_ARTOIS"
 msgstr "340 mm AP OPf Mle 1924"
 
+msgid "IDS_PFPA124_330MM_AP_LA_ROCHELLE"
+msgstr "330mm AP OPfK Mle 1935"
+
+msgid "IDS_PFPA125_330MM_HE_LA_ROCHELLE"
+msgstr "330mm HE OEA Mle 1935"
+
 msgid "IDS_PFPA301_305MM_45_1910_AP_SAND"
 msgstr "305 mm AP OPf Mle 1910 mod.1"
 
@@ -82868,6 +83624,21 @@ msgstr "0"
 
 msgid "IDS_PFSC210_YEAR"
 msgstr "1944"
+
+msgid "IDS_PFSC211"
+msgstr "La Rochelle"
+
+msgid "IDS_PFSC211_DESCR"
+msgstr "<p>1920年代末から1930年代初頭にかけて、フランスの技術者たちは大型巡洋艦の計画を検討していた。No. 6. Crouiseur CC1 de 23690 tWとして示された案では、艦首に3基の砲塔に330mm砲を搭載し、うち2番砲塔は背負い式に配置されていた。艦尾と舷側沿いには汎用口径の砲塔群が設置されていた。</p><p class=\"p_spacing\"> </p><p>この計画のさらなる仮想的発展では、より強力な対空兵装の搭載が想定されている。装甲防御の方式はDunkerque型巡洋戦艦やRichelieu型戦艦と類似している。</p>"
+
+msgid "IDS_PFSC211_FULL"
+msgstr "La Rochelle"
+
+msgid "IDS_PFSC211_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC211_YEAR"
+msgstr "1940年"
 
 msgid "IDS_PFSC506"
 msgstr "De Grasse"
@@ -83679,6 +84450,9 @@ msgstr "120 mm/50 Model 1950 (砲塔)"
 msgid "IDS_PFUA917_ART_CRUISER_TEST"
 msgstr "330 mm/50 Mle 1931 (砲塔)"
 
+msgid "IDS_PFUA918_ART_LA_ROCHELLE"
+msgstr "330 mm/50 Mle 1931 (St.Chamond Mle 1932 砲座)"
+
 msgid "IDS_PFUA930_C11_ART_STOCK"
 msgstr "240 mm/50 Mle 1930 (砲塔)"
 
@@ -83938,6 +84712,9 @@ msgid "IDS_PFUE915_ENG_VOLTIGEUR"
 msgstr "推力: 58,000 馬力"
 
 msgid "IDS_PFUE916_ENG_CRUISER_TEST"
+msgstr "推力: 240,000 馬力"
+
+msgid "IDS_PFUE918_ENG_LA_ROCHELLE"
 msgstr "推力: 240,000 馬力"
 
 msgid "IDS_PFUE930_C11_ENG_STOCK"
@@ -84255,6 +85032,9 @@ msgstr "Voltigeur"
 msgid "IDS_PFUH916_HULL_CRUISER_TEST"
 msgstr "Marseille (EM)"
 
+msgid "IDS_PFUH918_LA_ROCHELLE"
+msgstr "La Rochelle"
+
 msgid "IDS_PFUH930_C11_HULL_STOCK"
 msgstr "Condé"
 
@@ -84557,6 +85337,9 @@ msgstr "SUO Mk 10"
 
 msgid "IDS_PFUS915_SUO_CRUISER_TEST"
 msgstr "PCA n° 10"
+
+msgid "IDS_PFUS918_SUO_LA_ROCHELLE"
+msgstr "PCA n°11"
 
 msgid "IDS_PFUS930_C11_SUO_STOCK"
 msgstr "PCA n°11"
@@ -85143,6 +85926,9 @@ msgstr "戦時迷彩"
 msgid "IDS_PGES340_ODIN_CEREMONIAL"
 msgstr "特別な儀式"
 
+msgid "IDS_PGES341_SCHWABEN_WHITE"
+msgstr "白い伯爵"
+
 msgid "IDS_PGES348_BLACK_TIRPITZ"
 msgstr "特別"
 
@@ -85222,6 +86008,9 @@ msgid "IDS_PGES448_SABIE_TM5"
 msgstr "ノクマールの誇り"
 
 msgid "IDS_PGES458_BLACK_PRINZ_EUGEN"
+msgstr "特別"
+
+msgid "IDS_PGES468_BLACK_SCHILL"
 msgstr "特別"
 
 msgid "IDS_PGES508_Z_23_BIRTHDAY"
@@ -88128,11 +88917,26 @@ msgstr "1"
 msgid "IDS_PGSC539_YEAR"
 msgstr "1943"
 
+msgid "IDS_PGSC548"
+msgstr "Schill B"
+
+msgid "IDS_PGSC548_DESCR"
+msgstr "<p>1930年代末、ドイツ海軍の指導部は、襲撃艦隊によるイギリスの海上封鎖計画を策定した。この計画の主な打撃力となるのは、ドイツ級装甲艦のプロジェクトの発展に基づいて建造された12隻のP級艦艇であった。</p><p class=\"p_spacing\"> </p><p>1939年、これらの艦艇の建造について造船所と契約が締結されたが、後にO級巡洋戦艦のために注文はキャンセルされた。元の文書では、艦種はHandelszerstörer—「襲撃艦」と記載されている。</p>"
+
+msgid "IDS_PGSC548_FULL"
+msgstr "Schill B"
+
+msgid "IDS_PGSC548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC548_YEAR"
+msgstr "1939年"
+
 msgid "IDS_PGSC549"
 msgstr "Nibelung"
 
 msgid "IDS_PGSC549_DESCR"
-msgstr "この艦艇は祝祭の輝きを欠いている——それは、古代の民が何世紀にもわたり闇に秘めてきた財宝のように冷たい。その姿には、重厚なフィブラやバックルの形が刻まれ、厳格でほとんど軍事的な幾何学へと閉じ込められている：これは飾りではなく、ニーベルンゲンの伝説から生まれた戦利品だ。そのような価値を持つものは、往々にして致命的な危険を内包している。"
+msgstr "この艦艇は祝祭の輝きを欠いている——それは、古代の民が何世紀にもわたり闇に秘めてきた財宝のように冷たい。その姿には、重厚なフィブラやバックルの形が刻まれ、厳格でほとんど軍事的な幾何学へと閉じ込められている: これは飾りではなく、ニーベルンゲンの伝説から生まれた戦利品だ。そのような価値を持つものは、往々にして致命的な危険を内包している。"
 
 msgid "IDS_PGSC549_FULL"
 msgstr "Nibelung"
@@ -88232,6 +89036,21 @@ msgstr "0"
 
 msgid "IDS_PGSC910_YEAR"
 msgstr "1940"
+
+msgid "IDS_PGSC998"
+msgstr "Schill B"
+
+msgid "IDS_PGSC998_DESCR"
+msgstr "「只ならぬ事件簿」イベント用のSchill艦艇のコピー。"
+
+msgid "IDS_PGSC998_FULL"
+msgstr "Schill B"
+
+msgid "IDS_PGSC998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC998_YEAR"
+msgstr "1939年"
 
 msgid "IDS_PGSD102"
 msgstr "V-25"
@@ -88970,6 +89789,12 @@ msgstr "150 mm/60 SK C/25 (Drh Tr C/25 砲座)"
 msgid "IDS_PGUA726_ART_BLACK_EUGEN"
 msgstr "203 mm/60 SK C/34 (LC/34 砲座)"
 
+msgid "IDS_PGUA727_ART_BLACK_SCHILL"
+msgstr "283 mm/54.5 SK C/34 (Drh LC/34 砲座)"
+
+msgid "IDS_PGUA728_ART_RARE_BEAST_CRUISER"
+msgstr "283 mm/54.5 SK C/34 (Drh LC/34 砲座)"
+
 msgid "IDS_PGUA800_ART_COLORFUL_ROON"
 msgstr "203 mm/60 SK C/34 (砲塔)"
 
@@ -89470,6 +90295,12 @@ msgstr "推力: 132,000 馬力"
 
 msgid "IDS_PGUE731_ENG_BLACK_EUGEN"
 msgstr "推力: 110,000 馬力"
+
+msgid "IDS_PGUE732_ENG_BLACK_SCHILL"
+msgstr "推力: 140,000 馬力"
+
+msgid "IDS_PGUE733_ENG_RARE_BEAST_CRUISER"
+msgstr "推力: 140,000 馬力"
 
 msgid "IDS_PGUE800_ENG_COLORFUL_ROON"
 msgstr "推力: 155,000 馬力"
@@ -90001,6 +90832,12 @@ msgstr "Sabie"
 msgid "IDS_PGUH739_HULL_BLACK_EUGEN"
 msgstr "Prinz Eugen B."
 
+msgid "IDS_PGUH740_HULL_BLACK_SCHILL"
+msgstr "Schill B"
+
+msgid "IDS_PGUH741_HULL_RARE_BEAST_CRUISER"
+msgstr "Schill B"
+
 msgid "IDS_PGUH800_HULL_COLORFUL_ROON"
 msgstr "Roon CLR"
 
@@ -90485,7 +91322,7 @@ msgid "IDS_PGUS709_SUO_ANHALT"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS710_SUO_SCHILL"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS711_SUO_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
@@ -90540,6 +91377,12 @@ msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS728_SUO_BLACK_EUGEN"
 msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS729_SUO_BLACK_SCHILL"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS730_SUO_RARE_BEAST_CRUISER"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS731_SUO_SCHARNHORST"
 msgstr "FKS Typ 7 Mod. 1"
@@ -90881,6 +91724,12 @@ msgid "IDS_PGUT727_TORP_SABIE"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT728_TORP_BLACK_EUGEN"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT729_TORP_BLACK_SCHILL"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT730_TORP_RARE_BEAST_CRUISER"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT800_TORP_COLORFUL_ROON"
@@ -92016,6 +92865,9 @@ msgstr "軍団"
 msgid "IDS_PIES319_POLO_ROMAN"
 msgstr "軍団"
 
+msgid "IDS_PIES320_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "特別"
+
 msgid "IDS_PIES329_TRANCLUCATOR_PEPELATS"
 msgstr "Pluk の品質"
 
@@ -92424,9 +93276,6 @@ msgstr "ソナーの準備速度が速い"
 msgid "IDS_PINGER_RELOAD_SLOW"
 msgstr "ソナーの装填速度が遅い"
 
-msgid "IDS_PINGER_SHADOW"
-msgstr "位置露見"
-
 msgid "IDS_PINGER_WAVE_SPEED_HIGH"
 msgstr "ソナーピンガーの速度が高い"
 
@@ -92771,6 +93620,12 @@ msgstr "305 mm proiettili AP 1909 mod.1"
 
 msgid "IDS_PIPA302_305MM_46_1909_CS_SAND"
 msgstr "305 mm proiettili CS 1909 mod.1"
+
+msgid "IDS_PIPA991_460MM_CS_RARE_BEAST_BATTLESHIP"
+msgstr "460mm CS Mk III"
+
+msgid "IDS_PIPA992_460MM_AP_RARE_BEAST_BATTLESHIP"
+msgstr "460mm AP Mk III"
 
 msgid "IDS_PIPB001_AQUILA_STOCK"
 msgstr "SC-500"
@@ -93141,6 +93996,21 @@ msgstr "1"
 msgid "IDS_PISB519_YEAR"
 msgstr "1942"
 
+msgid "IDS_PISB520"
+msgstr "R. Lauria B"
+
+msgid "IDS_PISB520_DESCR"
+msgstr "1921年、技師F・カッソーネは、45.7cm砲8門と35〜40ノットの速力を備えた巡洋戦艦の構想を発表した。この艦は、イタリア海軍向けに設計されたものとしては史上最大であった。全長を短縮するため、缶（ボイラー）を主機の上に重ねて配置する二層式の機関部とすることが提案された。対魚雷防御も独特で、起爆は膨張室へと導かれ、そこからガスが専用の管路を通じて排出される仕組みであった。その設計は時代を先取りしすぎており、計画は実現しなかった。"
+
+msgid "IDS_PISB520_FULL"
+msgstr "Ruggiero di Lauria B"
+
+msgid "IDS_PISB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISB520_YEAR"
+msgstr "1921年"
+
 msgid "IDS_PISB529"
 msgstr "Tranclucator"
 
@@ -93221,13 +94091,13 @@ msgid "IDS_PISB805_YEAR"
 msgstr "2019"
 
 msgid "IDS_PISB990"
-msgstr "C. Colombo (EM)"
+msgstr "R. Lauria B"
 
 msgid "IDS_PISB990_DESCR"
-msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
+msgstr "「只ならぬ事件簿」イベント用のR. Lauria艦艇コピー。"
 
 msgid "IDS_PISB990_FULL"
-msgstr "Cristoforo Colombo (EM)"
+msgstr "R. Lauria B"
 
 msgid "IDS_PISB990_NUMBER"
 msgstr "1"
@@ -93824,7 +94694,7 @@ msgid "IDS_PISD511"
 msgstr "A. Vespucci"
 
 msgid "IDS_PISD511_DESCR"
-msgstr "この船を間近で見れば、その金が博物館の贅沢品ではなく、繊細な細工の産物であることがわかる。船体の模様にはロンバルディアの鉄冠のシルエットが浮かび上がる：重厚な輝き、厳格なリズム、絶対的な権力の感覚。まるで北イタリアの職人による神殿の彫刻や優雅な装飾が、金属の中で生まれ変わったかのようだ。これは宝物であり、その価値は金の重さではなく、その背後にある歴史にある。"
+msgstr "この船を間近で見れば、その金が博物館の贅沢品ではなく、繊細な細工の産物であることがわかる。船体の模様にはロンバルディアの鉄冠のシルエットが浮かび上がる: 重厚な輝き、厳格なリズム、絶対的な権力の感覚。まるで北イタリアの職人による神殿の彫刻や優雅な装飾が、金属の中で生まれ変わったかのようだ。これは宝物であり、その価値は金の重さではなく、その背後にある歴史にある。"
 
 msgid "IDS_PISD511_FULL"
 msgstr "Amerigo Vespucci"
@@ -94021,8 +94891,8 @@ msgstr "254 mm/60 (砲塔)"
 msgid "IDS_PIUA905_DD10_ART_STOCK"
 msgstr "135 mm/45 Model 1938 (Model 1938 砲座)"
 
-msgid "IDS_PIUA906_BB10_ART_STOCK"
-msgstr "381 mm/50 Model 1934 (砲塔)"
+msgid "IDS_PIUA906_ART_RARE_BEAST_BATTLESHIP"
+msgstr "457mm/45 Mk.II（砲塔搭載）"
 
 msgid "IDS_PIUA907_ART_LAURIA"
 msgstr "457 mm/45 Mk.II (砲塔)"
@@ -94050,6 +94920,9 @@ msgstr "127 mm/38 Mk.12 (Mk.38 砲座)"
 
 msgid "IDS_PIUA915_ART_ISONZO"
 msgstr "356 mm/45 Vickers Mk.A (連装砲塔)"
+
+msgid "IDS_PIUA916_ART_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "457mm/45 Mk.II（砲塔搭載）"
 
 msgid "IDS_PIUB700_TB_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -94222,8 +95095,8 @@ msgstr "推力: 240,000 馬力"
 msgid "IDS_PIUE905_DD10_ENG_STOCK"
 msgstr "推力: 110,000 馬力"
 
-msgid "IDS_PIUE906_BB10_ENG_STOCK"
-msgstr "推力: 160,000 馬力"
+msgid "IDS_PIUE906_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "推力: 235,000 馬力"
 
 msgid "IDS_PIUE907_ENG_LAURIA"
 msgstr "推力: 235,000 馬力"
@@ -94251,6 +95124,9 @@ msgstr "推力: 70,000 馬力"
 
 msgid "IDS_PIUE915_ENG_ISONZO"
 msgstr "推力: 212,000 馬力"
+
+msgid "IDS_PIUE916_ENG_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "推力: 235,000 馬力"
 
 msgid "IDS_PIUF700_FC_AQUILA"
 msgstr "Mk8 mod. 1"
@@ -94486,8 +95362,8 @@ msgstr "Napoli"
 msgid "IDS_PIUH905_DD10_HULL_STOCK"
 msgstr "Attilio Regolo"
 
-msgid "IDS_PIUH906_BB10_HULL_STOCK"
-msgstr "Cristoforo Colombo (EM)"
+msgid "IDS_PIUH906_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Ruggiero di Lauria B"
 
 msgid "IDS_PIUH907_HULL_LAURIA"
 msgstr "Ruggiero di Lauria"
@@ -94515,6 +95391,9 @@ msgstr "Amerigo Vespucci"
 
 msgid "IDS_PIUH915_ISONZO"
 msgstr "Isonzo"
+
+msgid "IDS_PIUH916_HULL_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "Ruggiero di Lauria B"
 
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -94747,7 +95626,7 @@ msgstr "SDT 10"
 msgid "IDS_PIUS905_DD10_SUO_STOCK"
 msgstr "SDT 10"
 
-msgid "IDS_PIUS906_BB10_SUO_STOCK"
+msgid "IDS_PIUS906_SUO_RARE_BEAST_BATTLESHIP"
 msgstr "SDT 10 mod.1"
 
 msgid "IDS_PIUS907_SUO_LAURIA"
@@ -94770,6 +95649,9 @@ msgstr "SDT 10"
 
 msgid "IDS_PIUS913_SUO_A_VESPUCCI"
 msgstr "SDT 11"
+
+msgid "IDS_PIUS914_SUO_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "SDT 10"
 
 msgid "IDS_PIUS915_SUO_ISONZO"
 msgstr "SDT 9"
@@ -95463,6 +96345,9 @@ msgstr "マースレニッツァ"
 
 msgid "IDS_PJES347_HARUNA"
 msgstr "アルペジオ"
+
+msgid "IDS_PJES349_BLACK_HIZEN_CEREMONIAL"
+msgstr "特別儀礼"
 
 msgid "IDS_PJES350_SHIKISHIMA_RANKED"
 msgstr "侍"
@@ -98313,6 +99198,21 @@ msgstr "1"
 msgid "IDS_PJSB569_YEAR"
 msgstr "1921"
 
+msgid "IDS_PJSB579"
+msgstr "肥前B"
+
+msgid "IDS_PJSB579_DESCR"
+msgstr "<p>日本ニ於テ、昭和九年甲第百四十號案戰艦ノ設計ニ着手シ、同十一年迄ニ二十四種ノ基本計畫案ヰ作成セリ。各案ハ排水量、最大速力、主砲口径ヲ以テ區別サル。</p><p class=\"p_spacing\"> </p><p>其中一案ハ、四十糎砲三門ヲ装備スル砲塔四基ヲ塔状配置シ、中口径砲トシテ十五糎五砲三聯装砲塔ヲ備フ。機關ハ複合式内燃・蒸気渦輪機関ト爲セリ。本計畫ハ實現セザリシモ、其ノ硏究ハ後ニ大和型戰列艦ノ誕生ヲ見ル礎トナレリ。</p>"
+
+msgid "IDS_PJSB579_FULL"
+msgstr "肥前B"
+
+msgid "IDS_PJSB579_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB579_YEAR"
+msgstr "1935年"
+
 msgid "IDS_PJSB599"
 msgstr "尾張の鬼"
 
@@ -98550,6 +99450,21 @@ msgstr "4"
 
 msgid "IDS_PJSB918_YEAR"
 msgstr "1941"
+
+msgid "IDS_PJSB989"
+msgstr "肥前B"
+
+msgid "IDS_PJSB989_DESCR"
+msgstr "「只ならぬ事件簿」イベント用の肥前艦艇のコピー。"
+
+msgid "IDS_PJSB989_FULL"
+msgstr "肥前B"
+
+msgid "IDS_PJSB989_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB989_YEAR"
+msgstr "1935年"
 
 msgid "IDS_PJSB999"
 msgstr "薩摩 (old)"
@@ -100509,6 +101424,12 @@ msgstr "203 mm/50 3rd Year Type No.2 (Model E 砲塔)"
 msgid "IDS_PJUA814_ART_HAKUSAN"
 msgstr "457 mm/50 5th Year Type (連装砲塔)"
 
+msgid "IDS_PJUA815_ART_BLACK_HIZEN"
+msgstr "410mm/50 十年式A型 三連装砲塔"
+
+msgid "IDS_PJUA816_ART_RARE_BEAST_BATTLESHIP"
+msgstr "410mm/50 十年式A型 三連装砲塔"
+
 msgid "IDS_PJUA821_C9_ART_STOCK"
 msgstr "203 mm/50 3rd Year Type No.2 (Model E 砲塔)"
 
@@ -101333,6 +102254,12 @@ msgstr "推力: 134,240 馬力"
 
 msgid "IDS_PJUE814_ENG_HAKUSAN"
 msgstr "推力: 150,000 馬力"
+
+msgid "IDS_PJUE815_ENG_BLACK_HIZEN"
+msgstr "推力: 145,000 馬力"
+
+msgid "IDS_PJUE816_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "推力: 145,000 馬力"
 
 msgid "IDS_PJUE821_B9_ENG_TOP"
 msgstr "推力: 135,000 馬力"
@@ -102209,6 +103136,12 @@ msgstr "鳥海"
 msgid "IDS_PJUH818_HULL_HAKUSAN"
 msgstr "Hakusan"
 
+msgid "IDS_PJUH819_HULL_BLACK_HIZEN"
+msgstr "肥前B"
+
+msgid "IDS_PJUH820_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "肥前B"
+
 msgid "IDS_PJUH821_TAIHO_1944"
 msgstr "大鳳 (A)"
 
@@ -103007,6 +103940,12 @@ msgstr "Type9"
 
 msgid "IDS_PJUS826_SUO_HAKUSAN"
 msgstr "Type9"
+
+msgid "IDS_PJUS827_SUO_BLACK_HIZEN"
+msgstr "Type9"
+
+msgid "IDS_PJUS828_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "Type 8 mod. 1"
 
 msgid "IDS_PJUS831_SUO"
 msgstr "Type9 mod. 1"
@@ -105017,6 +105956,9 @@ msgstr "キテジの街"
 msgid "IDS_PRES348_FRUNZE_VICTORYDAY"
 msgstr "勇気の勝利"
 
+msgid "IDS_PRES358_BLACK_BORODINO"
+msgstr "特別"
+
 msgid "IDS_PRES401_GREM_MEMORIAL"
 msgstr "Memorial"
 
@@ -105073,6 +106015,9 @@ msgstr "静けき淵"
 
 msgid "IDS_PRES428_STALCRAFT_LATANU"
 msgstr "Zavet"
+
+msgid "IDS_PRES429_DUKH_KRONSHLOTA"
+msgstr "バルトの霧"
 
 msgid "IDS_PRES430_STALINGRAD_RANKED"
 msgstr "勝利"
@@ -107085,6 +108030,12 @@ msgstr "254mm榴弾砲 1938年式"
 msgid "IDS_PRPA284_130MM_HE_OF_46_B2U_SG_MOONSUND"
 msgstr "HE-46"
 
+msgid "IDS_PRPA285_130MM_AP_UDARNY"
+msgstr "SAP-46"
+
+msgid "IDS_PRPA286_130MM_HE_UDARNY"
+msgstr "HE-46"
+
 msgid "IDS_PRPA301_305_AP_1911_SAND"
 msgstr "305 mm AP Model 1911 mod.1"
 
@@ -107537,6 +108488,9 @@ msgstr "550 mm 23DT"
 
 msgid "IDS_PRPT097_MOONSUND"
 msgstr "53−51"
+
+msgid "IDS_PRPT098_UDARNY"
+msgstr "53-50 mod. 1"
 
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
@@ -108201,6 +109155,21 @@ msgstr "1"
 msgid "IDS_PRSB550_YEAR"
 msgstr "1938"
 
+msgid "IDS_PRSB558"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB558_DESCR"
+msgstr "<p>重巡洋艦82型の設計作業の一環として、造船工業省の発注により、ЦНИИ-45（第45中央科学研究所）はいわゆる小型戦艦の概案の検討を開始した。この種の戦艦の装甲配置の特徴は艦首部の装甲を強化した点にあり、それによって敵火に対して鋭い針路角をとった際の防御が可能になるはずであった。</p><p class=\"p_spacing\"> </p><p>1951〜52年には、この艦の予備設計案が合計9件検討された。ЦНИИ-45がさらなる検討を推奨した案の一つは、40.6cm砲を備えた三連装砲塔2基を搭載するものであった。1952年末から1953年初めにかけて、小型戦艦に関する資料一式が造船総局で検討された。しかし間もなく重砲装備艦の建造は重要性を失い、計画は実現しなかった。</p>"
+
+msgid "IDS_PRSB558_FULL"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB558_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB558_YEAR"
+msgstr "1952年"
+
 msgid "IDS_PRSB607"
 msgstr "Spear of Skadi"
 
@@ -108277,6 +109246,21 @@ msgstr "1"
 
 msgid "IDS_PRSB990_YEAR"
 msgstr "1936年"
+
+msgid "IDS_PRSB998"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB998_DESCR"
+msgstr "「只ならぬ事件簿」イベント用のBorodinoの艦艇コピー。"
+
+msgid "IDS_PRSB998_FULL"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB998_YEAR"
+msgstr "1952年"
 
 msgid "IDS_PRSB999"
 msgstr "Krasnoye Znamya (R)"
@@ -109060,6 +110044,21 @@ msgstr "1"
 msgid "IDS_PRSC578_YEAR"
 msgstr "1939"
 
+msgid "IDS_PRSC579"
+msgstr "クロンシュロットの精霊"
+
+msgid "IDS_PRSC579_DESCR"
+msgstr "<p>フィンランド湾の白い亡霊――霧と、要塞の古い石とから生まれし者。その影が水平線に浮かび上がる。まるで海みずからが、己の守護者を思い出させているかのように。</p><p class=\"p_spacing\"> </p><p>そのそばでは灯りが翳り、方角が狂い、敵には奇妙な感覚が芽生えるという――見られている、という感覚が。それが過ぎ去ったあとに残るのは、塩辛い空気と、胸の震えと、希望が消えていく音まで聞こえるほどの静寂だけだ。</p>"
+
+msgid "IDS_PRSC579_FULL"
+msgstr "クロンシュロットの精霊"
+
+msgid "IDS_PRSC579_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC579_YEAR"
+msgstr "1939年"
+
 msgid "IDS_PRSC606"
 msgstr "Makarov"
 
@@ -109795,6 +110794,21 @@ msgstr "1"
 msgid "IDS_PRSD509_YEAR"
 msgstr "1962"
 
+msgid "IDS_PRSD510"
+msgstr "Udarny"
+
+msgid "IDS_PRSD510_DESCR"
+msgstr "<p>1930年代、ソ連では海軍発展計画が採択され、外洋での行動に用いる大型駆逐艦の建造が想定されていた。すでに開発中であった各計画はこの役割に適さなかったため、外国の経験を取り入れることが決まった。</p><p class=\"p_spacing\"> </p><p>1939年、ソ連の技師団が米国を訪れ、そこでギブス・アンド・コックス社がマハン級を基にした駆逐艦の設計案を提示した。しかし米国政府は、両用砲塔のような一部の最新技術をソ連と共有することを許可せず、技師団は設計案を入手できないまま帰国した。</p><p class=\"p_spacing\"> </p><p>米国での見聞は、索引35（35型）の駆逐艦設計に関する作戦術的要目（ОТЗ）の作成につながった。設計はЦКБ-32と第190号ジダーノフ記念工場の設計局が行い、両案を検討した結果、ЦКБ-32の案が最良と認められた。1941年にはこの設計に基づき第190号工場で2隻を起工する予定であったが、大祖国戦争の勃発により駆逐艦に関するすべての作業は中止された。</p>"
+
+msgid "IDS_PRSD510_FULL"
+msgstr "Udarny"
+
+msgid "IDS_PRSD510_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSD510_YEAR"
+msgstr "1940年"
+
 msgid "IDS_PRSD516"
 msgstr "Shaumian"
 
@@ -110338,6 +111352,12 @@ msgstr "130 mm/50 Model 1936 (B-2LM 砲座)"
 msgid "IDS_PRUA726_ART_BATTLESHIP_DEATHMATCH"
 msgstr "406 mm/45 Model 1915 (砲塔)"
 
+msgid "IDS_PRUA727_ART_BLACK_BORODINO"
+msgstr "406 mm/50 B-37 (MK-1 砲座)"
+
+msgid "IDS_PRUA728_ART_RARE_BEAST_BATTLESHIP"
+msgstr "406 mm/50 B-37 (MK-1 砲座)"
+
 msgid "IDS_PRUA801_D9_ART_STOCK"
 msgstr "130 mm/55 (B-2-U 砲座)"
 
@@ -110427,6 +111447,9 @@ msgstr "406 mm/50 B-37 (MK-1 砲座)"
 
 msgid "IDS_PRUA831_ART_DESTROYER_LUKODRAGER"
 msgstr "130mm/58 1957年型 SM-2-1砲座"
+
+msgid "IDS_PRUA832_ART_DUKH_KRONSHLOTA"
+msgstr "305mm/54 B-50 ×[type] 砲座 MK-15"
 
 msgid "IDS_PRUA900_CRUISER_DEATHMATCH"
 msgstr "180 mm/57 Model 1932 (MK-3-180 砲座)"
@@ -110544,6 +111567,9 @@ msgstr "254 mm/55 B-48 (MK-13 砲座)"
 
 msgid "IDS_PRUA980_ART_KREMLIN"
 msgstr "457 mm/48 B-45 (SM-8 砲座)"
+
+msgid "IDS_PRUA981_ART_UDARNY"
+msgstr "130 mm/55 (B-2-U 砲座)"
 
 msgid "IDS_PRUA990_TEST"
 msgstr "Pewpew"
@@ -110878,6 +111904,12 @@ msgstr "推力: 81,000 馬力"
 msgid "IDS_PRUE730_ENG_BATTLESHIP_DEATHMATCH"
 msgstr "推力: 201,000 馬力"
 
+msgid "IDS_PRUE731_ENG_BLACK_BORODINO"
+msgstr "推力: 210,000 馬力"
+
+msgid "IDS_PRUE732_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "推力: 210,000 馬力"
+
 msgid "IDS_PRUE801_D9_ENG_STOCK"
 msgstr "推力: 84,500 馬力"
 
@@ -110958,6 +111990,9 @@ msgstr "推力: 165,000 馬力"
 
 msgid "IDS_PRUE827_ENG_DESTROYER_LUKODRAGER"
 msgstr "推力: 72,000 馬力"
+
+msgid "IDS_PRUE828_ENG_DUKH_KRONSHLOTA"
+msgstr "推力: 231,000 馬力"
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "推力: 210,000 馬力"
@@ -111087,6 +112122,9 @@ msgstr "推力: 210,000 馬力"
 
 msgid "IDS_PRUE980_ENG_KREMLIN"
 msgstr "推力: 280,000 馬力"
+
+msgid "IDS_PRUE981_ENG_UDARNY"
+msgstr "推力: 84,500 馬力"
 
 msgid "IDS_PRUE990_ENG_TEST"
 msgstr "Nocknockneo"
@@ -111517,6 +112555,12 @@ msgstr "Kiev (PV)"
 msgid "IDS_PRUH738_HULL_BATTLESHIP_DEATHMATCH"
 msgstr "Vladivostok (PV)"
 
+msgid "IDS_PRUH739_HULL_BLACK_BORODINO"
+msgstr "Borodino B"
+
+msgid "IDS_PRUH740_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Borodino B"
+
 msgid "IDS_PRUH801_KIEV_A"
 msgstr "Kiev (A)"
 
@@ -111624,6 +112668,9 @@ msgstr "Riga CLR"
 
 msgid "IDS_PRUH836_HULL_DESTROYER_LUKODRAGER"
 msgstr "ヴェレス"
+
+msgid "IDS_PRUH837_HULL_DUKH_KRONSHLOTA"
+msgstr "クロンシュロットの精霊"
 
 msgid "IDS_PRUH900_CRUISER_DEATHMATCH"
 msgstr "Tallinn (PV)"
@@ -111750,6 +112797,9 @@ msgstr "Moonzund"
 
 msgid "IDS_PRUH980_HULL_KREMLIN"
 msgstr "Nesokrushimy"
+
+msgid "IDS_PRUH981_HULL_UDARNY"
+msgstr "Udarny"
 
 msgid "IDS_PRUH990_TEST"
 msgstr "Test Ship"
@@ -112174,6 +113224,12 @@ msgstr "SUO VIII"
 msgid "IDS_PRUS729_SUO_BATTLESHIP_DEATHMATCH"
 msgstr "SUO VIII"
 
+msgid "IDS_PRUS730_SUO_BLACK_BORODINO"
+msgstr "SUO VIII"
+
+msgid "IDS_PRUS731_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "SUO VIII"
+
 msgid "IDS_PRUS801_SUO"
 msgstr "GFCS IX mod. 1"
 
@@ -112229,7 +113285,7 @@ msgid "IDS_PRUS818_D9_SUO_TOP_4"
 msgstr "GFCS IX mod. 2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "GFCS IX mod. 1"
+msgstr "GFCS IX"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
 msgstr "GFCS IX mod. 1"
@@ -112278,6 +113334,9 @@ msgstr "SUO IX"
 
 msgid "IDS_PRUS835_SUO_DESTROYER_LUKODRAGER"
 msgstr "SUO IX"
+
+msgid "IDS_PRUS836_SUO_DUKH_KRONSHLOTA"
+msgstr "GFCS IX"
 
 msgid "IDS_PRUS900_CRUISER_DEATHMATCH"
 msgstr "SUO X"
@@ -112386,6 +113445,9 @@ msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS980_SUO_KREMLIN"
 msgstr "GFCS XI"
+
+msgid "IDS_PRUS981_SUO_UDARNY"
+msgstr "GFCS X mod. 1"
 
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
@@ -112746,6 +113808,9 @@ msgstr "53-50"
 
 msgid "IDS_PRUT978_TORP_MOONSUND"
 msgstr "53-51"
+
+msgid "IDS_PRUT981_TORP_UDARNY"
+msgstr "53-39 mod. 4"
 
 msgid "IDS_PRUT990_TEST"
 msgstr "Plopplop"
@@ -115878,6 +116943,9 @@ msgstr "黄金時代"
 msgid "IDS_PWES529_BLACK_JAGER"
 msgstr "特別"
 
+msgid "IDS_PWES530_VARMLAND_GOLD"
+msgstr "三つの王冠の金"
+
 msgid "IDS_PWGA001_40MM_BOFORS_MK1"
 msgstr "40 mm/56 Bofors wz.1936"
 
@@ -116117,6 +117185,9 @@ msgstr "152mm/53 1942年型 砲塔"
 
 msgid "IDS_PWGM133_152MM53_BOFORS_M1948"
 msgstr "152mm/53 1942年型 砲塔"
+
+msgid "IDS_PWGM134_254MM_50_BOFORS_TRIPLE"
+msgstr "254mm/50ボフォース砲塔搭載"
 
 msgid "IDS_PWGS007_150_50_K10_SKODA"
 msgstr "150 mm/50 Skoda K10 (ケースメイト砲座)"
@@ -116412,6 +117483,9 @@ msgstr "254 mm HE 1929"
 msgid "IDS_PWPA068_254MM_45_AP_T8_9"
 msgstr "254 mm AP 1929"
 
+msgid "IDS_PWPA069_254MM_50_AP_HARDRADE"
+msgstr "254mm AP 1939"
+
 msgid "IDS_PWPA8001_120_HE_1916"
 msgstr "Model 1916"
 
@@ -116515,6 +117589,9 @@ msgid "IDS_PWPT033_533MM_T7_T9"
 msgstr "533mm Mk IX"
 
 msgid "IDS_PWPT034_533MM_T10"
+msgstr "533mm Mk X"
+
+msgid "IDS_PWPT035_533MM_HARDRADE"
 msgstr "533mm Mk X"
 
 msgid "IDS_PWPT8001_550_MARK_100_1915"
@@ -116717,6 +117794,21 @@ msgstr "2"
 
 msgid "IDS_PWSC510_YEAR"
 msgstr "1953"
+
+msgid "IDS_PWSC520"
+msgstr "H. Hardråde"
+
+msgid "IDS_PWSC520_DESCR"
+msgstr "<p>1930年代前半、スウェーデンでは将来の海軍力のあるべき姿が模索されていた。特別委員会は、艦隊の基幹は排水量14,000トン以上の装甲艦とすべきであるとの結論に達した。しかし、そうした艦のコストはスウェーデンの予算にとってあまりに高額であった。</p><p class=\"p_spacing\"> </p><p>その後の検討により、21cm砲または28cm砲を搭載する艦の設計案が生まれたが、スウェーデン海軍にはそうした兵器が存在しなかった。その代わりに、ボフォース社がフィンランドの沿岸防備装甲艦向けに開発・製造した45口径25.4cm砲を搭載するという選択肢もあった。この兵器をさらに発展させれば、砲身長は50口径まで延長されることになったであろう。</p>"
+
+msgid "IDS_PWSC520_FULL"
+msgstr "Harald Hardråde"
+
+msgid "IDS_PWSC520_NUMBER"
+msgstr "0"
+
+msgid "IDS_PWSC520_YEAR"
+msgstr "1941年"
 
 msgid "IDS_PWSC910"
 msgstr "HND Tordenskjold"
@@ -117123,6 +118215,21 @@ msgstr "2"
 msgid "IDS_PWSD610_YEAR"
 msgstr "1956"
 
+msgid "IDS_PWSD620"
+msgstr "Värmland"
+
+msgid "IDS_PWSD620_DESCR"
+msgstr "北は余分を好まない。だが、いかなる規則にも例外はある。陽の光が水面と出会う地に生まれたヴェルムランドは、バルト海の冷たい波の上で黄金に輝き、抑制のきいたスウェーデンの力を真の宝へと変える。"
+
+msgid "IDS_PWSD620_FULL"
+msgstr "Värmland"
+
+msgid "IDS_PWSD620_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD620_YEAR"
+msgstr "1956年"
+
 msgid "IDS_PWSD710"
 msgstr "Ragnar"
 
@@ -117315,6 +118422,12 @@ msgstr "254mm/45 ボフォース砲塔"
 msgid "IDS_PWUA910_C10_ART_STOCK"
 msgstr "254mm/45 ボフォース砲 砲塔搭載型"
 
+msgid "IDS_PWUA911_ART_VARMLAND"
+msgstr "120 mm/50 Model 1950 (砲塔)"
+
+msgid "IDS_PWUA912_ART_HARDRADE"
+msgstr "254mm/45 ボフォース砲塔搭載"
+
 msgid "IDS_PWUA941_DD11_ART_STOCK"
 msgstr "120 mm/50 Model 1950 (砲塔)"
 
@@ -117446,6 +118559,12 @@ msgstr "推力:101 500馬力"
 
 msgid "IDS_PWUE910_C10_ENG_STOCK"
 msgstr "推力:101 500馬力"
+
+msgid "IDS_PWUE911_ENG_VARMLAND"
+msgstr "推力: 58,000 馬力"
+
+msgid "IDS_PWUE912_ENG_HARDRADE"
+msgstr "推力: 100,000 馬力"
 
 msgid "IDS_PWUE941_DD11_ENG_STOCK"
 msgstr "推力: 63,400 馬力"
@@ -117618,6 +118737,12 @@ msgstr "Troll"
 msgid "IDS_PWUH910_C10_HULL_STOCK"
 msgstr "Konung"
 
+msgid "IDS_PWUH911_HULL_VARMLAND"
+msgstr "Värmland"
+
+msgid "IDS_PWUH912_HULL_HARDRADE"
+msgstr "Harald Hardråde"
+
 msgid "IDS_PWUH941_DD11_HULL_STOCK"
 msgstr "Dalarna"
 
@@ -117763,7 +118888,7 @@ msgid "IDS_PWUS903_DD10_SUO_TOP"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PWUS904_DD10_SMALAND"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS905_DD10_SUO_TST_LAPPLAND"
 msgstr "SUO Mk 10 Mod. 1"
@@ -117784,6 +118909,12 @@ msgid "IDS_PWUS910_C11_SUO_STOCK"
 msgstr "SUO Mk 11"
 
 msgid "IDS_PWUS911_C10_SUO_STOCK"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS912_SUO_VARMLAND"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS913_SUO_HARDRADE"
 msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
@@ -117917,6 +119048,12 @@ msgstr "533mm"
 
 msgid "IDS_PWUT908_C10_TORP_STOCK"
 msgstr "魚雷M1947"
+
+msgid "IDS_PWUT909_TORP_VARMLAND"
+msgstr "Torped M1943 mod 1"
+
+msgid "IDS_PWUT910_TORP_HARDRADE"
+msgstr "Torped M1943"
 
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
 msgstr "Torped M1947 mod 1"
@@ -123130,7 +124267,7 @@ msgid "IDS_PZGT3013_21IN_MK15_TORPEDO_TUBES_US"
 msgstr "533 mm Mk15"
 
 msgid "IDS_PZGT3022_533MM_TORPEDO_TUBES_QUAD_GE"
-msgstr "533mm Mk15"
+msgstr "533 mm Mk15"
 
 msgid "IDS_PZPA001_130_HE_ANSHAN"
 msgstr "130 mm HE A"
@@ -126158,6 +127295,147 @@ msgstr "スター保存"
 msgid "IDS_RANK_X"
 msgstr "ランク %(rank)s"
 
+msgid "IDS_RARE_01"
+msgstr "James Conrad"
+
+msgid "IDS_RARE_02"
+msgstr "Ermelinda Jung"
+
+msgid "IDS_RARE_03"
+msgstr "孫尚香"
+
+msgid "IDS_RARE_04"
+msgstr "Anton Grant"
+
+msgid "IDS_RARE_05"
+msgstr "Johannes Meck-Leyne"
+
+msgid "IDS_RARE_06"
+msgstr "Mikhail Orlov"
+
+msgid "IDS_RARE_07"
+msgstr "不沈のサム"
+
+msgid "IDS_RARE_08"
+msgstr "Alexander Uvarov"
+
+msgid "IDS_RARE_09"
+msgstr "Alexander Pushkin"
+
+msgid "IDS_RARE_10"
+msgstr "自由の女神"
+
+msgid "IDS_RARE_11"
+msgstr "Matilda Kelly"
+
+msgid "IDS_RARE_12"
+msgstr "学問猫"
+
+msgid "IDS_RARE_13"
+msgstr "Andromeda"
+
+msgid "IDS_RARE_14"
+msgstr "CM-10A"
+
+msgid "IDS_RARE_15"
+msgstr "Triangulum"
+
+msgid "IDS_RARE_16"
+msgstr "Lesta"
+
+msgid "IDS_RARE_17"
+msgstr "Eva Valentine"
+
+msgid "IDS_RARE_18"
+msgstr "Dobrozhir Drobojanovich"
+
+msgid "IDS_RARE_19"
+msgstr "キュレーター"
+
+msgid "IDS_RARE_20"
+msgstr "Astra"
+
+msgid "IDS_RARE_21"
+msgstr "Seryozha"
+
+msgid "IDS_RARE_22"
+msgstr "畫虎"
+
+msgid "IDS_RARE_23"
+msgstr "不死者コシチェイ"
+
+msgid "IDS_RARE_24"
+msgstr "カラスの群れ"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_DEFEAT_MAIN_TASK_COMPLETE"
+msgstr "シンジケートはその影響力を維持した"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_VICTORY_MAIN_TASK_COMPLETE"
+msgstr "すべての犯罪者は排除された"
+
+msgid "IDS_RARE_BEAST_DESCRIPTION"
+msgstr "スプレイドシティの港を清掃し、4つの犯罪組織を壊滅させろ。"
+
+msgid "IDS_RARE_BEAST_MAIN_BATTLE_TASK"
+msgstr "すべての犯罪者を排除せよ"
+
+msgid "IDS_RARE_BEAST_NE1"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_RARE_BEAST_NE2"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_RARE_BEAST_NE3"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "撃破された場合、復活ポイントを使って別の艦艇を選択し、戦闘に復帰できます。未使用のポイントは戦闘終了時に失効します。"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "200 ダメージを与える"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "煙幕による援護、火力の引き受け、敵の発見"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "中央防郭への命中、魚雷の命中"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "撃破支援"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "敵の殲滅"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "獲得ポイント"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "復活ポイント"
+
+msgid "IDS_RARE_BEAST_RULES_BULLET_1"
+msgstr "雨は、罪以外のすべてを洗い流してくれる。夜陰に乗じて、スペード・シティの港は犯罪シンジケートの船で埋め尽くされていく。襲撃を撃退し、犯罪組織の中でも最も危険な構成員たちを、逃げおおせる前に排除せよ。忘れるな――この街では誰も信じられない。自分の影さえも……。"
+
+msgid "IDS_RARE_BEAST_RULES_HEADER"
+msgstr "概要"
+
+msgid "IDS_RARE_BEAST_TITLE"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_RARE_BEAST_WAVE_1"
+msgstr "最初の攻撃"
+
+msgid "IDS_RARE_BEAST_WAVE_2"
+msgstr "第2波、来襲"
+
+msgid "IDS_RARE_BEAST_WAVE_3"
+msgstr "第3波、来襲"
+
+msgid "IDS_RARE_BEAST_WAVE_4"
+msgstr "第4波、来襲"
+
+msgid "IDS_RARE_BEAST_WAVE_TASK"
+msgstr "犯罪グループのメンバーを全員排除せよ"
+
 msgid "IDS_RARE_CREW_BOOK_CREW_SKILL_SELECT_INSTRUCTION"
 msgstr "スキルを選択"
 
@@ -126670,6 +127948,9 @@ msgstr "メッセージが削除されました。"
 
 msgid "IDS_REMOVE_ALL_BOTS"
 msgstr "すべてのボットを削除"
+
+msgid "IDS_REMOVE_ALL_COMPARISON_LIST"
+msgstr "クリア"
 
 msgid "IDS_REMOVE_FROM_CONTACTS"
 msgstr "連絡先から削除"
@@ -127212,7 +128493,7 @@ msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "戦闘中に以下の違反行為を犯しました:"
 
 msgid "IDS_RESURRECTION_POINTS_HINT"
-msgstr "戦闘で取得した復活ポイント。"
+msgstr "別の艦艇で戦闘に復帰するために使用できます。味方を守り、敵を攻撃してポイントを稼ぎましょう。"
 
 msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
 msgstr "復活ポイント"
@@ -127467,7 +128748,7 @@ msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "旅行者トークン"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "アメリカン・トークン"
+msgstr "サイバートークン"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "古ルーシのジェトン"
@@ -127479,7 +128760,7 @@ msgid "IDS_REWARD_EVENTUM_6_TITLE"
 msgstr "コシチェイの金貨"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "ドイツ・トークン"
+msgstr "ブラックフライデーのトークン"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
 msgstr "紅い宝石"
@@ -132728,6 +134009,12 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "特別艦長"
+
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦長"
+
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
@@ -133075,6 +134362,66 @@ msgstr "アメリカ艦隊"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_TITLE_QUOTES"
 msgstr "「アメリカ艦隊」"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_TITLE_FULL"
+msgstr "黒い艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VIII–X  艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier VIII–X  "
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier VI–VIII 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE"
+msgstr "黒いモーター"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE_QUOTES"
+msgstr "「黒いモーター」"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "輝かしい Tier IX 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_TITLE_FULL"
+msgstr "黒い艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VIII–X  艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier VIII–X  "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier VI–VIII 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE"
+msgstr "白いモーター"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE_QUOTES"
+msgstr "「白いモーター」"
 
 msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
 msgstr "マップ「終末の港湾」へのバトルアクセス。"
@@ -135104,6 +136451,15 @@ msgstr "遭遇戦: トーナメント"
 msgid "IDS_SCENARIO_RANK_STANDART"
 msgstr "通常戦: トーナメント"
 
+msgid "IDS_SCENARIO_RARE_BEAST_NE1"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE2"
+msgstr "只ならぬ事件簿"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE3"
+msgstr "只ならぬ事件簿"
+
 msgid "IDS_SCENARIO_SINGLE_BASE"
 msgstr "遭遇戦"
 
@@ -135528,6 +136884,9 @@ msgstr "煌めく星章"
 
 msgid "IDS_SECOND_PCZA027_TFTM_108_NAME"
 msgstr "ディセプティコン艦長"
+
+msgid "IDS_SECOND_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "夜のカラス"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
 msgstr "進歩の先駆者"
@@ -137852,6 +139211,12 @@ msgstr "機動性"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM302_SUBEVENT26_GTBUFFS"
 msgstr "魚雷発射管の旋回速度"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM316_RAREBEAST_RESP_BUFF"
+msgstr "追加強化"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM326_RAREBEAST_8LVL_BUFF"
+msgstr "性能強化"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM403_2026WT_VODYANOI_SPEEDDEBUFF"
 msgstr "猛烈な寒さ"
 
@@ -138280,6 +139645,12 @@ msgstr "雷装強化"
 
 msgid "IDS_SHIP_MODIFIER_PXOM302_SUBEVENT26_GTBUFFS_APPLIED"
 msgstr "魚雷発射管の旋回速度"
+
+msgid "IDS_SHIP_MODIFIER_PXOM316_RAREBEAST_RESP_BUFF_APPLIED"
+msgstr "追加強化"
+
+msgid "IDS_SHIP_MODIFIER_PXOM326_RAREBEAST_8LVL_BUFF_APPLIED"
+msgstr "性能強化"
 
 msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
 msgstr "減速弾が適用されました"
@@ -138824,6 +140195,9 @@ msgstr "主砲の旋回速度"
 msgid "IDS_SHIP_PARAM_ARTILLERY_SHOOT_DIST"
 msgstr "射程 AP / HE"
 
+msgid "IDS_SHIP_PARAM_ARTILLERY_SIGMA"
+msgstr "精度"
+
 msgid "IDS_SHIP_PARAM_ARTILLERY_TIME_RELOAD"
 msgstr "主砲の装填時間"
 
@@ -139331,6 +140705,9 @@ msgstr "全ての艦艇システムが正常に動作中"
 msgid "IDS_SHIP_PARAM_NUM_PLANES_IN_SQUADRON"
 msgstr "中隊の機数"
 
+msgid "IDS_SHIP_PARAM_OVERMATCH_ARMOR"
+msgstr "装甲を貫通し、跳弾の可能性はない"
+
 msgid "IDS_SHIP_PARAM_PINGER"
 msgstr "ソナー"
 
@@ -139378,6 +140755,15 @@ msgstr "対水雷防御: ダメージ軽減"
 
 msgid "IDS_SHIP_PARAM_PTZFLOODPROB"
 msgstr "対水雷防御: 浸水発生率低減"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_CITADEL"
+msgstr "中央防郭への被弾時に回復するHP"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_GENERAL"
+msgstr "艦艇の部位がダメージを受けた際に回復するHP"
+
+msgid "IDS_SHIP_PARAM_RICOCHET_ANGLES"
+msgstr "跳弾確率 / 絶対跳弾"
 
 msgid "IDS_SHIP_PARAM_ROTATION_SPEED"
 msgstr "旋回速度"
@@ -139753,7 +141139,12 @@ msgstr ""
 "魚雷発射管\n"
 "艦首側"
 
-msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE"
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_LEFT"
+msgstr ""
+"魚雷発射管\n"
+"舷側"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_RIGHT"
 msgstr ""
 "魚雷発射管\n"
 "舷側"
@@ -139789,6 +141180,9 @@ msgstr "魚雷"
 
 msgid "IDS_SHIP_PARAM_TORPEDY_DEAD"
 msgstr "魚雷発射管大破"
+
+msgid "IDS_SHIP_PARAM_TORPEDY_GROUP"
+msgstr "魚雷発射管群"
 
 msgid "IDS_SHIP_PARAM_TURNINGRADIUS"
 msgstr "旋回半径"
@@ -139875,7 +141269,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_INVULNERABLE"
 msgstr "最大深度で"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
-msgstr "潜望鏡深度で"
+msgstr "潜望鏡深度での被発見距離"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
 msgstr "作戦深度から"
@@ -141339,6 +142733,9 @@ msgstr "反跳爆撃機"
 msgid "IDS_SKIPBOMBER_AIRSUP"
 msgstr "空襲: 反跳爆撃機"
 
+msgid "IDS_SKIPBOMBER_ALT"
+msgstr "戦術反跳爆撃機"
+
 msgid "IDS_SKIPBOMBS"
 msgstr "反跳爆弾"
 
@@ -141505,7 +142902,7 @@ msgid "IDS_SNOWFLAKES_START_SEASON"
 msgstr "あなたの艦艇の船倉に褒賞が!"
 
 msgid "IDS_SNOWFLAKES_START_SEASON_DESC"
-msgstr "戦闘で艦艇に乗って出撃し、報酬を獲得しましょう：勝利するか、経験値300を獲得する必要があります。"
+msgstr "戦闘で艦艇に乗って出撃し、報酬を獲得しましょう: 勝利するか、300 基本 EXP を獲得する必要があります。"
 
 msgid "IDS_SNOWFLAKES_STATUS_ACTIVE_DESCRIPTION"
 msgstr "鍵を使って艦艇の船倉から褒賞を獲得しましょう。戦闘にならずに済みます。"
@@ -141557,6 +142954,9 @@ msgstr "褒賞を集めた"
 
 msgid "IDS_SNOWFLAKES_UNINSTALL_ALL"
 msgstr "全選択解除"
+
+msgid "IDS_SNOWMAIDEN"
+msgstr "雪女"
 
 msgid "IDS_SOLD_FOR"
 msgstr "売却価格:"
@@ -141847,6 +143247,9 @@ msgstr "Jason Tumanoff"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
 msgstr "キュレーター"
+
+msgid "IDS_SOUND_MOD_CROWS"
+msgstr "カラスの群れ"
 
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
 msgstr "Dasha Perova"
@@ -142716,6 +144119,12 @@ msgstr "ブヤーン島"
 msgid "IDS_SPACES/E17_2026_LUKOMORYE_DESCR"
 msgstr "ブヤーン島"
 
+msgid "IDS_SPACES/E18_RAREBEAST_2026"
+msgstr "違法な海域"
+
+msgid "IDS_SPACES/E18_RAREBEAST_2026_DESCR"
+msgstr "違法な海域"
+
 msgid "IDS_SPACES/I01_TUTORIAL"
 msgstr "初遭遇"
 
@@ -142812,45 +144221,6 @@ msgstr "戦場に超戦艦は残っていません。敵の艦艇を殲滅する
 msgid "IDS_SPACE_APRIL_BATTLE_TASK"
 msgstr "超戦艦『Beowulf』を召喚せよ——敵基地を撃滅するため!"
 
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
-msgstr "撃沈された場合、復活位置と艦艇を選択して戦闘に復帰できます。ただし、一部の艦艇は戦闘で獲得した復活ポイントでのみ利用可能です。未使用のポイントは戦闘終了時に失効します。"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
-msgstr "主砲弾の全貫通"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
-msgstr "副砲弾の命中"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_2"
-msgstr "エナジーシールド損傷付与"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_3"
-msgstr "自律誘導型ミサイルの命中"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_4"
-msgstr "主砲弾の貫通"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_5"
-msgstr "5,000 ダメージを与える"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_6"
-msgstr "煙幕による援護、挑発、敵の探知、ミサイルの迎撃"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_7"
-msgstr "誘導ミサイルによる命中"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_8"
-msgstr "中央防郭を命中"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_9"
-msgstr "撃沈"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_SCORE"
-msgstr "獲得ポイント"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_TITLE"
-msgstr "復活ポイント"
-
 msgid "IDS_SPACE_BOSS_TEAM0"
 msgstr "攻城兵器"
 
@@ -142871,6 +144241,45 @@ msgstr "敵を撃破して、味方のスーパー戦艦を召喚しましょう
 
 msgid "IDS_SPACE_EVENT_DESCRIPTION"
 msgstr "敵の基地を破壊せよ、超戦艦 Beowulf を召喚して。"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "撃破された場合、復活地点と艦艇を選択して戦闘に復帰できます。ただし一部の艦艇は戦闘で獲得した復活ポイントでのみ使用可能です。未使用のポイントは戦闘終了時に消滅します。"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "主砲弾の全貫通"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "副砲の砲弾が命中"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "エナジーシールドの損傷"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "自律誘導ミサイルが命中"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "主砲弾の貫通"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_5"
+msgstr "5,000 ダメージを与える"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_6"
+msgstr "煙幕による掩護、火力の引き受け、敵の発見、ミサイルの撃墜"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_7"
+msgstr "指令誘導型ミサイルの命中"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_8"
+msgstr "中央防郭への命中"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_9"
+msgstr "敵の殲滅"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "獲得ポイント"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "復活ポイント"
 
 msgid "IDS_SPACE_EVENT_RULES_BULLET_1"
 msgstr "遥か遠い未来、地球の地表に世界の狭間の裂け目が発見され、全文明の存続が脅かされた。この異常事態の調査と排除のため、惑星屈指の指揮官たちによる特殊部隊が編成された。"
@@ -143306,6 +144715,15 @@ msgstr "1 戦プレイする"
 
 msgid "IDS_SSE_CONDITIONS_DEFAULT_HEADER"
 msgstr "戦闘に参加する"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS"
+msgstr "%(count)s隻の%(nation)s%(level)s%(shipClass)sを撃沈するか、その撃沈に貢献せよ"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS"
+msgstr "%(count)s %(shipClass)s %(shipIds)s を破壊するか、その破壊に貢献してください"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS_SHORT"
+msgstr "%(shipIds)sを破壊するか、その破壊に貢献する"
 
 msgid "IDS_SSE_CONDITIONS_DESTROY_SHIPS"
 msgstr "%(count)s 隻の %(level)s %(nation)s%(shipClass)sを撃沈せよ"
@@ -144525,7 +145943,7 @@ msgid "IDS_SUBST_BATTLEPASS_STATUS_TIME"
 msgstr "シーズン終了まで: %(timeLeft)s"
 
 msgid "IDS_SUBST_BONUSTAG_CONDITIONS_DESCRIPTION"
-msgstr "どの戦闘タイプでも勝利時の褒賞または%(_baseExpCount)s純経験値。"
+msgstr "どの戦闘タイプでも勝利時の褒賞または %(_baseExpCount)s 基本 EXP。"
 
 msgid "IDS_SUBST_BRAWL_SEASON_ENDS_IN"
 msgstr "シーズン終了まで %(_timeTillEnd)s"
@@ -144937,6 +146355,27 @@ msgstr "アクセスレベルのアンロック完了"
 msgid "IDS_SYS_MSG_ADMIN_TEXT_MESSAGE"
 msgstr "管理者メッセージ"
 
+msgid "IDS_SYS_MSG_ALBUM_EVENT_ALBUM_REWARDED"
+msgstr "事件は解決した"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BATTLE_REWARDS"
+msgstr "褒賞を獲得しました"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BOUGHT_CARD"
+msgstr "犯罪者逮捕"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_DUPLICATES_TITLE"
+msgstr "証拠"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_ALBUM"
+msgstr "アルバムイベント受信アルバム"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_CARD"
+msgstr "犯罪者逮捕"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_SUBALBUM_REWARDED"
+msgstr "犯罪組織の構成員を全員捕まった"
+
 msgid "IDS_SYS_MSG_ALBUM_REWARDED"
 msgstr "コレクション完成"
 
@@ -145115,7 +146554,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "旅行者のトークンを購入しました"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "アメリカン・トークン購入完了"
+msgstr "サイバートークンを購入しました"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "古ルーシのジェトンが購入されました"
@@ -145127,7 +146566,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
 msgstr "コシチェイの金貨は買われた"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "ドイツ・トークン購入完了"
+msgstr "ブラックフライデーのトークンを購入しました"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
 msgstr "紅い宝石の購入完了"
@@ -145679,7 +147118,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "旅行者のトークンを受け取りました"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "アメリカン・トークンを取得"
+msgstr "サイバートークンを受け取りしました"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "古ルーシのジェトンが受領されました"
@@ -145691,7 +147130,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
 msgstr "コシェイの金貨を受け取った"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "ドイツ・トークンを取得"
+msgstr "ブラックフライデーのトークンを受け取りました"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
 msgstr "紅い宝石を取得"
@@ -146170,7 +147609,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
 msgstr "トラベラートークンが消費されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "アメリカン・トークンの削除"
+msgstr "サイバージェトンが削除ました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "古代ロシアの古ルーシのジェトンが償却されました"
@@ -146182,7 +147621,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
 msgstr "コシチェイの金貨が使用されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "ドイツ・トークンの削除"
+msgstr "ブラックフライデーのトークンが削除ました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
 msgstr "紅い宝石の削除"
@@ -146288,6 +147727,9 @@ msgstr "鋼鉄が削除されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_UC"
 msgstr "モジュールを削除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_UNLOCK"
+msgstr "書き込みオフ機能が解除されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_ACTIVATION_KEY"
 msgstr "起動キーが消費されました"
@@ -147421,6 +148863,9 @@ msgstr "新時代の幕開け"
 
 msgid "IDS_THIRD_PCZA027_TFTM_108_NAME"
 msgstr "《オートボット》ゲームでの歴史"
+
+msgid "IDS_THIRD_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "ホホジロザメ"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
 msgstr "国境なき科学"
@@ -148578,9 +150023,6 @@ msgstr "全対空兵装の有効ゾーン内での秒間平均ダメージ"
 msgid "IDS_TOOLTIP_AA_BUBBLE_DAMAGE_IN_A_SECOND"
 msgstr "対空砲弾の爆発による秒間ダメージ"
 
-msgid "IDS_TOOLTIP_AA_GUN"
-msgstr "対空兵装"
-
 msgid "IDS_TOOLTIP_AA_MAX_DIST"
 msgstr "対空兵装の最大射程"
 
@@ -148595,6 +150037,9 @@ msgstr "アクセスレベル不足"
 
 msgid "IDS_TOOLTIP_ACCOUNT_TYPE"
 msgstr "ご利用アカウント"
+
+msgid "IDS_TOOLTIP_ADD_FOR_COMPARISON"
+msgstr "比較用の艦艇を追加"
 
 msgid "IDS_TOOLTIP_AIR_DEFENSE"
 msgstr "航空攻撃に対する防御能力を示すパラメータ"
@@ -148881,6 +150326,9 @@ msgstr "索敵"
 msgid "IDS_TOOLTIP_DRAFT"
 msgstr "喫水が深い艦艇ほど座礁のリスクが大きい"
 
+msgid "IDS_TOOLTIP_DUPLICATE_COMPARISON_SHIP"
+msgstr "艦艇を複製する"
+
 msgid "IDS_TOOLTIP_DURABILITY"
 msgstr "人為的な敵対的状況下における艦の耐久性を示す"
 
@@ -148959,6 +150407,9 @@ msgstr "航空機タイプと機数"
 msgid "IDS_TOOLTIP_MAIN_GUN"
 msgstr "主砲"
 
+msgid "IDS_TOOLTIP_MAKE_SHIP_PRIMARY"
+msgstr "他の艦艇とこれを比較する"
+
 msgid "IDS_TOOLTIP_MAXSPEED"
 msgstr "艦の最大直進速度"
 
@@ -148994,6 +150445,9 @@ msgstr "艦艇またはモジュールを研究するには、フリー EXP、�
 
 msgid "IDS_TOOLTIP_NUM_PLANES_IN_SQUADRON"
 msgstr "中隊の機数"
+
+msgid "IDS_TOOLTIP_OPEN_COMPARISON_PANEL"
+msgstr "比較する艦艇のリストを開く"
 
 msgid "IDS_TOOLTIP_OUR_PARTNERS_LOGIN"
 msgstr "法律情報を確認"
@@ -149064,6 +150518,9 @@ msgstr "ランク: %(_rank)s、シルバーリーグ"
 msgid "IDS_TOOLTIP_RANKED_RANK_X_LEAGUE_3"
 msgstr "ランク: %(_rank)s、ブロンズリーグ"
 
+msgid "IDS_TOOLTIP_REMOVE_FROM_COMPARISON"
+msgstr "比較リストから削除する"
+
 msgid "IDS_TOOLTIP_RENT_SHIP"
 msgstr "この艦はレンタル艦艇であり、レンタル期間終了後に削除されます:"
 
@@ -149105,6 +150562,9 @@ msgstr "グループに追加されました"
 
 msgid "IDS_TOOLTIP_SHIP_IN_GROUP_DESCRIPTION"
 msgstr "メイン艦艇は、カルーセルにおいて最初に表示されます"
+
+msgid "IDS_TOOLTIP_SHIP_LIMIT"
+msgstr "比較用の艦艇が最大数追加されました"
 
 msgid "IDS_TOOLTIP_SHIP_MODULES_DESC"
 msgstr "艦艇のパラメータを高めると共に、各国の技術ツリー上での後続艦艇に繋がる経路でもあります。各艦艇で取得した EXP またはフリー EXP を使用してモジュールを研究しましょう。研究済みモジュールは、銀で購入して艦艇に搭載可能です。"
@@ -149245,10 +150705,10 @@ msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_SHIP_SUBMARINE"
 msgstr "この潜水艦が水上で敵の水上艦艇または潜水艦に発見される可能性のある距離"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH"
-msgstr "この艦艇が水中の敵潜水艦に発見される可能性のある距離"
+msgstr "敵潜水艦が潜望鏡深度から艦艇を探知できる距離。"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH_SUBMARINE"
-msgstr "この潜水艦が水中の敵潜水艦に発見される可能性のある距離"
+msgstr "この潜水艦が潜望鏡深度から敵潜水艦に探知され得る距離。"
 
 msgid "IDS_TOOLTIP_WAIT_FOR_STARTTIME"
 msgstr "この任務は %(timeDate)s から利用可能"
@@ -149381,6 +150841,9 @@ msgstr "雷撃機"
 
 msgid "IDS_TORPEDOBOMBER_AIRSUP"
 msgstr "空襲: 雷撃機"
+
+msgid "IDS_TORPEDOBOMBER_ALT"
+msgstr "戦術雷撃機"
 
 msgid "IDS_TORPEDOES"
 msgstr "魚雷"
@@ -150661,8 +152124,14 @@ msgstr "艦艇の消耗品は変更されました"
 msgid "IDS_UNIFIED_BATTLE_OPTION_HAS_BATTLE_MODIFIERS"
 msgstr "艦艇の特性が変更されました"
 
+msgid "IDS_UNINSTALL_ALL_CREW_SKILLS"
+msgstr "すべて解除"
+
 msgid "IDS_UNINSTALL_ALL_ECONOMIC_BOOSTS_HINT"
 msgstr "この艦艇に搭載された全てのボーナスを解除"
+
+msgid "IDS_UNINSTALL_ALL_MODERNIZATIONS"
+msgstr "すべて解除"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
 msgstr "全て解除"
@@ -150760,14 +152229,17 @@ msgstr "他のプレイヤーたちとチームを組み、ボット艦艇と戦
 msgid "IDS_UNLOCKS_2827"
 msgstr "クランに加入して、緊密なチームの一員になりましょう!"
 
+msgid "IDS_UNLOCKS_292101"
+msgstr "ボットと対戦しながら他のプレイヤーと戦いましょう。"
+
 msgid "IDS_UNLOCKS_3"
 msgstr "対人戦"
 
 msgid "IDS_UNLOCKS_301600"
 msgstr "他のプレイヤーと競い合い、リーグを昇格して貴重な褒賞を取得しましょう!"
 
-msgid "IDS_UNLOCKS_31292101"
-msgstr "プレイヤーチームとボットチームとの対戦"
+msgid "IDS_UNLOCKS_3109"
+msgstr "戦闘任務を遂行して貴重な褒賞を獲得しましょう。"
 
 msgid "IDS_UNLOCKS_5"
 msgstr "艦艇の研究がより簡単になりました。フリー EXP は艦艇やモジュールの購入に使用できます。"
@@ -150777,9 +152249,6 @@ msgstr "褒賞を含むコンテナを各日 3 個まで入手可能です。"
 
 msgid "IDS_UNLOCKS_7"
 msgstr "価値あるアイテムを武器庫で新たに購入しましょう。"
-
-msgid "IDS_UNLOCKS_9"
-msgstr "戦闘任務を達成して価値ある褒賞を入手しましょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_11"
 msgstr "<p>対応するエコノミーボーナスの助けを借りて、各戦でより多くの銀、ならびに艦艇 EXP、艦長 EXP、フリー EXP を取得できます。</p><p class=\"p_spacing\"> </p><p>艦艇に搭載された消費型ボーナスは、各戦後に削除されます。永久ボーナスは、1 回搭載すればその後補給する必要がありません。</p><p class=\"p_spacing\"> </p><p>エコノミーボーナスは各種イベントへの参加により取得できる他、金で購入することも可能です。</p><p class=\"p_spacing\"> </p><p>艦艇のエコノミーボーナスを管理するには、「艦艇」タブに移動し、「エコノミーボーナス」を選択してください。</p>"
@@ -150814,14 +152283,17 @@ msgstr "<p>オペレーションでは、チームで様々な任務を遂行し
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
 msgstr "<p>クラン戦闘に参加するには、クランに加入してください。</p><p class=\"p_spacing\"> </p><p>クラン戦闘は、クランシーズン開催期間中のみ利用可能です。</p><p class=\"p_spacing\"> </p><p>クラン戦闘で勝利し、レーティングポイントを獲得してグループやリーグを昇格しましょう。</p><p class=\"p_spacing\"> </p><p>石油を獲得して海軍基地を発展させましょう。これにより、恒久的なエコノミーボーナスを増加させることができます。</p><p class=\"p_spacing\"> </p><p>トレーニングルームを作成し、トレーニング戦闘に参加してチームスキルを磨きましょう。</p><p class=\"p_spacing\"> </p><p>クラン戦闘とトレーニング戦闘は、戦闘タイプ選択画面から利用できます。</p>"
 
+msgid "IDS_UNLOCKS_DESCRIPTION_292101"
+msgstr "<p>他のプレイヤーと一緒にボットと戦いましょう。</p><p class=\"p_spacing\"> </p><p>戦闘タイプの選択は「戦闘開始!」ボタンの隣にあります。</p>"
+
 msgid "IDS_UNLOCKS_DESCRIPTION_3"
 msgstr "<p>リアルプレイヤーと対戦。チーム編成はランダムに決定されます。</p><p class=\"p_spacing\"> </p><p>戦闘タイプの選択は「戦闘開始」ボタンの近くにあります。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_301600"
 msgstr "<p>これらの戦闘タイプは常時利用可能ではなく、シーズン開催期間中のみ利用できます。各シーズンは競技会であり、各戦闘の結果があなたの進捗に影響します。順位が高ければ高いほど、褒賞はより貴重なものになります!</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">ランク戦</p><p class=\"p_spacing\"> </p><p>ランク戦では、他のプレイヤーとランクを争います。次のランクを獲得するには一定数の勝利が必要で、敗北するとランクを失う可能性があります!</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">レーティング戦</p><p class=\"p_spacing\"> </p><p>レーティング戦では、敵味方ともに戦闘効率のレーティングに基づいてマッチングされます。レーティングは各戦闘後、その結果と獲得した基本 EXP に応じて調整されます。</p>"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
-msgstr "<p>他のプレイヤーと協力してボットと戦いましょう。</p><p class=\"p_spacing\"> </p><p>戦闘タイプの選択は「戦闘開始」ボタンの近くにあります。</p>"
+msgid "IDS_UNLOCKS_DESCRIPTION_3109"
+msgstr "<p>戦闘任務を遂行して、貴重な褒賞を獲得しましょう。</p><p class=\"p_spacing\"> </p><p>利用可能な任務のリストを表示するには、「イベント」タブから「戦闘任務」に移動してください。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5"
 msgstr "<p>艦艇またはモジュールの研究に必要な EXP が不足している場合は、フリー EXP を使用してください。</p><p class=\"p_spacing\"></p><p>フリー EXP は、戦闘で獲得した艦艇 EXP (各種補正適用前) の 10% が加算されます。</p><p class=\"p_spacing\"></p><p>また、精鋭およびプレミアム艦艇の EXP をフリー EXP に変換することもできます。</p><p class=\"p_spacing\"></p><p>フリー EXP は画面右上に表示されます。</p>"
@@ -150831,9 +152303,6 @@ msgstr "<p>戦闘で EXP を取得し、褒賞を含むコンテナを各日 3 �
 
 msgid "IDS_UNLOCKS_DESCRIPTION_7"
 msgstr "<p>武器庫では、取得したリソースを様々な価値あるアイテムと交換することができるほか、特定のテーマに沿ったアクティビティに参加することも可能です。</p><p class=\"p_spacing\"> </p><p>武器庫で入手できるアイテムには、艦艇、港スロット、コンテナ、エコノミーボーナス、アップグレード、信号旗、迷彩、パッチがあり、その他にも希少艦長や伝説艦長を採用することができます。</p><p class=\"p_spacing\"> </p><p>武器庫では、金、プレミアムアカウント、そしてその他のプレミアムショップのアイテムを購入できます。</p><p class=\"p_spacing\"> </p><p>武器庫に移動するには、同じ名前のタブをクリックします。</p>"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_9"
-msgstr "<p>戦闘任務を達成して価値ある褒賞を入手しましょう。</p><p class=\"p_spacing\"> </p><p>利用可能な任務リストを確認するには、「活動」セクションに移動し、その後「戦闘任務」を選択してください。</p>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_11"
 msgstr "<body><h3>艦艇エコノミーボーナス</h3><br/>がアンロックされました</body>"
@@ -150868,14 +152337,17 @@ msgstr "<body><h3>オペレーション</h3><br/>がアンロックされまし�
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr "<body><h3>クラン戦</h3><br/>がアンロックされました</body>"
 
+msgid "IDS_UNLOCKS_LEVEL_UP_292101"
+msgstr "Co-op 戦<br/><h3>が利用可能になりました</h3>"
+
 msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr "<body><h3>ランダム戦</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_301600"
 msgstr "<body><h3>ランク戦とレート戦</h3><br/>がアンロックされました</body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
-msgstr "<h3>Co-op 戦</h3><br/>がアンロックされました"
+msgid "IDS_UNLOCKS_LEVEL_UP_3109"
+msgstr "<body>戦闘任務<br/><h3>が利用可能になりました</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr "<body><h3>フリー EXP</h3><br/>がアンロックされました</body>"
@@ -150885,9 +152357,6 @@ msgstr "<body><h3>コンテナ</h3><br/>がアンロックされました</body>
 
 msgid "IDS_UNLOCKS_LEVEL_UP_7"
 msgstr "<body><h3>武器庫</h3><br/>がアンロックされました</body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_9"
-msgstr "<body><h3>戦闘任務</h3><br/>がアンロックされました</body>"
 
 msgid "IDS_UNLOCKS_TITLE_11"
 msgstr "エコノミーボーナス"
@@ -150922,14 +152391,17 @@ msgstr "オペレーション"
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "クラン戦"
 
+msgid "IDS_UNLOCKS_TITLE_292101"
+msgstr "Co-op 戦"
+
 msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "ランダム戦"
 
 msgid "IDS_UNLOCKS_TITLE_301600"
 msgstr "ランク戦とレーティング戦"
 
-msgid "IDS_UNLOCKS_TITLE_31292101"
-msgstr "Co-op 戦"
+msgid "IDS_UNLOCKS_TITLE_3109"
+msgstr "戦闘任務"
 
 msgid "IDS_UNLOCKS_TITLE_5"
 msgstr "フリー EXP"
@@ -150939,9 +152411,6 @@ msgstr "コンテナ"
 
 msgid "IDS_UNLOCKS_TITLE_7"
 msgstr "武器庫"
-
-msgid "IDS_UNLOCKS_TITLE_9"
-msgstr "戦闘任務"
 
 msgid "IDS_UNLOCK_ADDITIONAL_SKILL_SET_BUTTON_LABEL"
 msgstr "スキルセットを解放"
@@ -150972,6 +152441,9 @@ msgstr "アップグレードの解除"
 
 msgid "IDS_UNMOUNT_MODERNIZATION_FROM_SELECTED"
 msgstr "選択した艦艇からアップグレードを取り外す"
+
+msgid "IDS_UNMOUNT_MODERNIZATION_MOUSE_INSTRUCTION"
+msgstr "アップグレードを解除"
 
 msgid "IDS_UNMUTE"
 msgstr "メッセージの有効化"
@@ -151011,6 +152483,12 @@ msgstr "駆逐艦の強化版スキル:"
 
 msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_SUBMARINE"
 msgstr "潜水艦の強化版スキル:"
+
+msgid "IDS_UPGRADE_FROM_COMPARISON"
+msgstr "設定のインストール"
+
+msgid "IDS_UPGRADE_FROM_COMPARISON_BUTTON_TEXT"
+msgstr "艦艇を設定する"
 
 msgid "IDS_US"
 msgstr "北アメリカ"
@@ -151835,6 +153313,9 @@ msgstr "ウィンドウ"
 
 msgid "IDS_WINDOW_HEADER_ATTENTION"
 msgstr "警告"
+
+msgid "IDS_WINDOW_HEADER_COMPARISON_INCOMPARABLE_CONFIRMATION"
+msgstr "圧倒的な艦艇"
 
 msgid "IDS_WINDOW_HEADER_CONFIRMATION"
 msgstr "確認"
@@ -152924,6 +154405,10 @@ msgid "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
 msgid_plural "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
 msgstr[0] "航空機撃墜"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgid_plural "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgstr[0] "%(amount)s 点の証拠に基づき、拘留しますか?"
+
 msgid "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgid_plural "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgstr[0] "重複アイテム %(amount)s 個と交換しますか?"
@@ -153031,6 +154516,10 @@ msgstr[0] "雷撃機"
 msgid "IDS_PL_AIR_FLIGHT"
 msgid_plural "IDS_PL_AIR_FLIGHT"
 msgstr[0] "小隊"
+
+msgid "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgid_plural "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgstr[0] "犯罪者"
 
 msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
@@ -153423,6 +154912,10 @@ msgstr[0] "「試練」で %(count)s ステージを完了する"
 msgid "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgid_plural "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgstr[0] "%(typeName)s タイプの任務を %(count)s 件をクリアする"
+
+msgid "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgstr[0] "艦艇を破壊するか、破壊に貢献する"
 
 msgid "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
 msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
